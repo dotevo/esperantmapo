@@ -1,0 +1,28 @@
+{
+  "name": "esperantmapo",
+  "version": "0.0.1",
+  "scripts": {
+    "kompili": "gulp kompili",
+    "validigi": "gulp validigi"
+  },
+  "keywords": [],
+  "author": "Adam Jordanek",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "*",
+
+    "babel-core": "*",
+    "babel-preset-es2015": "*",
+
+    "gulp-sourcemaps": "*",
+    "gulp-babel": "*",
+    "gulp-concat": "*",
+
+    "babel-eslint": "*",
+    "gulp-eslint": "*",
+    "gulp-jscs": "*",
+    "gulp-jscs-stylish": "*",
+    "gulp-lintspaces": "*"
+  }
+}
