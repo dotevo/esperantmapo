@@ -23,7 +23,7 @@ function preta() {
 	var mapo = L.map('mapo').setView([51.505, -0.09], 13);
 	var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 	var teksto = 'Datumoj de la mapo ©' +
-		'<a href="http://openstreetmap.org">OpenStreetMap</a> kontribuantojn';
+		'<a href="http://openstreetmap.org">OpenStreetMap</a> kontribuantoj';
 	var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: teksto});
 	mapo.addLayer(osm);
 }
