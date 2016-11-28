@@ -5,24 +5,25 @@ $(document).bind('mobileinit', function() {
 });
 
 $(document).on('pagecontainershow', function() {
-	SkaliEnhavo()
+	SkaliEnhavon()
 	$(window).on('resize orientationchange', function() {
-		SkaliEnhavo()
+		SkaliEnhavon()
 	})
 })
 
-function SkaliEnhavo() {
+function SkaliEnhavon() {
 	scroll(0, 0);
-	var content = $.mobile.getScreenHeight() - $('.ui-paĝokapo').outerHeight() -
+	var enhavo = $.mobile.getScreenHeight() - $('.ui-paĝokapo').outerHeight() -
 		$('.ui-paĝopiedo').outerHeight() - $('.ui-enhavo').outerHeight() +
 		$('.ui-enhavo').height()
-	$('.ui-enhavo').height(content)
+	$('.ui-enhavo').height(enhavo)
 }
 
 function preta() {
 	var mapo = L.map('mapo').setView([51.505, -0.09], 13);
 	var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	var osmAttrib = 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
-	var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: osmAttrib});
+	var teksto = 'Datumoj de la mapo ©' +
+		'<a href="http://openstreetmap.org">OpenStreetMap</a> kontribuantojn';
+	var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: teksto});
 	mapo.addLayer(osm);
 }
