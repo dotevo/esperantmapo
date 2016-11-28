@@ -33,8 +33,13 @@ gulp.task('html', () =>
 			.pipe(gulp.dest('kunmetaĵo'))
 );
 
+gulp.task('css', () =>
+	gulp.src('fontkodo/**/*.css')
+			.pipe(gulp.dest('kunmetaĵo'))
+);
+
 gulp.task('validigi', ['lint'], function () {
 })
 
-gulp.task('kompili', ['js', 'html'], function () {
+gulp.task('kompili', ['js', 'html', 'css'], function () {
 })

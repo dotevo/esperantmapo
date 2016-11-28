@@ -1,0 +1,14 @@
+html,body, #paĝo, .nomargin{
+	margin: 0px; padding: 0px;
+}
+
+tr, td, th {
+	margin: 0px;
+	padding: 0px;
+}
+
+#enhavo{
+	height: 100%;
+	max-height: 100%;
+	padding: 0px;
+}
