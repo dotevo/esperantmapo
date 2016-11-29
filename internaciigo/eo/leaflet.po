@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Last-Translator: Adam Jordanek <dotevo@gmail.com>\n"
+"Language: Esperanto\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#Leaflet: ekstere (la angla)
+#Esperante: Malzomi
+msgid "Zoom out"
+msgstr "Malzomi"
+
+#Esperante: Zomi
+msgid "Zoom in"
+msgstr "Zomi"
+
+#Esperante: JS biblioteko por interaktivaj mapoj
+msgid "A JS library for interactive maps"
+msgstr "JS biblioteko por interaktivaj mapoj"

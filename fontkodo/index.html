@@ -12,6 +12,9 @@
 	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
 
 	<link rel="stylesheet" href="stilo.css"/>
+	<script src="bibliotekoj/i18next.min.js"></script>
+	<script src="bibliotekoj/i18nextXHRBackend.min.js"></script>
+<script src="bibliotekoj/jquery-i18next.min.js"></script>
 </head>
 <body onload="preta()">
 <div id="paĝo" data-role="page" class="type-index">
@@ -19,7 +22,7 @@
 		<div id="mapo" height="100" width="100"></div>
 	</div>
 	<div data-role="footer" class="ui-paĝopiedo" data-position="fixed" data-tap-toggle="true">
-		TESTO
+		<li><a href="#" data-i18n="TESTO"></a></li>
 	</div>
 </div>
 <script src="tuta.js"></script>

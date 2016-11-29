@@ -23,6 +23,8 @@
     "gulp-eslint": "*",
     "gulp-jscs": "*",
     "gulp-jscs-stylish": "*",
-    "gulp-lintspaces": "*"
+    "gulp-lintspaces": "*",
+
+    "gulp-i18next-conv": "*"
   }
 }

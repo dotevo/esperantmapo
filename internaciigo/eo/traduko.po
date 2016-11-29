@@ -1,0 +1,13 @@
+# Language: Esperanto
+msgid ""
+msgstr ""
+"Last-Translator: Adam Jordanek <dotevo@gmail.com>\n"
+"Language: Esperanto\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TESTO"
+msgstr "TEST"
+
+msgid "Datumoj de la mapo {{link}} kontribuantoj"
+msgstr "Datumoj de la mapo {{link}} kontribuantoj"
