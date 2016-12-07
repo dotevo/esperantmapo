@@ -7,4 +7,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Datumoj de la mapo {{link}} kontribuantoj"
-msgstr "Datumoj de la mapo {{link}} kontribuantoj"
+msgstr "Dane mapy {{link}}"

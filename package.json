@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "scripts": {
     "kompili": "gulp kompili",
-    "validigi": "gulp validigi"
+    "validigi": "gulp validigi",
+    "observi": "gulp observi"
   },
   "keywords": [],
   "author": "Adam Jordanek",
@@ -25,6 +26,7 @@
     "gulp-jscs-stylish": "*",
     "gulp-lintspaces": "*",
 
-    "gulp-i18next-conv": "*"
+    "gulp-i18next-conv": "*",
+    "gulp-resolve-dependencies": "*"
   }
 }

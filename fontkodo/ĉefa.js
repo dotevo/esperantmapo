@@ -1,36 +1,21 @@
-$(document).bind('mobileinit', function() {
-	$.mobile.ajaxEnabled = false
-	$.mobile.hashListeningEnabled = false
-	$.mobile.pushStateEnabled = false
-})
+let mapo;
 
-$(document).on('pagecontainershow', function() {
-	SkaliEnhavon()
-	$(window).on('resize orientationchange', function() {
-		SkaliEnhavon()
-	})
-})
+/**
+ * @requires ./tradukilo.js
+ * @requires ./ui.js
+ */
 
-function SkaliEnhavon() {
-	scroll(0, 0);
-	var enhavo = $.mobile.getScreenHeight() - $('.ui-paĝokapo').outerHeight() -
-		$('.ui-paĝopiedo').outerHeight() - $('.ui-enhavo').outerHeight() +
-		$('.ui-enhavo').height()
-	$('.ui-enhavo').height(enhavo)
-}
-
-function preta() {
-	var mapo = L.map('mapo').setView([51.505, -0.09], 13)
-	var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-	var teksto = i18next.t('Datumoj de la mapo {{link}} kontribuantoj',
+$(document).bind('pageinit', function() {
+	mapo = L.map('mapo').setView([51.505, -0.09], 13)
+	const osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj',
 		{
 			'link' : '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 			'interpolation': {'escapeValue': false}
 		})
-	var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: teksto})
+	const osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: teksto})
 	mapo.addLayer(osm)
 
 	mapo.whenReady(function() {
-		i18next.emit('languageChanged')
 	})
-}
+})

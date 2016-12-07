@@ -10,6 +10,8 @@ const stylish = require('gulp-jscs-stylish')
 
 const i18next = require('gulp-i18next-conv')
 
+const dependencies = require('gulp-resolve-dependencies')
+
 var jsDosieroj = ['*.js', '**/*.js', '!node_modules/**/*.js',
 	'!kunmetaĵo/**/*.js', '!bibliotekoj/**/*.js']
 
@@ -28,12 +30,13 @@ gulp.task('bibliotekoj', () =>
 gulp.task('js', () =>
 	gulp.src('fontkodo/**/*.js')
 		.pipe(sourcemaps.init())
-			.pipe(babel({
-					presets: ['es2015']
-				}))
-			.pipe(concat('tuta.js'))
-			.pipe(sourcemaps.write('.'))
-			.pipe(gulp.dest('kunmetaĵo'))
+		.pipe(dependencies())
+		.pipe(concat('tuta.js'))
+		.pipe(babel({
+				presets: ['es2015']
+			}))
+		.pipe(sourcemaps.write('.'))
+		.pipe(gulp.dest('kunmetaĵo'))
 )
 
 gulp.task('html', () =>
@@ -49,7 +52,17 @@ gulp.task('css', () =>
 gulp.task('lingvoj', function() {
 	gulp.src('internaciigo/*/*.po')
 		.pipe(i18next())
-		.pipe(gulp.dest('kunmetaĵo/internaciigo'));
+		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
+	gulp.src('internaciigo/*/nomo')
+		.pipe(concat('lingvoj.txt'))
+		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
+})
+
+gulp.task('observi', function() {
+	gulp.watch('fontkodo/**/*.js', ['js', 'lint'])
+	gulp.watch('fontkodo/**/*.html', ['html', 'lint'])
+	gulp.watch('fontkodo/**/*.css', ['css', 'lint'])
+	gulp.watch('internaciigo/*/*.po', ['lingvoj', 'lint'])
 })
 
 gulp.task('validigi', ['lint'], function () {
