@@ -3,6 +3,7 @@ let mapo;
 /**
  * @requires ./tradukilo.js
  * @requires ./ui.js
+ * @requires ./leaflet-reklamujo.js
  */
 
 $(document).bind('pageinit', function() {
@@ -13,8 +14,9 @@ $(document).bind('pageinit', function() {
 			'link' : '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 			'interpolation': {'escapeValue': false}
 		})
-	const osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: teksto})
+	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, attribution: teksto})
 	mapo.addLayer(osm)
+	new Reklamujo(mapo)
 
 	mapo.whenReady(function() {
 	})
