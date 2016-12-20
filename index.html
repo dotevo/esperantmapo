@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="eo">
+<head>
+	<title>Esperanto</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+	<link rel="stylesheet" href="stilo.css"/>
+	<script src="bibliotekoj/i18next.min.js"></script>
+	<script src="bibliotekoj/i18nextXHRBackend.min.js"></script>
+<script src="bibliotekoj/jquery-i18next.min.js"></script>
+</head>
+<body>
+<div id="paĝo" data-role="page" class="type-index">
+	<div id="enhavo" class="ui-enhavo" data-role="content">
+		<div id="mapo" height="100" width="100"></div>
+	</div>
+	<div data-role="footer" class="ui-paĝopiedo" data-position="fixed" data-tap-toggle="true">
+		<select id="lingvoj" data-mini="true"></select>
+	</div>
+</div>
+<script src="tuta.js"></script>
+</body>
+</html>

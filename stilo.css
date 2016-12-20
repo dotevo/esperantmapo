@@ -1,0 +1,33 @@
+html,body, #paĝo, .nomargin{
+	margin: 0px; padding: 0px;
+}
+
+tr, td, th {
+	margin: 0px;
+	padding: 0px;
+}
+
+#enhavo{
+	height: 100%;
+	max-height: 100%;
+	padding: 0px;
+}
+
+#mapo{
+	width:100%;
+	height: 100%;
+}
+
+.leaflet-control-fenestro{
+	padding: 5px;
+	font-size: 14px;
+	box-shadow: 0 1px 7px rgba(0,0,0,0.4);
+	background: #f8f8f9;
+
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.leaflet-control-mesaĝo{
+	display: inline-block
+}
