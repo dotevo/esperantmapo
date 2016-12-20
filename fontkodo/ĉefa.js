@@ -4,6 +4,7 @@ let mapo;
  * @requires ./tradukilo.js
  * @requires ./ui.js
  * @requires ./leaflet-reklamujo.js
+ * @requires ./overpass/overpass.js
  */
 
 $(document).bind('pageinit', function() {

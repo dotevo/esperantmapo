@@ -11,9 +11,16 @@ const stylish = require('gulp-jscs-stylish')
 const i18next = require('gulp-i18next-conv')
 
 const dependencies = require('gulp-resolve-dependencies')
+const env = require('gulp-env')
 
 var jsDosieroj = ['*.js', '**/*.js', '!node_modules/**/*.js',
 	'!kunmetaĵo/**/*.js', '!bibliotekoj/**/*.js']
+
+let produkta = false
+
+gulp.task('produkta', () =>
+	produkta = true
+)
 
 gulp.task('lint', function() {
 	return gulp.src(jsDosieroj)
@@ -27,17 +34,18 @@ gulp.task('bibliotekoj', () =>
 		.pipe(gulp.dest('kunmetaĵo/bibliotekoj/'))
 )
 
-gulp.task('js', () =>
+gulp.task('js', () => {
+	if (produkta === true) {
+		env({vars: {BABEL_ENV: 'produkta'}})
+	}
 	gulp.src('fontkodo/**/*.js')
-		.pipe(sourcemaps.init())
 		.pipe(dependencies())
+		.pipe(sourcemaps.init())
 		.pipe(concat('tuta.js'))
-		.pipe(babel({
-				presets: ['es2015']
-			}))
+		.pipe(babel())
 		.pipe(sourcemaps.write('.'))
 		.pipe(gulp.dest('kunmetaĵo'))
-)
+})
 
 gulp.task('html', () =>
 	gulp.src('fontkodo/**/*.html')
@@ -59,6 +67,7 @@ gulp.task('lingvoj', function() {
 })
 
 gulp.task('observi', function() {
+	produkta = false
 	gulp.watch('fontkodo/**/*.js', ['js', 'lint'])
 	gulp.watch('fontkodo/**/*.html', ['html', 'lint'])
 	gulp.watch('fontkodo/**/*.css', ['css', 'lint'])
@@ -69,4 +78,7 @@ gulp.task('validigi', ['lint'], function () {
 })
 
 gulp.task('kompili', ['bibliotekoj', 'js', 'html', 'css', 'lingvoj'], function () {
+})
+
+gulp.task('produkti', ['produkta', 'kompili'], function () {
 })
