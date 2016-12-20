@@ -1,4 +1,3 @@
-# Language: Esperanto
 msgid ""
 msgstr ""
 "Last-Translator: Adam Jordanek <dotevo@gmail.com>\n"
