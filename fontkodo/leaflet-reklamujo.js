@@ -3,7 +3,7 @@
  */
 const reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/><iframe scrolling="no" ' +
 	'style="border: 0; width: 120px; height: 240px;" ' +
-	'src="http://coinurl.com/get.php?id=59251&search=esperanto,language"></iframe><br/>' +
+	'src="https://coinurl.com/get.php?id=59251&search=esperanto,language"></iframe><br/>' +
 	'<a class="reklamujo-fermbutono">X</a>'
 
 class Reklamujo {
