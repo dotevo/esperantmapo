@@ -8,7 +8,7 @@ let mapo;
 
 $(document).bind('pageinit', function() {
 	mapo = L.map('mapo').setView([51.505, -0.09], 13)
-	const osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj',
 		{
 			'link' : '<a href="http://openstreetmap.org">OpenStreetMap</a>',
