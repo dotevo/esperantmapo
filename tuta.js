@@ -175,7 +175,7 @@ function SkaliEnhavon() {
 
 $(document).on('i18nextPretas', function (evento, lingvoj) {
 	var select = $('#lingvoj');
-	for (const lingvo in lingvoj) {
+	for (var lingvo in lingvoj) {
 		const opt = '<option class="lingvo" id="' + lingvo + '" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>';
 		select.append(opt);
 	}
@@ -264,7 +264,7 @@ L.LatLngBounds.prototype.limigaKesto = function () {
 
 L.OverpassFetcher = L.LayerGroup.extend({
 	options: {
-		dosiero: "datumo.json",
+		dosiero: 'datumo.json',
 		krei: function () {}
 	},
 	initialize: function (options) {
@@ -278,13 +278,13 @@ L.OverpassFetcher = L.LayerGroup.extend({
 			crossDomain: true,
 			dataType: 'json'
 		}).always(function (a, b) {
-			ĉi.analizi(a.responseJSON);
+			ĉi.analizi(a);
 		});
 	},
 	analizi: function (data) {
-		console.log("analizi");
 		if (data.elements === undefined) {
-			console.log(data);return;
+			console.log(data);
+			return;
 		}
 
 		for (var key in data.elements) {
@@ -308,7 +308,7 @@ let mapo;
  */
 
 $(document).bind('pageinit', function () {
-	mapo = L.map('mapo').setView([51.505, -0.09], 13);
+	mapo = L.map('mapo').setView([0, 0], 2);
 	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
 		'link': '<a href="http://openstreetmap.org">OpenStreetMap</a>',
@@ -322,7 +322,7 @@ $(document).bind('pageinit', function () {
 	const landojF = new L.OverpassFetcher({
 		dosiero: 'landoj.json',
 		krei: function (objekto) {
-			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags["name:eo"] });
+			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags['name:eo'] });
 			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(landoj);
 		}
 	});
@@ -331,13 +331,9 @@ $(document).bind('pageinit', function () {
 	const provincojF = new L.OverpassFetcher({
 		dosiero: 'provincoj.json',
 		krei: function (objekto) {
-			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags["name:eo"] });
+			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags['name:eo'] });
 			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(provincoj);
 		}
-	});
-
-	mapo.whenReady(function () {
-		//
 	});
 
 	mapo.on('zoomend', function () {
@@ -349,7 +345,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(landoj);
 		}
 
-		if (mapo.getZoom() > 5) {
+		if (mapo.getZoom() > 4) {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj);
 			}
@@ -357,5 +353,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(provincoj);
 		}
 	});
+
+	mapo.fire('zoomend');
 });
 //# sourceMappingURL=tuta.js.map
