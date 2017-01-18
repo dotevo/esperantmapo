@@ -5,10 +5,10 @@ var _createClass = function () { function defineProperties(target, props) { for 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
-	setText: function setText(html) {
+	setText: function (html) {
 		this.controlDiv.innerHTML = html;
 	},
-	onAdd: function onAdd(mapo) {
+	onAdd: function (mapo) {
 		this.controlDiv = L.DomUtil.create('div', 'leaflet-control-fenestro leaflet-control-mesaĝo');
 		return this.controlDiv;
 	}
@@ -17,9 +17,9 @@ var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
 /**
  * @requires ./leaflet-ujo.js
  */
-var reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/><iframe scrolling="no" ' + 'style="border: 0; width: 120px; height: 240px;" ' + 'src="http://coinurl.com/get.php?id=59251&search=esperanto,language"></iframe><br/>' + '<a class="reklamujo-fermbutono">X</a>';
+const reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/><iframe scrolling="no" ' + 'style="border: 0; width: 120px; height: 240px;" ' + 'src="https://coinurl.com/get.php?id=59251&search=esperanto,language"></iframe><br/>' + '<a class="reklamujo-fermbutono">X</a>';
 
-var Reklamujo = function () {
+let Reklamujo = function () {
 	function Reklamujo(mapo) {
 		_classCallCheck(this, Reklamujo);
 
@@ -58,24 +58,24 @@ function escapeHtml(objekto) {
 }
 
 function traduki(teksto, opcioj) {
-	var datumoj = '';
+	let datumoj = '';
 	if (opcioj !== undefined) {
 		datumoj = ' data-i18n-opcioj="' + escapeHtml(opcioj) + '"';
 	}
 	return '<span data-i18n="' + teksto + '" ' + datumoj + '>' + '</span>';
 }
 
-var Tradukilo = function () {
+let Tradukilo = function () {
 	function Tradukilo() {
 		_classCallCheck(this, Tradukilo);
 
-		var ĉi = this;
+		let ĉi = this;
 		$.get('internaciigo/lingvoj.txt', function (datumoj) {
-			var lingvoj = {};
-			var linio = datumoj.split(/\n/);
+			let lingvoj = {};
+			let linio = datumoj.split(/\n/);
 			for (var n = 0; n < linio.length; ++n) {
 				if (linio[n].length > 0) {
-					var x = linio[n].split(':');
+					let x = linio[n].split(':');
 					lingvoj[x[0]] = x[1];
 				}
 			}
@@ -105,7 +105,7 @@ var Tradukilo = function () {
 	}, {
 		key: 'i18nextPretas',
 		value: function i18nextPretas() {
-			var ĉi = this;
+			let ĉi = this;
 			this.tradukiLeaflet();
 			this.tradukiPaĝon();
 			i18next.on('languageChanged', function (lng) {});
@@ -123,9 +123,9 @@ var Tradukilo = function () {
 		key: 'tradukiPa\u011Don',
 		value: function tradukiPaOn() {
 			$('[data-i18n]').each(function (index) {
-				var teksto = $(this).attr('data-i18n-opcioj');
+				let teksto = $(this).attr('data-i18n-opcioj');
 
-				var opcioj = '';
+				let opcioj = '';
 				if (teksto !== undefined) {
 					opcioj = JSON.parse(teksto);
 				}
@@ -136,8 +136,8 @@ var Tradukilo = function () {
 	}, {
 		key: '\u015Dan\u011DiLingvon',
 		value: function anILingvon(lingvo) {
-			var ĉi = this;
-			i18next.changeLanguage(lingvo, function (err, t) {
+			const ĉi = this;
+			i18next.changeLanguage(lingvo, (err, t) => {
 				ĉi.tradukiLeaflet();
 				ĉi.tradukiPaĝon();
 			});
@@ -147,7 +147,7 @@ var Tradukilo = function () {
 	return Tradukilo;
 }();
 
-var tradukilo = new Tradukilo();
+const tradukilo = new Tradukilo();
 
 /**
  * @requires ./tradukilo.js
@@ -175,8 +175,8 @@ function SkaliEnhavon() {
 
 $(document).on('i18nextPretas', function (evento, lingvoj) {
 	var select = $('#lingvoj');
-	for (var lingvo in lingvoj) {
-		var opt = '<option class="lingvo" id="' + lingvo + '" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>';
+	for (const lingvo in lingvoj) {
+		const opt = '<option class="lingvo" id="' + lingvo + '" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>';
 		select.append(opt);
 	}
 	console.log(tradukilo.akiriLingvon());
@@ -190,25 +190,172 @@ $(document).on('i18nextPretas', function (evento, lingvoj) {
 	});
 });
 
-var mapo = void 0;
+let OverpassVico = function () {
+	function OverpassVico(opcioj) {
+		_classCallCheck(this, OverpassVico);
+
+		this.opcioj = {
+			url: 'http://overpass-api.de/api/interpreter?data=',
+			surŜarga: function () {
+				console.log('Ŝarga');
+			},
+			surKompletigita: function () {
+				console.log('Kompletigita');
+			}
+		};
+
+		$.extend(this.opcioj, opcioj);
+		this.overpassInformpetoj = [];
+		this.overpassHalto = true;
+	}
+
+	_createClass(OverpassVico, [{
+		key: 'komenciInformpeton',
+		value: function komenciInformpeton() {
+			this.overpassHalto = false;
+			var informpeto = this.overpassInformpetoj.pop();
+			console.log(informpeto.url);
+			var ĉi = this;
+			$.ajax({
+				url: this.opcioj.url + informpeto.url,
+				crossDomain: true,
+				dataType: 'json',
+				data: {}
+			}).always(function (a, b) {
+				if (ĉi.overpassInformpetoj.length > 0) {
+					ĉi.komenciInformpeton();
+				} else {
+					ĉi.overpassHalto = true;
+					ĉi.opcioj.surKompletigita();
+				}
+				informpeto.revoko(a);
+			});
+		}
+	}, {
+		key: 'el\u015DutiElOverpass',
+		value: function elUtiElOverpass(url, revoko) {
+			this.overpassInformpetoj.push({ 'url': url, 'revoko': revoko });
+			if (this.overpassInformpetoj.length == 1 && this.overpassHalto == true) {
+				this.opcioj.surŜarga();
+				this.komenciInformpeton();
+			}
+		}
+	}]);
+
+	return OverpassVico;
+}();
+
+//let overpassVico = new OverpassVico({})
+
+//var url = '[out:json];node["name:eo"]["admin_level"="2"];out center;'
+//overpassVico.elŝutiElOverpass(escape(url), function(a, b) {
+//	console.log(a)
+//})
+
+L.LatLngBounds.prototype.limigaKesto = function () {
+	var a = this._southWest,
+	    b = this._northEast;
+	return [Math.round(a.lat * 1000) / 1000 + 0.0001, Math.round(a.lng * 1000) / 1000 + 0.0001, Math.round(b.lat * 1000) / 1000 - 0.0001, Math.round(b.lng * 1000) / 1000 - 0.0001].join(',');
+};
+
+/**
+ * @requires ./vico.js
+ */
+
+L.OverpassFetcher = L.LayerGroup.extend({
+	options: {
+		dosiero: "datumo.json",
+		krei: function () {}
+	},
+	initialize: function (options) {
+		L.Util.setOptions(this, options);
+		let ĉi = this;
+		this._nodes = {};
+
+		console.log(this.options.dosiero);
+		$.ajax({
+			url: this.options.dosiero,
+			crossDomain: true,
+			dataType: 'json'
+		}).always(function (a, b) {
+			ĉi.analizi(a.responseJSON);
+		});
+	},
+	analizi: function (data) {
+		console.log("analizi");
+		if (data.elements === undefined) {
+			console.log(data);return;
+		}
+
+		for (var key in data.elements) {
+			let el = data.elements[key];
+			this.options.krei(el);
+		}
+	}
+});
+
+L.overpassFetcher = function (layers) {
+	return new L.OverpassFetcher(layers);
+};
+
+let mapo;
 
 /**
  * @requires ./tradukilo.js
  * @requires ./ui.js
  * @requires ./leaflet-reklamujo.js
+ * @requires ./overpass/overpass.js
  */
 
 $(document).bind('pageinit', function () {
 	mapo = L.map('mapo').setView([51.505, -0.09], 13);
-	var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	var teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
+	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
 		'link': '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 		'interpolation': { 'escapeValue': false }
 	});
-	var osm = new L.TileLayer(osmUrl, { maxZoom: 19, attribution: teksto });
+	const osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.5, attribution: teksto });
 	mapo.addLayer(osm);
 	new Reklamujo(mapo);
 
-	mapo.whenReady(function () {});
+	const landoj = L.featureGroup().addTo(mapo);
+	const landojF = new L.OverpassFetcher({
+		dosiero: 'landoj.json',
+		krei: function (objekto) {
+			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags["name:eo"] });
+			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(landoj);
+		}
+	});
+
+	const provincoj = L.featureGroup().addTo(mapo);
+	const provincojF = new L.OverpassFetcher({
+		dosiero: 'provincoj.json',
+		krei: function (objekto) {
+			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags["name:eo"] });
+			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(provincoj);
+		}
+	});
+
+	mapo.whenReady(function () {
+		//
+	});
+
+	mapo.on('zoomend', function () {
+		if (mapo.getZoom() < 6) {
+			if (!mapo.hasLayer(landoj)) {
+				mapo.addLayer(landoj);
+			}
+		} else {
+			mapo.removeLayer(landoj);
+		}
+
+		if (mapo.getZoom() > 5) {
+			if (!mapo.hasLayer(provincoj)) {
+				mapo.addLayer(provincoj);
+			}
+		} else {
+			mapo.removeLayer(provincoj);
+		}
+	});
 });
 //# sourceMappingURL=tuta.js.map
