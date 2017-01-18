@@ -15,10 +15,43 @@ $(document).bind('pageinit', function() {
 			'link' : '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 			'interpolation': {'escapeValue': false}
 		})
-	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, attribution: teksto})
+	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, opacity: 0.5, attribution: teksto})
 	mapo.addLayer(osm)
 	new Reklamujo(mapo)
 
-	mapo.whenReady(function() {
+	const landoj = L.featureGroup().addTo(mapo)
+	const landojF = new L.OverpassFetcher({
+		dosiero: 'landoj.json',
+		krei: function(objekto) {
+			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags["name:eo"]})
+			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(landoj)
+		}
+	})
+
+	const provincoj = L.featureGroup().addTo(mapo)
+	const provincojF = new L.OverpassFetcher({
+		dosiero: 'provincoj.json',
+		krei: function(objekto) {
+			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags["name:eo"]})
+			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(provincoj)
+		}
+	})
+
+	mapo.on('zoomend', function(){
+		if(mapo.getZoom() < 6) {
+			if(!mapo.hasLayer(landoj)) {
+				mapo.addLayer(landoj)
+			}
+		} else {
+			mapo.removeLayer(landoj);
+		}
+
+		if(mapo.getZoom() > 5) {
+			if(!mapo.hasLayer(provincoj)) {
+				mapo.addLayer(provincoj)
+			}
+		} else {
+			mapo.removeLayer(provincoj);
+		}
 	})
 })

@@ -13,6 +13,9 @@ const i18next = require('gulp-i18next-conv')
 const dependencies = require('gulp-resolve-dependencies')
 const env = require('gulp-env')
 
+const request = require('request')
+const fs = require('fs')
+
 var jsDosieroj = ['*.js', '**/*.js', '!node_modules/**/*.js',
 	'!kunmetaĵo/**/*.js', '!bibliotekoj/**/*.js']
 
@@ -72,6 +75,53 @@ gulp.task('observi', function() {
 	gulp.watch('fontkodo/**/*.html', ['html', 'lint'])
 	gulp.watch('fontkodo/**/*.css', ['css', 'lint'])
 	gulp.watch('internaciigo/*/*.po', ['lingvoj', 'lint'])
+})
+
+const servilo = 'http://overpass-api.de/api/interpreter?data='
+
+function simpligiObjekton(obj) {
+	let objekto = {}
+	objekto.type = obj.type
+	objekto.id = obj.id
+	objekto.lat = obj.lat
+	objekto.lon = obj.lon
+	objekto.center = obj.center
+	objekto.tags = {}
+	objekto.tags['name:eo'] = obj.tags['name:eo']
+
+	return objekto
+}
+
+function simpligiJSON(json) {
+	let re = {}
+	re.version = json.version
+	re.generator = json.generator
+	re.osm3s = json.osm3s
+	re.elements = []
+	for(let i in json.elements) {
+		re.elements.push(simpligiObjekton(json.elements[i]))
+	}
+	return re
+}
+
+const landoj = '[out:json];node["name:eo"][place=country];out center;'
+const provincoj = '[out:json];node["name:eo"][place=state];out center;'
+
+gulp.task('elŝuti:landoj', function() {
+	return request(servilo + escape(landoj), function(error, response, body) {
+		let json = simpligiJSON(JSON.parse(body))
+		fs.writeFile("kunmetaĵo/landoj.json", JSON.stringify(json))
+	})
+})
+
+gulp.task('elŝuti:provincoj', function() {
+	return request(servilo + escape(provincoj), function(error, response, body) {
+		let json = simpligiJSON(JSON.parse(body))
+		fs.writeFile("kunmetaĵo/provincoj.json", JSON.stringify(json))
+	})
+})
+
+gulp.task('elŝuti', ['elŝuti:landoj','elŝuti:provincoj'], function() {
 })
 
 gulp.task('validigi', ['lint'], function () {

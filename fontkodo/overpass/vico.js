@@ -45,9 +45,9 @@ class OverpassVico {
 	}
 }
 
-let overpassVico = new OverpassVico({})
+//let overpassVico = new OverpassVico({})
 
-var url = '[out:json];node["name:eo"]["admin_level"="1"];out center;'
-overpassVico.elŝutiElOverpass(escape(url), function(a, b) {
-	console.log(a)
-})
+//var url = '[out:json];node["name:eo"]["admin_level"="2"];out center;'
+//overpassVico.elŝutiElOverpass(escape(url), function(a, b) {
+//	console.log(a)
+//})
