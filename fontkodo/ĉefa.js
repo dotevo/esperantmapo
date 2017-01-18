@@ -8,7 +8,7 @@ let mapo;
  */
 
 $(document).bind('pageinit', function() {
-	mapo = L.map('mapo').setView([51.505, -0.09], 13)
+	mapo = L.map('mapo').setView([0, 0], 2)
 	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj',
 		{
@@ -23,7 +23,7 @@ $(document).bind('pageinit', function() {
 	const landojF = new L.OverpassFetcher({
 		dosiero: 'landoj.json',
 		krei: function(objekto) {
-			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags["name:eo"]})
+			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
 			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(landoj)
 		}
 	})
@@ -32,26 +32,28 @@ $(document).bind('pageinit', function() {
 	const provincojF = new L.OverpassFetcher({
 		dosiero: 'provincoj.json',
 		krei: function(objekto) {
-			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags["name:eo"]})
+			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
 			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(provincoj)
 		}
 	})
 
-	mapo.on('zoomend', function(){
-		if(mapo.getZoom() < 6) {
-			if(!mapo.hasLayer(landoj)) {
+	mapo.on('zoomend', function() {
+		if (mapo.getZoom() < 6) {
+			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj)
 			}
 		} else {
 			mapo.removeLayer(landoj);
 		}
 
-		if(mapo.getZoom() > 5) {
-			if(!mapo.hasLayer(provincoj)) {
+		if (mapo.getZoom() > 4) {
+			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj)
 			}
 		} else {
 			mapo.removeLayer(provincoj);
 		}
 	})
+
+	mapo.fire('zoomend')
 })

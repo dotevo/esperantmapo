@@ -26,7 +26,7 @@ function SkaliEnhavon() {
 
 $(document).on('i18nextPretas', function(evento, lingvoj) {
 	var select = $('#lingvoj')
-	for (const lingvo in lingvoj) {
+	for (var lingvo in lingvoj) {
 		const opt = '<option class="lingvo" id="' + lingvo +
 			'" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>'
 		select.append(opt)

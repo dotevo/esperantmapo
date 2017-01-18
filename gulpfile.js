@@ -98,7 +98,7 @@ function simpligiJSON(json) {
 	re.generator = json.generator
 	re.osm3s = json.osm3s
 	re.elements = []
-	for(let i in json.elements) {
+	for (let i in json.elements) {
 		re.elements.push(simpligiObjekton(json.elements[i]))
 	}
 	return re
@@ -110,14 +110,14 @@ const provincoj = '[out:json];node["name:eo"][place=state];out center;'
 gulp.task('elŝuti:landoj', function() {
 	return request(servilo + escape(landoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
-		fs.writeFile("kunmetaĵo/landoj.json", JSON.stringify(json))
+		fs.writeFile('kunmetaĵo/landoj.json', JSON.stringify(json))
 	})
 })
 
 gulp.task('elŝuti:provincoj', function() {
 	return request(servilo + escape(provincoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
-		fs.writeFile("kunmetaĵo/provincoj.json", JSON.stringify(json))
+		fs.writeFile('kunmetaĵo/provincoj.json', JSON.stringify(json))
 	})
 })
 
