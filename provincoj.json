@@ -1,1 +1,6076 @@
-{"version":0.6,"generator":"Overpass API","osm3s":{"timestamp_osm_base":"2017-01-18T14:15:02Z","copyright":"The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."},"elements":[{"type":"node","id":671022,"lat":36.7014631,"lon":-118.7559974,"tags":{"name:eo":"Kalifornio"}},{"type":"node","id":24330691,"lat":22.350627,"lon":114.1849161,"tags":{"name:eo":"Hongkongo"}},{"type":"node","id":25842885,"lat":-35.4883502,"lon":149.0026942,"tags":{"name:eo":"Aŭstralia Ĉefurba Teritorio"}},{"type":"node","id":34724864,"lat":47.2868352,"lon":-120.2126139,"tags":{"name:eo":"Vaŝingtonio"}},{"type":"node","id":61083317,"lat":42.1640662,"lon":9.0982074,"tags":{"name:eo":"Korsiko"}},{"type":"node","id":240037510,"lat":47.5000001,"lon":16.4166666,"tags":{"name:eo":"Burgenlando"}},{"type":"node","id":240063738,"lat":53.555079,"lon":9.997025,"tags":{"name:eo":"Hamburgo"}},{"type":"node","id":240109398,"lat":47.2500001,"lon":15.1666665,"tags":{"name:eo":"Stirio"}},{"type":"node","id":244075779,"lat":32,"lon":117,"tags":{"name:eo":"Anhujo"}},{"type":"node","id":244079315,"lat":26.5450001,"lon":117.842778,"tags":{"name:eo":"Fuĝjano"}},{"type":"node","id":244079544,"lat":38.0000001,"lon":101.9999999,"tags":{"name:eo":"Gansuo"}},{"type":"node","id":244080393,"lat":27,"lon":107,"tags":{"name:eo":"Gŭiĝoŭo"}},{"type":"node","id":244080439,"lat":23.1357694,"lon":113.1982688,"tags":{"name:eo":"Gŭangdongo"}},{"type":"node","id":244080442,"lat":24,"lon":109,"tags":{"name:eo":"Gvangŝio"}},{"type":"node","id":244080467,"lat":39.0000001,"lon":116,"tags":{"name:eo":"Hebejo"}},{"type":"node","id":244080473,"lat":48.0000047,"lon":127.999992,"tags":{"name:eo":"Hejlongĝjango"}},{"type":"node","id":244080486,"lat":34.0000001,"lon":113.9999999,"tags":{"name:eo":"Henano"}},{"type":"node","id":244080524,"lat":19.2000001,"lon":109.5999999,"tags":{"name:eo":"Hajnano"}},{"type":"node","id":244080661,"lat":31,"lon":112,"tags":{"name:eo":"Hubejo"}},{"type":"node","id":244080670,"lat":27.9995878,"lon":112.009538,"tags":{"name:eo":"Hunano"}},{"type":"node","id":244080735,"lat":33.0000001,"lon":119.9999999,"tags":{"name:eo":"Ĝjangsuo"}},{"type":"node","id":244080737,"lat":28,"lon":116,"tags":{"name:eo":"Ĝjangŝio"}},{"type":"node","id":244080890,"lat":42.9995032,"lon":125.9816054,"tags":{"name:eo":"Ĝilinio"}},{"type":"node","id":244081110,"lat":40.9975197,"lon":122.9955469,"tags":{"name:eo":"Ljaŭningo"}},{"type":"node","id":244081311,"lat":37.0000001,"lon":105.9999999,"tags":{"name:eo":"Ningŝjao"}},{"type":"node","id":244081449,"lat":43.2443242,"lon":114.3251664,"tags":{"name:eo":"Interna Mongolio"}},{"type":"node","id":244081488,"lat":36,"lon":96,"tags":{"name:eo":"Ĉinghajo"}},{"type":"node","id":244081618,"lat":37,"lon":112,"tags":{"name:eo":"Ŝanŝio"}},{"type":"node","id":244081643,"lat":36.0000001,"lon":118.9999999,"tags":{"name:eo":"Ŝandongo"}},{"type":"node","id":244081648,"lat":31.2322735,"lon":121.4691749,"tags":{"name:eo":"Ŝanghajo"}},{"type":"node","id":244081655,"lat":36,"lon":109,"tags":{"name:eo":"Ŝenŝjio"}},{"type":"node","id":244081852,"lat":30.5000001,"lon":102.4999999,"tags":{"name:eo":"Siĉvano"}},{"type":"node","id":244082468,"lat":32.0000002,"lon":89.9999998,"tags":{"name:eo":"Tibeto"}},{"type":"node","id":244082773,"lat":25,"lon":102,"tags":{"name:eo":"Junano"}},{"type":"node","id":244083009,"lat":29.0000001,"lon":119.9999999,"tags":{"name:eo":"Ĝeĝjango"}},{"type":"node","id":249399410,"lat":46.8374544,"lon":-56.2120555,"tags":{"name:eo":"Sankta-Piero kaj Mikelono"}},{"type":"node","id":249399460,"lat":-12.823048,"lon":45.1520755,"tags":{"name:eo":"Majoto"}},{"type":"node","id":304951004,"lat":-31.8759835,"lon":147.2869493,"tags":{"name:eo":"Novsudkimrio"}},{"type":"node","id":304951005,"lat":-25.2303005,"lon":121.0187246,"tags":{"name:eo":"Okcidenta Aŭstralio"}},{"type":"node","id":304951006,"lat":-19.8516101,"lon":133.2303375,"tags":{"name:eo":"Norda Teritorio"}},{"type":"node","id":304951007,"lat":-30.5343665,"lon":135.6301212,"tags":{"name:eo":"Suda Aŭstralio"}},{"type":"node","id":304951008,"lat":-42.035067,"lon":146.6366887,"tags":{"name:eo":"Tasmanio"}},{"type":"node","id":304951009,"lat":-36.5986096,"lon":144.6780052,"tags":{"name:eo":"Viktorio"}},{"type":"node","id":305626603,"lat":25.0000001,"lon":-107.5000001,"tags":{"name:eo":"Sinaloo"}},{"type":"node","id":305626605,"lat":18.833333,"lon":-98,"tags":{"name:eo":"Pŭeblo"}},{"type":"node","id":305626607,"lat":17.9999288,"lon":-92.6681659,"tags":{"name:eo":"Tabasko"}},{"type":"node","id":305626610,"lat":29.3333331,"lon":-110.6666671,"tags":{"name:eo":"Sonoro"}},{"type":"node","id":305626614,"lat":22.0000001,"lon":-105.0000001,"tags":{"name:eo":"Najarito"}},{"type":"node","id":305626616,"lat":23.9891553,"lon":-98.7026825,"tags":{"name:eo":"Tamaŭlipo"}},{"type":"node","id":305626619,"lat":22.5000001,"lon":-100.5000001,"tags":{"name:eo":"Sanluispotosio"}},{"type":"node","id":305626621,"lat":19.6666671,"lon":-88.5000001,"tags":{"name:eo":"Kintanaroo"}},{"type":"node","id":305626639,"lat":19.207098,"lon":-101.878113,"tags":{"name:eo":"Miĉoakano"}},{"type":"node","id":305626642,"lat":24.833333,"lon":-104.833333,"tags":{"name:eo":"Durango"}},{"type":"node","id":305626645,"lat":19.416667,"lon":-98.166667,"tags":{"name:eo":"Tlakskalo"}},{"type":"node","id":305626882,"lat":20.3333331,"lon":-103.6666671,"tags":{"name:eo":"Ĥalisko"}},{"type":"node","id":305626889,"lat":19.4839446,"lon":-99.6899716,"tags":{"name:eo":"Meksiko"}},{"type":"node","id":305626892,"lat":17,"lon":-96.5,"tags":{"name:eo":"Oaĥako"}},{"type":"node","id":305626893,"lat":28.5000001,"lon":-106.0000001,"tags":{"name:eo":"Ĉiŭaŭo"}},{"type":"node","id":305626894,"lat":16.5000001,"lon":-92.5000001,"tags":{"name:eo":"Ĉiapo"}},{"type":"node","id":305626895,"lat":18.75,"lon":-99,"tags":{"name:eo":"Moreloo"}},{"type":"node","id":305626896,"lat":27.3333331,"lon":-102.0000001,"tags":{"name:eo":"Koaŭilo"}},{"type":"node","id":305626897,"lat":21,"lon":-101,"tags":{"name:eo":"Gvanaĥuato"}},{"type":"node","id":305626898,"lat":19.333333,"lon":-96.666667,"tags":{"name:eo":"Verakruco"}},{"type":"node","id":305626899,"lat":23.0000001,"lon":-103.0000001,"tags":{"name:eo":"Zakateko"}},{"type":"node","id":305626900,"lat":17.666667,"lon":-100,"tags":{"name:eo":"Gerero"}},{"type":"node","id":305626901,"lat":26.2384363,"lon":-99.8873,"tags":{"name:eo":"Novleono"}},{"type":"node","id":305626902,"lat":19.166667,"lon":-104,"tags":{"name:eo":"Kolimo"}},{"type":"node","id":305626903,"lat":20.5,"lon":-99,"tags":{"name:eo":"Hidalgo"}},{"type":"node","id":305626904,"lat":19,"lon":-90.5,"tags":{"name:eo":"Kampeĉo"}},{"type":"node","id":305626905,"lat":22.0000001,"lon":-102.5000001,"tags":{"name:eo":"Agvaskaljento"}},{"type":"node","id":305700696,"lat":65.0000004,"lon":-118,"tags":{"name:eo":"Nordokcidentaj Teritorioj"}},{"type":"node","id":305700699,"lat":55.001251,"lon":-125.002441,"tags":{"name:eo":"Brita Kolumbio"}},{"type":"node","id":305700700,"lat":70.0000073,"lon":-90,"tags":{"name:eo":"Nunavuto"}},{"type":"node","id":305700701,"lat":52.4760892,"lon":-71.8258668,"tags":{"name:eo":"Kebekio"}},{"type":"node","id":305700702,"lat":50.000678,"lon":-86.000977,"tags":{"name:eo":"Ontario"}},{"type":"node","id":305700703,"lat":55.001251,"lon":-115.002136,"tags":{"name:eo":"Alberto"}},{"type":"node","id":305700704,"lat":45.1955867,"lon":-63.1658939,"tags":{"name:eo":"Nov-Skotio"}},{"type":"node","id":305700705,"lat":55.001251,"lon":-97.001038,"tags":{"name:eo":"Manitobo"}},{"type":"node","id":305700706,"lat":53.8217327,"lon":-61.2295532,"tags":{"name:eo":"Novlando kaj Labradoro"}},{"type":"node","id":305700707,"lat":63.000147,"lon":-136.002502,"tags":{"name:eo":"Jukonio"}},{"type":"node","id":305704361,"lat":14.166667,"lon":122.75,"tags":{"name:eo":"Nordaj Kamarinoj"}},{"type":"node","id":305704363,"lat":12.833333,"lon":123.916667,"tags":{"name:eo":"Sorsogono"}},{"type":"node","id":305704366,"lat":8.84,"lon":126.15,"tags":{"name:eo":"Suda Surigao"}},{"type":"node","id":305704369,"lat":9.666667,"lon":125.633333,"tags":{"name:eo":"Norda Surigao"}},{"type":"node","id":305704371,"lat":10,"lon":118.75,"tags":{"name:eo":"Palavano"}},{"type":"node","id":305704375,"lat":9.166667,"lon":124.75,"tags":{"name:eo":"Kamigino"}},{"type":"node","id":305704377,"lat":5.2057,"lon":120.0265,"tags":{"name:eo":"Tavi-Tavio"}},{"type":"node","id":305704379,"lat":14.666667,"lon":120.416667,"tags":{"name:eo":"Bataano"}},{"type":"node","id":305704381,"lat":16.283333,"lon":121.583333,"tags":{"name:eo":"Kirino"}},{"type":"node","id":305704383,"lat":10.95,"lon":124.85,"tags":{"name:eo":"Lejteo"}},{"type":"node","id":305704385,"lat":6,"lon":121,"tags":{"name:eo":"Suluo"}},{"type":"node","id":305704387,"lat":6.166667,"lon":125,"tags":{"name:eo":"Suda Kotabato"}},{"type":"node","id":305704389,"lat":12.5,"lon":122.25,"tags":{"name:eo":"Romblono"}},{"type":"node","id":305704395,"lat":13.0000021,"lon":120.9166666,"tags":{"name:eo":"Okcidenta Mindoro"}},{"type":"node","id":305704401,"lat":9.75,"lon":123,"tags":{"name:eo":"Orienta Negroso"}},{"type":"node","id":305704407,"lat":13.666175,"lon":123.3265172,"tags":{"name:eo":"Sudaj Kamarinoj"}},{"type":"node","id":305704412,"lat":17,"lon":122,"tags":{"name:eo":"Isabelo"}},{"type":"node","id":305704424,"lat":14.1696476,"lon":121.3336526,"tags":{"name:eo":"Laguno"}},{"type":"node","id":305704476,"lat":13.9,"lon":122,"tags":{"name:eo":"Kezono"}},{"type":"node","id":305704478,"lat":12.166667,"lon":123.583333,"tags":{"name:eo":"Masbato"}},{"type":"node","id":305704481,"lat":15.23,"lon":120.12,"tags":{"name:eo":"Zambaloj"}},{"type":"node","id":305704484,"lat":10.45,"lon":123.84,"tags":{"name:eo":"Cebuo"}},{"type":"node","id":305704488,"lat":8.72,"lon":124.84,"tags":{"name:eo":"Orienta Misamiso"}},{"type":"node","id":305704492,"lat":6.578645,"lon":122.034922,"tags":{"name:eo":"Basilano"}},{"type":"node","id":305704494,"lat":8.333333,"lon":123.7,"tags":{"name:eo":"Okcidenta Misamiso"}},{"type":"node","id":305704496,"lat":20.6442465,"lon":121.8939456,"tags":{"name:eo":"Batanoj"}},{"type":"node","id":305704499,"lat":16.5,"lon":120.666667,"tags":{"name:eo":"Bengeto"}},{"type":"node","id":305704501,"lat":16.833333,"lon":121.166667,"tags":{"name:eo":"Ifugao"}},{"type":"node","id":305704503,"lat":8.016111,"lon":124.045278,"tags":{"name:eo":"Norda Lanao"}},{"type":"node","id":305704505,"lat":14.65,"lon":121.25,"tags":{"name:eo":"Rizalo"}},{"type":"node","id":305704509,"lat":15.0251068,"lon":120.6870474,"tags":{"name:eo":"Pampango"}},{"type":"node","id":305704513,"lat":8.022778,"lon":124.998611,"tags":{"name:eo":"Bukidnono"}},{"type":"node","id":305704515,"lat":10.3475099,"lon":125.1250896,"tags":{"name:eo":"Suda Lejteo"}},{"type":"node","id":305704517,"lat":13.216667,"lon":123.55,"tags":{"name:eo":"Albajo"}},{"type":"node","id":305704519,"lat":11.833333,"lon":125,"tags":{"name:eo":"Samaro"}},{"type":"node","id":305704525,"lat":18.12,"lon":121.19,"tags":{"name:eo":"Apajao"}},{"type":"node","id":305704527,"lat":13.833333,"lon":124.25,"tags":{"name:eo":"Katanduanoj"}},{"type":"node","id":305704529,"lat":13.416667,"lon":121.95,"tags":{"name:eo":"Marinduko"}},{"type":"node","id":305704531,"lat":13.2,"lon":121.2,"tags":{"name:eo":"Orienta Mindoro"}},{"type":"node","id":305704533,"lat":16,"lon":121.75,"tags":{"name:eo":"Aŭroro"}},{"type":"node","id":305704538,"lat":11.73,"lon":125.37,"tags":{"name:eo":"Orienta Samaro"}},{"type":"node","id":305704540,"lat":7.166667,"lon":126.333333,"tags":{"name:eo":"Orienta Davao"}},{"type":"node","id":305704543,"lat":6.27,"lon":125.6,"tags":{"name:eo":"Suda Davao"}},{"type":"node","id":305704545,"lat":16.5735957,"lon":120.4089899,"tags":{"name:eo":"La-Unio"}},{"type":"node","id":305704547,"lat":12.42,"lon":124.81,"tags":{"name:eo":"Norda Samaro"}},{"type":"node","id":305704550,"lat":11.1705066,"lon":122.083333,"tags":{"name:eo":"Antiko"}},{"type":"node","id":305704552,"lat":17.2,"lon":120.5,"tags":{"name:eo":"Suda Iloko"}},{"type":"node","id":305704556,"lat":15.583333,"lon":121,"tags":{"name:eo":"Nova Ekijo"}},{"type":"node","id":305704558,"lat":15.916667,"lon":120.333333,"tags":{"name:eo":"Pangasinano"}},{"type":"node","id":305704560,"lat":13.916453,"lon":121.0864884,"tags":{"name:eo":"Batangoj"}},{"type":"node","id":305704561,"lat":7.9043,"lon":123.3194,"tags":{"name:eo":"Suda Zamboango"}},{"type":"node","id":305704564,"lat":17.583333,"lon":120.75,"tags":{"name:eo":"Abrao"}},{"type":"node","id":305704566,"lat":18,"lon":121.833333,"tags":{"name:eo":"Kagajano"}},{"type":"node","id":305704568,"lat":14.25,"lon":120.833333,"tags":{"name:eo":"Kavito"}},{"type":"node","id":305704570,"lat":6.55,"lon":124.283333,"tags":{"name:eo":"Sultan-Kudarato"}},{"type":"node","id":305704573,"lat":8,"lon":122.666667,"tags":{"name:eo":"Norda Zamboango"}},{"type":"node","id":305704575,"lat":8.92,"lon":125.46,"tags":{"name:eo":"Norda Agusano"}},{"type":"node","id":305704576,"lat":7.916667,"lon":124.333333,"tags":{"name:eo":"Suda Lanao"}},{"type":"node","id":305704577,"lat":16.35,"lon":121.13,"tags":{"name:eo":"Novaj Bisajoj"}},{"type":"node","id":305704578,"lat":10.416667,"lon":123,"tags":{"name:eo":"Okcidenta Negroso"}},{"type":"node","id":305704579,"lat":7.02,"lon":124.26,"tags":{"name:eo":"Magindanao"}},{"type":"node","id":305704582,"lat":9.833333,"lon":124.1615579,"tags":{"name:eo":"Boholo"}},{"type":"node","id":305704584,"lat":15,"lon":121.083333,"tags":{"name:eo":"Bulakano"}},{"type":"node","id":305704585,"lat":18.166667,"lon":120.75,"tags":{"name:eo":"Norda Iloko"}},{"type":"node","id":305704587,"lat":8.36,"lon":125.71,"tags":{"name:eo":"Suda Agusano"}},{"type":"node","id":305704588,"lat":5.874722,"lon":125.275278,"tags":{"name:eo":"Saranganio"}},{"type":"node","id":306394501,"lat":7.0000085,"lon":-73.2500086,"tags":{"name:eo":"Santandero"}},{"type":"node","id":306394504,"lat":3.5000086,"lon":-73.0000086,"tags":{"name:eo":"Metao"}},{"type":"node","id":306394506,"lat":12.8086902,"lon":-81.4908431,"tags":{"name:eo":"Sankta Andreo kaj Providenco"}},{"type":"node","id":306394508,"lat":2.715645,"lon":-76.662665,"tags":{"name:eo":"Kaŭko"}},{"type":"node","id":306394511,"lat":11.2780115,"lon":-72.6135766,"tags":{"name:eo":"La Gŭaĥira"}},{"type":"node","id":306394513,"lat":8.3344713,"lon":-75.6666238,"tags":{"name:eo":"Kordovo"}},{"type":"node","id":306394516,"lat":6.0000085,"lon":-77.0000086,"tags":{"name:eo":"Ĉokoo"}},{"type":"node","id":306394518,"lat":1.6894444,"lon":-72.8202864,"tags":{"name:eo":"Gŭavjaro"}},{"type":"node","id":306394521,"lat":2.5000086,"lon":-69.0000086,"tags":{"name:eo":"Gvajnio"}},{"type":"node","id":306394523,"lat":3.7500086,"lon":-75.2500086,"tags":{"name:eo":"Tolimo"}},{"type":"node","id":306394524,"lat":1.5,"lon":-78.0000086,"tags":{"name:eo":"Narino"}},{"type":"node","id":306394527,"lat":9,"lon":-74.333333,"tags":{"name:eo":"Bolivaro"}},{"type":"node","id":306394531,"lat":1.1153385,"lon":-74.1056838,"tags":{"name:eo":"Kaketao"}},{"type":"node","id":306394536,"lat":5.5000085,"lon":-71.5000086,"tags":{"name:eo":"Kasanareo"}},{"type":"node","id":306394540,"lat":9.3333415,"lon":-73.5000086,"tags":{"name:eo":"Cezaro"}},{"type":"node","id":306394543,"lat":10.0000085,"lon":-74.5000086,"tags":{"name:eo":"Magdaleno"}},{"type":"node","id":306394548,"lat":6.6666755,"lon":-71.0000086,"tags":{"name:eo":"Araŭko"}},{"type":"node","id":306394550,"lat":-1.0197136,"lon":-71.9383333,"tags":{"name:eo":"Amazono"}},{"type":"node","id":306394554,"lat":8.4417924,"lon":-73.0492505,"tags":{"name:eo":"Norda Santandero"}},{"type":"node","id":306394556,"lat":4.3435926,"lon":-75.7232898,"tags":{"name:eo":"Kindio"}},{"type":"node","id":306394557,"lat":10.7500084,"lon":-75.0000086,"tags":{"name:eo":"Atlantiko"}},{"type":"node","id":306394560,"lat":4.3624881,"lon":-74.1837703,"tags":{"name:eo":"Ĉefurba Distrikto de Bogoto"}},{"type":"node","id":306394562,"lat":5.3302514,"lon":-75.2873471,"tags":{"name:eo":"Kaldaso"}},{"type":"node","id":306394564,"lat":0.5000086,"lon":-76.0000086,"tags":{"name:eo":"Putumajo"}},{"type":"node","id":306394567,"lat":7.0000085,"lon":-75.5000086,"tags":{"name:eo":"Antjokio"}},{"type":"node","id":306394570,"lat":5.0000086,"lon":-74.1666756,"tags":{"name:eo":"Kundinamarko"}},{"type":"node","id":306394572,"lat":9,"lon":-75,"tags":{"name:eo":"Sukreo"}},{"type":"node","id":306394574,"lat":5.0000086,"lon":-69.5000086,"tags":{"name:eo":"Viĉado"}},{"type":"node","id":306394577,"lat":2.4738993,"lon":-75.5900113,"tags":{"name:eo":"Ujlao"}},{"type":"node","id":306394579,"lat":0.2500086,"lon":-70.7500086,"tags":{"name:eo":"Vaŭpeso"}},{"type":"node","id":306394580,"lat":5.6278979,"lon":-72.8268617,"tags":{"name:eo":"Bojakao"}},{"type":"node","id":306394583,"lat":5.2102948,"lon":-75.9842236,"tags":{"name:eo":"Risaraldo"}},{"type":"node","id":313466830,"lat":8.7773719,"lon":-71.1565218,"tags":{"name:eo":"Merido"}},{"type":"node","id":313466839,"lat":8.166667,"lon":-69.833333,"tags":{"name:eo":"Barinaso"}},{"type":"node","id":313466859,"lat":10,"lon":-67.166667,"tags":{"name:eo":"Aragŭo"}},{"type":"node","id":313466896,"lat":11,"lon":-64,"tags":{"name:eo":"Nova Sparto"}},{"type":"node","id":313466923,"lat":10.0437564,"lon":-72.2191181,"tags":{"name:eo":"Zulio"}},{"type":"node","id":313466933,"lat":7.166667,"lon":-68.833333,"tags":{"name:eo":"Apuro"}},{"type":"node","id":313466942,"lat":6.333333,"lon":-63.5,"tags":{"name:eo":"Bolivaro"}},{"type":"node","id":313466946,"lat":9.333333,"lon":-68.333333,"tags":{"name:eo":"Kojedeso"}},{"type":"node","id":313466992,"lat":3.5,"lon":-66,"tags":{"name:eo":"Amazonio"}},{"type":"node","id":313466993,"lat":9,"lon":-64.5,"tags":{"name:eo":"Anzoategio"}},{"type":"node","id":313466997,"lat":8.666667,"lon":-66.583333,"tags":{"name:eo":"Gŭariko"}},{"type":"node","id":313467022,"lat":10.166667,"lon":-68.083333,"tags":{"name:eo":"Karabobo"}},{"type":"node","id":313467040,"lat":9.333333,"lon":-63,"tags":{"name:eo":"Monagaso"}},{"type":"node","id":313467043,"lat":12.7203446,"lon":-65.239013,"tags":{"name:eo":"Venezuelaj Federaciaj Dependaĵoj"}},{"type":"node","id":313467044,"lat":10.2284518,"lon":-69.8197975,"tags":{"name:eo":"Laro"}},{"type":"node","id":313467048,"lat":10.416667,"lon":-63.5,"tags":{"name:eo":"Sukro"}},{"type":"node","id":313467056,"lat":7.9805778,"lon":-72.097576,"tags":{"name:eo":"Taĉiro"}},{"type":"node","id":313467058,"lat":10.5053491,"lon":-66.9147206,"tags":{"name:eo":"Federacia Distrikto"}},{"type":"node","id":313467066,"lat":10.25,"lon":-66.416667,"tags":{"name:eo":"Mirando"}},{"type":"node","id":313467071,"lat":9.166667,"lon":-69.25,"tags":{"name:eo":"Portugeso"}},{"type":"node","id":313467090,"lat":11,"lon":-69.833333,"tags":{"name:eo":"Falkono"}},{"type":"node","id":313753808,"lat":4.0039882,"lon":-52.999998,"tags":{"name:eo":"Gujano"}},{"type":"node","id":316416994,"lat":28.6273928,"lon":77.1716954,"tags":{"name:eo":"Delhio"}},{"type":"node","id":316417213,"lat":29,"lon":76,"tags":{"name:eo":"Harjano"}},{"type":"node","id":316417278,"lat":10.2188344,"lon":92.5771329,"tags":{"name:eo":"Andamanoj kaj Nikobaroj"}},{"type":"node","id":316440942,"lat":28,"lon":66,"tags":{"name:eo":"Baluĉio"}},{"type":"node","id":316647532,"lat":33.2588817,"lon":-86.8295337,"tags":{"name:eo":"Alabamo"}},{"type":"node","id":316940520,"lat":34.395342,"lon":-111.7632755,"tags":{"name:eo":"Arizono"}},{"type":"node","id":316942960,"lat":35.2048883,"lon":-92.4479108,"tags":{"name:eo":"Arkansaso"}},{"type":"node","id":316945104,"lat":38.7251776,"lon":-105.6077167,"tags":{"name:eo":"Koloradio"}},{"type":"node","id":316945353,"lat":41.6500201,"lon":-72.7342163,"tags":{"name:eo":"Konektikuto"}},{"type":"node","id":316945699,"lat":38.6920451,"lon":-75.4013315,"tags":{"name:eo":"Delavaro"}},{"type":"node","id":316949496,"lat":32.3293809,"lon":-83.1137366,"tags":{"name:eo":"Georgio"}},{"type":"node","id":316949921,"lat":21.2160437,"lon":-157.975203,"tags":{"name:eo":"Havajo"}},{"type":"node","id":316950582,"lat":43.6447642,"lon":-114.0154071,"tags":{"name:eo":"Idaho"}},{"type":"node","id":316954434,"lat":40.3270127,"lon":-86.1746933,"tags":{"name:eo":"Indianio"}},{"type":"node","id":316955537,"lat":41.9216734,"lon":-93.3122705,"tags":{"name:eo":"Iovao"}},{"type":"node","id":316956038,"lat":38.27312,"lon":-98.5821872,"tags":{"name:eo":"Kansaso"}},{"type":"node","id":316959037,"lat":37.5726028,"lon":-85.1551411,"tags":{"name:eo":"Kentukio"}},{"type":"node","id":316961033,"lat":30.8703881,"lon":-92.007126,"tags":{"name:eo":"Luiziano"}},{"type":"node","id":316961875,"lat":45.709097,"lon":-68.8590201,"tags":{"name:eo":"Majno"}},{"type":"node","id":316964668,"lat":39.5162234,"lon":-76.9382069,"tags":{"name:eo":"Marilando"}},{"type":"node","id":316965734,"lat":42.3788774,"lon":-72.032366,"tags":{"name:eo":"Masaĉuseco"}},{"type":"node","id":316966612,"lat":43.6211955,"lon":-84.6824346,"tags":{"name:eo":"Miĉigano"}},{"type":"node","id":316967611,"lat":45.9896587,"lon":-94.6113288,"tags":{"name:eo":"Minesoto"}},{"type":"node","id":316968897,"lat":32.9715645,"lon":-89.7348497,"tags":{"name:eo":"Misisipio"}},{"type":"node","id":316970920,"lat":47.3752671,"lon":-109.6387579,"tags":{"name:eo":"Montano"}},{"type":"node","id":316971452,"lat":41.7370229,"lon":-99.5873816,"tags":{"name:eo":"Nebrasko"}},{"type":"node","id":316971669,"lat":39.5158825,"lon":-116.8537227,"tags":{"name:eo":"Nevado"}},{"type":"node","id":316971821,"lat":43.4849133,"lon":-71.6553992,"tags":{"name:eo":"Nov-Hampŝiro"}},{"type":"node","id":316973311,"lat":40.0757384,"lon":-74.4041622,"tags":{"name:eo":"Nov-Ĵerzejo"}},{"type":"node","id":316973967,"lat":34.5708167,"lon":-105.993007,"tags":{"name:eo":"Nov-Meksiko"}},{"type":"node","id":316976734,"lat":43.1561681,"lon":-75.8449946,"tags":{"name:eo":"Nov-Jorkio"}},{"type":"node","id":316979074,"lat":35.6729639,"lon":-79.0392919,"tags":{"name:eo":"Norda Karolino"}},{"type":"node","id":316979718,"lat":47.6201461,"lon":-100.540737,"tags":{"name:eo":"Norda Dakoto"}},{"type":"node","id":316982774,"lat":40.2253569,"lon":-82.6881395,"tags":{"name:eo":"Ohio"}},{"type":"node","id":316983705,"lat":34.9550817,"lon":-97.2684063,"tags":{"name:eo":"Oklahomo"}},{"type":"node","id":316984338,"lat":43.9792797,"lon":-120.737257,"tags":{"name:eo":"Oregono"}},{"type":"node","id":316987717,"lat":40.9699889,"lon":-77.7278831,"tags":{"name:eo":"Pensilvanio"}},{"type":"node","id":316987977,"lat":41.7962409,"lon":-71.5992372,"tags":{"name:eo":"Rod-Insulo"}},{"type":"node","id":316990225,"lat":33.6874388,"lon":-80.4363743,"tags":{"name:eo":"Suda Karolino"}},{"type":"node","id":316990807,"lat":44.6471761,"lon":-100.348761,"tags":{"name:eo":"Suda Dakoto"}},{"type":"node","id":316994008,"lat":35.7730076,"lon":-86.2820081,"tags":{"name:eo":"Tenesio"}},{"type":"node","id":316998356,"lat":31.8160381,"lon":-99.5120986,"tags":{"name:eo":"Teksaso"}},{"type":"node","id":316999551,"lat":39.4225192,"lon":-111.7143584,"tags":{"name:eo":"Utaho"}},{"type":"node","id":317000170,"lat":44.5990718,"lon":-72.5002608,"tags":{"name:eo":"Vermonto"}},{"type":"node","id":317004702,"lat":37.1232245,"lon":-78.4927721,"tags":{"name:eo":"Virginio"}},{"type":"node","id":317006365,"lat":38.4758406,"lon":-80.8408415,"tags":{"name:eo":"Okcidenta Virginio"}},{"type":"node","id":317007239,"lat":44.4308975,"lon":-89.6884637,"tags":{"name:eo":"Viskonsino"}},{"type":"node","id":317007393,"lat":43.1700264,"lon":-107.5685348,"tags":{"name:eo":"Vajomingo"}},{"type":"node","id":415522239,"lat":-15.9323875,"lon":-50.1387087,"tags":{"name:eo":"Gojaso"}},{"type":"node","id":424297956,"lat":-21.1309332,"lon":55.5265771,"tags":{"name:eo":"Reunio"}},{"type":"node","id":424298155,"lat":-13.8173324,"lon":-177.1489649,"tags":{"name:eo":"Valiso kaj Futuno"}},{"type":"node","id":424311883,"lat":41.9034912,"lon":12.4528349,"tags":{"name:eo":"Vatikanurbo"}},{"type":"node","id":424313764,"lat":-12.1691894,"lon":96.8301442,"tags":{"name:eo":"Kokosinsuloj"}},{"type":"node","id":424314262,"lat":-44.1511785,"lon":63.8604556,"tags":{"name:eo":"Francaj Sudaj Teritorioj"}},{"type":"node","id":433483523,"lat":-10.4837768,"lon":105.64723,"tags":{"name:eo":"Kristnaskinsulo"}},{"type":"node","id":433483527,"lat":-16.225557,"lon":150.033867,"tags":{"name:eo":"Koralmaraj Insuloj"}},{"type":"node","id":433483535,"lat":16.2490067,"lon":-61.5650444,"tags":{"name:eo":"Gvadelupo"}},{"type":"node","id":462226505,"lat":-18.6243749,"lon":-144.6434898,"tags":{"name:eo":"Franca Polinezio"}},{"type":"node","id":470649732,"lat":56.7861112,"lon":-4.1140518,"tags":{"name:eo":"Skotlando"}},{"type":"node","id":473831430,"lat":50.9295798,"lon":13.4585052,"tags":{"name:eo":"Saksio"}},{"type":"node","id":473848012,"lat":48.9467562,"lon":11.4038717,"tags":{"name:eo":"Bavario"}},{"type":"node","id":473849775,"lat":38.7604815,"lon":-92.5617875,"tags":{"name:eo":"Misurio"}},{"type":"node","id":473857781,"lat":53.7735234,"lon":12.5755746,"tags":{"name:eo":"Meklenburgo-Antaŭpomerio"}},{"type":"node","id":473862587,"lat":52.8455492,"lon":13.2461296,"tags":{"name:eo":"Brandenburgio"}},{"type":"node","id":473883922,"lat":50.7333163,"lon":11.0747905,"tags":{"name:eo":"Turingio"}},{"type":"node","id":473890961,"lat":54.1853998,"lon":9.8220089,"tags":{"name:eo":"Ŝlesvigo-Holstinio"}},{"type":"node","id":474582475,"lat":64.4459613,"lon":-149.680909,"tags":{"name:eo":"Alasko"}},{"type":"node","id":474842895,"lat":-29.573402,"lon":21.2051361,"tags":{"name:eo":"Norda Kablando"}},{"type":"node","id":474842900,"lat":-33.546977,"lon":20.72753,"tags":{"name:eo":"Okcidenta Kablando"}},{"type":"node","id":474842905,"lat":-32.2171831,"lon":26.6386401,"tags":{"name:eo":"Orienta Kablando"}},{"type":"node","id":474842919,"lat":-26.276849,"lon":30.1500153,"tags":{"name:eo":"Mpumalanga"}},{"type":"node","id":474842931,"lat":-23.4735288,"lon":29.3959199,"tags":{"name:eo":"Limpopo"}},{"type":"node","id":474842937,"lat":-26.1347819,"lon":25.6546729,"tags":{"name:eo":"Nordokcidenta Provinco"}},{"type":"node","id":474842944,"lat":-28.7853618,"lon":26.4978933,"tags":{"name:eo":"Liberŝtato"}},{"type":"node","id":474842956,"lat":-25.9363439,"lon":28.0813105,"tags":{"name:eo":"Ĥaŭtengo"}},{"type":"node","id":475386053,"lat":53.5450793,"lon":15.5661586,"tags":{"name:eo":"Okcidentpomeria Provinco"}},{"type":"node","id":495914621,"lat":17.0922325,"lon":120.9737242,"tags":{"name:eo":"Monta Provinco"}},{"type":"node","id":501782233,"lat":17.46,"lon":121.31,"tags":{"name:eo":"Kalingo"}},{"type":"node","id":501794528,"lat":7.27,"lon":124.86,"tags":{"name:eo":"Kotabato"}},{"type":"node","id":501794575,"lat":7.45,"lon":126.07,"tags":{"name:eo":"Kompostela Valo"}},{"type":"node","id":501794639,"lat":11.6,"lon":124.49,"tags":{"name:eo":"Bilirano"}},{"type":"node","id":501794650,"lat":7.81,"lon":122.59,"tags":{"name:eo":"Zamboango Sibugaja"}},{"type":"node","id":502334045,"lat":-18.5264844,"lon":-44.1588654,"tags":{"name:eo":"Minas-Ĝerajso"}},{"type":"node","id":502842538,"lat":45.0819456,"lon":134.726645,"tags":{"name:eo":"Ĉemara Regiono"}},{"type":"node","id":502842672,"lat":52.8032368,"lon":128.437295,"tags":{"name:eo":"Amura Provinco"}},{"type":"node","id":502842918,"lat":58.6124279,"lon":82.0475315,"tags":{"name:eo":"Tomska Provinco"}},{"type":"node","id":503045144,"lat":67.1471631,"lon":74.3415488,"tags":{"name:eo":"Jamalo-Neneca aŭtonoma distrikto"}},{"type":"node","id":503046328,"lat":61.8793428,"lon":68.6418156,"tags":{"name:eo":"Ĥanti-Mansa aŭtonoma distrikto — Jugra"}},{"type":"node","id":503047594,"lat":58.8206488,"lon":70.3658837,"tags":{"name:eo":"Tjumena Provinco"}},{"type":"node","id":503050374,"lat":56.0935263,"lon":73.5099936,"tags":{"name:eo":"Omska Provinco"}},{"type":"node","id":503051686,"lat":54.9720169,"lon":79.4813924,"tags":{"name:eo":"Novosibirska Provinco"}},{"type":"node","id":503055077,"lat":54.5335781,"lon":87.342861,"tags":{"name:eo":"Kemerova Provinco"}},{"type":"node","id":503057596,"lat":52.6932243,"lon":82.6931424,"tags":{"name:eo":"Altaja Regiono"}},{"type":"node","id":503059916,"lat":50.7114101,"lon":86.8572186,"tags":{"name:eo":"Respubliko Altaj"}},{"type":"node","id":503064678,"lat":53.4399379,"lon":90.0664303,"tags":{"name:eo":"Respubliko Ĥakasio"}},{"type":"node","id":503068230,"lat":51.4017149,"lon":93.8582593,"tags":{"name:eo":"Tuvio"}},{"type":"node","id":503073143,"lat":63.3233807,"lon":97.0979974,"tags":{"name:eo":"Krasnojarska Regiono"}},{"type":"node","id":503077246,"lat":56.6370122,"lon":104.719221,"tags":{"name:eo":"Irkutska Provinco"}},{"type":"node","id":503080952,"lat":52.7182426,"lon":109.492143,"tags":{"name:eo":"Burjatio"}},{"type":"node","id":503087444,"lat":52.248521,"lon":115.956325,"tags":{"name:eo":"Transbajkalo Regiono"}},{"type":"node","id":503088681,"lat":66.941626,"lon":129.642371,"tags":{"name:eo":"Jakutio"}},{"type":"node","id":504798993,"lat":-21.9549806,"lon":-49.0232348,"tags":{"name:eo":"San-Paŭlo"}},{"type":"node","id":504799970,"lat":-22.2752762,"lon":-42.419415,"tags":{"name:eo":"Rio-de-Ĵanejrio"}},{"type":"node","id":504800102,"lat":-19.5687682,"lon":-40.1721991,"tags":{"name:eo":"Espirito-Santo"}},{"type":"node","id":504800252,"lat":-29.8425284,"lon":-53.7680577,"tags":{"name:eo":"Suda Rio-Grando"}},{"type":"node","id":504966405,"lat":49.790952,"lon":20.3793521,"tags":{"name:eo":"Malgrandpollanda Provinco"}},{"type":"node","id":504970284,"lat":49.9927121,"lon":22.177107,"tags":{"name:eo":"Ĉekarpata Provinco"}},{"type":"node","id":504977488,"lat":52.5461934,"lon":21.2073404,"tags":{"name:eo":"Mazovia Provinco"}},{"type":"node","id":504981968,"lat":52.1458506,"lon":17.397672,"tags":{"name:eo":"Grandpollanda Provinco"}},{"type":"node","id":505006035,"lat":50.976229,"lon":22.7991176,"tags":{"name:eo":"Lublina Provinco"}},{"type":"node","id":505006802,"lat":54.4226732,"lon":40.5705246,"tags":{"name:eo":"Rjazanja Provinco"}},{"type":"node","id":505006928,"lat":53.2668455,"lon":22.8525787,"tags":{"name:eo":"Podlaĥia Provinco"}},{"type":"node","id":505008682,"lat":53.9311892,"lon":21.1260808,"tags":{"name:eo":"Varmia-Mazuria Provinco"}},{"type":"node","id":505013148,"lat":54.143148,"lon":17.9057338,"tags":{"name:eo":"Pomeria Provinco"}},{"type":"node","id":505016447,"lat":52.1001754,"lon":15.3605075,"tags":{"name:eo":"Lubuŝa Provinco"}},{"type":"node","id":505025705,"lat":51.3807987,"lon":16.4330936,"tags":{"name:eo":"Malsuprasilezia Provinco"}},{"type":"node","id":505029615,"lat":50.8918612,"lon":17.9321175,"tags":{"name:eo":"Opola Provinco"}},{"type":"node","id":505034126,"lat":50.5687422,"lon":19.2343995,"tags":{"name:eo":"Silezia Provinco"}},{"type":"node","id":505043292,"lat":51.4721678,"lon":19.3460637,"tags":{"name:eo":"Lodza Provinco"}},{"type":"node","id":505045821,"lat":53.0915932,"lon":18.4463517,"tags":{"name:eo":"Kujavia-Pomeria Provinco"}},{"type":"node","id":508056667,"lat":48.5601613,"lon":132.2775662,"tags":{"name:eo":"Hebrea Aŭtonomio"}},{"type":"node","id":508056994,"lat":51.6312684,"lon":136.121524,"tags":{"name:eo":"Ĥabarovska Regiono"}},{"type":"node","id":508057236,"lat":49.7219665,"lon":143.448533,"tags":{"name:eo":"Saĥalena Provinco"}},{"type":"node","id":508057529,"lat":57.1914882,"lon":160.0383819,"tags":{"name:eo":"Kamĉatko Regiono"}},{"type":"node","id":508057745,"lat":63.5515028,"lon":154.014726,"tags":{"name:eo":"Magadana Provinco"}},{"type":"node","id":508057959,"lat":66.0006475,"lon":169.4900869,"tags":{"name:eo":"Ĉukotko"}},{"type":"node","id":508058549,"lat":51.8111545,"lon":76.4285287,"tags":{"name:eo":"Pavlodaro"}},{"type":"node","id":508059331,"lat":48.6130209,"lon":81.7489928,"tags":{"name:eo":"Orienta Kazaĥio"}},{"type":"node","id":513125713,"lat":53.7021118,"lon":25.0711803,"tags":{"name:eo":"Grodna Regiono"}},{"type":"node","id":516618494,"lat":54.7293041,"lon":21.1489473,"tags":{"name:eo":"Kaliningrada Provinco"}},{"type":"node","id":519425071,"lat":51.4785568,"lon":7.5533645,"tags":{"name:eo":"Nordrejn-Vestfalio"}},{"type":"node","id":519436857,"lat":49.7497346,"lon":7.4396553,"tags":{"name:eo":"Rejnlando-Palatinato"}},{"type":"node","id":533634715,"lat":58.2843833,"lon":32.5169757,"tags":{"name:eo":"Novgoroda Provinco"}},{"type":"node","id":533719181,"lat":53.2852213,"lon":50.4785577,"tags":{"name:eo":"Samara Provinco"}},{"type":"node","id":535136806,"lat":68.0000418,"lon":33.9999151,"tags":{"name:eo":"Murmanska Provinco"}},{"type":"node","id":535182674,"lat":58.6414755,"lon":61.8021546,"tags":{"name:eo":"Sverdlovska Provinco"}},{"type":"node","id":539668890,"lat":-27.0628367,"lon":-51.114965,"tags":{"name:eo":"Sankta Katarino"}},{"type":"node","id":539672077,"lat":-24.4842187,"lon":-51.8148872,"tags":{"name:eo":"Paranao"}},{"type":"node","id":539676406,"lat":-4.7493933,"lon":-52.8973006,"tags":{"name:eo":"Parao"}},{"type":"node","id":539680936,"lat":1.3545442,"lon":-51.9161977,"tags":{"name:eo":"Amapao"}},{"type":"node","id":539687471,"lat":-9.0478679,"lon":-70.5264976,"tags":{"name:eo":"Akro"}},{"type":"node","id":539689822,"lat":2.135138,"lon":-61.3631922,"tags":{"name:eo":"Rorajmo"}},{"type":"node","id":539691270,"lat":-12.285251,"lon":-41.9294776,"tags":{"name:eo":"Bahio"}},{"type":"node","id":539693378,"lat":-19.5852564,"lon":-54.4794731,"tags":{"name:eo":"Suda Mato-Groso"}},{"type":"node","id":539830692,"lat":-7.1219366,"lon":-36.7246845,"tags":{"name:eo":"Paraibo"}},{"type":"node","id":539830860,"lat":-5.6781175,"lon":-36.4781776,"tags":{"name:eo":"Norda Rio-Grando"}},{"type":"node","id":539831949,"lat":-8.4116316,"lon":-37.5919699,"tags":{"name:eo":"Pernambuko"}},{"type":"node","id":539832191,"lat":-5.3264703,"lon":-39.7156073,"tags":{"name:eo":"Cearao"}},{"type":"node","id":540553503,"lat":58.5951603,"lon":56.3159546,"tags":{"name:eo":"Permja Regiono"}},{"type":"node","id":541425925,"lat":-7.6992782,"lon":-42.5043787,"tags":{"name:eo":"Piaŭio"}},{"type":"node","id":541426952,"lat":-5.2085503,"lon":-45.3930262,"tags":{"name:eo":"Maranjo"}},{"type":"node","id":541429445,"lat":-9.6611661,"lon":-36.6502426,"tags":{"name:eo":"Alagoaso"}},{"type":"node","id":541429632,"lat":-10.6743911,"lon":-37.3773519,"tags":{"name:eo":"Serĝipo"}},{"type":"node","id":553784069,"lat":40.0796319,"lon":-89.4339809,"tags":{"name:eo":"Ilinojso"}},{"type":"node","id":559621143,"lat":63.9881421,"lon":54.3326073,"tags":{"name:eo":"Komiio"}},{"type":"node","id":565543192,"lat":-10.943145,"lon":-62.8277863,"tags":{"name:eo":"Rondonio"}},{"type":"node","id":565543876,"lat":-12.2115009,"lon":-55.5716547,"tags":{"name:eo":"Mato-Groso"}},{"type":"node","id":565545457,"lat":-10.8855129,"lon":-48.3716912,"tags":{"name:eo":"Tokantinso"}},{"type":"node","id":565666205,"lat":49.4173988,"lon":6.9805789,"tags":{"name:eo":"Sarlando"}},{"type":"node","id":565666208,"lat":53.5437641,"lon":10.0099133,"tags":{"name:eo":"Hamburgo"}},{"type":"node","id":566293548,"lat":53.7254147,"lon":30.3863145,"tags":{"name:eo":"Mahilova Regiono"}},{"type":"node","id":566293550,"lat":55.2381972,"lon":28.7742203,"tags":{"name:eo":"Vicebska Regiono"}},{"type":"node","id":566296860,"lat":52.4121685,"lon":25.2547709,"tags":{"name:eo":"Bresta Regiono"}},{"type":"node","id":566296861,"lat":52.3128262,"lon":29.5418527,"tags":{"name:eo":"Homela Regiono"}},{"type":"node","id":566296863,"lat":54.1603039,"lon":27.7558157,"tags":{"name:eo":"Minska Regiono"}},{"type":"node","id":567535537,"lat":62.6194031,"lon":33.4920267,"tags":{"name:eo":"Respubliko Karelio"}},{"type":"node","id":573226686,"lat":55.448217,"lon":50.4763591,"tags":{"name:eo":"Tatarstano"}},{"type":"node","id":573226687,"lat":54.4747553,"lon":55.9784582,"tags":{"name:eo":"Baŝkirio"}},{"type":"node","id":573226688,"lat":57.1961165,"lon":52.6959832,"tags":{"name:eo":"Udmurtio"}},{"type":"node","id":577354816,"lat":63.4736289,"lon":43.7199849,"tags":{"name:eo":"Arĥangelska Provinco"}},{"type":"node","id":577359740,"lat":59.9780506,"lon":39.7150729,"tags":{"name:eo":"Vologda Provinco"}},{"type":"node","id":602512999,"lat":41.8523094,"lon":1.5745043,"tags":{"name:eo":"Katalunio"}},{"type":"node","id":607014861,"lat":54.1463177,"lon":47.2324921,"tags":{"name:eo":"Uljanovska Provinco"}},{"type":"node","id":607014868,"lat":55.4259922,"lon":47.0849429,"tags":{"name:eo":"Ĉuvaŝio"}},{"type":"node","id":607014871,"lat":52.0269262,"lon":54.7276647,"tags":{"name:eo":"Orenburga Provinco"}},{"type":"node","id":607014878,"lat":56.5767504,"lon":47.8817512,"tags":{"name:eo":"Mariio"}},{"type":"node","id":608648126,"lat":67.6783253,"lon":57.0626853,"tags":{"name:eo":"Nenecio"}},{"type":"node","id":610739435,"lat":60.1716709,"lon":31.8322298,"tags":{"name:eo":"Leningrada Provinco"}},{"type":"node","id":610739454,"lat":57.5358729,"lon":28.8586826,"tags":{"name:eo":"Pskova Provinco"}},{"type":"node","id":610739465,"lat":57.1134475,"lon":35.1744428,"tags":{"name:eo":"Tverja Provinco"}},{"type":"node","id":618016965,"lat":55.7655302,"lon":64.5632681,"tags":{"name:eo":"Kurgana Provinco"}},{"type":"node","id":618278412,"lat":-37.2314643,"lon":-65.3972948,"tags":{"name:eo":"Pampa Provinco"}},{"type":"node","id":618279734,"lat":-36.3789925,"lon":-60.3855889,"tags":{"name:eo":"Bonaera Provinco"}},{"type":"node","id":618289560,"lat":-33.2762202,"lon":-65.9515546,"tags":{"name:eo":"San-Luisa Provinco"}},{"type":"node","id":618290080,"lat":-32.0967361,"lon":-63.7940923,"tags":{"name:eo":"Kordoba Provinco"}},{"type":"node","id":618290369,"lat":-34.8700721,"lon":-68.5479966,"tags":{"name:eo":"Mendoza Provinco"}},{"type":"node","id":618291415,"lat":-38.3695057,"lon":-69.832275,"tags":{"name:eo":"Neŭkena Provinco"}},{"type":"node","id":618300940,"lat":-54.4071064,"lon":-67.8974895,"tags":{"name:eo":"Fajrolando"}},{"type":"node","id":618300941,"lat":-48.5693327,"lon":-70.1606767,"tags":{"name:eo":"Santa-Cruza Provinco"}},{"type":"node","id":618300942,"lat":-43.7128356,"lon":-68.7461817,"tags":{"name:eo":"Ĉubutia Provinco"}},{"type":"node","id":618300943,"lat":-40.4811973,"lon":-67.6145911,"tags":{"name:eo":"Rio-Negra Provinco"}},{"type":"node","id":618300944,"lat":-30.7054363,"lon":-69.1988222,"tags":{"name:eo":"Sankta-Johana Provinco"}},{"type":"node","id":618300945,"lat":-29.9729781,"lon":-67.0487944,"tags":{"name:eo":"Rioĥa Provinco"}},{"type":"node","id":618300946,"lat":-31.6252842,"lon":-59.3539578,"tags":{"name:eo":"Interriveroj Provinco"}},{"type":"node","id":618300947,"lat":-30.3154739,"lon":-61.1645076,"tags":{"name:eo":"Sankta Fido"}},{"type":"node","id":618300948,"lat":-28.5912315,"lon":-57.9394658,"tags":{"name:eo":"Provinco de Riveroj"}},{"type":"node","id":618300949,"lat":-27.1910825,"lon":-67.105374,"tags":{"name:eo":"Katamarkio"}},{"type":"node","id":618300951,"lat":-27.6431016,"lon":-63.5408542,"tags":{"name:eo":"Santiaga Provinco"}},{"type":"node","id":618300953,"lat":-25.1076701,"lon":-64.3494964,"tags":{"name:eo":"Salta Provinco"}},{"type":"node","id":618300954,"lat":-26.3829647,"lon":-60.8816092,"tags":{"name:eo":"Ĉako"}},{"type":"node","id":618300955,"lat":-24.5955306,"lon":-60.4289718,"tags":{"name:eo":"Formosa Provinco"}},{"type":"node","id":618300956,"lat":-26.737224,"lon":-54.4315257,"tags":{"name:eo":"Provinco de Misioj"}},{"type":"node","id":648753997,"lat":52.6935178,"lon":39.1122664,"tags":{"name:eo":"Lipecka Provinco"}},{"type":"node","id":648753998,"lat":50.9800393,"lon":40.1506507,"tags":{"name:eo":"Voroneĵa Provinco"}},{"type":"node","id":648753999,"lat":52.9019574,"lon":41.3578918,"tags":{"name:eo":"Tambova Provinco"}},{"type":"node","id":658312593,"lat":55.5043158,"lon":38.0353929,"tags":{"name:eo":"Moskva Provinco"}},{"type":"node","id":681769593,"lat":50.7696518,"lon":34.3289305,"tags":{"name:eo":"Suma Provinco"}},{"type":"node","id":681769596,"lat":46.5421715,"lon":33.4079326,"tags":{"name:eo":"Ĥersona Provinco"}},{"type":"node","id":681769601,"lat":51.272593,"lon":31.7417235,"tags":{"name:eo":"Ĉernihiva Provinco"}},{"type":"node","id":681769605,"lat":45.5916819,"lon":33.5992068,"tags":{"name:eo":"Aŭtonoma Respubliko Krimeo"}},{"type":"node","id":681769608,"lat":50.178595,"lon":30.4924884,"tags":{"name:eo":"Kijiva Provinco"}},{"type":"node","id":681769610,"lat":48.8990315,"lon":28.516068,"tags":{"name:eo":"Vinica Provinco"}},{"type":"node","id":681769611,"lat":50.9080532,"lon":28.3867504,"tags":{"name:eo":"Ĵitomira Provinco"}},{"type":"node","id":681769612,"lat":46.1147226,"lon":29.9567193,"tags":{"name:eo":"Odesa Provinco"}},{"type":"node","id":681769616,"lat":51.5451167,"lon":24.6627893,"tags":{"name:eo":"Volina Provinco"}},{"type":"node","id":681769620,"lat":51.2074112,"lon":26.5208033,"tags":{"name:eo":"Rivna Provinco"}},{"type":"node","id":681769624,"lat":49.1460165,"lon":31.2271744,"tags":{"name:eo":"Ĉerkasa Provinco"}},{"type":"node","id":683681593,"lat":48.2953664,"lon":23.4466092,"tags":{"name:eo":"Transkarpata Provinco"}},{"type":"node","id":683681597,"lat":47.9212914,"lon":37.7809825,"tags":{"name:eo":"Donecka Provinco"}},{"type":"node","id":683681601,"lat":49.268624,"lon":27.0635998,"tags":{"name:eo":"Ĥmelnickija Provinco"}},{"type":"node","id":683681604,"lat":49.6630002,"lon":25.6167516,"tags":{"name:eo":"Ternopila Provinco"}},{"type":"node","id":683681607,"lat":50.1594016,"lon":24.2337089,"tags":{"name:eo":"Lviva Provinco"}},{"type":"node","id":683681609,"lat":48.3810791,"lon":26.1081673,"tags":{"name:eo":"Ĉernivca Provinco"}},{"type":"node","id":683681613,"lat":49.2723647,"lon":38.9152782,"tags":{"name:eo":"Luhanska Provinco"}},{"type":"node","id":683681618,"lat":47.4165079,"lon":35.922969,"tags":{"name:eo":"Zaporiĵa Provinco"}},{"type":"node","id":683681620,"lat":49.8607809,"lon":33.7498787,"tags":{"name:eo":"Poltava Provinco"}},{"type":"node","id":683681623,"lat":48.3725226,"lon":31.7834817,"tags":{"name:eo":"Kirovohrada Provinco"}},{"type":"node","id":683681626,"lat":48.662589,"lon":34.9501715,"tags":{"name:eo":"Dnipropetrovska Provinco"}},{"type":"node","id":683681629,"lat":47.3886032,"lon":31.9442334,"tags":{"name:eo":"Mikolajiva Provinco"}},{"type":"node","id":696768134,"lat":47.6222451,"lon":40.7957942,"tags":{"name:eo":"Rostova Provinco"}},{"type":"node","id":771205162,"lat":53.1655415,"lon":44.7879181,"tags":{"name:eo":"Penza Provinco"}},{"type":"node","id":778527151,"lat":58.424756,"lon":44.2533273,"tags":{"name:eo":"Kostroma Provinco"}},{"type":"node","id":778529234,"lat":57.7781976,"lon":39.0021095,"tags":{"name:eo":"Jaroslavla Provinco"}},{"type":"node","id":778545155,"lat":55.0343496,"lon":33.0192065,"tags":{"name:eo":"Smolenska Provinco"}},{"type":"node","id":778568487,"lat":52.8392765,"lon":36.4251709,"tags":{"name:eo":"Orjola Provinco"}},{"type":"node","id":778569127,"lat":52.8873315,"lon":33.415853,"tags":{"name:eo":"Brjanska Provinco"}},{"type":"node","id":784756509,"lat":53.9797171,"lon":69.0450902,"tags":{"name:eo":"Norda Kazaĥio"}},{"type":"node","id":786882071,"lat":49.6048339,"lon":44.2903582,"tags":{"name:eo":"Volgograda Provinco"}},{"type":"node","id":786882072,"lat":47.1878186,"lon":47.608851,"tags":{"name:eo":"Astraĥana Provinco"}},{"type":"node","id":786882074,"lat":46.2313018,"lon":45.3275745,"tags":{"name:eo":"Kalmukio"}},{"type":"node","id":792588864,"lat":50.7080119,"lon":37.5837615,"tags":{"name:eo":"Belgoroda Provinco"}},{"type":"node","id":792588865,"lat":51.6568453,"lon":36.4852695,"tags":{"name:eo":"Kurska Provinco"}},{"type":"node","id":867080411,"lat":54.4382773,"lon":35.5272854,"tags":{"name:eo":"Kaluga Provinco"}},{"type":"node","id":867084499,"lat":53.9570701,"lon":37.3690909,"tags":{"name:eo":"Tula Provinco"}},{"type":"node","id":867129558,"lat":56.0503336,"lon":40.6561633,"tags":{"name:eo":"Vladimira Provinco"}},{"type":"node","id":869495624,"lat":56.4601702,"lon":44.5855442,"tags":{"name:eo":"Niĵnij-Novgoroda Provinco"}},{"type":"node","id":869508901,"lat":54.3376037,"lon":44.7729228,"tags":{"name:eo":"Mordvio"}},{"type":"node","id":869528660,"lat":51.6520555,"lon":46.8631952,"tags":{"name:eo":"Saratova Provinco"}},{"type":"node","id":869547585,"lat":44.8632577,"lon":43.4406913,"tags":{"name:eo":"Stavropola Regiono"}},{"type":"node","id":869555482,"lat":44.6939006,"lon":40.1520421,"tags":{"name:eo":"Adigeio"}},{"type":"node","id":869565029,"lat":43.7368326,"lon":41.7267991,"tags":{"name:eo":"Karaĉajio-Ĉerkesio"}},{"type":"node","id":869576948,"lat":43.0574916,"lon":47.1332224,"tags":{"name:eo":"Dagestano"}},{"type":"node","id":869593771,"lat":43.3976147,"lon":45.6985005,"tags":{"name:eo":"Ĉeĉenio"}},{"type":"node","id":869606611,"lat":43.1655309,"lon":44.979682,"tags":{"name:eo":"Inguŝio"}},{"type":"node","id":869609085,"lat":42.9920711,"lon":44.2636348,"tags":{"name:eo":"Nord-Osetio"}},{"type":"node","id":869609474,"lat":43.4428286,"lon":43.4204809,"tags":{"name:eo":"Kabardio-Balkario"}},{"type":"node","id":933435715,"lat":58.2155351,"lon":49.7686354,"tags":{"name:eo":"Kirova Provinco"}},{"type":"node","id":949522007,"lat":37.3399964,"lon":-4.5811614,"tags":{"name:eo":"Andaluzio"}},{"type":"node","id":959501189,"lat":48.1144938,"lon":70.1404868,"tags":{"name:eo":"Karagando"}},{"type":"node","id":959502983,"lat":52.0615626,"lon":62.9372689,"tags":{"name:eo":"Kostanajo"}},{"type":"node","id":974358575,"lat":45.2351691,"lon":77.2741871,"tags":{"name:eo":"Almato"}},{"type":"node","id":974358688,"lat":44.4168463,"lon":72.134166,"tags":{"name:eo":"Ĵambilo"}},{"type":"node","id":974358986,"lat":42.4267196,"lon":68.0028934,"tags":{"name:eo":"Suda Kazaĥio"}},{"type":"node","id":974359207,"lat":45.2058853,"lon":63.9155202,"tags":{"name:eo":"Kizilordo"}},{"type":"node","id":975902304,"lat":49.5568479,"lon":50.2227409,"tags":{"name:eo":"Okcidenta Kazaĥio"}},{"type":"node","id":1099011107,"lat":42.61946,"lon":-7.863112,"tags":{"name:eo":"Galegio"}},{"type":"node","id":1103648780,"lat":54.4223954,"lon":61.1865846,"tags":{"name:eo":"Ĉeljabinska Provinco"}},{"type":"node","id":1104630889,"lat":42.3285528,"lon":-2.4674917,"tags":{"name:eo":"Rioĥo"}},{"type":"node","id":1172157011,"lat":50.7504894,"lon":20.7829122,"tags":{"name:eo":"Sanktakruca Provinco"}},{"type":"node","id":1230774993,"lat":-13,"lon":-75,"tags":{"name:eo":"Ŭankavilkio"}},{"type":"node","id":1230775000,"lat":-9.5,"lon":-75.833333,"tags":{"name:eo":"Ŭanukio"}},{"type":"node","id":1230775012,"lat":-3.833333,"lon":-80.5,"tags":{"name:eo":"Tumpiujo"}},{"type":"node","id":1230775023,"lat":-6.333333,"lon":-80,"tags":{"name:eo":"Lambajekio"}},{"type":"node","id":1230775030,"lat":-17.666667,"lon":-70.333333,"tags":{"name:eo":"Taknio"}},{"type":"node","id":1230775043,"lat":-16,"lon":-72.25,"tags":{"name:eo":"Arekipio"}},{"type":"node","id":1230775049,"lat":-11.5,"lon":-75,"tags":{"name:eo":"Ŝuninio"}},{"type":"node","id":1230775060,"lat":-14.3325,"lon":-75.499722,"tags":{"name:eo":"Ikio"}},{"type":"node","id":1230775072,"lat":-9,"lon":-73.5,"tags":{"name:eo":"Ukajalio"}},{"type":"node","id":1230775077,"lat":-12,"lon":-70.25,"tags":{"name:eo":"Dipatrinio"}},{"type":"node","id":1230775088,"lat":-9.5,"lon":-77.75,"tags":{"name:eo":"Ankaŝio"}},{"type":"node","id":1230775094,"lat":-5,"lon":-75,"tags":{"name:eo":"Loreto"}},{"type":"node","id":1230775107,"lat":-5,"lon":-80.333333,"tags":{"name:eo":"Piŭrio"}},{"type":"node","id":1230775126,"lat":-14,"lon":-73,"tags":{"name:eo":"Apurimako"}},{"type":"node","id":1230775133,"lat":-6.25,"lon":-78.833333,"tags":{"name:eo":"Kaŝamarkio"}},{"type":"node","id":1230775156,"lat":-12.5,"lon":-72.5,"tags":{"name:eo":"Kuskio"}},{"type":"node","id":1230775171,"lat":-12.003889,"lon":-76.638889,"tags":{"name:eo":"Limio"}},{"type":"node","id":1230775201,"lat":-10.5,"lon":-75.25,"tags":{"name:eo":"Paskio"}},{"type":"node","id":1230775224,"lat":-14,"lon":-74,"tags":{"name:eo":"Ajakuĉio"}},{"type":"node","id":1230775247,"lat":-15,"lon":-70,"tags":{"name:eo":"Punio"}},{"type":"node","id":1230775254,"lat":-5,"lon":-78,"tags":{"name:eo":"Amazonjo"}},{"type":"node","id":1230775270,"lat":-16.833333,"lon":-70.916667,"tags":{"name:eo":"Mokegvio"}},{"type":"node","id":1251610243,"lat":45.7175403,"lon":1.7406933,"tags":{"name:eo":"Limoĝio"}},{"type":"node","id":1251610245,"lat":48.8360858,"lon":6.1999334,"tags":{"name:eo":"Loreno"}},{"type":"node","id":1251610246,"lat":46.0743923,"lon":-0.0772029,"tags":{"name:eo":"Puatuo-Ĉarentoj"}},{"type":"node","id":1251610249,"lat":47.4961233,"lon":6.2097185,"tags":{"name:eo":"Franĉkonteo"}},{"type":"node","id":1251610250,"lat":48.3705824,"lon":4.3128168,"tags":{"name:eo":"Ĉampanjo-Ardenoj"}},{"type":"node","id":1251610251,"lat":44.3571841,"lon":-0.5391713,"tags":{"name:eo":"Akvitanio"}},{"type":"node","id":1251610252,"lat":47.0151891,"lon":4.2523237,"tags":{"name:eo":"Burgonjo"}},{"type":"node","id":1251610254,"lat":45.3886264,"lon":5.6874625,"tags":{"name:eo":"Rodano-Alpoj"}},{"type":"node","id":1251610255,"lat":45.3547354,"lon":3.197012,"tags":{"name:eo":"Aŭvernjo"}},{"type":"node","id":1251610257,"lat":44.0580563,"lon":6.0638506,"tags":{"name:eo":"Provenco-Alpoj-Bordo Lazura"}},{"type":"node","id":1251610258,"lat":48.6443057,"lon":2.7537863,"tags":{"name:eo":"Francilio"}},{"type":"node","id":1251610259,"lat":43.8324972,"lon":1.5685814,"tags":{"name:eo":"Sudo-Pireneoj"}},{"type":"node","id":1251610260,"lat":48.2640845,"lon":-2.9202408,"tags":{"name:eo":"Bretonio"}},{"type":"node","id":1251610261,"lat":47.5490251,"lon":1.7324062,"tags":{"name:eo":"Centro"}},{"type":"node","id":1251610262,"lat":48.8177569,"lon":-0.4382331,"tags":{"name:eo":"Malsupra Normandio"}},{"type":"node","id":1251610263,"lat":49.2566929,"lon":1.0438139,"tags":{"name:eo":"Supra Normandio"}},{"type":"node","id":1251610264,"lat":47.6594864,"lon":-0.8186143,"tags":{"name:eo":"Luarlandoj"}},{"type":"node","id":1251610265,"lat":48.183541,"lon":7.3795231,"tags":{"name:eo":"Alzaco"}},{"type":"node","id":1251670424,"lat":14.6113732,"lon":-60.9620777,"tags":{"name:eo":"Martiniko"}},{"type":"node","id":1366269650,"lat":-26.5643582,"lon":-64.882397,"tags":{"name:eo":"Tukumano"}},{"type":"node","id":1367931778,"lat":-21.3019905,"lon":165.4880773,"tags":{"name:eo":"Nov-Kaledonio"}},{"type":"node","id":1491974656,"lat":35.0184485,"lon":135.7636518,"tags":{"name:eo":"Kansaja Regiono"}},{"type":"node","id":1495303476,"lat":39.1484315,"lon":140.7717841,"tags":{"name:eo":"Tohokua Regiono"}},{"type":"node","id":1499533875,"lat":34.8614187,"lon":133.1261204,"tags":{"name:eo":"Ĉugokua Regiono"}},{"type":"node","id":1504057971,"lat":32.7553476,"lon":131.1105741,"tags":{"name:eo":"Kjuŝua Regiono"}},{"type":"node","id":1504057972,"lat":33.7277915,"lon":133.5075229,"tags":{"name:eo":"Ŝikokua Regiono"}},{"type":"node","id":1639542076,"lat":46.500283,"lon":-66.750183,"tags":{"name:eo":"Nov-Brunsviko"}},{"type":"node","id":1673514242,"lat":52.8398531,"lon":9.075962,"tags":{"name:eo":"Malsupra Saksio"}},{"type":"node","id":1721119244,"lat":41.3787291,"lon":-0.7639373,"tags":{"name:eo":"Aragono"}},{"type":"node","id":1721119270,"lat":41.8037172,"lon":-4.7471726,"tags":{"name:eo":"Kastilio kaj Leono"}},{"type":"node","id":1721119281,"lat":39.4177902,"lon":-2.6232332,"tags":{"name:eo":"Kastilio-Manĉo"}},{"type":"node","id":1721119316,"lat":39.6819591,"lon":-0.7654406,"tags":{"name:eo":"Valencilando"}},{"type":"node","id":1721119349,"lat":39.1748426,"lon":-6.1529891,"tags":{"name:eo":"Ekstremaduro"}},{"type":"node","id":1721119369,"lat":35.2918698,"lon":-2.9409026,"tags":{"name:eo":"Melilo"}},{"type":"node","id":1721119400,"lat":37.9166355,"lon":-1.4779797,"tags":{"name:eo":"Murcia Regiono"}},{"type":"node","id":1756225709,"lat":46.3355508,"lon":-63.1466676,"tags":{"name:eo":"Insulo de Princo Eduardo"}},{"type":"node","id":1757670352,"lat":48.7481718,"lon":24.5207477,"tags":{"name:eo":"Ivano-Frankivska Provinco"}},{"type":"node","id":1781917313,"lat":42.227681,"lon":13.854983,"tags":{"name:eo":"Abruco"}},{"type":"node","id":1781917314,"lat":40.500571,"lon":16.081953,"tags":{"name:eo":"Basilikato"}},{"type":"node","id":1781917315,"lat":39.0565974,"lon":16.5249864,"tags":{"name:eo":"Kalabrio"}},{"type":"node","id":1781917317,"lat":40.860672,"lon":14.843984,"tags":{"name:eo":"Kampanio"}},{"type":"node","id":1781917318,"lat":44.525696,"lon":11.039437,"tags":{"name:eo":"Emilio-Romanjo"}},{"type":"node","id":1781917320,"lat":46.151042,"lon":13.055904,"tags":{"name:eo":"Friulo-Venecio Julia"}},{"type":"node","id":1781917321,"lat":41.9808038,"lon":12.7662312,"tags":{"name:eo":"Latio"}},{"type":"node","id":1781917322,"lat":44.4777617,"lon":8.7026296,"tags":{"name:eo":"Ligurio"}},{"type":"node","id":1781917324,"lat":45.6209,"lon":9.768893,"tags":{"name:eo":"Lombardio"}},{"type":"node","id":1781917325,"lat":43.3458388,"lon":13.1415872,"tags":{"name:eo":"Markio"}},{"type":"node","id":1781917326,"lat":41.684672,"lon":14.595614,"tags":{"name:eo":"Moliso"}},{"type":"node","id":1781917328,"lat":45.060735,"lon":7.923549,"tags":{"name:eo":"Piemonto"}},{"type":"node","id":1781917329,"lat":40.9842539,"lon":16.6210027,"tags":{"name:eo":"Apulio"}},{"type":"node","id":1781917331,"lat":40.0912813,"lon":9.0305773,"tags":{"name:eo":"Sardio"}},{"type":"node","id":1781917332,"lat":37.587794,"lon":14.155048,"tags":{"name:eo":"Sicilio"}},{"type":"node","id":1781917334,"lat":43.4586541,"lon":11.1389204,"tags":{"name:eo":"Toskanio"}},{"type":"node","id":1781917335,"lat":46.441472,"lon":11.282121,"tags":{"name:eo":"Trentino-Supra Adiĝo/Sudtirolo"}},{"type":"node","id":1781917337,"lat":42.965916,"lon":12.490236,"tags":{"name:eo":"Umbrio"}},{"type":"node","id":1781917338,"lat":45.730099,"lon":7.387426,"tags":{"name:eo":"Aosta Valo"}},{"type":"node","id":1781917344,"lat":45.6476663,"lon":11.8665254,"tags":{"name:eo":"Veneto"}},{"type":"node","id":1806706046,"lat":56.9167446,"lon":41.4352137,"tags":{"name:eo":"Ivanova Provinco"}},{"type":"node","id":1807621457,"lat":51.908526,"lon":11.4939134,"tags":{"name:eo":"Saksio-Anhalto"}},{"type":"node","id":1898258173,"lat":-6.4453801,"lon":106.1375586,"tags":{"name:eo":"Banteno"}},{"type":"node","id":1898258183,"lat":-7.3032412,"lon":110.0044145,"tags":{"name:eo":"Centra Javo"}},{"type":"node","id":1898258216,"lat":-6.8891904,"lon":107.6404716,"tags":{"name:eo":"Okcidenta Javo"}},{"type":"node","id":1898283435,"lat":4.3685491,"lon":97.0253024,"tags":{"name:eo":"Aceho"}},{"type":"node","id":1898283447,"lat":-3.5186763,"lon":102.5359834,"tags":{"name:eo":"Bengkulao"}},{"type":"node","id":1898283453,"lat":-1.611572,"lon":102.779699,"tags":{"name:eo":"Ĝambio"}},{"type":"node","id":1898283456,"lat":-4.8555039,"lon":105.0272986,"tags":{"name:eo":"Lampungo"}},{"type":"node","id":1898283463,"lat":2.1923519,"lon":99.3812201,"tags":{"name:eo":"Norda Sumatro"}},{"type":"node","id":1898283470,"lat":0.5004112,"lon":101.5475811,"tags":{"name:eo":"Riauo"}},{"type":"node","id":1898283476,"lat":-3.1266842,"lon":104.0930554,"tags":{"name:eo":"Suda Sumatro"}},{"type":"node","id":1898283479,"lat":-0.5827529,"lon":100.6133379,"tags":{"name:eo":"Okcidenta Sumatro"}},{"type":"node","id":1898293041,"lat":-1.499583,"lon":113.2903307,"tags":{"name:eo":"Centra Kalimantano"}},{"type":"node","id":1898293062,"lat":0.7884397,"lon":116.2419977,"tags":{"name:eo":"Norda Kalimantano"}},{"type":"node","id":1898293069,"lat":-2.9434835,"lon":115.3756508,"tags":{"name:eo":"Suda Kalimantano"}},{"type":"node","id":1898293079,"lat":-0.1322387,"lon":111.0968901,"tags":{"name:eo":"Okcidenta Kalimantano"}},{"type":"node","id":1898306495,"lat":-1.6937786,"lon":120.8088555,"tags":{"name:eo":"Centra Sulaveso"}},{"type":"node","id":1898306501,"lat":0.7186174,"lon":122.4555927,"tags":{"name:eo":"Gorontalo"}},{"type":"node","id":1898306505,"lat":0.6555692,"lon":124.090151,"tags":{"name:eo":"Norda Sulaveso"}},{"type":"node","id":1898306512,"lat":-3.6446718,"lon":119.9471906,"tags":{"name:eo":"Suda Sulaveso"}},{"type":"node","id":1898306518,"lat":-3.5491199,"lon":121.7279646,"tags":{"name:eo":"Sudorienta Sulaveso"}},{"type":"node","id":1898306525,"lat":-2.4974546,"lon":119.3918955,"tags":{"name:eo":"Okcidenta Sulaveso"}},{"type":"node","id":1898313611,"lat":-3.9885728,"lon":138.3485219,"tags":{"name:eo":"Papuo"}},{"type":"node","id":1898313612,"lat":-1.3842356,"lon":132.902528,"tags":{"name:eo":"Okcidenta Papuo"}},{"type":"node","id":1898333935,"lat":-2.7052886,"lon":106.3585607,"tags":{"name:eo":"Bangka-Belitungo"}},{"type":"node","id":1898333938,"lat":-0.1547846,"lon":104.5803745,"tags":{"name:eo":"Riau-insuloj"}},{"type":"node","id":1898352059,"lat":-3.118837,"lon":129.4207759,"tags":{"name:eo":"Malukoj"}},{"type":"node","id":1898352062,"lat":0.6301215,"lon":127.9720219,"tags":{"name:eo":"Nordaj Malukoj"}},{"type":"node","id":1900155946,"lat":33.3940067,"lon":126.5626688,"tags":{"name:eo":"Jeju-do"}},{"type":"node","id":1903366790,"lat":38.2628262,"lon":125.476901,"tags":{"name:eo":"Sud-Hŭanghae"}},{"type":"node","id":1939592594,"lat":22.1899448,"lon":113.5380454,"tags":{"name:eo":"Makao"}},{"type":"node","id":1971329414,"lat":-21.9182856,"lon":144.4588889,"tags":{"name:eo":"Kvinslando"}},{"type":"node","id":1998904343,"lat":20.8542575,"lon":-99.84756,"tags":{"name:eo":"Keretaro"}},{"type":"node","id":2049929146,"lat":-35.1494368,"lon":150.7085321,"tags":{"name:eo":"Teritorio de Golfeto Jervis"}},{"type":"node","id":2050132586,"lat":52.5198535,"lon":13.4385964,"tags":{"name:eo":"Berlino"}},{"type":"node","id":2050186944,"lat":53.144869,"lon":8.6932343,"tags":{"name:eo":"Bremeno"}},{"type":"node","id":2050243275,"lat":59.9606739,"lon":30.1586551,"tags":{"name:eo":"Sankt-Peterburgo"}},{"type":"node","id":2160052315,"lat":30.0338923,"lon":-115.1425107,"tags":{"name:eo":"Malsupra Kalifornio"}},{"type":"node","id":2160053456,"lat":25.5818014,"lon":-111.5706164,"tags":{"name:eo":"Malsupra Sudkalifornio"}},{"type":"node","id":2160053458,"lat":20.6845957,"lon":-88.8755669,"tags":{"name:eo":"Jukatano"}},{"type":"node","id":2237699936,"lat":15.9240905,"lon":80.1863809,"tags":{"name:eo":"Andra-Pradeŝo"}},{"type":"node","id":2237699941,"lat":15.3004543,"lon":74.0855134,"tags":{"name:eo":"Goao"}},{"type":"node","id":2237699947,"lat":14.5203896,"lon":75.7223521,"tags":{"name:eo":"Karnatako"}},{"type":"node","id":2237699954,"lat":10.3529588,"lon":76.5119752,"tags":{"name:eo":"Keralao"}},{"type":"node","id":2237699956,"lat":19.531932,"lon":76.0554568,"tags":{"name:eo":"Maharaŝtro"}},{"type":"node","id":2237699963,"lat":10.9094334,"lon":78.3665347,"tags":{"name:eo":"Tamilnado"}},{"type":"node","id":2240851562,"lat":28.3641989,"lon":94.7586273,"tags":{"name:eo":"Arunaĉal-Pradeŝo"}},{"type":"node","id":2240851570,"lat":26.4073841,"lon":93.2551303,"tags":{"name:eo":"Asamo"}},{"type":"node","id":2240851573,"lat":24.7208818,"lon":93.9229386,"tags":{"name:eo":"Manipuro"}},{"type":"node","id":2240851577,"lat":25.5379432,"lon":91.2999102,"tags":{"name:eo":"Meghalajo"}},{"type":"node","id":2240851584,"lat":23.2146169,"lon":92.8687612,"tags":{"name:eo":"Mizoramo"}},{"type":"node","id":2240851587,"lat":26.1630556,"lon":94.5884911,"tags":{"name:eo":"Nagalando"}},{"type":"node","id":2240851596,"lat":23.7750823,"lon":91.7025091,"tags":{"name:eo":"Tripuro"}},{"type":"node","id":2240945362,"lat":25.6440845,"lon":85.906508,"tags":{"name:eo":"Biharo"}},{"type":"node","id":2240945367,"lat":31.9292352,"lon":77.1828462,"tags":{"name:eo":"Himaĉal-Pradeŝo"}},{"type":"node","id":2240945372,"lat":34.0476564,"lon":76.7972892,"tags":{"name:eo":"Ĝamuo kaj Kaŝmiro"}},{"type":"node","id":2240945375,"lat":30.9293211,"lon":75.5004841,"tags":{"name:eo":"Panĝabo"}},{"type":"node","id":2240945378,"lat":26.8105777,"lon":73.7684549,"tags":{"name:eo":"Raĝastano"}},{"type":"node","id":2240945383,"lat":27.1303344,"lon":80.859666,"tags":{"name:eo":"Utar-Pradeŝo"}},{"type":"node","id":2240945388,"lat":30.0417376,"lon":79.089691,"tags":{"name:eo":"Utarakando"}},{"type":"node","id":2240991947,"lat":21.6637358,"lon":81.8406351,"tags":{"name:eo":"Ĉatisgaro"}},{"type":"node","id":2240991954,"lat":23.1923325,"lon":71.9329241,"tags":{"name:eo":"Guĝarato"}},{"type":"node","id":2240991958,"lat":23.4559809,"lon":85.2557301,"tags":{"name:eo":"Ĝharkhando"}},{"type":"node","id":2240991961,"lat":23.8143419,"lon":77.5340719,"tags":{"name:eo":"Madhja-Pradeŝo"}},{"type":"node","id":2240991967,"lat":20.5431241,"lon":84.6897321,"tags":{"name:eo":"Oriso"}},{"type":"node","id":2240991970,"lat":22.9964948,"lon":87.6855882,"tags":{"name:eo":"Okcidenta Bengalio"}},{"type":"node","id":2281482629,"lat":27.7567667,"lon":-81.4639835,"tags":{"name:eo":"Florido"}},{"type":"node","id":2294586133,"lat":-53.0242765,"lon":72.9231353,"tags":{"name:eo":"Herda kaj Makdonaldaj Insuloj"}},{"type":"node","id":2294591720,"lat":-12.2354389,"lon":123.0851206,"tags":{"name:eo":"Aŝmora kaj Kartia Insuloj"}},{"type":"node","id":2452912060,"lat":55.4792046,"lon":37.3273304,"tags":{"name:eo":"Moskvo"}},{"type":"node","id":2497852043,"lat":50.6118537,"lon":9.1909725,"tags":{"name:eo":"Hesio"}},{"type":"node","id":2524799308,"lat":11.6297894,"lon":122.2481177,"tags":{"name:eo":"Aklano"}},{"type":"node","id":2524799310,"lat":11.3852987,"lon":122.6377315,"tags":{"name:eo":"Kapiso"}},{"type":"node","id":2524799311,"lat":10.9534597,"lon":122.5756326,"tags":{"name:eo":"Iloilo"}},{"type":"node","id":2524841956,"lat":10.5730629,"lon":122.6238907,"tags":{"name:eo":"Gimaroj"}},{"type":"node","id":2524841959,"lat":15.5277375,"lon":120.4192688,"tags":{"name:eo":"Tarlako"}},{"type":"node","id":2524841962,"lat":10.1577932,"lon":125.5851827,"tags":{"name:eo":"Dinagata Insularo"}},{"type":"node","id":2526052935,"lat":9.5721534,"lon":-70.5363079,"tags":{"name:eo":"Trujillo"}},{"type":"node","id":2604557728,"lat":-69.1726389,"lon":138.960274,"tags":{"name:eo":"Adelilando"}},{"type":"node","id":2614266154,"lat":-4.479925,"lon":-63.5185396,"tags":{"name:eo":"Amazonio"}},{"type":"node","id":2614275264,"lat":-15.7754462,"lon":-47.7970891,"tags":{"name:eo":"Federacia Distrikto"}},{"type":"node","id":2642288017,"lat":52.2928116,"lon":-3.73893,"tags":{"name:eo":"Kimrio"}},{"type":"node","id":2704047246,"lat":44.4179637,"lon":109.7783753,"tags":{"name:eo":"Orientogobia Provinco"}},{"type":"node","id":2704047299,"lat":43.282363,"lon":104.1133864,"tags":{"name:eo":"Sudgobia Provinco"}},{"type":"node","id":2747319984,"lat":-29.5816942,"lon":27.8243208,"tags":{"name:eo":"Maseruo"}},{"type":"node","id":2811123364,"lat":5.4091179,"lon":-4.0422099,"tags":{"name:eo":"Abiĝano"}},{"type":"node","id":2845526137,"lat":17.8495919,"lon":79.1151663,"tags":{"name:eo":"Telangano"}},{"type":"node","id":2854906387,"lat":-14,"lon":-65,"tags":{"name:eo":"Beniio"}},{"type":"node","id":2854906388,"lat":-20,"lon":-64.416667,"tags":{"name:eo":"Ĉukisakio"}},{"type":"node","id":2854906389,"lat":-17.333333,"lon":-65.5,"tags":{"name:eo":"Koĉapampio"}},{"type":"node","id":2854906390,"lat":-15,"lon":-68.333333,"tags":{"name:eo":"La-Pazio"}},{"type":"node","id":2854906391,"lat":-11.183333,"lon":-67.183333,"tags":{"name:eo":"Pando"}},{"type":"node","id":2854906392,"lat":-17.333333,"lon":-61.5,"tags":{"name:eo":"Santa-Kruzio"}},{"type":"node","id":2854906393,"lat":-21.583333,"lon":-63.833333,"tags":{"name:eo":"Tariŝio"}},{"type":"node","id":2890584085,"lat":-18.666667,"lon":-67.666667,"tags":{"name:eo":"Uruio"}},{"type":"node","id":2890584086,"lat":-20.666667,"lon":-66.666667,"tags":{"name:eo":"Potosiio"}},{"type":"node","id":2925154705,"lat":40.2390918,"lon":127.64342,"tags":{"name:eo":"Sud-Hamgjong"}},{"type":"node","id":3140016266,"lat":45.7684014,"lon":39.0261044,"tags":{"name:eo":"Krasnodara regiono"}},{"type":"node","id":3171863462,"lat":30.05518,"lon":107.8748712,"tags":{"name:eo":"Ĉongĉingo"}},{"type":"node","id":3171874991,"lat":40.190632,"lon":116.412144,"tags":{"name:eo":"Pekino"}},{"type":"node","id":3171897223,"lat":39.3032619,"lon":117.4163641,"tags":{"name:eo":"Tjanĝino"}},{"type":"node","id":3513471344,"lat":43.3133868,"lon":-5.94192,"tags":{"name:eo":"Asturio"}},{"type":"node","id":3513471345,"lat":43.1595664,"lon":-4.0878382,"tags":{"name:eo":"Kantabrio"}},{"type":"node","id":3513471346,"lat":42.9911816,"lon":-2.5543023,"tags":{"name:eo":"Eŭska Aŭtonoma Komunumo"}},{"type":"node","id":3513476360,"lat":35.8800104,"lon":-5.3180669,"tags":{"name:eo":"Ceǔto"}},{"type":"node","id":3573560593,"lat":-23.3161458,"lon":-65.7595288,"tags":{"name:eo":"Ĥuĥujo"}},{"type":"node","id":3679338874,"lat":49.8299582,"lon":36.3788957,"tags":{"name:eo":"Ĥarkiva Provinco"}},{"type":"node","id":3708224038,"lat":39.5416505,"lon":126.0647645,"tags":{"name:eo":"Sud-Pjongan"}},{"type":"node","id":3916953897,"lat":49.0677708,"lon":0.3138532,"tags":{"name:eo":"Normandio"}},{"type":"node","id":3922422892,"lat":50.1024606,"lon":2.7247515,"tags":{"name:eo":"Nordo-Kaleza Markolo kaj Pikardio"}},{"type":"node","id":4189263789,"lat":49.653721,"lon":2.5339474,"tags":{"name:eo":"Pikardio"}},{"type":"node","id":4189298057,"lat":50.4806465,"lon":2.7937371,"tags":{"name:eo":"Nordo-Kaleza Markolo"}},{"type":"node","id":4289923286,"lat":51.4162975,"lon":3.7028061,"tags":{"name:eo":"Zelando"}},{"type":"node","id":4289948985,"lat":52.4484375,"lon":5.4235397,"tags":{"name:eo":"Flevolando"}},{"type":"node","id":4289948986,"lat":51.2008195,"lon":5.9041916,"tags":{"name:eo":"Limburgo"}},{"type":"node","id":4289948987,"lat":51.6017723,"lon":5.4441391,"tags":{"name:eo":"Norda Brabanto"}},{"type":"node","id":4289948988,"lat":52.7212825,"lon":4.820665,"tags":{"name:eo":"Norda Holando"}},{"type":"node","id":4289949089,"lat":52.037247,"lon":5.1859604,"tags":{"name:eo":"Utreĥto"}},{"type":"node","id":4289949090,"lat":51.9966792,"lon":4.5597397,"tags":{"name:eo":"Suda Holando"}},{"type":"node","id":4289950999,"lat":52.1014041,"lon":5.9515701,"tags":{"name:eo":"Gelderlando"}},{"type":"node","id":4289951023,"lat":52.9067922,"lon":6.6368423,"tags":{"name:eo":"Drento"}},{"type":"node","id":4289960493,"lat":53.0923689,"lon":5.777043,"tags":{"name:eo":"Frislando"}},{"type":"node","id":4347988419,"lat":42.9903482,"lon":142.4962523,"tags":{"name:eo":"Hokajdo"}},{"type":"node","id":4351432485,"lat":13.7538929,"lon":100.8160803,"tags":{"name:eo":"Bankoko"}},{"type":"node","id":4493451168,"lat":55.5321257,"lon":-106.1412243,"tags":{"name:eo":"Saskaĉevano"}}]}
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-01-20T10:47:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 671022,
+			"lat": 36.7014631,
+			"lon": -118.7559974,
+			"tags": {
+				"name:eo": "Kalifornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 24330691,
+			"lat": 22.350627,
+			"lon": 114.1849161,
+			"tags": {
+				"name:eo": "Hongkongo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25842885,
+			"lat": -35.4883502,
+			"lon": 149.0026942,
+			"tags": {
+				"name:eo": "Aŭstralia Ĉefurba Teritorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34724864,
+			"lat": 47.2868352,
+			"lon": -120.2126139,
+			"tags": {
+				"name:eo": "Vaŝingtonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 61083317,
+			"lat": 42.1640662,
+			"lon": 9.0982074,
+			"tags": {
+				"name:eo": "Korsiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240037510,
+			"lat": 47.5000001,
+			"lon": 16.4166666,
+			"tags": {
+				"name:eo": "Burgenlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240063738,
+			"lat": 53.555079,
+			"lon": 9.997025,
+			"tags": {
+				"name:eo": "Hamburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240109398,
+			"lat": 47.2500001,
+			"lon": 15.1666665,
+			"tags": {
+				"name:eo": "Stirio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244075779,
+			"lat": 32,
+			"lon": 117,
+			"tags": {
+				"name:eo": "Anhujo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244079315,
+			"lat": 26.5450001,
+			"lon": 117.842778,
+			"tags": {
+				"name:eo": "Fuĝjano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244079544,
+			"lat": 38.0000001,
+			"lon": 101.9999999,
+			"tags": {
+				"name:eo": "Gansuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080393,
+			"lat": 27,
+			"lon": 107,
+			"tags": {
+				"name:eo": "Gŭiĝoŭo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080439,
+			"lat": 23.1357694,
+			"lon": 113.1982688,
+			"tags": {
+				"name:eo": "Gŭangdongo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080442,
+			"lat": 24,
+			"lon": 109,
+			"tags": {
+				"name:eo": "Gvangŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080467,
+			"lat": 39.0000001,
+			"lon": 116,
+			"tags": {
+				"name:eo": "Hebejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080473,
+			"lat": 48.0000047,
+			"lon": 127.999992,
+			"tags": {
+				"name:eo": "Hejlongĝjango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080486,
+			"lat": 34.0000001,
+			"lon": 113.9999999,
+			"tags": {
+				"name:eo": "Henano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080524,
+			"lat": 19.2000001,
+			"lon": 109.5999999,
+			"tags": {
+				"name:eo": "Hajnano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080661,
+			"lat": 31,
+			"lon": 112,
+			"tags": {
+				"name:eo": "Hubejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080670,
+			"lat": 27.9995878,
+			"lon": 112.009538,
+			"tags": {
+				"name:eo": "Hunano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080735,
+			"lat": 33.0000001,
+			"lon": 119.9999999,
+			"tags": {
+				"name:eo": "Ĝjangsuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080737,
+			"lat": 28,
+			"lon": 116,
+			"tags": {
+				"name:eo": "Ĝjangŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080890,
+			"lat": 42.9995032,
+			"lon": 125.9816054,
+			"tags": {
+				"name:eo": "Ĝilinio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081110,
+			"lat": 40.9975197,
+			"lon": 122.9955469,
+			"tags": {
+				"name:eo": "Ljaŭningo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081311,
+			"lat": 37.0000001,
+			"lon": 105.9999999,
+			"tags": {
+				"name:eo": "Ningŝjao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081449,
+			"lat": 43.2443242,
+			"lon": 114.3251664,
+			"tags": {
+				"name:eo": "Interna Mongolio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081488,
+			"lat": 36,
+			"lon": 96,
+			"tags": {
+				"name:eo": "Ĉinghajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081618,
+			"lat": 37,
+			"lon": 112,
+			"tags": {
+				"name:eo": "Ŝanŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081643,
+			"lat": 36.0000001,
+			"lon": 118.9999999,
+			"tags": {
+				"name:eo": "Ŝandongo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081648,
+			"lat": 31.2322735,
+			"lon": 121.4691749,
+			"tags": {
+				"name:eo": "Ŝanghajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081655,
+			"lat": 36,
+			"lon": 109,
+			"tags": {
+				"name:eo": "Ŝenŝjio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081852,
+			"lat": 30.5000001,
+			"lon": 102.4999999,
+			"tags": {
+				"name:eo": "Siĉvano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244082468,
+			"lat": 32.0000002,
+			"lon": 89.9999998,
+			"tags": {
+				"name:eo": "Tibeto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244082773,
+			"lat": 25,
+			"lon": 102,
+			"tags": {
+				"name:eo": "Junano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083009,
+			"lat": 29.0000001,
+			"lon": 119.9999999,
+			"tags": {
+				"name:eo": "Ĝeĝjango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399410,
+			"lat": 46.8374544,
+			"lon": -56.2120555,
+			"tags": {
+				"name:eo": "Sankta-Piero kaj Mikelono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399460,
+			"lat": -12.823048,
+			"lon": 45.1520755,
+			"tags": {
+				"name:eo": "Majoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951004,
+			"lat": -31.8759835,
+			"lon": 147.2869493,
+			"tags": {
+				"name:eo": "Novsudkimrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951005,
+			"lat": -25.2303005,
+			"lon": 121.0187246,
+			"tags": {
+				"name:eo": "Okcidenta Aŭstralio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951006,
+			"lat": -19.8516101,
+			"lon": 133.2303375,
+			"tags": {
+				"name:eo": "Norda Teritorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951007,
+			"lat": -30.5343665,
+			"lon": 135.6301212,
+			"tags": {
+				"name:eo": "Suda Aŭstralio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951008,
+			"lat": -42.035067,
+			"lon": 146.6366887,
+			"tags": {
+				"name:eo": "Tasmanio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951009,
+			"lat": -36.5986096,
+			"lon": 144.6780052,
+			"tags": {
+				"name:eo": "Viktorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626603,
+			"lat": 25.0000001,
+			"lon": -107.5000001,
+			"tags": {
+				"name:eo": "Sinaloo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626605,
+			"lat": 18.833333,
+			"lon": -98,
+			"tags": {
+				"name:eo": "Pŭeblo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626607,
+			"lat": 17.9999288,
+			"lon": -92.6681659,
+			"tags": {
+				"name:eo": "Tabasko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626610,
+			"lat": 29.3333331,
+			"lon": -110.6666671,
+			"tags": {
+				"name:eo": "Sonoro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626614,
+			"lat": 22.0000001,
+			"lon": -105.0000001,
+			"tags": {
+				"name:eo": "Najarito"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626616,
+			"lat": 23.9891553,
+			"lon": -98.7026825,
+			"tags": {
+				"name:eo": "Tamaŭlipo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626619,
+			"lat": 22.5000001,
+			"lon": -100.5000001,
+			"tags": {
+				"name:eo": "Sanluispotosio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626621,
+			"lat": 19.6666671,
+			"lon": -88.5000001,
+			"tags": {
+				"name:eo": "Kintanaroo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626639,
+			"lat": 19.207098,
+			"lon": -101.878113,
+			"tags": {
+				"name:eo": "Miĉoakano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626642,
+			"lat": 24.833333,
+			"lon": -104.833333,
+			"tags": {
+				"name:eo": "Durango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626645,
+			"lat": 19.416667,
+			"lon": -98.166667,
+			"tags": {
+				"name:eo": "Tlakskalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626882,
+			"lat": 20.3333331,
+			"lon": -103.6666671,
+			"tags": {
+				"name:eo": "Ĥalisko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626889,
+			"lat": 19.4839446,
+			"lon": -99.6899716,
+			"tags": {
+				"name:eo": "Meksiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626892,
+			"lat": 17,
+			"lon": -96.5,
+			"tags": {
+				"name:eo": "Oaĥako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626893,
+			"lat": 28.5000001,
+			"lon": -106.0000001,
+			"tags": {
+				"name:eo": "Ĉiŭaŭo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626894,
+			"lat": 16.5000001,
+			"lon": -92.5000001,
+			"tags": {
+				"name:eo": "Ĉiapo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626895,
+			"lat": 18.75,
+			"lon": -99,
+			"tags": {
+				"name:eo": "Moreloo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626896,
+			"lat": 27.3333331,
+			"lon": -102.0000001,
+			"tags": {
+				"name:eo": "Koaŭilo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626897,
+			"lat": 21,
+			"lon": -101,
+			"tags": {
+				"name:eo": "Gvanaĥuato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626898,
+			"lat": 19.333333,
+			"lon": -96.666667,
+			"tags": {
+				"name:eo": "Verakruco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626899,
+			"lat": 23.0000001,
+			"lon": -103.0000001,
+			"tags": {
+				"name:eo": "Zakateko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626900,
+			"lat": 17.666667,
+			"lon": -100,
+			"tags": {
+				"name:eo": "Gerero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626901,
+			"lat": 26.2384363,
+			"lon": -99.8873,
+			"tags": {
+				"name:eo": "Novleono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626902,
+			"lat": 19.166667,
+			"lon": -104,
+			"tags": {
+				"name:eo": "Kolimo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626903,
+			"lat": 20.5,
+			"lon": -99,
+			"tags": {
+				"name:eo": "Hidalgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626904,
+			"lat": 19,
+			"lon": -90.5,
+			"tags": {
+				"name:eo": "Kampeĉo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626905,
+			"lat": 22.0000001,
+			"lon": -102.5000001,
+			"tags": {
+				"name:eo": "Agvaskaljento"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700696,
+			"lat": 65.0000004,
+			"lon": -118,
+			"tags": {
+				"name:eo": "Nordokcidentaj Teritorioj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700699,
+			"lat": 55.001251,
+			"lon": -125.002441,
+			"tags": {
+				"name:eo": "Brita Kolumbio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700700,
+			"lat": 70.0000073,
+			"lon": -90,
+			"tags": {
+				"name:eo": "Nunavuto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700701,
+			"lat": 52.4760892,
+			"lon": -71.8258668,
+			"tags": {
+				"name:eo": "Kebekio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700702,
+			"lat": 50.000678,
+			"lon": -86.000977,
+			"tags": {
+				"name:eo": "Ontario"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700703,
+			"lat": 55.001251,
+			"lon": -115.002136,
+			"tags": {
+				"name:eo": "Alberto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700704,
+			"lat": 45.1955867,
+			"lon": -63.1658939,
+			"tags": {
+				"name:eo": "Nov-Skotio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700705,
+			"lat": 55.001251,
+			"lon": -97.001038,
+			"tags": {
+				"name:eo": "Manitobo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700706,
+			"lat": 53.8217327,
+			"lon": -61.2295532,
+			"tags": {
+				"name:eo": "Novlando kaj Labradoro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700707,
+			"lat": 63.000147,
+			"lon": -136.002502,
+			"tags": {
+				"name:eo": "Jukonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704361,
+			"lat": 14.166667,
+			"lon": 122.75,
+			"tags": {
+				"name:eo": "Nordaj Kamarinoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704363,
+			"lat": 12.833333,
+			"lon": 123.916667,
+			"tags": {
+				"name:eo": "Sorsogono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704366,
+			"lat": 8.84,
+			"lon": 126.15,
+			"tags": {
+				"name:eo": "Suda Surigao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704369,
+			"lat": 9.666667,
+			"lon": 125.633333,
+			"tags": {
+				"name:eo": "Norda Surigao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704371,
+			"lat": 10,
+			"lon": 118.75,
+			"tags": {
+				"name:eo": "Palavano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704375,
+			"lat": 9.166667,
+			"lon": 124.75,
+			"tags": {
+				"name:eo": "Kamigino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704377,
+			"lat": 5.2057,
+			"lon": 120.0265,
+			"tags": {
+				"name:eo": "Tavi-Tavio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704379,
+			"lat": 14.666667,
+			"lon": 120.416667,
+			"tags": {
+				"name:eo": "Bataano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704381,
+			"lat": 16.283333,
+			"lon": 121.583333,
+			"tags": {
+				"name:eo": "Kirino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704383,
+			"lat": 10.95,
+			"lon": 124.85,
+			"tags": {
+				"name:eo": "Lejteo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704385,
+			"lat": 6,
+			"lon": 121,
+			"tags": {
+				"name:eo": "Suluo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704387,
+			"lat": 6.166667,
+			"lon": 125,
+			"tags": {
+				"name:eo": "Suda Kotabato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704389,
+			"lat": 12.5,
+			"lon": 122.25,
+			"tags": {
+				"name:eo": "Romblono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704395,
+			"lat": 13.0000021,
+			"lon": 120.9166666,
+			"tags": {
+				"name:eo": "Okcidenta Mindoro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704401,
+			"lat": 9.75,
+			"lon": 123,
+			"tags": {
+				"name:eo": "Orienta Negroso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704407,
+			"lat": 13.666175,
+			"lon": 123.3265172,
+			"tags": {
+				"name:eo": "Sudaj Kamarinoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704412,
+			"lat": 17,
+			"lon": 122,
+			"tags": {
+				"name:eo": "Isabelo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704424,
+			"lat": 14.1696476,
+			"lon": 121.3336526,
+			"tags": {
+				"name:eo": "Laguno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704476,
+			"lat": 13.9,
+			"lon": 122,
+			"tags": {
+				"name:eo": "Kezono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704478,
+			"lat": 12.166667,
+			"lon": 123.583333,
+			"tags": {
+				"name:eo": "Masbato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704481,
+			"lat": 15.23,
+			"lon": 120.12,
+			"tags": {
+				"name:eo": "Zambaloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704484,
+			"lat": 10.45,
+			"lon": 123.84,
+			"tags": {
+				"name:eo": "Cebuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704488,
+			"lat": 8.72,
+			"lon": 124.84,
+			"tags": {
+				"name:eo": "Orienta Misamiso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704492,
+			"lat": 6.578645,
+			"lon": 122.034922,
+			"tags": {
+				"name:eo": "Basilano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704494,
+			"lat": 8.333333,
+			"lon": 123.7,
+			"tags": {
+				"name:eo": "Okcidenta Misamiso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704496,
+			"lat": 20.6442465,
+			"lon": 121.8939456,
+			"tags": {
+				"name:eo": "Batanoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704499,
+			"lat": 16.5,
+			"lon": 120.666667,
+			"tags": {
+				"name:eo": "Bengeto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704501,
+			"lat": 16.833333,
+			"lon": 121.166667,
+			"tags": {
+				"name:eo": "Ifugao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704503,
+			"lat": 8.016111,
+			"lon": 124.045278,
+			"tags": {
+				"name:eo": "Norda Lanao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704505,
+			"lat": 14.65,
+			"lon": 121.25,
+			"tags": {
+				"name:eo": "Rizalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704509,
+			"lat": 15.0251068,
+			"lon": 120.6870474,
+			"tags": {
+				"name:eo": "Pampango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704513,
+			"lat": 8.022778,
+			"lon": 124.998611,
+			"tags": {
+				"name:eo": "Bukidnono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704515,
+			"lat": 10.3475099,
+			"lon": 125.1250896,
+			"tags": {
+				"name:eo": "Suda Lejteo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704517,
+			"lat": 13.216667,
+			"lon": 123.55,
+			"tags": {
+				"name:eo": "Albajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704519,
+			"lat": 11.833333,
+			"lon": 125,
+			"tags": {
+				"name:eo": "Samaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704525,
+			"lat": 18.12,
+			"lon": 121.19,
+			"tags": {
+				"name:eo": "Apajao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704527,
+			"lat": 13.833333,
+			"lon": 124.25,
+			"tags": {
+				"name:eo": "Katanduanoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704529,
+			"lat": 13.416667,
+			"lon": 121.95,
+			"tags": {
+				"name:eo": "Marinduko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704531,
+			"lat": 13.2,
+			"lon": 121.2,
+			"tags": {
+				"name:eo": "Orienta Mindoro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704533,
+			"lat": 16,
+			"lon": 121.75,
+			"tags": {
+				"name:eo": "Aŭroro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704538,
+			"lat": 11.73,
+			"lon": 125.37,
+			"tags": {
+				"name:eo": "Orienta Samaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704540,
+			"lat": 7.166667,
+			"lon": 126.333333,
+			"tags": {
+				"name:eo": "Orienta Davao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704543,
+			"lat": 6.27,
+			"lon": 125.6,
+			"tags": {
+				"name:eo": "Suda Davao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704545,
+			"lat": 16.5735957,
+			"lon": 120.4089899,
+			"tags": {
+				"name:eo": "La-Unio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704547,
+			"lat": 12.42,
+			"lon": 124.81,
+			"tags": {
+				"name:eo": "Norda Samaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704550,
+			"lat": 11.1705066,
+			"lon": 122.083333,
+			"tags": {
+				"name:eo": "Antiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704552,
+			"lat": 17.2,
+			"lon": 120.5,
+			"tags": {
+				"name:eo": "Suda Iloko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704556,
+			"lat": 15.583333,
+			"lon": 121,
+			"tags": {
+				"name:eo": "Nova Ekijo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704558,
+			"lat": 15.916667,
+			"lon": 120.333333,
+			"tags": {
+				"name:eo": "Pangasinano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704560,
+			"lat": 13.916453,
+			"lon": 121.0864884,
+			"tags": {
+				"name:eo": "Batangoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704561,
+			"lat": 7.9043,
+			"lon": 123.3194,
+			"tags": {
+				"name:eo": "Suda Zamboango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704564,
+			"lat": 17.583333,
+			"lon": 120.75,
+			"tags": {
+				"name:eo": "Abrao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704566,
+			"lat": 18,
+			"lon": 121.833333,
+			"tags": {
+				"name:eo": "Kagajano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704568,
+			"lat": 14.25,
+			"lon": 120.833333,
+			"tags": {
+				"name:eo": "Kavito"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704570,
+			"lat": 6.55,
+			"lon": 124.283333,
+			"tags": {
+				"name:eo": "Sultan-Kudarato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704573,
+			"lat": 8,
+			"lon": 122.666667,
+			"tags": {
+				"name:eo": "Norda Zamboango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704575,
+			"lat": 8.92,
+			"lon": 125.46,
+			"tags": {
+				"name:eo": "Norda Agusano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704576,
+			"lat": 7.916667,
+			"lon": 124.333333,
+			"tags": {
+				"name:eo": "Suda Lanao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704577,
+			"lat": 16.35,
+			"lon": 121.13,
+			"tags": {
+				"name:eo": "Novaj Bisajoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704578,
+			"lat": 10.416667,
+			"lon": 123,
+			"tags": {
+				"name:eo": "Okcidenta Negroso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704579,
+			"lat": 7.02,
+			"lon": 124.26,
+			"tags": {
+				"name:eo": "Magindanao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704582,
+			"lat": 9.833333,
+			"lon": 124.1615579,
+			"tags": {
+				"name:eo": "Boholo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704584,
+			"lat": 15,
+			"lon": 121.083333,
+			"tags": {
+				"name:eo": "Bulakano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704585,
+			"lat": 18.166667,
+			"lon": 120.75,
+			"tags": {
+				"name:eo": "Norda Iloko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704587,
+			"lat": 8.36,
+			"lon": 125.71,
+			"tags": {
+				"name:eo": "Suda Agusano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305704588,
+			"lat": 5.874722,
+			"lon": 125.275278,
+			"tags": {
+				"name:eo": "Saranganio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394501,
+			"lat": 7.0000085,
+			"lon": -73.2500086,
+			"tags": {
+				"name:eo": "Santandero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394504,
+			"lat": 3.5000086,
+			"lon": -73.0000086,
+			"tags": {
+				"name:eo": "Metao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394506,
+			"lat": 12.8086902,
+			"lon": -81.4908431,
+			"tags": {
+				"name:eo": "Sankta Andreo kaj Providenco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394508,
+			"lat": 2.715645,
+			"lon": -76.662665,
+			"tags": {
+				"name:eo": "Kaŭko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394511,
+			"lat": 11.2780115,
+			"lon": -72.6135766,
+			"tags": {
+				"name:eo": "La Gŭaĥira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394513,
+			"lat": 8.3344713,
+			"lon": -75.6666238,
+			"tags": {
+				"name:eo": "Kordovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394516,
+			"lat": 6.0000085,
+			"lon": -77.0000086,
+			"tags": {
+				"name:eo": "Ĉokoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394518,
+			"lat": 1.6894444,
+			"lon": -72.8202864,
+			"tags": {
+				"name:eo": "Gŭavjaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394521,
+			"lat": 2.5000086,
+			"lon": -69.0000086,
+			"tags": {
+				"name:eo": "Gvajnio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394523,
+			"lat": 3.7500086,
+			"lon": -75.2500086,
+			"tags": {
+				"name:eo": "Tolimo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394524,
+			"lat": 1.5,
+			"lon": -78.0000086,
+			"tags": {
+				"name:eo": "Narino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394527,
+			"lat": 9,
+			"lon": -74.333333,
+			"tags": {
+				"name:eo": "Bolivaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394531,
+			"lat": 1.1153385,
+			"lon": -74.1056838,
+			"tags": {
+				"name:eo": "Kaketao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394536,
+			"lat": 5.5000085,
+			"lon": -71.5000086,
+			"tags": {
+				"name:eo": "Kasanareo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394540,
+			"lat": 9.3333415,
+			"lon": -73.5000086,
+			"tags": {
+				"name:eo": "Cezaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394543,
+			"lat": 10.0000085,
+			"lon": -74.5000086,
+			"tags": {
+				"name:eo": "Magdaleno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394548,
+			"lat": 6.6666755,
+			"lon": -71.0000086,
+			"tags": {
+				"name:eo": "Araŭko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394550,
+			"lat": -1.0197136,
+			"lon": -71.9383333,
+			"tags": {
+				"name:eo": "Amazono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394554,
+			"lat": 8.4417924,
+			"lon": -73.0492505,
+			"tags": {
+				"name:eo": "Norda Santandero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394556,
+			"lat": 4.3435926,
+			"lon": -75.7232898,
+			"tags": {
+				"name:eo": "Kindio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394557,
+			"lat": 10.7500084,
+			"lon": -75.0000086,
+			"tags": {
+				"name:eo": "Atlantiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394560,
+			"lat": 4.3624881,
+			"lon": -74.1837703,
+			"tags": {
+				"name:eo": "Ĉefurba Distrikto de Bogoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394562,
+			"lat": 5.3302514,
+			"lon": -75.2873471,
+			"tags": {
+				"name:eo": "Kaldaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394564,
+			"lat": 0.5000086,
+			"lon": -76.0000086,
+			"tags": {
+				"name:eo": "Putumajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394567,
+			"lat": 7.0000085,
+			"lon": -75.5000086,
+			"tags": {
+				"name:eo": "Antjokio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394570,
+			"lat": 5.0000086,
+			"lon": -74.1666756,
+			"tags": {
+				"name:eo": "Kundinamarko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394572,
+			"lat": 9,
+			"lon": -75,
+			"tags": {
+				"name:eo": "Sukreo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394574,
+			"lat": 5.0000086,
+			"lon": -69.5000086,
+			"tags": {
+				"name:eo": "Viĉado"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394577,
+			"lat": 2.4738993,
+			"lon": -75.5900113,
+			"tags": {
+				"name:eo": "Ujlao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394579,
+			"lat": 0.2500086,
+			"lon": -70.7500086,
+			"tags": {
+				"name:eo": "Vaŭpeso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394580,
+			"lat": 5.6278979,
+			"lon": -72.8268617,
+			"tags": {
+				"name:eo": "Bojakao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 306394583,
+			"lat": 5.2102948,
+			"lon": -75.9842236,
+			"tags": {
+				"name:eo": "Risaraldo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466830,
+			"lat": 8.7773719,
+			"lon": -71.1565218,
+			"tags": {
+				"name:eo": "Merido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466839,
+			"lat": 8.166667,
+			"lon": -69.833333,
+			"tags": {
+				"name:eo": "Barinaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466859,
+			"lat": 10,
+			"lon": -67.166667,
+			"tags": {
+				"name:eo": "Aragŭo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466896,
+			"lat": 11,
+			"lon": -64,
+			"tags": {
+				"name:eo": "Nova Sparto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466923,
+			"lat": 10.0437564,
+			"lon": -72.2191181,
+			"tags": {
+				"name:eo": "Zulio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466933,
+			"lat": 7.166667,
+			"lon": -68.833333,
+			"tags": {
+				"name:eo": "Apuro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466942,
+			"lat": 6.333333,
+			"lon": -63.5,
+			"tags": {
+				"name:eo": "Bolivaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466946,
+			"lat": 9.333333,
+			"lon": -68.333333,
+			"tags": {
+				"name:eo": "Kojedeso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466992,
+			"lat": 3.5,
+			"lon": -66,
+			"tags": {
+				"name:eo": "Amazonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466993,
+			"lat": 9,
+			"lon": -64.5,
+			"tags": {
+				"name:eo": "Anzoategio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313466997,
+			"lat": 8.666667,
+			"lon": -66.583333,
+			"tags": {
+				"name:eo": "Gŭariko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467022,
+			"lat": 10.166667,
+			"lon": -68.083333,
+			"tags": {
+				"name:eo": "Karabobo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467040,
+			"lat": 9.333333,
+			"lon": -63,
+			"tags": {
+				"name:eo": "Monagaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467043,
+			"lat": 12.7203446,
+			"lon": -65.239013,
+			"tags": {
+				"name:eo": "Venezuelaj Federaciaj Dependaĵoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467044,
+			"lat": 10.2284518,
+			"lon": -69.8197975,
+			"tags": {
+				"name:eo": "Laro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467048,
+			"lat": 10.416667,
+			"lon": -63.5,
+			"tags": {
+				"name:eo": "Sukro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467056,
+			"lat": 7.9805778,
+			"lon": -72.097576,
+			"tags": {
+				"name:eo": "Taĉiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467058,
+			"lat": 10.5053491,
+			"lon": -66.9147206,
+			"tags": {
+				"name:eo": "Federacia Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467066,
+			"lat": 10.25,
+			"lon": -66.416667,
+			"tags": {
+				"name:eo": "Mirando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467071,
+			"lat": 9.166667,
+			"lon": -69.25,
+			"tags": {
+				"name:eo": "Portugeso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467090,
+			"lat": 11,
+			"lon": -69.833333,
+			"tags": {
+				"name:eo": "Falkono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313753808,
+			"lat": 4.0039882,
+			"lon": -52.999998,
+			"tags": {
+				"name:eo": "Gujano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316416994,
+			"lat": 28.6273928,
+			"lon": 77.1716954,
+			"tags": {
+				"name:eo": "Delhio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316417213,
+			"lat": 29,
+			"lon": 76,
+			"tags": {
+				"name:eo": "Harjano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316417278,
+			"lat": 10.2188344,
+			"lon": 92.5771329,
+			"tags": {
+				"name:eo": "Andamanoj kaj Nikobaroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316440942,
+			"lat": 28,
+			"lon": 66,
+			"tags": {
+				"name:eo": "Baluĉio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316647532,
+			"lat": 33.2588817,
+			"lon": -86.8295337,
+			"tags": {
+				"name:eo": "Alabamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316940520,
+			"lat": 34.395342,
+			"lon": -111.7632755,
+			"tags": {
+				"name:eo": "Arizono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316942960,
+			"lat": 35.2048883,
+			"lon": -92.4479108,
+			"tags": {
+				"name:eo": "Arkansaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945104,
+			"lat": 38.7251776,
+			"lon": -105.6077167,
+			"tags": {
+				"name:eo": "Koloradio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945353,
+			"lat": 41.6500201,
+			"lon": -72.7342163,
+			"tags": {
+				"name:eo": "Konektikuto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945699,
+			"lat": 38.6920451,
+			"lon": -75.4013315,
+			"tags": {
+				"name:eo": "Delavaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316949496,
+			"lat": 32.3293809,
+			"lon": -83.1137366,
+			"tags": {
+				"name:eo": "Georgio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316949921,
+			"lat": 21.2160437,
+			"lon": -157.975203,
+			"tags": {
+				"name:eo": "Havajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316950582,
+			"lat": 43.6447642,
+			"lon": -114.0154071,
+			"tags": {
+				"name:eo": "Idaho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316954434,
+			"lat": 40.3270127,
+			"lon": -86.1746933,
+			"tags": {
+				"name:eo": "Indianio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316955537,
+			"lat": 41.9216734,
+			"lon": -93.3122705,
+			"tags": {
+				"name:eo": "Iovao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316956038,
+			"lat": 38.27312,
+			"lon": -98.5821872,
+			"tags": {
+				"name:eo": "Kansaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316959037,
+			"lat": 37.5726028,
+			"lon": -85.1551411,
+			"tags": {
+				"name:eo": "Kentukio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316961033,
+			"lat": 30.8703881,
+			"lon": -92.007126,
+			"tags": {
+				"name:eo": "Luiziano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316961875,
+			"lat": 45.709097,
+			"lon": -68.8590201,
+			"tags": {
+				"name:eo": "Majno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316964668,
+			"lat": 39.5162234,
+			"lon": -76.9382069,
+			"tags": {
+				"name:eo": "Marilando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316965734,
+			"lat": 42.3788774,
+			"lon": -72.032366,
+			"tags": {
+				"name:eo": "Masaĉuseco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316966612,
+			"lat": 43.6211955,
+			"lon": -84.6824346,
+			"tags": {
+				"name:eo": "Miĉigano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316967611,
+			"lat": 45.9896587,
+			"lon": -94.6113288,
+			"tags": {
+				"name:eo": "Minesoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316968897,
+			"lat": 32.9715645,
+			"lon": -89.7348497,
+			"tags": {
+				"name:eo": "Misisipio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316970920,
+			"lat": 47.3752671,
+			"lon": -109.6387579,
+			"tags": {
+				"name:eo": "Montano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971452,
+			"lat": 41.7370229,
+			"lon": -99.5873816,
+			"tags": {
+				"name:eo": "Nebrasko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971669,
+			"lat": 39.5158825,
+			"lon": -116.8537227,
+			"tags": {
+				"name:eo": "Nevado"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971821,
+			"lat": 43.4849133,
+			"lon": -71.6553992,
+			"tags": {
+				"name:eo": "Nov-Hampŝiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316973311,
+			"lat": 40.0757384,
+			"lon": -74.4041622,
+			"tags": {
+				"name:eo": "Nov-Ĵerzejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316973967,
+			"lat": 34.5708167,
+			"lon": -105.993007,
+			"tags": {
+				"name:eo": "Nov-Meksiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316976734,
+			"lat": 43.1561681,
+			"lon": -75.8449946,
+			"tags": {
+				"name:eo": "Nov-Jorkio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316979074,
+			"lat": 35.6729639,
+			"lon": -79.0392919,
+			"tags": {
+				"name:eo": "Norda Karolino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316979718,
+			"lat": 47.6201461,
+			"lon": -100.540737,
+			"tags": {
+				"name:eo": "Norda Dakoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316982774,
+			"lat": 40.2253569,
+			"lon": -82.6881395,
+			"tags": {
+				"name:eo": "Ohio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316983705,
+			"lat": 34.9550817,
+			"lon": -97.2684063,
+			"tags": {
+				"name:eo": "Oklahomo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316984338,
+			"lat": 43.9792797,
+			"lon": -120.737257,
+			"tags": {
+				"name:eo": "Oregono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316987717,
+			"lat": 40.9699889,
+			"lon": -77.7278831,
+			"tags": {
+				"name:eo": "Pensilvanio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316987977,
+			"lat": 41.7962409,
+			"lon": -71.5992372,
+			"tags": {
+				"name:eo": "Rod-Insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316990225,
+			"lat": 33.6874388,
+			"lon": -80.4363743,
+			"tags": {
+				"name:eo": "Suda Karolino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316990807,
+			"lat": 44.6471761,
+			"lon": -100.348761,
+			"tags": {
+				"name:eo": "Suda Dakoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316994008,
+			"lat": 35.7730076,
+			"lon": -86.2820081,
+			"tags": {
+				"name:eo": "Tenesio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316998356,
+			"lat": 31.8160381,
+			"lon": -99.5120986,
+			"tags": {
+				"name:eo": "Teksaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316999551,
+			"lat": 39.4225192,
+			"lon": -111.7143584,
+			"tags": {
+				"name:eo": "Utaho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317000170,
+			"lat": 44.5990718,
+			"lon": -72.5002608,
+			"tags": {
+				"name:eo": "Vermonto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317004702,
+			"lat": 37.1232245,
+			"lon": -78.4927721,
+			"tags": {
+				"name:eo": "Virginio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317006365,
+			"lat": 38.4758406,
+			"lon": -80.8408415,
+			"tags": {
+				"name:eo": "Okcidenta Virginio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317007239,
+			"lat": 44.4308975,
+			"lon": -89.6884637,
+			"tags": {
+				"name:eo": "Viskonsino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317007393,
+			"lat": 43.1700264,
+			"lon": -107.5685348,
+			"tags": {
+				"name:eo": "Vajomingo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 415522239,
+			"lat": -15.9323875,
+			"lon": -50.1387087,
+			"tags": {
+				"name:eo": "Gojaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297956,
+			"lat": -21.1309332,
+			"lon": 55.5265771,
+			"tags": {
+				"name:eo": "Reunio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298155,
+			"lat": -13.8173324,
+			"lon": -177.1489649,
+			"tags": {
+				"name:eo": "Valiso kaj Futuno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311883,
+			"lat": 41.9034912,
+			"lon": 12.4528349,
+			"tags": {
+				"name:eo": "Vatikanurbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313764,
+			"lat": -12.1691894,
+			"lon": 96.8301442,
+			"tags": {
+				"name:eo": "Kokosinsuloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314262,
+			"lat": -44.1511785,
+			"lon": 63.8604556,
+			"tags": {
+				"name:eo": "Francaj Sudaj Teritorioj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483523,
+			"lat": -10.4837768,
+			"lon": 105.64723,
+			"tags": {
+				"name:eo": "Kristnaskinsulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483527,
+			"lat": -16.225557,
+			"lon": 150.033867,
+			"tags": {
+				"name:eo": "Koralmaraj Insuloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483535,
+			"lat": 16.2490067,
+			"lon": -61.5650444,
+			"tags": {
+				"name:eo": "Gvadelupo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 462226505,
+			"lat": -18.6243749,
+			"lon": -144.6434898,
+			"tags": {
+				"name:eo": "Franca Polinezio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 470649732,
+			"lat": 56.7861112,
+			"lon": -4.1140518,
+			"tags": {
+				"name:eo": "Skotlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473831430,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
+			"tags": {
+				"name:eo": "Saksio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473848012,
+			"lat": 48.9467562,
+			"lon": 11.4038717,
+			"tags": {
+				"name:eo": "Bavario"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473849775,
+			"lat": 38.7604815,
+			"lon": -92.5617875,
+			"tags": {
+				"name:eo": "Misurio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473857781,
+			"lat": 53.7735234,
+			"lon": 12.5755746,
+			"tags": {
+				"name:eo": "Meklenburgo-Antaŭpomerio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473862587,
+			"lat": 52.8455492,
+			"lon": 13.2461296,
+			"tags": {
+				"name:eo": "Brandenburgio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473883922,
+			"lat": 50.7333163,
+			"lon": 11.0747905,
+			"tags": {
+				"name:eo": "Turingio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473890961,
+			"lat": 54.1853998,
+			"lon": 9.8220089,
+			"tags": {
+				"name:eo": "Ŝlesvigo-Holstinio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474582475,
+			"lat": 64.4459613,
+			"lon": -149.680909,
+			"tags": {
+				"name:eo": "Alasko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842895,
+			"lat": -29.573402,
+			"lon": 21.2051361,
+			"tags": {
+				"name:eo": "Norda Kablando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842900,
+			"lat": -33.546977,
+			"lon": 20.72753,
+			"tags": {
+				"name:eo": "Okcidenta Kablando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842905,
+			"lat": -32.2171831,
+			"lon": 26.6386401,
+			"tags": {
+				"name:eo": "Orienta Kablando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842919,
+			"lat": -26.276849,
+			"lon": 30.1500153,
+			"tags": {
+				"name:eo": "Mpumalanga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842931,
+			"lat": -23.4735288,
+			"lon": 29.3959199,
+			"tags": {
+				"name:eo": "Limpopo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842937,
+			"lat": -26.1347819,
+			"lon": 25.6546729,
+			"tags": {
+				"name:eo": "Nordokcidenta Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842944,
+			"lat": -28.7853618,
+			"lon": 26.4978933,
+			"tags": {
+				"name:eo": "Liberŝtato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842956,
+			"lat": -25.9363439,
+			"lon": 28.0813105,
+			"tags": {
+				"name:eo": "Ĥaŭtengo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 475386053,
+			"lat": 53.5450793,
+			"lon": 15.5661586,
+			"tags": {
+				"name:eo": "Okcidentpomeria Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 495914621,
+			"lat": 17.0922325,
+			"lon": 120.9737242,
+			"tags": {
+				"name:eo": "Monta Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 501782233,
+			"lat": 17.46,
+			"lon": 121.31,
+			"tags": {
+				"name:eo": "Kalingo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 501794528,
+			"lat": 7.27,
+			"lon": 124.86,
+			"tags": {
+				"name:eo": "Kotabato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 501794575,
+			"lat": 7.45,
+			"lon": 126.07,
+			"tags": {
+				"name:eo": "Kompostela Valo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 501794639,
+			"lat": 11.6,
+			"lon": 124.49,
+			"tags": {
+				"name:eo": "Bilirano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 501794650,
+			"lat": 7.81,
+			"lon": 122.59,
+			"tags": {
+				"name:eo": "Zamboango Sibugaja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502334045,
+			"lat": -18.5264844,
+			"lon": -44.1588654,
+			"tags": {
+				"name:eo": "Minas-Ĝerajso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842538,
+			"lat": 45.0819456,
+			"lon": 134.726645,
+			"tags": {
+				"name:eo": "Ĉemara Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842672,
+			"lat": 52.8032368,
+			"lon": 128.437295,
+			"tags": {
+				"name:eo": "Amura Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842918,
+			"lat": 58.6124279,
+			"lon": 82.0475315,
+			"tags": {
+				"name:eo": "Tomska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503045144,
+			"lat": 67.1471631,
+			"lon": 74.3415488,
+			"tags": {
+				"name:eo": "Jamalo-Neneca aŭtonoma distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503046328,
+			"lat": 61.8793428,
+			"lon": 68.6418156,
+			"tags": {
+				"name:eo": "Ĥanti-Mansa aŭtonoma distrikto — Jugra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503047594,
+			"lat": 58.8206488,
+			"lon": 70.3658837,
+			"tags": {
+				"name:eo": "Tjumena Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503050374,
+			"lat": 56.0935263,
+			"lon": 73.5099936,
+			"tags": {
+				"name:eo": "Omska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503051686,
+			"lat": 54.9720169,
+			"lon": 79.4813924,
+			"tags": {
+				"name:eo": "Novosibirska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503055077,
+			"lat": 54.5335781,
+			"lon": 87.342861,
+			"tags": {
+				"name:eo": "Kemerova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503057596,
+			"lat": 52.6932243,
+			"lon": 82.6931424,
+			"tags": {
+				"name:eo": "Altaja Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503059916,
+			"lat": 50.7114101,
+			"lon": 86.8572186,
+			"tags": {
+				"name:eo": "Respubliko Altaj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503064678,
+			"lat": 53.4399379,
+			"lon": 90.0664303,
+			"tags": {
+				"name:eo": "Respubliko Ĥakasio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503068230,
+			"lat": 51.4017149,
+			"lon": 93.8582593,
+			"tags": {
+				"name:eo": "Tuvio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503073143,
+			"lat": 63.3233807,
+			"lon": 97.0979974,
+			"tags": {
+				"name:eo": "Krasnojarska Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503077246,
+			"lat": 56.6370122,
+			"lon": 104.719221,
+			"tags": {
+				"name:eo": "Irkutska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503080952,
+			"lat": 52.7182426,
+			"lon": 109.492143,
+			"tags": {
+				"name:eo": "Burjatio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503087444,
+			"lat": 52.248521,
+			"lon": 115.956325,
+			"tags": {
+				"name:eo": "Transbajkalo Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503088681,
+			"lat": 66.941626,
+			"lon": 129.642371,
+			"tags": {
+				"name:eo": "Jakutio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504798993,
+			"lat": -21.9549806,
+			"lon": -49.0232348,
+			"tags": {
+				"name:eo": "San-Paŭlo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504799970,
+			"lat": -22.2752762,
+			"lon": -42.419415,
+			"tags": {
+				"name:eo": "Rio-de-Ĵanejrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504800102,
+			"lat": -19.5687682,
+			"lon": -40.1721991,
+			"tags": {
+				"name:eo": "Espirito-Santo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504800252,
+			"lat": -29.8425284,
+			"lon": -53.7680577,
+			"tags": {
+				"name:eo": "Suda Rio-Grando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504966405,
+			"lat": 49.790952,
+			"lon": 20.3793521,
+			"tags": {
+				"name:eo": "Malgrandpollanda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504970284,
+			"lat": 49.9927121,
+			"lon": 22.177107,
+			"tags": {
+				"name:eo": "Ĉekarpata Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504977488,
+			"lat": 52.5461934,
+			"lon": 21.2073404,
+			"tags": {
+				"name:eo": "Mazovia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504981968,
+			"lat": 52.1458506,
+			"lon": 17.397672,
+			"tags": {
+				"name:eo": "Grandpollanda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006035,
+			"lat": 50.976229,
+			"lon": 22.7991176,
+			"tags": {
+				"name:eo": "Lublina Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006802,
+			"lat": 54.4226732,
+			"lon": 40.5705246,
+			"tags": {
+				"name:eo": "Rjazanja Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006928,
+			"lat": 53.2668455,
+			"lon": 22.8525787,
+			"tags": {
+				"name:eo": "Podlaĥia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505008682,
+			"lat": 53.9311892,
+			"lon": 21.1260808,
+			"tags": {
+				"name:eo": "Varmia-Mazuria Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505013148,
+			"lat": 54.143148,
+			"lon": 17.9057338,
+			"tags": {
+				"name:eo": "Pomeria Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505016447,
+			"lat": 52.1001754,
+			"lon": 15.3605075,
+			"tags": {
+				"name:eo": "Lubuŝa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505025705,
+			"lat": 51.3807987,
+			"lon": 16.4330936,
+			"tags": {
+				"name:eo": "Malsuprasilezia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505029615,
+			"lat": 50.8918612,
+			"lon": 17.9321175,
+			"tags": {
+				"name:eo": "Opola Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505034126,
+			"lat": 50.5687422,
+			"lon": 19.2343995,
+			"tags": {
+				"name:eo": "Silezia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505043292,
+			"lat": 51.4721678,
+			"lon": 19.3460637,
+			"tags": {
+				"name:eo": "Lodza Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505045821,
+			"lat": 53.0915932,
+			"lon": 18.4463517,
+			"tags": {
+				"name:eo": "Kujavia-Pomeria Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508056667,
+			"lat": 48.5601613,
+			"lon": 132.2775662,
+			"tags": {
+				"name:eo": "Hebrea Aŭtonomio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508056994,
+			"lat": 51.6312684,
+			"lon": 136.121524,
+			"tags": {
+				"name:eo": "Ĥabarovska Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057236,
+			"lat": 49.7219665,
+			"lon": 143.448533,
+			"tags": {
+				"name:eo": "Saĥalena Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057529,
+			"lat": 57.1914882,
+			"lon": 160.0383819,
+			"tags": {
+				"name:eo": "Kamĉatko Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057745,
+			"lat": 63.5515028,
+			"lon": 154.014726,
+			"tags": {
+				"name:eo": "Magadana Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057959,
+			"lat": 66.0006475,
+			"lon": 169.4900869,
+			"tags": {
+				"name:eo": "Ĉukotko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508058549,
+			"lat": 51.8111545,
+			"lon": 76.4285287,
+			"tags": {
+				"name:eo": "Pavlodaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508059331,
+			"lat": 48.6130209,
+			"lon": 81.7489928,
+			"tags": {
+				"name:eo": "Orienta Kazaĥio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 513125713,
+			"lat": 53.7021118,
+			"lon": 25.0711803,
+			"tags": {
+				"name:eo": "Grodna Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 516618494,
+			"lat": 54.7293041,
+			"lon": 21.1489473,
+			"tags": {
+				"name:eo": "Kaliningrada Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 519425071,
+			"lat": 51.4785568,
+			"lon": 7.5533645,
+			"tags": {
+				"name:eo": "Nordrejn-Vestfalio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 519436857,
+			"lat": 49.7497346,
+			"lon": 7.4396553,
+			"tags": {
+				"name:eo": "Rejnlando-Palatinato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533634715,
+			"lat": 58.2843833,
+			"lon": 32.5169757,
+			"tags": {
+				"name:eo": "Novgoroda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533719181,
+			"lat": 53.2852213,
+			"lon": 50.4785577,
+			"tags": {
+				"name:eo": "Samara Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 535136806,
+			"lat": 68.0000418,
+			"lon": 33.9999151,
+			"tags": {
+				"name:eo": "Murmanska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 535182674,
+			"lat": 58.6414755,
+			"lon": 61.8021546,
+			"tags": {
+				"name:eo": "Sverdlovska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539668890,
+			"lat": -27.0628367,
+			"lon": -51.114965,
+			"tags": {
+				"name:eo": "Sankta Katarino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539672077,
+			"lat": -24.4842187,
+			"lon": -51.8148872,
+			"tags": {
+				"name:eo": "Paranao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539676406,
+			"lat": -4.7493933,
+			"lon": -52.8973006,
+			"tags": {
+				"name:eo": "Parao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539680936,
+			"lat": 1.3545442,
+			"lon": -51.9161977,
+			"tags": {
+				"name:eo": "Amapao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539687471,
+			"lat": -9.0478679,
+			"lon": -70.5264976,
+			"tags": {
+				"name:eo": "Akro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539689822,
+			"lat": 2.135138,
+			"lon": -61.3631922,
+			"tags": {
+				"name:eo": "Rorajmo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539691270,
+			"lat": -12.285251,
+			"lon": -41.9294776,
+			"tags": {
+				"name:eo": "Bahio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539693378,
+			"lat": -19.5852564,
+			"lon": -54.4794731,
+			"tags": {
+				"name:eo": "Suda Mato-Groso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539830692,
+			"lat": -7.1219366,
+			"lon": -36.7246845,
+			"tags": {
+				"name:eo": "Paraibo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539830860,
+			"lat": -5.6781175,
+			"lon": -36.4781776,
+			"tags": {
+				"name:eo": "Norda Rio-Grando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539831949,
+			"lat": -8.4116316,
+			"lon": -37.5919699,
+			"tags": {
+				"name:eo": "Pernambuko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539832191,
+			"lat": -5.3264703,
+			"lon": -39.7156073,
+			"tags": {
+				"name:eo": "Cearao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 540553503,
+			"lat": 58.5951603,
+			"lon": 56.3159546,
+			"tags": {
+				"name:eo": "Permja Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 541425925,
+			"lat": -7.6992782,
+			"lon": -42.5043787,
+			"tags": {
+				"name:eo": "Piaŭio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 541426952,
+			"lat": -5.2085503,
+			"lon": -45.3930262,
+			"tags": {
+				"name:eo": "Maranjo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 541429445,
+			"lat": -9.6611661,
+			"lon": -36.6502426,
+			"tags": {
+				"name:eo": "Alagoaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 541429632,
+			"lat": -10.6743911,
+			"lon": -37.3773519,
+			"tags": {
+				"name:eo": "Serĝipo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 553784069,
+			"lat": 40.0796319,
+			"lon": -89.4339809,
+			"tags": {
+				"name:eo": "Ilinojso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 559621143,
+			"lat": 63.9881421,
+			"lon": 54.3326073,
+			"tags": {
+				"name:eo": "Komiio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565543192,
+			"lat": -10.943145,
+			"lon": -62.8277863,
+			"tags": {
+				"name:eo": "Rondonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565543876,
+			"lat": -12.2115009,
+			"lon": -55.5716547,
+			"tags": {
+				"name:eo": "Mato-Groso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565545457,
+			"lat": -10.8855129,
+			"lon": -48.3716912,
+			"tags": {
+				"name:eo": "Tokantinso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565666205,
+			"lat": 49.4173988,
+			"lon": 6.9805789,
+			"tags": {
+				"name:eo": "Sarlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565666208,
+			"lat": 53.5437641,
+			"lon": 10.0099133,
+			"tags": {
+				"name:eo": "Hamburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566293548,
+			"lat": 53.7254147,
+			"lon": 30.3863145,
+			"tags": {
+				"name:eo": "Mahilova Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566293550,
+			"lat": 55.2381972,
+			"lon": 28.7742203,
+			"tags": {
+				"name:eo": "Vicebska Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296860,
+			"lat": 52.4121685,
+			"lon": 25.2547709,
+			"tags": {
+				"name:eo": "Bresta Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296861,
+			"lat": 52.3128262,
+			"lon": 29.5418527,
+			"tags": {
+				"name:eo": "Homela Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296863,
+			"lat": 54.1603039,
+			"lon": 27.7558157,
+			"tags": {
+				"name:eo": "Minska Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 567535537,
+			"lat": 62.6194031,
+			"lon": 33.4920267,
+			"tags": {
+				"name:eo": "Respubliko Karelio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226686,
+			"lat": 55.448217,
+			"lon": 50.4763591,
+			"tags": {
+				"name:eo": "Tatarstano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226687,
+			"lat": 54.4747553,
+			"lon": 55.9784582,
+			"tags": {
+				"name:eo": "Baŝkirio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226688,
+			"lat": 57.1961165,
+			"lon": 52.6959832,
+			"tags": {
+				"name:eo": "Udmurtio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 577354816,
+			"lat": 63.4736289,
+			"lon": 43.7199849,
+			"tags": {
+				"name:eo": "Arĥangelska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 577359740,
+			"lat": 59.9780506,
+			"lon": 39.7150729,
+			"tags": {
+				"name:eo": "Vologda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 602512999,
+			"lat": 41.8523094,
+			"lon": 1.5745043,
+			"tags": {
+				"name:eo": "Katalunio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014861,
+			"lat": 54.1463177,
+			"lon": 47.2324921,
+			"tags": {
+				"name:eo": "Uljanovska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014868,
+			"lat": 55.4259922,
+			"lon": 47.0849429,
+			"tags": {
+				"name:eo": "Ĉuvaŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014871,
+			"lat": 52.0269262,
+			"lon": 54.7276647,
+			"tags": {
+				"name:eo": "Orenburga Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014878,
+			"lat": 56.5767504,
+			"lon": 47.8817512,
+			"tags": {
+				"name:eo": "Mariio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 608648126,
+			"lat": 67.6783253,
+			"lon": 57.0626853,
+			"tags": {
+				"name:eo": "Nenecio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739435,
+			"lat": 60.1716709,
+			"lon": 31.8322298,
+			"tags": {
+				"name:eo": "Leningrada Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739454,
+			"lat": 57.5358729,
+			"lon": 28.8586826,
+			"tags": {
+				"name:eo": "Pskova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739465,
+			"lat": 57.1134475,
+			"lon": 35.1744428,
+			"tags": {
+				"name:eo": "Tverja Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618016965,
+			"lat": 55.7655302,
+			"lon": 64.5632681,
+			"tags": {
+				"name:eo": "Kurgana Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618278412,
+			"lat": -37.2314643,
+			"lon": -65.3972948,
+			"tags": {
+				"name:eo": "Pampa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618279734,
+			"lat": -36.3789925,
+			"lon": -60.3855889,
+			"tags": {
+				"name:eo": "Bonaera Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618289560,
+			"lat": -33.2762202,
+			"lon": -65.9515546,
+			"tags": {
+				"name:eo": "San-Luisa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618290080,
+			"lat": -32.0967361,
+			"lon": -63.7940923,
+			"tags": {
+				"name:eo": "Kordoba Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618290369,
+			"lat": -34.8700721,
+			"lon": -68.5479966,
+			"tags": {
+				"name:eo": "Mendoza Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618291415,
+			"lat": -38.3695057,
+			"lon": -69.832275,
+			"tags": {
+				"name:eo": "Neŭkena Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300940,
+			"lat": -54.4071064,
+			"lon": -67.8974895,
+			"tags": {
+				"name:eo": "Fajrolando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300941,
+			"lat": -48.5693327,
+			"lon": -70.1606767,
+			"tags": {
+				"name:eo": "Santa-Cruza Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300942,
+			"lat": -43.7128356,
+			"lon": -68.7461817,
+			"tags": {
+				"name:eo": "Ĉubutia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300943,
+			"lat": -40.4811973,
+			"lon": -67.6145911,
+			"tags": {
+				"name:eo": "Rio-Negra Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300944,
+			"lat": -30.7054363,
+			"lon": -69.1988222,
+			"tags": {
+				"name:eo": "Sankta-Johana Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300945,
+			"lat": -29.9729781,
+			"lon": -67.0487944,
+			"tags": {
+				"name:eo": "Rioĥa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300946,
+			"lat": -31.6252842,
+			"lon": -59.3539578,
+			"tags": {
+				"name:eo": "Interriveroj Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300947,
+			"lat": -30.3154739,
+			"lon": -61.1645076,
+			"tags": {
+				"name:eo": "Sankta Fido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300948,
+			"lat": -28.5912315,
+			"lon": -57.9394658,
+			"tags": {
+				"name:eo": "Provinco de Riveroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300949,
+			"lat": -27.1910825,
+			"lon": -67.105374,
+			"tags": {
+				"name:eo": "Katamarkio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300951,
+			"lat": -27.6431016,
+			"lon": -63.5408542,
+			"tags": {
+				"name:eo": "Santiaga Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300953,
+			"lat": -25.1076701,
+			"lon": -64.3494964,
+			"tags": {
+				"name:eo": "Salta Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300954,
+			"lat": -26.3829647,
+			"lon": -60.8816092,
+			"tags": {
+				"name:eo": "Ĉako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300955,
+			"lat": -24.5955306,
+			"lon": -60.4289718,
+			"tags": {
+				"name:eo": "Formosa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618300956,
+			"lat": -26.737224,
+			"lon": -54.4315257,
+			"tags": {
+				"name:eo": "Provinco de Misioj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753997,
+			"lat": 52.6935178,
+			"lon": 39.1122664,
+			"tags": {
+				"name:eo": "Lipecka Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753998,
+			"lat": 50.9800393,
+			"lon": 40.1506507,
+			"tags": {
+				"name:eo": "Voroneĵa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753999,
+			"lat": 52.9019574,
+			"lon": 41.3578918,
+			"tags": {
+				"name:eo": "Tambova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 658312593,
+			"lat": 55.5043158,
+			"lon": 38.0353929,
+			"tags": {
+				"name:eo": "Moskva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769593,
+			"lat": 50.7696518,
+			"lon": 34.3289305,
+			"tags": {
+				"name:eo": "Suma Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769596,
+			"lat": 46.5421715,
+			"lon": 33.4079326,
+			"tags": {
+				"name:eo": "Ĥersona Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769601,
+			"lat": 51.272593,
+			"lon": 31.7417235,
+			"tags": {
+				"name:eo": "Ĉernihiva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769605,
+			"lat": 45.5916819,
+			"lon": 33.5992068,
+			"tags": {
+				"name:eo": "Aŭtonoma Respubliko Krimeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769608,
+			"lat": 50.178595,
+			"lon": 30.4924884,
+			"tags": {
+				"name:eo": "Kijiva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769610,
+			"lat": 48.8990315,
+			"lon": 28.516068,
+			"tags": {
+				"name:eo": "Vinica Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769611,
+			"lat": 50.9080532,
+			"lon": 28.3867504,
+			"tags": {
+				"name:eo": "Ĵitomira Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769612,
+			"lat": 46.1147226,
+			"lon": 29.9567193,
+			"tags": {
+				"name:eo": "Odesa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769616,
+			"lat": 51.5451167,
+			"lon": 24.6627893,
+			"tags": {
+				"name:eo": "Volina Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769620,
+			"lat": 51.2074112,
+			"lon": 26.5208033,
+			"tags": {
+				"name:eo": "Rivna Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769624,
+			"lat": 49.1460165,
+			"lon": 31.2271744,
+			"tags": {
+				"name:eo": "Ĉerkasa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681593,
+			"lat": 48.2953664,
+			"lon": 23.4466092,
+			"tags": {
+				"name:eo": "Transkarpata Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681597,
+			"lat": 47.9212914,
+			"lon": 37.7809825,
+			"tags": {
+				"name:eo": "Donecka Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681601,
+			"lat": 49.268624,
+			"lon": 27.0635998,
+			"tags": {
+				"name:eo": "Ĥmelnickija Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681604,
+			"lat": 49.6630002,
+			"lon": 25.6167516,
+			"tags": {
+				"name:eo": "Ternopila Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681607,
+			"lat": 50.1594016,
+			"lon": 24.2337089,
+			"tags": {
+				"name:eo": "Lviva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681609,
+			"lat": 48.3810791,
+			"lon": 26.1081673,
+			"tags": {
+				"name:eo": "Ĉernivca Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681613,
+			"lat": 49.2723647,
+			"lon": 38.9152782,
+			"tags": {
+				"name:eo": "Luhanska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681618,
+			"lat": 47.4165079,
+			"lon": 35.922969,
+			"tags": {
+				"name:eo": "Zaporiĵa Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681620,
+			"lat": 49.8607809,
+			"lon": 33.7498787,
+			"tags": {
+				"name:eo": "Poltava Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681623,
+			"lat": 48.3725226,
+			"lon": 31.7834817,
+			"tags": {
+				"name:eo": "Kirovohrada Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681626,
+			"lat": 48.662589,
+			"lon": 34.9501715,
+			"tags": {
+				"name:eo": "Dnipropetrovska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681629,
+			"lat": 47.3886032,
+			"lon": 31.9442334,
+			"tags": {
+				"name:eo": "Mikolajiva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 696768134,
+			"lat": 47.6222451,
+			"lon": 40.7957942,
+			"tags": {
+				"name:eo": "Rostova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 771205162,
+			"lat": 53.1655415,
+			"lon": 44.7879181,
+			"tags": {
+				"name:eo": "Penza Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778527151,
+			"lat": 58.424756,
+			"lon": 44.2533273,
+			"tags": {
+				"name:eo": "Kostroma Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778529234,
+			"lat": 57.7781976,
+			"lon": 39.0021095,
+			"tags": {
+				"name:eo": "Jaroslavla Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778545155,
+			"lat": 55.0343496,
+			"lon": 33.0192065,
+			"tags": {
+				"name:eo": "Smolenska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778568487,
+			"lat": 52.8392765,
+			"lon": 36.4251709,
+			"tags": {
+				"name:eo": "Orjola Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778569127,
+			"lat": 52.8873315,
+			"lon": 33.415853,
+			"tags": {
+				"name:eo": "Brjanska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 784756509,
+			"lat": 53.9797171,
+			"lon": 69.0450902,
+			"tags": {
+				"name:eo": "Norda Kazaĥio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882071,
+			"lat": 49.6048339,
+			"lon": 44.2903582,
+			"tags": {
+				"name:eo": "Volgograda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882072,
+			"lat": 47.1878186,
+			"lon": 47.608851,
+			"tags": {
+				"name:eo": "Astraĥana Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882074,
+			"lat": 46.2313018,
+			"lon": 45.3275745,
+			"tags": {
+				"name:eo": "Kalmukio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 792588864,
+			"lat": 50.7080119,
+			"lon": 37.5837615,
+			"tags": {
+				"name:eo": "Belgoroda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 792588865,
+			"lat": 51.6568453,
+			"lon": 36.4852695,
+			"tags": {
+				"name:eo": "Kurska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867080411,
+			"lat": 54.4382773,
+			"lon": 35.5272854,
+			"tags": {
+				"name:eo": "Kaluga Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867084499,
+			"lat": 53.9570701,
+			"lon": 37.3690909,
+			"tags": {
+				"name:eo": "Tula Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867129558,
+			"lat": 56.0503336,
+			"lon": 40.6561633,
+			"tags": {
+				"name:eo": "Vladimira Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869495624,
+			"lat": 56.4601702,
+			"lon": 44.5855442,
+			"tags": {
+				"name:eo": "Niĵnij-Novgoroda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869508901,
+			"lat": 54.3376037,
+			"lon": 44.7729228,
+			"tags": {
+				"name:eo": "Mordvio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869528660,
+			"lat": 51.6520555,
+			"lon": 46.8631952,
+			"tags": {
+				"name:eo": "Saratova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869547585,
+			"lat": 44.8632577,
+			"lon": 43.4406913,
+			"tags": {
+				"name:eo": "Stavropola Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869555482,
+			"lat": 44.6939006,
+			"lon": 40.1520421,
+			"tags": {
+				"name:eo": "Adigeio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869565029,
+			"lat": 43.7368326,
+			"lon": 41.7267991,
+			"tags": {
+				"name:eo": "Karaĉajio-Ĉerkesio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869576948,
+			"lat": 43.0574916,
+			"lon": 47.1332224,
+			"tags": {
+				"name:eo": "Dagestano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869593771,
+			"lat": 43.3976147,
+			"lon": 45.6985005,
+			"tags": {
+				"name:eo": "Ĉeĉenio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869606611,
+			"lat": 43.1655309,
+			"lon": 44.979682,
+			"tags": {
+				"name:eo": "Inguŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869609085,
+			"lat": 42.9920711,
+			"lon": 44.2636348,
+			"tags": {
+				"name:eo": "Nord-Osetio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869609474,
+			"lat": 43.4428286,
+			"lon": 43.4204809,
+			"tags": {
+				"name:eo": "Kabardio-Balkario"
+			}
+		},
+		{
+			"type": "node",
+			"id": 933435715,
+			"lat": 58.2155351,
+			"lon": 49.7686354,
+			"tags": {
+				"name:eo": "Kirova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 949522007,
+			"lat": 37.3399964,
+			"lon": -4.5811614,
+			"tags": {
+				"name:eo": "Andaluzio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 959501189,
+			"lat": 48.1144938,
+			"lon": 70.1404868,
+			"tags": {
+				"name:eo": "Karagando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 959502983,
+			"lat": 52.0615626,
+			"lon": 62.9372689,
+			"tags": {
+				"name:eo": "Kostanajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 974358575,
+			"lat": 45.2351691,
+			"lon": 77.2741871,
+			"tags": {
+				"name:eo": "Almato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 974358688,
+			"lat": 44.4168463,
+			"lon": 72.134166,
+			"tags": {
+				"name:eo": "Ĵambilo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 974358986,
+			"lat": 42.4267196,
+			"lon": 68.0028934,
+			"tags": {
+				"name:eo": "Suda Kazaĥio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 974359207,
+			"lat": 45.2058853,
+			"lon": 63.9155202,
+			"tags": {
+				"name:eo": "Kizilordo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 975902304,
+			"lat": 49.5568479,
+			"lon": 50.2227409,
+			"tags": {
+				"name:eo": "Okcidenta Kazaĥio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1099011107,
+			"lat": 42.61946,
+			"lon": -7.863112,
+			"tags": {
+				"name:eo": "Galegio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1103648780,
+			"lat": 54.4223954,
+			"lon": 61.1865846,
+			"tags": {
+				"name:eo": "Ĉeljabinska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1104630889,
+			"lat": 42.3285528,
+			"lon": -2.4674917,
+			"tags": {
+				"name:eo": "Rioĥo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1172157011,
+			"lat": 50.7504894,
+			"lon": 20.7829122,
+			"tags": {
+				"name:eo": "Sanktakruca Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230774993,
+			"lat": -13,
+			"lon": -75,
+			"tags": {
+				"name:eo": "Ŭankavilkio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775000,
+			"lat": -9.5,
+			"lon": -75.833333,
+			"tags": {
+				"name:eo": "Ŭanukio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775012,
+			"lat": -3.833333,
+			"lon": -80.5,
+			"tags": {
+				"name:eo": "Tumpiujo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775023,
+			"lat": -6.333333,
+			"lon": -80,
+			"tags": {
+				"name:eo": "Lambajekio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775030,
+			"lat": -17.666667,
+			"lon": -70.333333,
+			"tags": {
+				"name:eo": "Taknio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775043,
+			"lat": -16,
+			"lon": -72.25,
+			"tags": {
+				"name:eo": "Arekipio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775049,
+			"lat": -11.5,
+			"lon": -75,
+			"tags": {
+				"name:eo": "Ŝuninio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775060,
+			"lat": -14.3325,
+			"lon": -75.499722,
+			"tags": {
+				"name:eo": "Ikio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775072,
+			"lat": -9,
+			"lon": -73.5,
+			"tags": {
+				"name:eo": "Ukajalio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775077,
+			"lat": -12,
+			"lon": -70.25,
+			"tags": {
+				"name:eo": "Dipatrinio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775088,
+			"lat": -9.5,
+			"lon": -77.75,
+			"tags": {
+				"name:eo": "Ankaŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775094,
+			"lat": -5,
+			"lon": -75,
+			"tags": {
+				"name:eo": "Loreto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775107,
+			"lat": -5,
+			"lon": -80.333333,
+			"tags": {
+				"name:eo": "Piŭrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775126,
+			"lat": -14,
+			"lon": -73,
+			"tags": {
+				"name:eo": "Apurimako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775133,
+			"lat": -6.25,
+			"lon": -78.833333,
+			"tags": {
+				"name:eo": "Kaŝamarkio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775156,
+			"lat": -12.5,
+			"lon": -72.5,
+			"tags": {
+				"name:eo": "Kuskio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775171,
+			"lat": -12.003889,
+			"lon": -76.638889,
+			"tags": {
+				"name:eo": "Limio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775201,
+			"lat": -10.5,
+			"lon": -75.25,
+			"tags": {
+				"name:eo": "Paskio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775224,
+			"lat": -14,
+			"lon": -74,
+			"tags": {
+				"name:eo": "Ajakuĉio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775247,
+			"lat": -15,
+			"lon": -70,
+			"tags": {
+				"name:eo": "Punio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775254,
+			"lat": -5,
+			"lon": -78,
+			"tags": {
+				"name:eo": "Amazonjo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775270,
+			"lat": -16.833333,
+			"lon": -70.916667,
+			"tags": {
+				"name:eo": "Mokegvio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610243,
+			"lat": 45.7175403,
+			"lon": 1.7406933,
+			"tags": {
+				"name:eo": "Limoĝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610245,
+			"lat": 48.8360858,
+			"lon": 6.1999334,
+			"tags": {
+				"name:eo": "Loreno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610246,
+			"lat": 46.0743923,
+			"lon": -0.0772029,
+			"tags": {
+				"name:eo": "Puatuo-Ĉarentoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610249,
+			"lat": 47.4961233,
+			"lon": 6.2097185,
+			"tags": {
+				"name:eo": "Franĉkonteo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610250,
+			"lat": 48.3705824,
+			"lon": 4.3128168,
+			"tags": {
+				"name:eo": "Ĉampanjo-Ardenoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610251,
+			"lat": 44.3571841,
+			"lon": -0.5391713,
+			"tags": {
+				"name:eo": "Akvitanio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610252,
+			"lat": 47.0151891,
+			"lon": 4.2523237,
+			"tags": {
+				"name:eo": "Burgonjo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610254,
+			"lat": 45.3886264,
+			"lon": 5.6874625,
+			"tags": {
+				"name:eo": "Rodano-Alpoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610255,
+			"lat": 45.3547354,
+			"lon": 3.197012,
+			"tags": {
+				"name:eo": "Aŭvernjo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610257,
+			"lat": 44.0580563,
+			"lon": 6.0638506,
+			"tags": {
+				"name:eo": "Provenco-Alpoj-Bordo Lazura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610258,
+			"lat": 48.6443057,
+			"lon": 2.7537863,
+			"tags": {
+				"name:eo": "Francilio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610259,
+			"lat": 43.8324972,
+			"lon": 1.5685814,
+			"tags": {
+				"name:eo": "Sudo-Pireneoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610260,
+			"lat": 48.2640845,
+			"lon": -2.9202408,
+			"tags": {
+				"name:eo": "Bretonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610261,
+			"lat": 47.5490251,
+			"lon": 1.7324062,
+			"tags": {
+				"name:eo": "Centro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610262,
+			"lat": 48.8177569,
+			"lon": -0.4382331,
+			"tags": {
+				"name:eo": "Malsupra Normandio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610263,
+			"lat": 49.2566929,
+			"lon": 1.0438139,
+			"tags": {
+				"name:eo": "Supra Normandio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610264,
+			"lat": 47.6594864,
+			"lon": -0.8186143,
+			"tags": {
+				"name:eo": "Luarlandoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610265,
+			"lat": 48.183541,
+			"lon": 7.3795231,
+			"tags": {
+				"name:eo": "Alzaco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251670424,
+			"lat": 14.6113732,
+			"lon": -60.9620777,
+			"tags": {
+				"name:eo": "Martiniko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1366269650,
+			"lat": -26.5643582,
+			"lon": -64.882397,
+			"tags": {
+				"name:eo": "Tukumano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1367931778,
+			"lat": -21.3019905,
+			"lon": 165.4880773,
+			"tags": {
+				"name:eo": "Nov-Kaledonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1491974656,
+			"lat": 35.0184485,
+			"lon": 135.7636518,
+			"tags": {
+				"name:eo": "Kansaja Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1495303476,
+			"lat": 39.1484315,
+			"lon": 140.7717841,
+			"tags": {
+				"name:eo": "Tohokua Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1499533875,
+			"lat": 34.8614187,
+			"lon": 133.1261204,
+			"tags": {
+				"name:eo": "Ĉugokua Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1504057971,
+			"lat": 32.7553476,
+			"lon": 131.1105741,
+			"tags": {
+				"name:eo": "Kjuŝua Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1504057972,
+			"lat": 33.7277915,
+			"lon": 133.5075229,
+			"tags": {
+				"name:eo": "Ŝikokua Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1639542076,
+			"lat": 46.500283,
+			"lon": -66.750183,
+			"tags": {
+				"name:eo": "Nov-Brunsviko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1673514242,
+			"lat": 52.8398531,
+			"lon": 9.075962,
+			"tags": {
+				"name:eo": "Malsupra Saksio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119244,
+			"lat": 41.3787291,
+			"lon": -0.7639373,
+			"tags": {
+				"name:eo": "Aragono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119270,
+			"lat": 41.8037172,
+			"lon": -4.7471726,
+			"tags": {
+				"name:eo": "Kastilio kaj Leono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119281,
+			"lat": 39.4177902,
+			"lon": -2.6232332,
+			"tags": {
+				"name:eo": "Kastilio-Manĉo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119316,
+			"lat": 39.6819591,
+			"lon": -0.7654406,
+			"tags": {
+				"name:eo": "Valencilando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119349,
+			"lat": 39.1748426,
+			"lon": -6.1529891,
+			"tags": {
+				"name:eo": "Ekstremaduro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119369,
+			"lat": 35.2918698,
+			"lon": -2.9409026,
+			"tags": {
+				"name:eo": "Melilo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119400,
+			"lat": 37.9166355,
+			"lon": -1.4779797,
+			"tags": {
+				"name:eo": "Murcia Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1756225709,
+			"lat": 46.3355508,
+			"lon": -63.1466676,
+			"tags": {
+				"name:eo": "Insulo de Princo Eduardo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1757670352,
+			"lat": 48.7481718,
+			"lon": 24.5207477,
+			"tags": {
+				"name:eo": "Ivano-Frankivska Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917313,
+			"lat": 42.227681,
+			"lon": 13.854983,
+			"tags": {
+				"name:eo": "Abruco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917314,
+			"lat": 40.500571,
+			"lon": 16.081953,
+			"tags": {
+				"name:eo": "Basilikato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917315,
+			"lat": 39.0565974,
+			"lon": 16.5249864,
+			"tags": {
+				"name:eo": "Kalabrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917317,
+			"lat": 40.860672,
+			"lon": 14.843984,
+			"tags": {
+				"name:eo": "Kampanio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917318,
+			"lat": 44.525696,
+			"lon": 11.039437,
+			"tags": {
+				"name:eo": "Emilio-Romanjo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917320,
+			"lat": 46.151042,
+			"lon": 13.055904,
+			"tags": {
+				"name:eo": "Friulo-Venecio Julia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917321,
+			"lat": 41.9808038,
+			"lon": 12.7662312,
+			"tags": {
+				"name:eo": "Latio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917322,
+			"lat": 44.4777617,
+			"lon": 8.7026296,
+			"tags": {
+				"name:eo": "Ligurio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917324,
+			"lat": 45.6209,
+			"lon": 9.768893,
+			"tags": {
+				"name:eo": "Lombardio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917325,
+			"lat": 43.3458388,
+			"lon": 13.1415872,
+			"tags": {
+				"name:eo": "Markio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917326,
+			"lat": 41.684672,
+			"lon": 14.595614,
+			"tags": {
+				"name:eo": "Moliso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917328,
+			"lat": 45.060735,
+			"lon": 7.923549,
+			"tags": {
+				"name:eo": "Piemonto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917329,
+			"lat": 40.9842539,
+			"lon": 16.6210027,
+			"tags": {
+				"name:eo": "Apulio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917331,
+			"lat": 40.0912813,
+			"lon": 9.0305773,
+			"tags": {
+				"name:eo": "Sardio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917332,
+			"lat": 37.587794,
+			"lon": 14.155048,
+			"tags": {
+				"name:eo": "Sicilio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917334,
+			"lat": 43.4586541,
+			"lon": 11.1389204,
+			"tags": {
+				"name:eo": "Toskanio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917335,
+			"lat": 46.441472,
+			"lon": 11.282121,
+			"tags": {
+				"name:eo": "Trentino-Supra Adiĝo/Sudtirolo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917337,
+			"lat": 42.965916,
+			"lon": 12.490236,
+			"tags": {
+				"name:eo": "Umbrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917338,
+			"lat": 45.730099,
+			"lon": 7.387426,
+			"tags": {
+				"name:eo": "Aosta Valo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917344,
+			"lat": 45.6476663,
+			"lon": 11.8665254,
+			"tags": {
+				"name:eo": "Veneto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1806706046,
+			"lat": 56.9167446,
+			"lon": 41.4352137,
+			"tags": {
+				"name:eo": "Ivanova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1807621457,
+			"lat": 51.908526,
+			"lon": 11.4939134,
+			"tags": {
+				"name:eo": "Saksio-Anhalto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898258173,
+			"lat": -6.4453801,
+			"lon": 106.1375586,
+			"tags": {
+				"name:eo": "Banteno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898258183,
+			"lat": -7.3032412,
+			"lon": 110.0044145,
+			"tags": {
+				"name:eo": "Centra Javo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898258216,
+			"lat": -6.8891904,
+			"lon": 107.6404716,
+			"tags": {
+				"name:eo": "Okcidenta Javo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283435,
+			"lat": 4.3685491,
+			"lon": 97.0253024,
+			"tags": {
+				"name:eo": "Aceho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283447,
+			"lat": -3.5186763,
+			"lon": 102.5359834,
+			"tags": {
+				"name:eo": "Bengkulao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283453,
+			"lat": -1.611572,
+			"lon": 102.779699,
+			"tags": {
+				"name:eo": "Ĝambio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283456,
+			"lat": -4.8555039,
+			"lon": 105.0272986,
+			"tags": {
+				"name:eo": "Lampungo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283463,
+			"lat": 2.1923519,
+			"lon": 99.3812201,
+			"tags": {
+				"name:eo": "Norda Sumatro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283470,
+			"lat": 0.5004112,
+			"lon": 101.5475811,
+			"tags": {
+				"name:eo": "Riauo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283476,
+			"lat": -3.1266842,
+			"lon": 104.0930554,
+			"tags": {
+				"name:eo": "Suda Sumatro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898283479,
+			"lat": -0.5827529,
+			"lon": 100.6133379,
+			"tags": {
+				"name:eo": "Okcidenta Sumatro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898293041,
+			"lat": -1.499583,
+			"lon": 113.2903307,
+			"tags": {
+				"name:eo": "Centra Kalimantano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898293062,
+			"lat": 0.7884397,
+			"lon": 116.2419977,
+			"tags": {
+				"name:eo": "Norda Kalimantano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898293069,
+			"lat": -2.9434835,
+			"lon": 115.3756508,
+			"tags": {
+				"name:eo": "Suda Kalimantano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898293079,
+			"lat": -0.1322387,
+			"lon": 111.0968901,
+			"tags": {
+				"name:eo": "Okcidenta Kalimantano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306495,
+			"lat": -1.6937786,
+			"lon": 120.8088555,
+			"tags": {
+				"name:eo": "Centra Sulaveso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306501,
+			"lat": 0.7186174,
+			"lon": 122.4555927,
+			"tags": {
+				"name:eo": "Gorontalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306505,
+			"lat": 0.6555692,
+			"lon": 124.090151,
+			"tags": {
+				"name:eo": "Norda Sulaveso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306512,
+			"lat": -3.6446718,
+			"lon": 119.9471906,
+			"tags": {
+				"name:eo": "Suda Sulaveso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306518,
+			"lat": -3.5491199,
+			"lon": 121.7279646,
+			"tags": {
+				"name:eo": "Sudorienta Sulaveso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898306525,
+			"lat": -2.4974546,
+			"lon": 119.3918955,
+			"tags": {
+				"name:eo": "Okcidenta Sulaveso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898313611,
+			"lat": -3.9885728,
+			"lon": 138.3485219,
+			"tags": {
+				"name:eo": "Papuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898313612,
+			"lat": -1.3842356,
+			"lon": 132.902528,
+			"tags": {
+				"name:eo": "Okcidenta Papuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898333935,
+			"lat": -2.7052886,
+			"lon": 106.3585607,
+			"tags": {
+				"name:eo": "Bangka-Belitungo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898333938,
+			"lat": -0.1547846,
+			"lon": 104.5803745,
+			"tags": {
+				"name:eo": "Riau-insuloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898352059,
+			"lat": -3.118837,
+			"lon": 129.4207759,
+			"tags": {
+				"name:eo": "Malukoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1898352062,
+			"lat": 0.6301215,
+			"lon": 127.9720219,
+			"tags": {
+				"name:eo": "Nordaj Malukoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900155946,
+			"lat": 33.3940067,
+			"lon": 126.5626688,
+			"tags": {
+				"name:eo": "Jeju-do"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1903366790,
+			"lat": 38.2628262,
+			"lon": 125.476901,
+			"tags": {
+				"name:eo": "Sud-Hŭanghae"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1939592594,
+			"lat": 22.1899448,
+			"lon": 113.5380454,
+			"tags": {
+				"name:eo": "Makao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1971329414,
+			"lat": -21.9182856,
+			"lon": 144.4588889,
+			"tags": {
+				"name:eo": "Kvinslando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1998904343,
+			"lat": 20.8542575,
+			"lon": -99.84756,
+			"tags": {
+				"name:eo": "Keretaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2049929146,
+			"lat": -35.1494368,
+			"lon": 150.7085321,
+			"tags": {
+				"name:eo": "Teritorio de Golfeto Jervis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2050132586,
+			"lat": 52.5198535,
+			"lon": 13.4385964,
+			"tags": {
+				"name:eo": "Berlino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2050186944,
+			"lat": 53.144869,
+			"lon": 8.6932343,
+			"tags": {
+				"name:eo": "Bremeno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2050243275,
+			"lat": 59.9606739,
+			"lon": 30.1586551,
+			"tags": {
+				"name:eo": "Sankt-Peterburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2160052315,
+			"lat": 30.0338923,
+			"lon": -115.1425107,
+			"tags": {
+				"name:eo": "Malsupra Kalifornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2160053456,
+			"lat": 25.5818014,
+			"lon": -111.5706164,
+			"tags": {
+				"name:eo": "Malsupra Sudkalifornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2160053458,
+			"lat": 20.6845957,
+			"lon": -88.8755669,
+			"tags": {
+				"name:eo": "Jukatano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699936,
+			"lat": 15.9240905,
+			"lon": 80.1863809,
+			"tags": {
+				"name:eo": "Andra-Pradeŝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699941,
+			"lat": 15.3004543,
+			"lon": 74.0855134,
+			"tags": {
+				"name:eo": "Goao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699947,
+			"lat": 14.5203896,
+			"lon": 75.7223521,
+			"tags": {
+				"name:eo": "Karnatako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699954,
+			"lat": 10.3529588,
+			"lon": 76.5119752,
+			"tags": {
+				"name:eo": "Keralao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699956,
+			"lat": 19.531932,
+			"lon": 76.0554568,
+			"tags": {
+				"name:eo": "Maharaŝtro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2237699963,
+			"lat": 10.9094334,
+			"lon": 78.3665347,
+			"tags": {
+				"name:eo": "Tamilnado"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851562,
+			"lat": 28.3641989,
+			"lon": 94.7586273,
+			"tags": {
+				"name:eo": "Arunaĉal-Pradeŝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851570,
+			"lat": 26.4073841,
+			"lon": 93.2551303,
+			"tags": {
+				"name:eo": "Asamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851573,
+			"lat": 24.7208818,
+			"lon": 93.9229386,
+			"tags": {
+				"name:eo": "Manipuro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851577,
+			"lat": 25.5379432,
+			"lon": 91.2999102,
+			"tags": {
+				"name:eo": "Meghalajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851584,
+			"lat": 23.2146169,
+			"lon": 92.8687612,
+			"tags": {
+				"name:eo": "Mizoramo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851587,
+			"lat": 26.1630556,
+			"lon": 94.5884911,
+			"tags": {
+				"name:eo": "Nagalando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851596,
+			"lat": 23.7750823,
+			"lon": 91.7025091,
+			"tags": {
+				"name:eo": "Tripuro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945362,
+			"lat": 25.6440845,
+			"lon": 85.906508,
+			"tags": {
+				"name:eo": "Biharo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945367,
+			"lat": 31.9292352,
+			"lon": 77.1828462,
+			"tags": {
+				"name:eo": "Himaĉal-Pradeŝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945372,
+			"lat": 34.0476564,
+			"lon": 76.7972892,
+			"tags": {
+				"name:eo": "Ĝamuo kaj Kaŝmiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945375,
+			"lat": 30.9293211,
+			"lon": 75.5004841,
+			"tags": {
+				"name:eo": "Panĝabo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945378,
+			"lat": 26.8105777,
+			"lon": 73.7684549,
+			"tags": {
+				"name:eo": "Raĝastano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945383,
+			"lat": 27.1303344,
+			"lon": 80.859666,
+			"tags": {
+				"name:eo": "Utar-Pradeŝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240945388,
+			"lat": 30.0417376,
+			"lon": 79.089691,
+			"tags": {
+				"name:eo": "Utarakando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991947,
+			"lat": 21.6637358,
+			"lon": 81.8406351,
+			"tags": {
+				"name:eo": "Ĉatisgaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991954,
+			"lat": 23.1923325,
+			"lon": 71.9329241,
+			"tags": {
+				"name:eo": "Guĝarato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991958,
+			"lat": 23.4559809,
+			"lon": 85.2557301,
+			"tags": {
+				"name:eo": "Ĝharkhando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991961,
+			"lat": 23.8143419,
+			"lon": 77.5340719,
+			"tags": {
+				"name:eo": "Madhja-Pradeŝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991967,
+			"lat": 20.5431241,
+			"lon": 84.6897321,
+			"tags": {
+				"name:eo": "Oriso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240991970,
+			"lat": 22.9964948,
+			"lon": 87.6855882,
+			"tags": {
+				"name:eo": "Okcidenta Bengalio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2281482629,
+			"lat": 27.7567667,
+			"lon": -81.4639835,
+			"tags": {
+				"name:eo": "Florido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2294586133,
+			"lat": -53.0242765,
+			"lon": 72.9231353,
+			"tags": {
+				"name:eo": "Herda kaj Makdonaldaj Insuloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2294591720,
+			"lat": -12.2354389,
+			"lon": 123.0851206,
+			"tags": {
+				"name:eo": "Aŝmora kaj Kartia Insuloj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2452912060,
+			"lat": 55.4792046,
+			"lon": 37.3273304,
+			"tags": {
+				"name:eo": "Moskvo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2497852043,
+			"lat": 50.6118537,
+			"lon": 9.1909725,
+			"tags": {
+				"name:eo": "Hesio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524799308,
+			"lat": 11.6297894,
+			"lon": 122.2481177,
+			"tags": {
+				"name:eo": "Aklano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524799310,
+			"lat": 11.3852987,
+			"lon": 122.6377315,
+			"tags": {
+				"name:eo": "Kapiso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524799311,
+			"lat": 10.9534597,
+			"lon": 122.5756326,
+			"tags": {
+				"name:eo": "Iloilo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524841956,
+			"lat": 10.5730629,
+			"lon": 122.6238907,
+			"tags": {
+				"name:eo": "Gimaroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524841959,
+			"lat": 15.5277375,
+			"lon": 120.4192688,
+			"tags": {
+				"name:eo": "Tarlako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2524841962,
+			"lat": 10.1577932,
+			"lon": 125.5851827,
+			"tags": {
+				"name:eo": "Dinagata Insularo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2526052935,
+			"lat": 9.5721534,
+			"lon": -70.5363079,
+			"tags": {
+				"name:eo": "Trujillo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2604557728,
+			"lat": -69.1726389,
+			"lon": 138.960274,
+			"tags": {
+				"name:eo": "Adelilando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2614266154,
+			"lat": -4.479925,
+			"lon": -63.5185396,
+			"tags": {
+				"name:eo": "Amazonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2614275264,
+			"lat": -15.7754462,
+			"lon": -47.7970891,
+			"tags": {
+				"name:eo": "Federacia Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2642288017,
+			"lat": 52.2928116,
+			"lon": -3.73893,
+			"tags": {
+				"name:eo": "Kimrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047246,
+			"lat": 44.4179637,
+			"lon": 109.7783753,
+			"tags": {
+				"name:eo": "Orientogobia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047299,
+			"lat": 43.282363,
+			"lon": 104.1133864,
+			"tags": {
+				"name:eo": "Sudgobia Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2747319984,
+			"lat": -29.5816942,
+			"lon": 27.8243208,
+			"tags": {
+				"name:eo": "Maseruo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2811123364,
+			"lat": 5.4091179,
+			"lon": -4.0422099,
+			"tags": {
+				"name:eo": "Abiĝano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2845526137,
+			"lat": 17.8495919,
+			"lon": 79.1151663,
+			"tags": {
+				"name:eo": "Telangano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906387,
+			"lat": -14,
+			"lon": -65,
+			"tags": {
+				"name:eo": "Beniio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906388,
+			"lat": -20,
+			"lon": -64.416667,
+			"tags": {
+				"name:eo": "Ĉukisakio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906389,
+			"lat": -17.333333,
+			"lon": -65.5,
+			"tags": {
+				"name:eo": "Koĉapampio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906390,
+			"lat": -15,
+			"lon": -68.333333,
+			"tags": {
+				"name:eo": "La-Pazio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906391,
+			"lat": -11.183333,
+			"lon": -67.183333,
+			"tags": {
+				"name:eo": "Pando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906392,
+			"lat": -17.333333,
+			"lon": -61.5,
+			"tags": {
+				"name:eo": "Santa-Kruzio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2854906393,
+			"lat": -21.583333,
+			"lon": -63.833333,
+			"tags": {
+				"name:eo": "Tariŝio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2890584085,
+			"lat": -18.666667,
+			"lon": -67.666667,
+			"tags": {
+				"name:eo": "Uruio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2890584086,
+			"lat": -20.666667,
+			"lon": -66.666667,
+			"tags": {
+				"name:eo": "Potosiio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2925154705,
+			"lat": 40.2390918,
+			"lon": 127.64342,
+			"tags": {
+				"name:eo": "Sud-Hamgjong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3140016266,
+			"lat": 45.7684014,
+			"lon": 39.0261044,
+			"tags": {
+				"name:eo": "Krasnodara regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171863462,
+			"lat": 30.05518,
+			"lon": 107.8748712,
+			"tags": {
+				"name:eo": "Ĉongĉingo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171874991,
+			"lat": 40.190632,
+			"lon": 116.412144,
+			"tags": {
+				"name:eo": "Pekino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171897223,
+			"lat": 39.3032619,
+			"lon": 117.4163641,
+			"tags": {
+				"name:eo": "Tjanĝino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471344,
+			"lat": 43.3133868,
+			"lon": -5.94192,
+			"tags": {
+				"name:eo": "Asturio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471345,
+			"lat": 43.1595664,
+			"lon": -4.0878382,
+			"tags": {
+				"name:eo": "Kantabrio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471346,
+			"lat": 42.9911816,
+			"lon": -2.5543023,
+			"tags": {
+				"name:eo": "Eŭska Aŭtonoma Komunumo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513476360,
+			"lat": 35.8800104,
+			"lon": -5.3180669,
+			"tags": {
+				"name:eo": "Ceǔto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3573560593,
+			"lat": -23.3161458,
+			"lon": -65.7595288,
+			"tags": {
+				"name:eo": "Ĥuĥujo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3679338874,
+			"lat": 49.8299582,
+			"lon": 36.3788957,
+			"tags": {
+				"name:eo": "Ĥarkiva Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3708224038,
+			"lat": 39.5416505,
+			"lon": 126.0647645,
+			"tags": {
+				"name:eo": "Sud-Pjongan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3916953897,
+			"lat": 49.0677708,
+			"lon": 0.3138532,
+			"tags": {
+				"name:eo": "Normandio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3922422892,
+			"lat": 50.1024606,
+			"lon": 2.7247515,
+			"tags": {
+				"name:eo": "Nordo-Kaleza Markolo kaj Pikardio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189263789,
+			"lat": 49.653721,
+			"lon": 2.5339474,
+			"tags": {
+				"name:eo": "Pikardio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189298057,
+			"lat": 50.4806465,
+			"lon": 2.7937371,
+			"tags": {
+				"name:eo": "Nordo-Kaleza Markolo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289923286,
+			"lat": 51.4162975,
+			"lon": 3.7028061,
+			"tags": {
+				"name:eo": "Zelando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289948985,
+			"lat": 52.4484375,
+			"lon": 5.4235397,
+			"tags": {
+				"name:eo": "Flevolando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289948986,
+			"lat": 51.2008195,
+			"lon": 5.9041916,
+			"tags": {
+				"name:eo": "Limburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289948987,
+			"lat": 51.6017723,
+			"lon": 5.4441391,
+			"tags": {
+				"name:eo": "Norda Brabanto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289948988,
+			"lat": 52.7212825,
+			"lon": 4.820665,
+			"tags": {
+				"name:eo": "Norda Holando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289949089,
+			"lat": 52.037247,
+			"lon": 5.1859604,
+			"tags": {
+				"name:eo": "Utreĥto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289949090,
+			"lat": 51.9966792,
+			"lon": 4.5597397,
+			"tags": {
+				"name:eo": "Suda Holando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289950999,
+			"lat": 52.1014041,
+			"lon": 5.9515701,
+			"tags": {
+				"name:eo": "Gelderlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289951023,
+			"lat": 52.9067922,
+			"lon": 6.6368423,
+			"tags": {
+				"name:eo": "Drento"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289960493,
+			"lat": 53.0923689,
+			"lon": 5.777043,
+			"tags": {
+				"name:eo": "Frislando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4347988419,
+			"lat": 42.9903482,
+			"lon": 142.4962523,
+			"tags": {
+				"name:eo": "Hokajdo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351432485,
+			"lat": 13.7538929,
+			"lon": 100.8160803,
+			"tags": {
+				"name:eo": "Bankoko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4493451168,
+			"lat": 55.5321257,
+			"lon": -106.1412243,
+			"tags": {
+				"name:eo": "Saskaĉevano"
+			}
+		}
+	]
+}
