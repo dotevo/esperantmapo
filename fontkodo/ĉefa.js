@@ -37,6 +37,15 @@ $(document).bind('pageinit', function() {
 		}
 	})
 
+	const urboj = L.featureGroup().addTo(mapo)
+	const urbojF = new L.OverpassFetcher({
+		dosiero: 'urboj.json',
+		krei: function(objekto) {
+			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
+			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(urboj)
+		}
+	})
+
 	mapo.on('zoomend', function() {
 		if (mapo.getZoom() < 6) {
 			if (!mapo.hasLayer(landoj)) {
@@ -52,6 +61,14 @@ $(document).bind('pageinit', function() {
 			}
 		} else {
 			mapo.removeLayer(provincoj);
+		}
+
+		if (mapo.getZoom() > 6) {
+			if (!mapo.hasLayer(urboj)) {
+				mapo.addLayer(urboj)
+			}
+		} else {
+			mapo.removeLayer(urboj);
 		}
 	})
 

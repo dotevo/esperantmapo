@@ -106,6 +106,7 @@ function simpligiJSON(json) {
 
 const landoj = '[out:json];node["name:eo"][place=country];out center;'
 const provincoj = '[out:json];node["name:eo"][place=state];out center;'
+const urboj = '[out:json];node["name:eo"][place=city];out center;'
 
 gulp.task('elŝuti:landoj', function() {
 	return request(servilo + escape(landoj), function(error, response, body) {
@@ -118,6 +119,13 @@ gulp.task('elŝuti:provincoj', function() {
 	return request(servilo + escape(provincoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		fs.writeFile('kunmetaĵo/provincoj.json', JSON.stringify(json))
+	})
+})
+
+gulp.task('elŝuti:urboj', function() {
+	return request(servilo + escape(urboj), function(error, response, body) {
+		let json = simpligiJSON(JSON.parse(body))
+		fs.writeFile('kunmetaĵo/urboj.json', JSON.stringify(json))
 	})
 })
 
