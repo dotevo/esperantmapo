@@ -31,3 +31,25 @@ tr, td, th {
 .leaflet-control-mesaĝo{
 	display: inline-block
 }
+
+.ui-paĝopiedo {
+	overflow: auto;
+	height: 80px;
+}
+
+.etikedo{
+
+}
+.lando-etikedo{
+	font-weight: bold;
+	color: black;
+}
+
+.provinco-etikedo{
+	font-style: italic;
+	color: green;
+}
+
+.urbo-etikedo{
+	color: blue;
+}

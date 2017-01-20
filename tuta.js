@@ -132,6 +132,7 @@ let Tradukilo = function () {
 				console.log(opcioj);
 				$(this).html(i18next.t($(this).attr('data-i18n'), opcioj));
 			});
+			$('select').selectmenu('refresh', true);
 		}
 	}, {
 		key: '\u015Dan\u011DiLingvon',
@@ -314,7 +315,7 @@ $(document).bind('pageinit', function () {
 		'link': '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 		'interpolation': { 'escapeValue': false }
 	});
-	const osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.5, attribution: teksto });
+	const osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.4, attribution: teksto });
 	mapo.addLayer(osm);
 	new Reklamujo(mapo);
 
@@ -322,8 +323,11 @@ $(document).bind('pageinit', function () {
 	const landojF = new L.OverpassFetcher({
 		dosiero: 'landoj.json',
 		krei: function (objekto) {
-			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags['name:eo'] });
-			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(landoj);
+			var mia = L.divIcon({
+				className: 'etikedo lando-etikedo',
+				html: objekto.tags['name:eo']
+			});
+			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(landoj);
 		}
 	});
 
@@ -331,27 +335,55 @@ $(document).bind('pageinit', function () {
 	const provincojF = new L.OverpassFetcher({
 		dosiero: 'provincoj.json',
 		krei: function (objekto) {
-			var myIcon = L.divIcon({ iconAnchor: [0, 0], iconSize: [0, 0], html: objekto.tags['name:eo'] });
-			L.marker([objekto.lat, objekto.lon], { icon: myIcon }).addTo(provincoj);
+			var mia = L.divIcon({
+				className: 'etikedo provinco-etikedo',
+				html: objekto.tags['name:eo']
+			});
+			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(provincoj);
+		}
+	});
+
+	const urboj = L.featureGroup().addTo(mapo);
+	const urbojF = new L.OverpassFetcher({
+		dosiero: 'urboj.json',
+		krei: function (objekto) {
+			var mia = L.divIcon({
+				className: 'etikedo urbo-etikedo',
+				html: objekto.tags['name:eo']
+			});
+			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(urboj);
 		}
 	});
 
 	mapo.on('zoomend', function () {
-		if (mapo.getZoom() < 6) {
+		let elektoLandoj = $('#landoj option:selected').attr('id');
+		if ((mapo.getZoom() < 6 || elektoLandoj === 'Ĉ') && elektoLandoj !== 'N') {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj);
 			}
 		} else {
 			mapo.removeLayer(landoj);
 		}
-
-		if (mapo.getZoom() > 4) {
+		let elektoProvincoj = $('#provincoj option:selected').attr('id');
+		if ((mapo.getZoom() > 4 || elektoProvincoj === 'Ĉ') && elektoProvincoj !== 'N') {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj);
 			}
 		} else {
 			mapo.removeLayer(provincoj);
 		}
+		let elektoUrboj = $('#urboj option:selected').attr('id');
+		if ((mapo.getZoom() > 6 || elektoUrboj === 'Ĉ') && elektoUrboj !== 'N') {
+			if (!mapo.hasLayer(urboj)) {
+				mapo.addLayer(urboj);
+			}
+		} else {
+			mapo.removeLayer(urboj);
+		}
+	});
+
+	$('#landoj, #provincoj, #urboj').on('change', function () {
+		mapo.fire('zoomend');
 	});
 
 	mapo.fire('zoomend');

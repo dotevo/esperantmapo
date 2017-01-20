@@ -1,3 +1,9 @@
 {
-    "Datumoj de la mapo {{link}} kontribuantoj": "Dane mapy {{link}}"
+    "Datumoj de la mapo {{link}} kontribuantoj": "Dane mapy {{link}}",
+    "Provincoj": "Prowincje",
+    "Landoj": "Państwa",
+    "Urboj": "Miasta",
+    "Ĉiam": "Zawsze",
+    "Aŭtomate": "Automatycznie",
+    "Neniam": "Nigdy"
 }
