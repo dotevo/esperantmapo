@@ -15,7 +15,7 @@ $(document).bind('pageinit', function() {
 			'link' : '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 			'interpolation': {'escapeValue': false}
 		})
-	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, opacity: 0.5, attribution: teksto})
+	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, opacity: 0.4, attribution: teksto})
 	mapo.addLayer(osm)
 	new Reklamujo(mapo)
 
@@ -23,8 +23,11 @@ $(document).bind('pageinit', function() {
 	const landojF = new L.OverpassFetcher({
 		dosiero: 'landoj.json',
 		krei: function(objekto) {
-			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
-			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(landoj)
+			var mia = L.divIcon({
+				className: 'etikedo lando-etikedo',
+				html: objekto.tags['name:eo']
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(landoj)
 		}
 	})
 
@@ -32,8 +35,11 @@ $(document).bind('pageinit', function() {
 	const provincojF = new L.OverpassFetcher({
 		dosiero: 'provincoj.json',
 		krei: function(objekto) {
-			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
-			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(provincoj)
+			var mia = L.divIcon({
+				className: 'etikedo provinco-etikedo',
+				html: objekto.tags['name:eo']
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(provincoj)
 		}
 	})
 
@@ -41,8 +47,11 @@ $(document).bind('pageinit', function() {
 	const urbojF = new L.OverpassFetcher({
 		dosiero: 'urboj.json',
 		krei: function(objekto) {
-			var myIcon = L.divIcon({iconAnchor:[0,0], iconSize: [0,0], html: objekto.tags['name:eo']})
-			L.marker([objekto.lat, objekto.lon], {icon: myIcon}).addTo(urboj)
+			var mia = L.divIcon({
+				className: 'etikedo urbo-etikedo',
+				html: objekto.tags['name:eo']
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(urboj)
 		}
 	})
 
