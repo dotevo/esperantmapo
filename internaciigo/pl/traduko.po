@@ -7,3 +7,21 @@ msgstr ""
 
 msgid "Datumoj de la mapo {{link}} kontribuantoj"
 msgstr "Dane mapy {{link}}"
+
+msgid "Provincoj"
+msgstr "Prowincje"
+
+msgid "Landoj"
+msgstr "Państwa"
+
+msgid "Urboj"
+msgstr "Miasta"
+
+msgid "Ĉiam"
+msgstr "Zawsze"
+
+msgid "Aŭtomate"
+msgstr "Automatycznie"
+
+msgid "Neniam"
+msgstr "Nigdy"

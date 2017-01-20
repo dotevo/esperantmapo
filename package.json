@@ -1,6 +1,6 @@
 {
   "name": "esperantmapo",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "scripts": {
     "gulp": "gulp",
     "kompili": "gulp kompili",

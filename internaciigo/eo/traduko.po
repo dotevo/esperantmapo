@@ -7,3 +7,21 @@ msgstr ""
 
 msgid "Datumoj de la mapo {{link}} kontribuantoj"
 msgstr "Datumoj de la mapo {{link}} kontribuantoj"
+
+msgid "Provincoj"
+msgstr "Provincoj"
+
+msgid "Landoj"
+msgstr "Landoj"
+
+msgid "Urboj"
+msgstr "Urboj"
+
+msgid "Ĉiam"
+msgstr "Ĉiam"
+
+msgid "Aŭtomate"
+msgstr "Aŭtomate"
+
+msgid "Neniam"
+msgstr "Neniam"

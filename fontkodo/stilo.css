@@ -32,6 +32,11 @@ tr, td, th {
 	display: inline-block
 }
 
+.ui-paĝopiedo {
+	overflow: auto;
+	height: 80px;
+}
+
 .etikedo{
 
 }

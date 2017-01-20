@@ -56,29 +56,37 @@ $(document).bind('pageinit', function() {
 	})
 
 	mapo.on('zoomend', function() {
-		if (mapo.getZoom() < 6) {
+		let elektoLandoj = $('#landoj option:selected').attr('id')
+		if ((mapo.getZoom() < 6 || elektoLandoj === 'Ĉ') &&
+				elektoLandoj !== 'N') {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj)
 			}
 		} else {
-			mapo.removeLayer(landoj);
+			mapo.removeLayer(landoj)
 		}
-
-		if (mapo.getZoom() > 4) {
+		let elektoProvincoj = $('#provincoj option:selected').attr('id')
+		if ((mapo.getZoom() > 4 || elektoProvincoj === 'Ĉ') &&
+				elektoProvincoj !== 'N') {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj)
 			}
 		} else {
-			mapo.removeLayer(provincoj);
+			mapo.removeLayer(provincoj)
 		}
-
-		if (mapo.getZoom() > 6) {
+		let elektoUrboj = $('#urboj option:selected').attr('id')
+		if ((mapo.getZoom() > 6 || elektoUrboj === 'Ĉ') &&
+				elektoUrboj !== 'N') {
 			if (!mapo.hasLayer(urboj)) {
 				mapo.addLayer(urboj)
 			}
 		} else {
-			mapo.removeLayer(urboj);
+			mapo.removeLayer(urboj)
 		}
+	})
+
+	$('#landoj, #provincoj, #urboj').on('change', function () {
+		mapo.fire('zoomend')
 	})
 
 	mapo.fire('zoomend')
