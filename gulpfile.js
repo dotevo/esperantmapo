@@ -41,7 +41,7 @@ gulp.task('js', () => {
 	if (produkta === true) {
 		env({vars: {BABEL_ENV: 'produkta'}})
 	}
-	gulp.src('fontkodo/**/*.js')
+	return gulp.src('fontkodo/**/*.js')
 		.pipe(dependencies())
 		.pipe(sourcemaps.init())
 		.pipe(concat('tuta.js'))
@@ -64,7 +64,7 @@ gulp.task('lingvoj', function() {
 	gulp.src('internaciigo/*/*.po')
 		.pipe(i18next())
 		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
-	gulp.src('internaciigo/*/nomo')
+	return gulp.src('internaciigo/*/nomo')
 		.pipe(concat('lingvoj.txt'))
 		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
 })
@@ -111,32 +111,32 @@ const urboj = '[out:json];node["name:eo"][place=city];out center;'
 gulp.task('elŝuti:landoj', function() {
 	return request(servilo + escape(landoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
-		fs.writeFile('kunmetaĵo/landoj.json', JSON.stringify(json))
+		fs.writeFile('kunmetaĵo/landoj.json', JSON.stringify(json, null, '\t'))
 	})
 })
 
 gulp.task('elŝuti:provincoj', function() {
 	return request(servilo + escape(provincoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
-		fs.writeFile('kunmetaĵo/provincoj.json', JSON.stringify(json))
+		fs.writeFile('kunmetaĵo/provincoj.json', JSON.stringify(json, null, '\t'))
 	})
 })
 
 gulp.task('elŝuti:urboj', function() {
 	return request(servilo + escape(urboj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
-		fs.writeFile('kunmetaĵo/urboj.json', JSON.stringify(json))
+		fs.writeFile('kunmetaĵo/urboj.json', JSON.stringify(json, null, '\t'))
 	})
 })
 
-gulp.task('elŝuti', ['elŝuti:landoj','elŝuti:provincoj'], function() {
+gulp.task('elŝuti', gulp.series('elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj'), function(cb) {
 })
 
-gulp.task('validigi', ['lint'], function () {
+gulp.task('validigi', gulp.series('lint'), function () {
 })
 
-gulp.task('kompili', ['bibliotekoj', 'js', 'html', 'css', 'lingvoj'], function () {
+gulp.task('kompili', gulp.parallel('bibliotekoj', 'js', 'html', 'css', 'lingvoj'), function () {
 })
 
-gulp.task('produkti', ['produkta', 'kompili'], function () {
+gulp.task('produkti', gulp.series('produkta', 'kompili'), function () {
 })
