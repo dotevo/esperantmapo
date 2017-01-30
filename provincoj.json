@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-30T12:38:02Z",
+		"timestamp_osm_base": "2017-01-30T13:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -53,6 +53,24 @@
 		},
 		{
 			"type": "node",
+			"id": 240029417,
+			"lat": 47.25,
+			"lon": 9.9166667,
+			"tags": {
+				"name:eo": "Vorarlbergo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240035066,
+			"lat": 46.6960615,
+			"lon": 9.6027351,
+			"tags": {
+				"name:eo": "Grizono"
+			}
+		},
+		{
+			"type": "node",
 			"id": 240037510,
 			"lat": 47.5000001,
 			"lon": 16.4166666,
@@ -62,11 +80,65 @@
 		},
 		{
 			"type": "node",
+			"id": 240054861,
+			"lat": 47.412396,
+			"lon": 8.1948321,
+			"tags": {
+				"name:eo": "Argovio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240062519,
+			"lat": 46.8613857,
+			"lon": 8.2067825,
+			"tags": {
+				"name:eo": "Obvaldo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 240063738,
 			"lat": 53.555079,
 			"lon": 9.997025,
 			"tags": {
 				"name:eo": "Hamburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240071290,
+			"lat": 47.3007262,
+			"lon": 9.3991527,
+			"tags": {
+				"name:eo": "Apencelo Interna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240079173,
+			"lat": 47.5859649,
+			"lon": 9.1428769,
+			"tags": {
+				"name:eo": "Turgovio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240086063,
+			"lat": 47.3960076,
+			"lon": 9.3705839,
+			"tags": {
+				"name:eo": "Apencelo Ekstera"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240108092,
+			"lat": 46.7864413,
+			"lon": 8.6420159,
+			"tags": {
+				"name:eo": "Urio"
 			}
 		},
 		{
@@ -1808,6 +1880,96 @@
 		},
 		{
 			"type": "node",
+			"id": 313870420,
+			"lat": 47.3719943,
+			"lon": 8.5415277,
+			"tags": {
+				"name:eo": "Zuriko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313870659,
+			"lat": 47.5092938,
+			"lon": 7.6588333,
+			"tags": {
+				"name:eo": "Bazelo Kampara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313871105,
+			"lat": 47.5579097,
+			"lon": 7.5927728,
+			"tags": {
+				"name:eo": "Bazelo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313872884,
+			"lat": 46.9796562,
+			"lon": 9.108812,
+			"tags": {
+				"name:eo": "Glaruso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313873770,
+			"lat": 47.1561047,
+			"lon": 9.338323,
+			"tags": {
+				"name:eo": "Sankt-Galo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313874120,
+			"lat": 47.6971082,
+			"lon": 8.6347214,
+			"tags": {
+				"name:eo": "Ŝafhaŭzo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313874404,
+			"lat": 47.31874,
+			"lon": 7.6698284,
+			"tags": {
+				"name:eo": "Soloturno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313874600,
+			"lat": 47.0571976,
+			"lon": 8.7222073,
+			"tags": {
+				"name:eo": "Ŝvico"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313875189,
+			"lat": 46.3356506,
+			"lon": 8.753706,
+			"tags": {
+				"name:eo": "Tiĉino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313875456,
+			"lat": 47.1486137,
+			"lon": 8.5539378,
+			"tags": {
+				"name:eo": "Zugo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 316416994,
 			"lat": 28.6273928,
 			"lon": 77.1716954,
@@ -3302,6 +3464,15 @@
 		},
 		{
 			"type": "node",
+			"id": 572184965,
+			"lat": 47.0908207,
+			"lon": 8.1719611,
+			"tags": {
+				"name:eo": "Lucerno"
+			}
+		},
+		{
+			"type": "node",
 			"id": 573226686,
 			"lat": 55.448217,
 			"lon": 50.4763591,
@@ -3874,6 +4045,33 @@
 			"lon": 40.7957942,
 			"tags": {
 				"name:eo": "Rostova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 760018446,
+			"lat": 47.0099249,
+			"lon": 6.8243806,
+			"tags": {
+				"name:eo": "Neŭŝatelo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 760018464,
+			"lat": 47.3566699,
+			"lon": 7.1598893,
+			"tags": {
+				"name:eo": "Ĵuraso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 760018466,
+			"lat": 46.2303063,
+			"lon": 7.6605757,
+			"tags": {
+				"name:eo": "Valezo"
 			}
 		},
 		{
@@ -4612,6 +4810,24 @@
 			"lon": 165.4880773,
 			"tags": {
 				"name:eo": "Nov-Kaledonio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1390170739,
+			"lat": 46.6789116,
+			"lon": 7.1027113,
+			"tags": {
+				"name:eo": "Friburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1390207180,
+			"lat": 46.6356963,
+			"lon": 6.5320717,
+			"tags": {
+				"name:eo": "Vaŭdo"
 			}
 		},
 		{
@@ -5845,6 +6061,15 @@
 			"lon": 127.64342,
 			"tags": {
 				"name:eo": "Sud-Hamgjong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3099592097,
+			"lat": 60.0518829,
+			"lon": 10.6799603,
+			"tags": {
+				"name:eo": "Oslo"
 			}
 		},
 		{

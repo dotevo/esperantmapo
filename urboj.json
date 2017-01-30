@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-30T12:41:02Z",
+		"timestamp_osm_base": "2017-01-30T13:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -157,6 +157,15 @@
 			"lon": -75.690308,
 			"tags": {
 				"name:eo": "Otavo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 18994998,
+			"lat": 42.3486635,
+			"lon": -83.0567375,
+			"tags": {
+				"name:eo": "Detrojto"
 			}
 		},
 		{
@@ -615,7 +624,7 @@
 			"lat": 29.7589382,
 			"lon": -95.3676974,
 			"tags": {
-				"name:eo": "Houston (Teksaso)"
+				"name:eo": "Hustono"
 			}
 		},
 		{
@@ -1160,6 +1169,15 @@
 		},
 		{
 			"type": "node",
+			"id": 38451000,
+			"lat": 36.1622296,
+			"lon": -86.7743531,
+			"tags": {
+				"name:eo": "Naŝvilo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 38903284,
 			"lat": 26.2235041,
 			"lon": 50.5822436,
@@ -1502,6 +1520,15 @@
 		},
 		{
 			"type": "node",
+			"id": 151465650,
+			"lat": 39.7391536,
+			"lon": -104.9847034,
+			"tags": {
+				"name:eo": "Denvero"
+			}
+		},
+		{
+			"type": "node",
 			"id": 153353016,
 			"lat": 39.7683331,
 			"lon": -86.1583502,
@@ -1511,11 +1538,29 @@
 		},
 		{
 			"type": "node",
+			"id": 153388690,
+			"lat": 41.8755546,
+			"lon": -87.6244212,
+			"tags": {
+				"name:eo": "Ĉikago"
+			}
+		},
+		{
+			"type": "node",
 			"id": 153843609,
 			"lat": 33.7490987,
 			"lon": -84.3901849,
 			"tags": {
 				"name:eo": "Atlanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154158458,
+			"lat": 25.7742658,
+			"lon": -80.1936589,
+			"tags": {
+				"name:eo": "Miamio"
 			}
 		},
 		{
@@ -1552,6 +1597,15 @@
 			"lon": -77.0366456,
 			"tags": {
 				"name:eo": "Vaŝingtono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 158809705,
+			"lat": 42.3604823,
+			"lon": -71.0595678,
+			"tags": {
+				"name:eo": "Bostono"
 			}
 		},
 		{
@@ -1813,6 +1867,15 @@
 			"lon": -38.5217989,
 			"tags": {
 				"name:eo": "Fortalezo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 214202817,
+			"lat": -37.4707455,
+			"lon": -72.351686,
+			"tags": {
+				"name:eo": "Los Anĝeleso"
 			}
 		},
 		{
@@ -3122,6 +3185,15 @@
 		},
 		{
 			"type": "node",
+			"id": 873099231,
+			"lat": 43.0349931,
+			"lon": -87.922497,
+			"tags": {
+				"name:eo": "Milvokio"
+			}
+		},
+		{
+			"type": "node",
 			"id": 914310439,
 			"lat": 10.506098,
 			"lon": -66.9146017,
@@ -3667,6 +3739,15 @@
 			"lon": 7.4197576,
 			"tags": {
 				"name:eo": "Monako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1801308037,
+			"lat": 30.2711286,
+			"lon": -97.7436995,
+			"tags": {
+				"name:eo": "Aŭstino"
 			}
 		},
 		{
