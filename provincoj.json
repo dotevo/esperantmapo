@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-20T10:47:02Z",
+		"timestamp_osm_base": "2017-01-30T12:38:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -5651,6 +5651,33 @@
 		},
 		{
 			"type": "node",
+			"id": 2537069583,
+			"lat": 8.5479351,
+			"lon": -82.5972317,
+			"tags": {
+				"name:eo": "Ĉirikio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2537777115,
+			"lat": 9.3538223,
+			"lon": -82.4559391,
+			"tags": {
+				"name:eo": "Bokas-del-Toro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2537777133,
+			"lat": 8.8975508,
+			"lon": -82.1174033,
+			"tags": {
+				"name:eo": "Ngabe-Bugleo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2604557728,
 			"lat": -69.1726389,
 			"lon": 138.960274,
@@ -6070,6 +6097,15 @@
 			"lon": -106.1412243,
 			"tags": {
 				"name:eo": "Saskaĉevano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4644141122,
+			"lat": 8.2158991,
+			"lon": -78.0172551,
+			"tags": {
+				"name:eo": "Darjeno"
 			}
 		}
 	]

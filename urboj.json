@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-20T10:47:02Z",
+		"timestamp_osm_base": "2017-01-30T12:41:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -901,7 +901,7 @@
 			"type": "node",
 			"id": 29939632,
 			"lat": -6.1753942,
-			"lon": 106.8271826,
+			"lon": 106.827183,
 			"tags": {
 				"name:eo": "Ĝakarto"
 			}
@@ -1039,6 +1039,15 @@
 			"lon": 30.9401454,
 			"tags": {
 				"name:eo": "Kafr aŝ-Ŝejĥ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31792887,
+			"lat": 51.6530011,
+			"lon": 17.8150836,
+			"tags": {
+				"name:eo": "Ostrovo"
 			}
 		},
 		{
