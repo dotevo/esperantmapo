@@ -17,7 +17,7 @@ var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
 /**
  * @requires ./leaflet-ujo.js
  */
-const reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/><iframe scrolling="no" ' + 'style="border: 0; width: 120px; height: 240px;" ' + 'src="https://coinurl.com/get.php?id=59251&search=esperanto,language"></iframe><br/>' + '<a class="reklamujo-fermbutono">X</a>';
+const reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/>' + '<iframe data-aa="398901" src="https://ad.a-ads.com/398901?size=120x60"' + ' scrolling="no" style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"' + ' allowtransparency="true" frameborder="0"></iframe><br/>' + '<a class="reklamujo-fermbutono">X</a>';
 
 let Reklamujo = function () {
 	function Reklamujo(mapo) {
