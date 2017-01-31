@@ -78,7 +78,6 @@ class Tradukilo {
 			if (teksto !== undefined) {
 				opcioj = JSON.parse(teksto)
 			}
-			console.log(opcioj)
 			$(this).html(i18next.t($(this).attr('data-i18n'), opcioj))
 		})
 		$('select').selectmenu('refresh', true)
