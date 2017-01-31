@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-30T13:45:02Z",
+		"timestamp_osm_base": "2017-01-31T09:43:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -463,6 +463,87 @@
 			"lon": 144.6780052,
 			"tags": {
 				"name:eo": "Viktorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993790,
+			"lat": -5.841586,
+			"lon": 144.2355348,
+			"tags": {
+				"name:eo": "Provinco Okcidentaj Altaj Teroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993800,
+			"lat": -5.1386278,
+			"lon": 151.9020187,
+			"tags": {
+				"name:eo": "Orienta Nov-Britujo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993829,
+			"lat": -6.4471522,
+			"lon": 143.6006612,
+			"tags": {
+				"name:eo": "Provinco Sudaj Altaj Teroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993849,
+			"lat": -9,
+			"lon": 148.5,
+			"tags": {
+				"name:eo": "Provinco Oro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993862,
+			"lat": -3,
+			"lon": 151.5,
+			"tags": {
+				"name:eo": "Nova Irlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993871,
+			"lat": -10,
+			"lon": 148,
+			"tags": {
+				"name:eo": "Centra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993883,
+			"lat": -6.5,
+			"lon": 145.583333,
+			"tags": {
+				"name:eo": "Provinco Orientaj Altaj Teroj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993885,
+			"lat": -5.8891465,
+			"lon": 149.699546,
+			"tags": {
+				"name:eo": "Provinco Okcidenta Nov-Britujo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304993899,
+			"lat": -7.5556411,
+			"lon": 144.8850036,
+			"tags": {
+				"name:eo": "Provinco Golfo"
 			}
 		},
 		{
@@ -1970,6 +2051,15 @@
 		},
 		{
 			"type": "node",
+			"id": 313928977,
+			"lat": -20.5,
+			"lon": -59.166667,
+			"tags": {
+				"name:eo": "Alta Paragvajo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 316416994,
 			"lat": 28.6273928,
 			"lon": 77.1716954,
@@ -2497,6 +2587,42 @@
 			"lon": -4.1140518,
 			"tags": {
 				"name:eo": "Skotlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114108,
+			"lat": 15.7379098,
+			"lon": -88.5888038,
+			"tags": {
+				"name:eo": "Izabalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114110,
+			"lat": 15.5,
+			"lon": -90.333333,
+			"tags": {
+				"name:eo": "Alta Verapaco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114112,
+			"lat": 15.1009234,
+			"lon": -90.3139743,
+			"tags": {
+				"name:eo": "Malalta Verapaco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114124,
+			"lat": 16.9,
+			"lon": -89.9,
+			"tags": {
+				"name:eo": "Peteno"
 			}
 		},
 		{
@@ -3527,6 +3653,15 @@
 		},
 		{
 			"type": "node",
+			"id": 606130485,
+			"lat": 15.4195605,
+			"lon": -90.9460526,
+			"tags": {
+				"name:eo": "Kiĉeo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 607014861,
 			"lat": 54.1463177,
 			"lon": 47.2324921,
@@ -3797,6 +3932,24 @@
 		},
 		{
 			"type": "node",
+			"id": 647623220,
+			"lat": -30.7546652,
+			"lon": -70.9005536,
+			"tags": {
+				"name:eo": "Kokimbio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 647624375,
+			"lat": -27.5571783,
+			"lon": -70.0156882,
+			"tags": {
+				"name:eo": "Atakamo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 648753997,
 			"lat": 52.6935178,
 			"lon": 39.1122664,
@@ -3820,6 +3973,15 @@
 			"lon": 41.3578918,
 			"tags": {
 				"name:eo": "Tambova Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 655437768,
+			"lat": -20.1636672,
+			"lon": -69.5463448,
+			"tags": {
+				"name:eo": "Tarapakio"
 			}
 		},
 		{
@@ -4310,6 +4472,15 @@
 		},
 		{
 			"type": "node",
+			"id": 924836600,
+			"lat": -32.5976089,
+			"lon": -70.8529753,
+			"tags": {
+				"name:eo": "Valparaiso"
+			}
+		},
+		{
+			"type": "node",
 			"id": 933435715,
 			"lat": 58.2155351,
 			"lon": 49.7686354,
@@ -4387,6 +4558,42 @@
 			"lon": 50.2227409,
 			"tags": {
 				"name:eo": "Okcidenta Kazaĥio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1073096525,
+			"lat": 14.9661596,
+			"lon": -89.5180314,
+			"tags": {
+				"name:eo": "Zakapo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1073096856,
+			"lat": 15.6634185,
+			"lon": -91.5839796,
+			"tags": {
+				"name:eo": "Huehuetenango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1073096910,
+			"lat": 14.771302,
+			"lon": -91.174569,
+			"tags": {
+				"name:eo": "Sololao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1073097103,
+			"lat": 14.852206,
+			"lon": -90.0648909,
+			"tags": {
+				"name:eo": "Progreso"
 			}
 		},
 		{
@@ -4832,6 +5039,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1429095880,
+			"lat": 14.7360257,
+			"lon": -91.6152074,
+			"tags": {
+				"name:eo": "Ketzaltenango"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1491974656,
 			"lat": 35.0184485,
 			"lon": 135.7636518,
@@ -4873,6 +5089,15 @@
 			"lon": 133.5075229,
 			"tags": {
 				"name:eo": "Ŝikokua Regiono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1600326740,
+			"lat": 14.6413957,
+			"lon": -90.5133626,
+			"tags": {
+				"name:eo": "Gvatemalo"
 			}
 		},
 		{
@@ -5930,6 +6155,24 @@
 		},
 		{
 			"type": "node",
+			"id": 2702989678,
+			"lat": -8.9928444,
+			"lon": 13.7877067,
+			"tags": {
+				"name:eo": "Bengo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2702989692,
+			"lat": -5.056395,
+			"lon": 12.3211749,
+			"tags": {
+				"name:eo": "Kabindo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2704047246,
 			"lat": 44.4179637,
 			"lon": 109.7783753,
@@ -5953,6 +6196,15 @@
 			"lon": 27.8243208,
 			"tags": {
 				"name:eo": "Maseruo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2775799305,
+			"lat": 12.558473,
+			"lon": -84.1015992,
+			"tags": {
+				"name:eo": "Aŭtonoma Regiono Suda Atlantiko"
 			}
 		},
 		{
@@ -6052,6 +6304,150 @@
 			"lon": -66.666667,
 			"tags": {
 				"name:eo": "Potosiio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223351,
+			"lat": 12.4768825,
+			"lon": -85.4673457,
+			"tags": {
+				"name:eo": "Boako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223352,
+			"lat": 11.6635659,
+			"lon": -86.3090376,
+			"tags": {
+				"name:eo": "Karazo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223353,
+			"lat": 12.8890816,
+			"lon": -86.9577726,
+			"tags": {
+				"name:eo": "Ĉinandego"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223354,
+			"lat": 11.8915422,
+			"lon": -85.1013926,
+			"tags": {
+				"name:eo": "Ĉontaleso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223355,
+			"lat": 13.2455577,
+			"lon": -86.4554189,
+			"tags": {
+				"name:eo": "Estelio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223356,
+			"lat": 11.8134002,
+			"lon": -85.9031625,
+			"tags": {
+				"name:eo": "Granado"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223357,
+			"lat": 13.5303638,
+			"lon": -85.6569759,
+			"tags": {
+				"name:eo": "Ĥinotegao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223358,
+			"lat": 12.619767,
+			"lon": -86.5918195,
+			"tags": {
+				"name:eo": "Leono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223359,
+			"lat": 13.510956,
+			"lon": -86.3423061,
+			"tags": {
+				"name:eo": "Madrizo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223360,
+			"lat": 11.9338598,
+			"lon": -86.5252826,
+			"tags": {
+				"name:eo": "Managvo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223361,
+			"lat": 12.9636599,
+			"lon": -85.5006141,
+			"tags": {
+				"name:eo": "Matagalpo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223362,
+			"lat": 13.7792903,
+			"lon": -86.0628511,
+			"tags": {
+				"name:eo": "Nova Segovio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223363,
+			"lat": 14.3392053,
+			"lon": -83.8790622,
+			"tags": {
+				"name:eo": "Aŭtonoma Regiono Norda Atlantiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223364,
+			"lat": 11.3897472,
+			"lon": -85.6237074,
+			"tags": {
+				"name:eo": "Rivaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923223365,
+			"lat": 11.2124304,
+			"lon": -84.4111352,
+			"tags": {
+				"name:eo": "Rivero Sankta Johano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2923256183,
+			"lat": 12.0008289,
+			"lon": -86.0513672,
+			"tags": {
+				"name:eo": "Masajo"
 			}
 		},
 		{

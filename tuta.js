@@ -129,7 +129,6 @@ let Tradukilo = function () {
 				if (teksto !== undefined) {
 					opcioj = JSON.parse(teksto);
 				}
-				console.log(opcioj);
 				$(this).html(i18next.t($(this).attr('data-i18n'), opcioj));
 			});
 			$('select').selectmenu('refresh', true);
@@ -308,8 +307,53 @@ let mapo;
  * @requires ./overpass/overpass.js
  */
 
+//Parametroj
+function tekstoAlTabelo(prmteksto) {
+	var parametroj = {};
+	var prmtabelo = prmteksto.split('&');
+	for (let i = 0; i < prmtabelo.length; i++) {
+		let tmptabelo = prmtabelo[i].split('=');
+		parametroj[tmptabelo[0]] = tmptabelo[1];
+	}
+	return parametroj;
+}
+
+function getSerĉiParametrojn() {
+	let prmstr = window.location.search.substr(1);
+	return prmstr != null && prmstr != '' ? tekstoAlTabelo(prmstr) : {};
+}
+
+var parametroj = getSerĉiParametrojn();
+if (parametroj.lat == null || parametroj.lng == null || parametroj.z == null) {
+	//console.log(parametroj)
+	parametroj.lat = 0;
+	parametroj.lng = 0;
+	parametroj.z = 1;
+}
+
+function ŝanĝiParametrojn() {
+	let teksto = '';
+	for (let ŝlosilo in parametroj) {
+		teksto += ŝlosilo + '=' + parametroj[ŝlosilo] + '&';
+	}
+
+	window.history.replaceState('', 'Esperantmapo', '?' + teksto);
+}
+
 $(document).bind('pageinit', function () {
-	mapo = L.map('mapo').setView([0, 0], 2);
+	console.log(parametroj);
+	if (parametroj.l != null) {
+		console.log(parametroj.l);
+		$('#landoj').val(parametroj.l).change();
+	}
+	if (parametroj.p != null) {
+		$('#provincoj').val(parametroj.p).change();
+	}
+	if (parametroj.u != null) {
+		$('#urboj').val(parametroj.u).change();
+	}
+
+	mapo = L.map('mapo').setView([parametroj.lat, parametroj.lng], parametroj.z);
 	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
 		'link': '<a href="http://openstreetmap.org">OpenStreetMap</a>',
@@ -355,25 +399,32 @@ $(document).bind('pageinit', function () {
 		}
 	});
 
+	mapo.on('moveend', () => {
+		parametroj.lat = mapo.getCenter().lat;
+		parametroj.lng = mapo.getCenter().lng;
+		parametroj.z = mapo.getZoom();
+		ŝanĝiParametrojn();
+	});
+
 	mapo.on('zoomend', function () {
-		let elektoLandoj = $('#landoj option:selected').attr('id');
-		if ((mapo.getZoom() < 6 || elektoLandoj === 'Ĉ') && elektoLandoj !== 'N') {
+		let elektoLandoj = $('#landoj').val();
+		if ((mapo.getZoom() < 6 || elektoLandoj === 'C') && elektoLandoj !== 'N') {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj);
 			}
 		} else {
 			mapo.removeLayer(landoj);
 		}
-		let elektoProvincoj = $('#provincoj option:selected').attr('id');
-		if ((mapo.getZoom() > 4 || elektoProvincoj === 'Ĉ') && elektoProvincoj !== 'N') {
+		let elektoProvincoj = $('#provincoj').val();
+		if ((mapo.getZoom() > 4 || elektoProvincoj === 'C') && elektoProvincoj !== 'N') {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj);
 			}
 		} else {
 			mapo.removeLayer(provincoj);
 		}
-		let elektoUrboj = $('#urboj option:selected').attr('id');
-		if ((mapo.getZoom() > 6 || elektoUrboj === 'Ĉ') && elektoUrboj !== 'N') {
+		let elektoUrboj = $('#urboj').val();
+		if ((mapo.getZoom() > 6 || elektoUrboj === 'C') && elektoUrboj !== 'N') {
 			if (!mapo.hasLayer(urboj)) {
 				mapo.addLayer(urboj);
 			}
@@ -383,6 +434,10 @@ $(document).bind('pageinit', function () {
 	});
 
 	$('#landoj, #provincoj, #urboj').on('change', function () {
+		parametroj.l = $('#landoj').val();
+		parametroj.p = $('#provincoj').val();
+		parametroj.u = $('#urboj').val();
+		mapo.fire('moveend');
 		mapo.fire('zoomend');
 	});
 
