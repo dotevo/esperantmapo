@@ -29,6 +29,7 @@
     "gulp-lintspaces": "^0.5.0",
     "gulp-resolve-dependencies": "^2.2.0",
     "gulp-sourcemaps": "^1.9.1",
+    "gulp-wait": "0.0.2",
     "request": "^2.79.0"
   }
 }

@@ -16,6 +16,8 @@ const env = require('gulp-env')
 const request = require('request')
 const fs = require('fs')
 
+const wait = require('gulp-wait')
+
 var jsDosieroj = ['*.js', '**/*.js', '!node_modules/**/*.js',
 	'!kunmetaĵo/**/*.js', '!bibliotekoj/**/*.js']
 
@@ -88,7 +90,6 @@ function simpligiObjekton(obj) {
 	objekto.center = obj.center
 	objekto.tags = {}
 	objekto.tags['name:eo'] = obj.tags['name:eo']
-
 	return objekto
 }
 
@@ -107,29 +108,37 @@ function simpligiJSON(json) {
 const landoj = '[out:json];node["name:eo"][place=country];out center;'
 const provincoj = '[out:json];node["name:eo"][place=state];out center;'
 const urboj = '[out:json];node["name:eo"][place=city];out center;'
+const lokoj = '[out:json];(way["language:eo"];way["books:language:eo"];node["language:eo"];node["books:language:eo"]);out tags center;'
 
 gulp.task('elŝuti:landoj', function() {
 	return request(servilo + escape(landoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		fs.writeFile('kunmetaĵo/landoj.json', JSON.stringify(json, null, '\t'))
-	})
+	}).pipe(wait(5000))
 })
 
 gulp.task('elŝuti:provincoj', function() {
 	return request(servilo + escape(provincoj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		fs.writeFile('kunmetaĵo/provincoj.json', JSON.stringify(json, null, '\t'))
-	})
+	}).pipe(wait(5000))
 })
 
 gulp.task('elŝuti:urboj', function() {
 	return request(servilo + escape(urboj), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		fs.writeFile('kunmetaĵo/urboj.json', JSON.stringify(json, null, '\t'))
-	})
+	}).pipe(wait(5000))
 })
 
-gulp.task('elŝuti', gulp.series('elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj'), function(cb) {
+gulp.task('elŝuti:lokoj', function() {
+	return request(servilo + escape(lokoj), function(error, response, body) {
+		let json = JSON.parse(body)
+		fs.writeFile('kunmetaĵo/lokoj.json', JSON.stringify(json, null, '\t'))
+	}).pipe(wait(5000))
+})
+
+gulp.task('elŝuti', gulp.series('elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj', 'elŝuti:lokoj'), function(cb) {
 })
 
 gulp.task('validigi', gulp.series('lint'), function () {
