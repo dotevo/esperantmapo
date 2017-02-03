@@ -30,6 +30,9 @@
     "gulp-resolve-dependencies": "^2.2.0",
     "gulp-sourcemaps": "^1.9.1",
     "gulp-wait": "0.0.2",
-    "request": "^2.79.0"
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0",
+    "require-dir": "^0.3.1",
+    "yargs": "^6.6.0"
   }
 }
