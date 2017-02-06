@@ -78,14 +78,10 @@ gulp.task('observi', function() {
 })
 
 gulp.task('elŝuti', gulp.series('lingvo',
-	'elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj', 'elŝuti:lokoj'), function(cb) {
-})
+	'elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj', 'elŝuti:lokoj'))
 
-gulp.task('validigi', gulp.series('lint'), function () {
-})
+gulp.task('validigi', gulp.series('lint'))
 
-gulp.task('kompili', gulp.parallel('bibliotekoj', 'js', 'html', 'css', 'lingvoj'), function () {
-})
+gulp.task('kompili', gulp.parallel('bibliotekoj', 'js', 'html', 'css', 'lingvoj'))
 
-gulp.task('produkti', gulp.series('produkta', 'kompili'), function () {
-})
+gulp.task('produkti', gulp.series('produkta', 'kompili'))

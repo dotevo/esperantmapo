@@ -38,7 +38,7 @@ function simpligiObjekton(obj) {
 	objekto.lon = obj.lon
 	objekto.center = obj.center
 	objekto.tags = {}
-	objekto.tags['name:eo'] = obj.tags['name:eo']
+	objekto.tags['name:' + lingvo] = obj.tags['name:' + lingvo]
 	return objekto
 }
 
@@ -63,35 +63,38 @@ function skribiAlDosiero(path, contents, cb) {
 	})
 }
 
-gulp.task('lingvo', (done) => {
-	console.log(argv)
+gulp.task('lingvo', function(done) {
+	if(argv.lingvo != null) {
+		lingvo = argv.lingvo
+	}
+	console.log("Uzas: " + lingvo)
 	done()
 })
 
-gulp.task('elŝuti:landoj', function() {
+gulp.task('elŝuti:landoj', gulp.series('lingvo', function() {
 	return request(servilo + escape(landoj()), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		skribiAlDosiero('kunmetaĵo/' + lingvo + '/landoj.json', JSON.stringify(json, null, '\t'))
 	}).pipe(wait(5000))
-})
+}))
 
-gulp.task('elŝuti:provincoj', function() {
+gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
 	return request(servilo + escape(provincoj()), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		skribiAlDosiero('kunmetaĵo/' + lingvo + '/provincoj.json', JSON.stringify(json, null, '\t'))
 	}).pipe(wait(5000))
-})
+}))
 
-gulp.task('elŝuti:urboj', function() {
+gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
 	return request(servilo + escape(urboj()), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		skribiAlDosiero('kunmetaĵo/' + lingvo + '/urboj.json', JSON.stringify(json, null, '\t'))
 	}).pipe(wait(5000))
-})
+}))
 
-gulp.task('elŝuti:lokoj', function() {
+gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
 	return request(servilo + escape(lokoj()), function(error, response, body) {
 		let json = JSON.parse(body)
 		skribiAlDosiero('kunmetaĵo/' + lingvo + '/lokoj.json', JSON.stringify(json, null, '\t'))
 	}).pipe(wait(5000))
-})
+}))

@@ -40,8 +40,44 @@ function ŝanĝiParametrojn() {
 	window.history.replaceState('', 'Esperantmapo', '?' + teksto)
 }
 
+function manteloj(opt, lingvo) {
+	const landojF = new L.OverpassFetcher({
+		dosiero: lingvo + '/landoj.json',
+		krei: function(objekto) {
+			var mia = L.divIcon({
+				className: 'etikedo lando-etikedo',
+				html: objekto.tags['name:' + lingvo]
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.landoj)
+		}
+	})
+
+	const provincojF = new L.OverpassFetcher({
+		dosiero: lingvo + '/provincoj.json',
+		krei: function(objekto) {
+			var mia = L.divIcon({
+				className: 'etikedo provinco-etikedo',
+				html: objekto.tags['name:' + lingvo]
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.provincoj)
+		}
+	})
+
+	const urbojF = new L.OverpassFetcher({
+		dosiero: lingvo + '/urboj.json',
+		krei: function(objekto) {
+			var mia = L.divIcon({
+				className: 'etikedo urbo-etikedo',
+				html: objekto.tags['name:' + lingvo]
+			})
+			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.urboj)
+		}
+	})
+}
+
 $(document).bind('pageinit', function() {
 	console.log(parametroj)
+	let lingvo = 'eo'
 	if (parametroj.l != null) {
 		console.log(parametroj.l)
 		$('#landoj').val(parametroj.l).change()
@@ -51,6 +87,9 @@ $(document).bind('pageinit', function() {
 	}
 	if (parametroj.u != null) {
 		$('#urboj').val(parametroj.u).change()
+	}
+	if (parametroj.lg != null) {
+		lingvo = parametroj.lg
 	}
 
 	mapo = L.map('mapo').setView([parametroj.lat, parametroj.lng], parametroj.z)
@@ -65,40 +104,9 @@ $(document).bind('pageinit', function() {
 	new Reklamujo(mapo)
 
 	const landoj = L.featureGroup().addTo(mapo)
-	const landojF = new L.OverpassFetcher({
-		dosiero: 'landoj.json',
-		krei: function(objekto) {
-			var mia = L.divIcon({
-				className: 'etikedo lando-etikedo',
-				html: objekto.tags['name:eo']
-			})
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(landoj)
-		}
-	})
-
-	const provincoj = L.featureGroup().addTo(mapo)
-	const provincojF = new L.OverpassFetcher({
-		dosiero: 'provincoj.json',
-		krei: function(objekto) {
-			var mia = L.divIcon({
-				className: 'etikedo provinco-etikedo',
-				html: objekto.tags['name:eo']
-			})
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(provincoj)
-		}
-	})
-
 	const urboj = L.featureGroup().addTo(mapo)
-	const urbojF = new L.OverpassFetcher({
-		dosiero: 'urboj.json',
-		krei: function(objekto) {
-			var mia = L.divIcon({
-				className: 'etikedo urbo-etikedo',
-				html: objekto.tags['name:eo']
-			})
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(urboj)
-		}
-	})
+	const provincoj = L.featureGroup().addTo(mapo)
+	manteloj({landoj: landoj, provincoj: provincoj, urboj:urboj}, lingvo)
 
 	mapo.on('moveend', () => {
 		parametroj.lat = mapo.getCenter().lat
