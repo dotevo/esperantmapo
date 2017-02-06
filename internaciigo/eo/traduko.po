@@ -17,6 +17,9 @@ msgstr "Landoj"
 msgid "Urboj"
 msgstr "Urboj"
 
+msgid "Lokoj"
+msgstr "Lokoj"
+
 msgid "Ĉiam"
 msgstr "Ĉiam"
 

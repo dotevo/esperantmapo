@@ -17,6 +17,9 @@ msgstr "Państwa"
 msgid "Urboj"
 msgstr "Miasta"
 
+msgid "Lokoj"
+msgstr "Punkty"
+
 msgid "Ĉiam"
 msgstr "Zawsze"
 

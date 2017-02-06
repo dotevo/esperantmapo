@@ -73,6 +73,14 @@ function manteloj(opt, lingvo) {
 			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.urboj)
 		}
 	})
+
+	const lokojF = new L.OverpassFetcher({
+		dosiero: lingvo + '/lokoj.json',
+		krei: function(objekto) {
+			L.marker([objekto.lat, objekto.lon]).addTo(opt.lokoj)
+				.bindPopup(objekto.tags['name'])
+		}
+	})
 }
 
 $(document).bind('pageinit', function() {
@@ -87,6 +95,9 @@ $(document).bind('pageinit', function() {
 	}
 	if (parametroj.u != null) {
 		$('#urboj').val(parametroj.u).change()
+	}
+	if (parametroj.lo != null) {
+		$('#lokoj').val(parametroj.lo).change()
 	}
 	if (parametroj.lg != null) {
 		lingvo = parametroj.lg
@@ -106,7 +117,9 @@ $(document).bind('pageinit', function() {
 	const landoj = L.featureGroup().addTo(mapo)
 	const urboj = L.featureGroup().addTo(mapo)
 	const provincoj = L.featureGroup().addTo(mapo)
-	manteloj({landoj: landoj, provincoj: provincoj, urboj:urboj}, lingvo)
+	const lokoj = L.featureGroup().addTo(mapo)
+
+	manteloj({landoj: landoj, provincoj: provincoj, urboj:urboj, lokoj: lokoj}, lingvo)
 
 	mapo.on('moveend', () => {
 		parametroj.lat = mapo.getCenter().lat
@@ -125,6 +138,7 @@ $(document).bind('pageinit', function() {
 		} else {
 			mapo.removeLayer(landoj)
 		}
+
 		let elektoProvincoj = $('#provincoj').val()
 		if ((mapo.getZoom() > 4 || elektoProvincoj === 'C') &&
 				elektoProvincoj !== 'N') {
@@ -134,6 +148,7 @@ $(document).bind('pageinit', function() {
 		} else {
 			mapo.removeLayer(provincoj)
 		}
+
 		let elektoUrboj = $('#urboj').val()
 		if ((mapo.getZoom() > 6 || elektoUrboj === 'C') &&
 				elektoUrboj !== 'N') {
@@ -143,12 +158,22 @@ $(document).bind('pageinit', function() {
 		} else {
 			mapo.removeLayer(urboj)
 		}
+
+		let elektoLokoj = $('#lokoj').val()
+		if (elektoLokoj === 'C') {
+			if (!mapo.hasLayer(lokoj)) {
+				mapo.addLayer(lokoj)
+			}
+		} else {
+			mapo.removeLayer(lokoj)
+		}
 	})
 
-	$('#landoj, #provincoj, #urboj').on('change', function () {
+	$('#landoj, #provincoj, #urboj, #lokoj').on('change', function () {
 		parametroj.l = $('#landoj').val()
 		parametroj.p = $('#provincoj').val()
 		parametroj.u = $('#urboj').val()
+		parametroj.lo = $('#lokoj').val()
 		mapo.fire('moveend')
 		mapo.fire('zoomend')
 	})
