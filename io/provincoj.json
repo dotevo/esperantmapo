@@ -1,0 +1,127 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T12:36:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 424297956,
+			"lat": -21.1309332,
+			"lon": 55.5265771,
+			"tags": {
+				"name:io": "Reunion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298155,
+			"lat": -13.8173324,
+			"lon": -177.1489649,
+			"tags": {
+				"name:io": "Wallis e Futuna Insuli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311883,
+			"lat": 41.9034912,
+			"lon": 12.4528349,
+			"tags": {
+				"name:io": "Vatikano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 462226505,
+			"lat": -18.6243749,
+			"lon": -144.6434898,
+			"tags": {
+				"name:io": "Franca Polinezia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610251,
+			"lat": 44.3571841,
+			"lon": -0.5391713,
+			"tags": {
+				"name:io": "Aquitania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610252,
+			"lat": 47.0151891,
+			"lon": 4.2523237,
+			"tags": {
+				"name:io": "Burgundia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610259,
+			"lat": 43.8324972,
+			"lon": 1.5685814,
+			"tags": {
+				"name:io": "Di-mezo Pirenei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610264,
+			"lat": 47.6594864,
+			"lon": -0.8186143,
+			"tags": {
+				"name:io": "Lando di Loire"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610265,
+			"lat": 48.183541,
+			"lon": 7.3795231,
+			"tags": {
+				"name:io": "Alzacia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900155946,
+			"lat": 33.3940067,
+			"lon": 126.5626688,
+			"tags": {
+				"name:io": "Jeju insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2811123364,
+			"lat": 5.4091179,
+			"lon": -4.0422099,
+			"tags": {
+				"name:io": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4347988419,
+			"lat": 42.9903482,
+			"lon": 142.4962523,
+			"tags": {
+				"name:io": "Hokkaido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351432485,
+			"lat": 13.7538929,
+			"lon": 100.8160803,
+			"tags": {
+				"name:io": "Bangkok"
+			}
+		}
+	]
+}

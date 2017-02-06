@@ -1,0 +1,802 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T12:36:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 441183,
+			"lat": 37.9841493,
+			"lon": 23.7279843,
+			"tags": {
+				"name:io": "Athina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 13707878,
+			"lat": 55.6867243,
+			"lon": 12.5700724,
+			"tags": {
+				"name:io": "København"
+			}
+		},
+		{
+			"type": "node",
+			"id": 16173235,
+			"lat": 18.9321862,
+			"lon": 72.8308337,
+			"tags": {
+				"name:io": "Mumbai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 16173236,
+			"lat": 28.6138967,
+			"lon": 77.2159562,
+			"tags": {
+				"name:io": "Nova-Delhi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 20833623,
+			"lat": 53.550341,
+			"lon": 10.000654,
+			"tags": {
+				"name:io": "Hamburg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 20953083,
+			"lat": 50.938361,
+			"lon": 6.959974,
+			"tags": {
+				"name:io": "Köln"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25248662,
+			"lat": 39.9059631,
+			"lon": 116.391248,
+			"tags": {
+				"name:io": "Beijing"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25960293,
+			"lat": 35.7006177,
+			"lon": 51.401375,
+			"tags": {
+				"name:io": "Tehran"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26150422,
+			"lat": 50.4501071,
+			"lon": 30.5240501,
+			"tags": {
+				"name:io": "Kyiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26150437,
+			"lat": 46.4846583,
+			"lon": 30.732564,
+			"tags": {
+				"name:io": "Odessa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26162465,
+			"lat": 53.902334,
+			"lon": 27.5618791,
+			"tags": {
+				"name:io": "Minsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26396457,
+			"lat": 23.1379911,
+			"lon": -82.3658562,
+			"tags": {
+				"name:io": "Havana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26707967,
+			"lat": 56.9493977,
+			"lon": 24.1051846,
+			"tags": {
+				"name:io": "Riga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27193094,
+			"lat": 55.7127529,
+			"lon": 21.1350469,
+			"tags": {
+				"name:io": "Klaipeda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27524177,
+			"lat": 42.8767446,
+			"lon": 74.6069949,
+			"tags": {
+				"name:io": "Bishkek"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27524773,
+			"lat": 41.3123363,
+			"lon": 69.2787079,
+			"tags": {
+				"name:io": "Tashkent"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27547977,
+			"lat": 38.5762757,
+			"lon": 68.786394,
+			"tags": {
+				"name:io": "Dushanbe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27547986,
+			"lat": 47.9184676,
+			"lon": 106.9177016,
+			"tags": {
+				"name:io": "Ulan Bator"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27564968,
+			"lat": 36.800108,
+			"lon": 10.184794,
+			"tags": {
+				"name:io": "Tunizia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565022,
+			"lat": 12.1191543,
+			"lon": 15.0502758,
+			"tags": {
+				"name:io": "N'Djamena"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565085,
+			"lat": 11.593665,
+			"lon": 43.14724,
+			"tags": {
+				"name:io": "Djibuti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565117,
+			"lat": 15.593325,
+			"lon": 32.53565,
+			"tags": {
+				"name:io": "Khartoum"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29090735,
+			"lat": 31.7791134,
+			"lon": 35.2266286,
+			"tags": {
+				"name:io": "Ierusalem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29980666,
+			"lat": 47.0957848,
+			"lon": 37.5499352,
+			"tags": {
+				"name:io": "Mariupol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30674098,
+			"lat": -23.5506507,
+			"lon": -46.6333824,
+			"tags": {
+				"name:io": "Sao Paulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32013127,
+			"lat": 39.019823,
+			"lon": 125.7508675,
+			"tags": {
+				"name:io": "Pyongyang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34567423,
+			"lat": -15.7934036,
+			"lon": -47.8823172,
+			"tags": {
+				"name:io": "Brasilia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34582422,
+			"lat": -22.9110137,
+			"lon": -43.2093727,
+			"tags": {
+				"name:io": "Rio de Janeiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34684808,
+			"lat": 2.042778,
+			"lon": 45.338564,
+			"tags": {
+				"name:io": "Mogadishu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 38903284,
+			"lat": 26.2235041,
+			"lon": 50.5822436,
+			"tags": {
+				"name:io": "Al Manamah"
+			}
+		},
+		{
+			"type": "node",
+			"id": 52943358,
+			"lat": 49.6112768,
+			"lon": 6.129799,
+			"tags": {
+				"name:io": "Luxemburgia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60571493,
+			"lat": 44.8178787,
+			"lon": 20.4568089,
+			"tags": {
+				"name:io": "Belgrade"
+			}
+		},
+		{
+			"type": "node",
+			"id": 62270270,
+			"lat": 19.4326009,
+			"lon": -99.1333416,
+			"tags": {
+				"name:io": "México"
+			}
+		},
+		{
+			"type": "node",
+			"id": 67157058,
+			"lat": 27.7087963,
+			"lon": 85.3202438,
+			"tags": {
+				"name:io": "Katmandu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 72959652,
+			"lat": 41.8988173,
+			"lon": 12.47311,
+			"tags": {
+				"name:io": "Roma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 96209423,
+			"lat": 44.4361414,
+			"lon": 26.1027202,
+			"tags": {
+				"name:io": "Bucarest"
+			}
+		},
+		{
+			"type": "node",
+			"id": 129991407,
+			"lat": 47.0122737,
+			"lon": 28.8605936,
+			"tags": {
+				"name:io": "Chisinau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 130040361,
+			"lat": 40.1776121,
+			"lon": 44.5125849,
+			"tags": {
+				"name:io": "Yerevan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153353016,
+			"lat": 39.7683331,
+			"lon": -86.1583502,
+			"tags": {
+				"name:io": "Indianapolis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 158368533,
+			"lat": 38.8949549,
+			"lon": -77.0366456,
+			"tags": {
+				"name:io": "Washington DC"
+			}
+		},
+		{
+			"type": "node",
+			"id": 163043169,
+			"lat": 56.4887123,
+			"lon": 84.9523238,
+			"tags": {
+				"name:io": "Tomsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191657470,
+			"lat": 53.7152883,
+			"lon": 91.4388763,
+			"tags": {
+				"name:io": "Abakan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191698855,
+			"lat": 56.1288899,
+			"lon": 40.4075203,
+			"tags": {
+				"name:io": "Vladimir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 197698100,
+			"lat": 9.9325427,
+			"lon": -84.0795782,
+			"tags": {
+				"name:io": "San Jose"
+			}
+		},
+		{
+			"type": "node",
+			"id": 226881400,
+			"lat": 23.5997857,
+			"lon": 58.5451305,
+			"tags": {
+				"name:io": "Muscat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240025182,
+			"lat": 47.3685586,
+			"lon": 8.5404434,
+			"tags": {
+				"name:io": "Zürich"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240092010,
+			"lat": 47.9960901,
+			"lon": 7.8494005,
+			"tags": {
+				"name:io": "Freiburg im Breisgau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240109189,
+			"lat": 52.5170365,
+			"lon": 13.3888599,
+			"tags": {
+				"name:io": "Berlin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080443,
+			"lat": 23.1300037,
+			"lon": 113.259001,
+			"tags": {
+				"name:io": "Guangzhou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246837430,
+			"lat": -20.8799889,
+			"lon": 55.448137,
+			"tags": {
+				"name:io": "Saint-Denis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249854726,
+			"lat": -25.2959916,
+			"lon": -57.6311196,
+			"tags": {
+				"name:io": "Asuncion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257363453,
+			"lat": 35.8404121,
+			"lon": 128.5586643,
+			"tags": {
+				"name:io": "Daegu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257363455,
+			"lat": 36.3326329,
+			"lon": 127.3845762,
+			"tags": {
+				"name:io": "Daejon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265018692,
+			"lat": 35.6828378,
+			"lon": 139.7589667,
+			"tags": {
+				"name:io": "Tokyo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 291987644,
+			"lat": -22.2745264,
+			"lon": 166.442419,
+			"tags": {
+				"name:io": "Noumea"
+			}
+		},
+		{
+			"type": "node",
+			"id": 295342933,
+			"lat": 0.3389242,
+			"lon": 6.7313031,
+			"tags": {
+				"name:io": "Sao Tome"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299617915,
+			"lat": 36.775348,
+			"lon": 3.060065,
+			"tags": {
+				"name:io": "Aljer"
+			}
+		},
+		{
+			"type": "node",
+			"id": 331136682,
+			"lat": 3.8689867,
+			"lon": 11.5213344,
+			"tags": {
+				"name:io": "Yaounde"
+			}
+		},
+		{
+			"type": "node",
+			"id": 358015143,
+			"lat": 35.1853168,
+			"lon": 129.0625899,
+			"tags": {
+				"name:io": "Busan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 358015168,
+			"lat": 35.1491083,
+			"lon": 126.8634645,
+			"tags": {
+				"name:io": "Gwangju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 360001895,
+			"lat": 55.4308841,
+			"lon": 37.5453056,
+			"tags": {
+				"name:io": "Podolsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 415150369,
+			"lat": 35.5487857,
+			"lon": 129.252024,
+			"tags": {
+				"name:io": "Ulsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 428339515,
+			"lat": 52.2319237,
+			"lon": 21.0067265,
+			"tags": {
+				"name:io": "Warszawa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114145,
+			"lat": 14.6417889,
+			"lon": -90.5132239,
+			"tags": {
+				"name:io": "Guatemala-Urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 544060405,
+			"lat": 29.3797091,
+			"lon": 47.9735629,
+			"tags": {
+				"name:io": "Kuwait-Urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 671806634,
+			"lat": 4.5980478,
+			"lon": -74.0760867,
+			"tags": {
+				"name:io": "Bogota"
+			}
+		},
+		{
+			"type": "node",
+			"id": 776951938,
+			"lat": 19.2953549,
+			"lon": -81.3807776,
+			"tags": {
+				"name:io": "Georgetown"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778910398,
+			"lat": 31.2253441,
+			"lon": 121.4888922,
+			"tags": {
+				"name:io": "Shanghai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1046100133,
+			"lat": 5.320357,
+			"lon": -4.016107,
+			"tags": {
+				"name:io": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1082208696,
+			"lat": -21.1343401,
+			"lon": -175.2018085,
+			"tags": {
+				"name:io": "Nuku'alofa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1091272140,
+			"lat": 33.5130695,
+			"lon": 36.3095814,
+			"tags": {
+				"name:io": "Damascus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1242998122,
+			"lat": 8.9714493,
+			"lon": -79.5341802,
+			"tags": {
+				"name:io": "Panama-Urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1532708613,
+			"lat": 47.9102734,
+			"lon": 33.3917703,
+			"tags": {
+				"name:io": "Kryvyi Rih"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601837931,
+			"lat": 50.0874654,
+			"lon": 14.4212535,
+			"tags": {
+				"name:io": "Praha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1614277087,
+			"lat": 41.6935247,
+			"lon": 44.8015019,
+			"tags": {
+				"name:io": "Tbilisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1628207792,
+			"lat": 13.7542529,
+			"lon": 100.493087,
+			"tags": {
+				"name:io": "Bangkok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1635651356,
+			"lat": 50.8465565,
+			"lon": 4.351697,
+			"tags": {
+				"name:io": "Bruxel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1643945522,
+			"lat": 49.5557716,
+			"lon": 25.591886,
+			"tags": {
+				"name:io": "Ternopil"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1686293227,
+			"lat": 55.7506828,
+			"lon": 37.6174976,
+			"tags": {
+				"name:io": "Moskva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1698668366,
+			"lat": 42.1419118,
+			"lon": 24.7498385,
+			"tags": {
+				"name:io": "Plovdiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1699640925,
+			"lat": 32.896672,
+			"lon": 13.1777923,
+			"tags": {
+				"name:io": "Tripoli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1700083447,
+			"lat": 42.6977211,
+			"lon": 23.3225964,
+			"tags": {
+				"name:io": "Sofiya"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1790048269,
+			"lat": 43.7311424,
+			"lon": 7.4197576,
+			"tags": {
+				"name:io": "Monako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1811650017,
+			"lat": 37.9396678,
+			"lon": 58.3874263,
+			"tags": {
+				"name:io": "Ashgabat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1835254686,
+			"lat": 41.3279457,
+			"lon": 19.8185323,
+			"tags": {
+				"name:io": "Tirane"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1882099475,
+			"lat": 41.0096334,
+			"lon": 28.9651646,
+			"tags": {
+				"name:io": "Istanbul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2195276463,
+			"lat": 6.130419,
+			"lon": 1.215829,
+			"tags": {
+				"name:io": "Lome"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3442474911,
+			"lat": 23.7593572,
+			"lon": 90.3788136,
+			"tags": {
+				"name:io": "Dhaka"
+			}
+		}
+	]
+}

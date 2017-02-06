@@ -1,0 +1,269 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T13:00:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 871779403,
+			"lat": 51.9137824,
+			"lon": 4.4644483,
+			"tags": {
+				"addr:city": "Rotterdam",
+				"addr:country": "NL",
+				"addr:housenumber": "176",
+				"addr:postcode": "3015 BJ",
+				"addr:street": "Nieuwe Binnenweg",
+				"contact:website": "http://www.uea.org",
+				"language:eo": "yes",
+				"name": "Universala Esperanto Asocio",
+				"office": "ngo",
+				"subject:wikidata": "Q143",
+				"wikidata": "Q12565",
+				"wikipedia": "nl:Universala Esperanto-Asocio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2493336616,
+			"lat": -25.4305709,
+			"lon": -49.2683965,
+			"tags": {
+				"addr:city": "Curitiba",
+				"addr:country": "BR",
+				"addr:housenumber": "441",
+				"addr:postcode": "80020-310",
+				"addr:street": "Rua XV de Novembro",
+				"addr:suburb": "Centro",
+				"amenity": "community_centre",
+				"esperanto": "yes",
+				"facebook": "https://www.facebook.com/esperantoparana/",
+				"language:eo": "yes",
+				"level": "10",
+				"name": "Associação de Esperanto do Paraná",
+				"name:eo": "Paranaa Esperanto-Asocio",
+				"phone": "+55 41 9943 6121",
+				"room": "yes",
+				"short_name": "PEA",
+				"training": "language",
+				"website": "http://www.esperantoparana.com.br/"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2881834034,
+			"lat": 17.3983744,
+			"lon": -96.2934734,
+			"tags": {
+				"amenity": "library",
+				"internet_access": "yes",
+				"language:eo": "yes",
+				"name:eo": "Retejo Kaj Librejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3235646025,
+			"lat": -22.9010312,
+			"lon": -43.1813068,
+			"tags": {
+				"addr:city": "Rio de Janeiro",
+				"addr:housenumber": "135",
+				"addr:postcode": "20090-080",
+				"addr:street": "Rua Teófilo Otoni",
+				"addr:suburb": "Centro",
+				"email": "disvastigo.aerj@gmail.com",
+				"language:eo": "yes",
+				"name": "Associação Esperantista do Rio de Janeiro",
+				"name:eo": "Asocio Esperantista de Rio-de-Ĵaneiro",
+				"note": "Grupo 302",
+				"office": "ngo",
+				"phone": "+55 21 2467 4296",
+				"training": "language",
+				"website": "http://www.aerj.org.br"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3585810916,
+			"lat": 52.4860597,
+			"lon": 13.3763821,
+			"tags": {
+				"addr:city": "Berlin",
+				"addr:housenumber": "25",
+				"addr:postcode": "10965",
+				"addr:street": "Katzbachstraße",
+				"language:de": "yes",
+				"language:eo": "yes",
+				"name": "Deutscher Esperanto-Bund e. V.",
+				"office": "ngo",
+				"phone": "+49 30 5106 2935",
+				"website": "https://www.esperanto.de/"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3644336006,
+			"lat": 53.1323413,
+			"lon": 23.1583916,
+			"tags": {
+				"amenity": "restaurant",
+				"building": "yes",
+				"contact:facebook": "https://www.facebook.com/pages/Esperanto-Cafe/105654522829301",
+				"email": "kawiarnia@esperanto-cafe.pl",
+				"height": "0.5",
+				"language:eo": "yes",
+				"name": "Esperanto Cafe",
+				"opening_hours": "09:00-24:00; Fr 09:00-02:00; Sa 10:00-02:00; Su 10:00-24:00",
+				"operator": "Casablanca Catering Sp. z o.o.",
+				"outdoor_seating": "yes",
+				"payment:american_express": "yes",
+				"payment:coins": "yes",
+				"payment:diners_club": "yes",
+				"payment:discover_card": "yes",
+				"payment:jcb": "yes",
+				"payment:maestro": "yes",
+				"payment:mastercard": "yes",
+				"payment:notes": "yes",
+				"payment:visa": "yes",
+				"payment:visa_debit": "yes",
+				"payment:visa_electron": "yes",
+				"phone": "+48857426031",
+				"smoking": "separated",
+				"website": "http://www.esperanto-cafe.pl/",
+				"wheelchair": "yes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3656774929,
+			"lat": 50.3975531,
+			"lon": 16.3865746,
+			"tags": {
+				"addr:housenumber": "5",
+				"addr:street": "Zdrojowa",
+				"contact:facebook": "https://www.facebook.com/pages/De-Esperanto-Medical-Spa/123599711125479",
+				"contact:phone": "+48 74 866 94 00",
+				"contact:website": "http://www.deesperanto.pl",
+				"language:eo": "yes",
+				"name": "de Esperanto",
+				"tourism": "hotel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3664144316,
+			"lat": 53.1336199,
+			"lon": 23.1698498,
+			"tags": {
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"contact:facebook": "https://www.facebook.com/ksiaznicapodlaska/",
+				"email": "f14kp@ksiaznicapodlaska.pl",
+				"name": "Książnica Podlaska im. Łukasza Górnickiego - Filia nr 14 Esperanto-libraro",
+				"name:eo": "Esperanto-libraro",
+				"opening_hours": "Tu-We 12:00-17:00; PH off",
+				"phone": "+48 85 741 50 85",
+				"website": "http://www.ksiaznicapodlaska.pl/site/filie/filia14.html",
+				"wikipedia": "pl:Esperanto-Libraro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3673000528,
+			"lat": 52.2532376,
+			"lon": 20.996875,
+			"tags": {
+				"language:eo": "yes",
+				"name": "Polska Młodzież Esperancka",
+				"office": "association"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3674482022,
+			"lat": 49.8194358,
+			"lon": 19.0452038,
+			"tags": {
+				"contact:website": "http://esperanto_bielsko.republika.pl",
+				"language:eo": "yes",
+				"name": "Polski Związek Esperantystów, Oddział Bielsko-Biała",
+				"office": "association",
+				"opening_hours": "Tu 15:00-19:00"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4642303448,
+			"lat": 35.7054123,
+			"lon": 139.72286,
+			"tags": {
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"level": "3",
+				"name:eo": "Biblioteko de JEI",
+				"operator": "Japana Esperanto Instituto",
+				"website": "http://www.jei.or.jp/hp/materialo/bibli_e.htm"
+			}
+		},
+		{
+			"type": "way",
+			"id": 153383580,
+			"center": {
+				"lat": 47.5512936,
+				"lon": -0.0823085
+			},
+			"tags": {
+				"addr:city": "Saint-Martin-d'Arcé",
+				"addr:country": "FR",
+				"amenity": "community_centre",
+				"building": "civic",
+				"building:colour": "yellow",
+				"building:levels": "3",
+				"building:material": "plaster",
+				"contact:email": "kastelo@gresillon.org",
+				"contact:facebook": "https://www.facebook.com/greziljono",
+				"contact:website": "http://www.gresillon.org/",
+				"historic": "castle",
+				"image": "File:Kastelo Grezijono 1.jpg",
+				"language:eo": "yes",
+				"language:fr": "yes",
+				"name": "Château de Grésillon",
+				"name:de": "Schloss Grésillon",
+				"name:eo": "Kastelo Grezijono",
+				"roof:colour": "black",
+				"roof:material": "slate",
+				"roof:shape": "hipped",
+				"wikidata": "Q1339136",
+				"wikimedia_commons": "Category:Château de Grésillon",
+				"wikipedia": "fr:Château de Grésillon"
+			}
+		},
+		{
+			"type": "way",
+			"id": 236603297,
+			"center": {
+				"lat": 53.1308706,
+				"lon": 23.1594947
+			},
+			"tags": {
+				"addr:city": "Białystok",
+				"addr:housenumber": "10",
+				"addr:street": "Legionowa",
+				"building": "hotel",
+				"building:levels": "3",
+				"building:material": "concrete",
+				"contact:email": "recepcja@hotelesperanto.net",
+				"contact:phone": "+48 605 226 622",
+				"contact:website": "http://www.hotelesperanto.net",
+				"language:eo": "yes",
+				"name": "Esperanto",
+				"roof:shape": "flat",
+				"tourism": "hotel"
+			}
+		}
+	]
+}

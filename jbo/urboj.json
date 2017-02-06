@@ -1,0 +1,226 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T13:37:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 107775,
+			"lat": 51.5073219,
+			"lon": -0.1276474,
+			"tags": {
+				"name:jbo": "london"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441183,
+			"lat": 37.9841493,
+			"lon": 23.7279843,
+			"tags": {
+				"name:jbo": "atenas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 16173235,
+			"lat": 18.9321862,
+			"lon": 72.8308337,
+			"tags": {
+				"name:jbo": ".mumbais."
+			}
+		},
+		{
+			"type": "node",
+			"id": 17807753,
+			"lat": 48.8566101,
+			"lon": 2.3514992,
+			"tags": {
+				"name:jbo": "Paris"
+			}
+		},
+		{
+			"type": "node",
+			"id": 21034458,
+			"lat": 33.3024309,
+			"lon": 44.3787992,
+			"tags": {
+				"name:jbo": "bagdad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25248662,
+			"lat": 39.9059631,
+			"lon": 116.391248,
+			"tags": {
+				"name:jbo": "beidjin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27193094,
+			"lat": 55.7127529,
+			"lon": 21.1350469,
+			"tags": {
+				"name:jbo": "tcadrklaipeda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29939632,
+			"lat": -6.1753942,
+			"lon": 106.827183,
+			"tags": {
+				"name:jbo": ".djakartas."
+			}
+		},
+		{
+			"type": "node",
+			"id": 30674098,
+			"lat": -23.5506507,
+			"lon": -46.6333824,
+			"tags": {
+				"name:jbo": ".saupaulos."
+			}
+		},
+		{
+			"type": "node",
+			"id": 34582422,
+			"lat": -22.9110137,
+			"lon": -43.2093727,
+			"tags": {
+				"name:jbo": "rios. dis. djaneiros"
+			}
+		},
+		{
+			"type": "node",
+			"id": 52943358,
+			"lat": 49.6112768,
+			"lon": 6.129799,
+			"tags": {
+				"name:jbo": "lEtsyburg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 57563779,
+			"lat": 34.704365,
+			"lon": 135.501887,
+			"tags": {
+				"name:jbo": ".osakas."
+			}
+		},
+		{
+			"type": "node",
+			"id": 61785451,
+			"lat": 40.7305991,
+			"lon": -73.9865812,
+			"tags": {
+				"name:jbo": ".nu,IORK."
+			}
+		},
+		{
+			"type": "node",
+			"id": 62270270,
+			"lat": 19.4326009,
+			"lon": -99.1333416,
+			"tags": {
+				"name:jbo": "mexygu'e tcadu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 72959652,
+			"lat": 41.8988173,
+			"lon": 12.47311,
+			"tags": {
+				"name:jbo": "romas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 81590481,
+			"lat": -34.6075616,
+			"lon": -58.437076,
+			"tags": {
+				"name:jbo": "buenosaires"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240092010,
+			"lat": 47.9960901,
+			"lon": 7.8494005,
+			"tags": {
+				"name:jbo": "Freiburg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240109189,
+			"lat": 52.5170365,
+			"lon": 13.3888599,
+			"tags": {
+				"name:jbo": "berlin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265018692,
+			"lat": 35.6828378,
+			"lon": 139.7589667,
+			"tags": {
+				"name:jbo": ".tokios."
+			}
+		},
+		{
+			"type": "node",
+			"id": 531668011,
+			"lat": 1.2904527,
+			"lon": 103.852038,
+			"tags": {
+				"name:jbo": "singapura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778910398,
+			"lat": 31.2253441,
+			"lon": 121.4888922,
+			"tags": {
+				"name:jbo": ".canxais."
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601837931,
+			"lat": 50.0874654,
+			"lon": 14.4212535,
+			"tags": {
+				"name:jbo": "pragas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1686293227,
+			"lat": 55.7506828,
+			"lon": 37.6174976,
+			"tags": {
+				"name:jbo": "moskovas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1912365631,
+			"lat": 37.5666791,
+			"lon": 126.9782914,
+			"tags": {
+				"name:jbo": ".sol."
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T13:40:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 2811123364,
+			"lat": 5.4091179,
+			"lon": -4.0422099,
+			"tags": {
+				"name:vo": "Abidjan"
+			}
+		}
+	]
+}

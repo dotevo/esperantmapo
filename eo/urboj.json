@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-31T09:44:05Z",
+		"timestamp_osm_base": "2017-02-06T13:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2187,8 +2187,8 @@
 		{
 			"type": "node",
 			"id": 253874196,
-			"lat": 48.5687002,
-			"lon": 39.3151108,
+			"lat": 48.5674507,
+			"lon": 39.2912928,
 			"tags": {
 				"name:eo": "Lugansko"
 			}
@@ -3271,15 +3271,6 @@
 			"lon": 31.187651,
 			"tags": {
 				"name:eo": "Asjut"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1147314253,
-			"lat": 25.0375167,
-			"lon": 121.5637,
-			"tags": {
-				"name:eo": "Tajpeo"
 			}
 		},
 		{

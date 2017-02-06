@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-31T09:43:02Z",
+		"timestamp_osm_base": "2017-02-06T13:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -6020,6 +6020,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2489280167,
+			"lat": 35.256717,
+			"lon": 44.1592304,
+			"tags": {
+				"name:eo": "Kirkuka gubernio"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2497852043,
 			"lat": 50.6118537,
 			"lon": 9.1909725,
@@ -6304,6 +6313,105 @@
 			"lon": -66.666667,
 			"tags": {
 				"name:eo": "Potosiio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855213,
+			"lat": 32.7889443,
+			"lon": 41.6093983,
+			"tags": {
+				"name:eo": "Anbara gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855214,
+			"lat": 32.6319335,
+			"lon": 44.5629362,
+			"tags": {
+				"name:eo": "Babila gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855215,
+			"lat": 33.0112777,
+			"lon": 44.3849679,
+			"tags": {
+				"name:eo": "Bagdada gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855216,
+			"lat": 30.2020701,
+			"lon": 47.5274169,
+			"tags": {
+				"name:eo": "Basra gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855218,
+			"lat": 34.0228719,
+			"lon": 45.1046224,
+			"tags": {
+				"name:eo": "Dijala gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855219,
+			"lat": 37.042257,
+			"lon": 43.0953954,
+			"tags": {
+				"name:eo": "Dahuka gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855222,
+			"lat": 32.4511703,
+			"lon": 43.8196617,
+			"tags": {
+				"name:eo": "Karbala gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855224,
+			"lat": 32.0182542,
+			"lon": 47.0695957,
+			"tags": {
+				"name:eo": "Majsana gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855226,
+			"lat": 31.338353,
+			"lon": 43.8411337,
+			"tags": {
+				"name:eo": "Naĝafa gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855227,
+			"lat": 36.0367935,
+			"lon": 42.3168623,
+			"tags": {
+				"name:eo": "Niniva gubernio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855231,
+			"lat": 32.6944827,
+			"lon": 45.6848009,
+			"tags": {
+				"name:eo": "Ŭasita gubernio"
 			}
 		},
 		{

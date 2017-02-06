@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-01-31T09:43:02Z",
+		"timestamp_osm_base": "2017-02-06T13:35:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -12,7 +12,7 @@
 			"lat": 12.7503486,
 			"lon": 122.7312101,
 			"tags": {
-				"name:eo": "Filipinoj"
+				"name:pl": "Filipiny"
 			}
 		},
 		{
@@ -21,7 +21,7 @@
 			"lat": 42.6384261,
 			"lon": 12.674297,
 			"tags": {
-				"name:eo": "Italio"
+				"name:pl": "Włochy"
 			}
 		},
 		{
@@ -30,7 +30,7 @@
 			"lat": 33.7680065,
 			"lon": 66.2385139,
 			"tags": {
-				"name:eo": "Afganio"
+				"name:pl": "Afganistan"
 			}
 		},
 		{
@@ -39,7 +39,7 @@
 			"lat": 47.2000338,
 			"lon": 13.199959,
 			"tags": {
-				"name:eo": "Aŭstrio"
+				"name:pl": "Austria"
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 			"lat": 40.0028028,
 			"lon": -4.003104,
 			"tags": {
-				"name:eo": "Hispanio"
+				"name:pl": "Hiszpania"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"lat": 42.5407167,
 			"lon": 1.5732033,
 			"tags": {
-				"name:eo": "Andoro"
+				"name:pl": "Andora"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"lat": 45.8133113,
 			"lon": 14.4808369,
 			"tags": {
-				"name:eo": "Slovenio"
+				"name:pl": "Słowenia"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 			"lat": 19.0974031,
 			"lon": -70.3028026,
 			"tags": {
-				"name:eo": "Domingo"
+				"name:pl": "Dominikana"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 			"lat": -41.5000831,
 			"lon": 172.8344077,
 			"tags": {
-				"name:eo": "Nov-Zelando"
+				"name:pl": "Nowa Zelandia"
 			}
 		},
 		{
@@ -93,7 +93,7 @@
 			"lat": 40.7696272,
 			"lon": 44.6736646,
 			"tags": {
-				"name:eo": "Armenio"
+				"name:pl": "Armenia"
 			}
 		},
 		{
@@ -102,7 +102,7 @@
 			"lat": -34.9964963,
 			"lon": -64.9672817,
 			"tags": {
-				"name:eo": "Argentino"
+				"name:pl": "Argentyna"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"lat": 13.1500331,
 			"lon": -59.5250305,
 			"tags": {
-				"name:eo": "Barbado"
+				"name:pl": "Barbados"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 			"lat": 12.0753083,
 			"lon": -1.6880314,
 			"tags": {
-				"name:eo": "Burkino"
+				"name:pl": "Burkina Faso"
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 			"lat": 24.7736546,
 			"lon": -78.0000547,
 			"tags": {
-				"name:eo": "Bahamoj"
+				"name:pl": "Bahamy"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 			"lat": 53.4250605,
 			"lon": 27.6971358,
 			"tags": {
-				"name:eo": "Belorusio"
+				"name:pl": "Białoruś"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"lat": -16.0492781,
 			"lon": -160.3554851,
 			"tags": {
-				"name:eo": "Kukinsuloj"
+				"name:pl": "Wyspy Cooka"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"lat": 23.0131338,
 			"lon": -80.8328748,
 			"tags": {
-				"name:eo": "Kubo"
+				"name:pl": "Kuba"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 			"lat": -54.8432857,
 			"lon": -35.8090698,
 			"tags": {
-				"name:eo": "Sud-Georgio kaj Sud-Sandviĉinsuloj"
+				"name:pl": "Georgia Południowa i Sandwich Południowy"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"lat": 47.1817585,
 			"lon": 19.5060937,
 			"tags": {
-				"name:eo": "Hungario"
+				"name:pl": "Węgry"
 			}
 		},
 		{
@@ -183,7 +183,7 @@
 			"lat": -12.2045176,
 			"lon": 44.2832964,
 			"tags": {
-				"name:eo": "Komoroj"
+				"name:pl": "Komory"
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 			"lat": 40.3123959,
 			"lon": 127.399971,
 			"tags": {
-				"name:eo": "Nord-Koreio"
+				"name:pl": "Korea Północna"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 			"lat": 35.3985008,
 			"lon": 127.937111,
 			"tags": {
-				"name:eo": "Sud-Koreio"
+				"name:pl": "Korea Południowa"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 			"lat": 19.5417212,
 			"lon": -80.5667132,
 			"tags": {
-				"name:eo": "Kajmaninsuloj"
+				"name:pl": "Kajmany"
 			}
 		},
 		{
@@ -219,7 +219,7 @@
 			"lat": 4.5693754,
 			"lon": 102.2656823,
 			"tags": {
-				"name:eo": "Malajzio"
+				"name:pl": "Malezja"
 			}
 		},
 		{
@@ -228,7 +228,7 @@
 			"lat": 28.1082107,
 			"lon": 84.0917515,
 			"tags": {
-				"name:eo": "Nepalo"
+				"name:pl": "Nepal"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"lat": -6.8699697,
 			"lon": -75.0458515,
 			"tags": {
-				"name:eo": "Peruo"
+				"name:pl": "Peru"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"lat": 25.6242618,
 			"lon": 42.3528328,
 			"tags": {
-				"name:eo": "Saŭda Arabio"
+				"name:pl": "Arabia Saudyjska"
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 			"lat": 0.8875498,
 			"lon": 6.9648718,
 			"tags": {
-				"name:eo": "Sao-Tomeo kaj Principeo"
+				"name:pl": "Wyspy Świętego Tomasza i Książęca"
 			}
 		},
 		{
@@ -264,7 +264,7 @@
 			"lat": 39.3763807,
 			"lon": 59.3924609,
 			"tags": {
-				"name:eo": "Turkmenio"
+				"name:pl": "Turkmenistan"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 			"lat": 10.8677845,
 			"lon": -60.9821067,
 			"tags": {
-				"name:eo": "Trinidado kaj Tobago"
+				"name:pl": "Trynidad i Tobago"
 			}
 		},
 		{
@@ -282,7 +282,16 @@
 			"lat": 16.3471243,
 			"lon": 47.8915271,
 			"tags": {
-				"name:eo": "Jemeno"
+				"name:pl": "Jemen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271048940,
+			"lat": 18.0423736,
+			"lon": -63.0549948,
+			"tags": {
+				"name:pl": "Sint Maarten"
 			}
 		},
 		{
@@ -291,7 +300,7 @@
 			"lat": 16.8259793,
 			"lon": -88.7600927,
 			"tags": {
-				"name:eo": "Belizo"
+				"name:pl": "Belize"
 			}
 		},
 		{
@@ -300,7 +309,7 @@
 			"lat": 44.1534121,
 			"lon": 20.55144,
 			"tags": {
-				"name:eo": "Serbio"
+				"name:pl": "Serbia"
 			}
 		},
 		{
@@ -309,7 +318,7 @@
 			"lat": 60.5000209,
 			"lon": 9.0999715,
 			"tags": {
-				"name:eo": "Norvegio"
+				"name:pl": "Norwegia"
 			}
 		},
 		{
@@ -318,7 +327,7 @@
 			"lat": 26.1551249,
 			"lon": 50.5344606,
 			"tags": {
-				"name:eo": "Barejno"
+				"name:pl": "Bahrajn"
 			}
 		},
 		{
@@ -327,7 +336,7 @@
 			"lat": 52.5001698,
 			"lon": 5.7480821,
 			"tags": {
-				"name:eo": "Nederlando"
+				"name:pl": "Holandia"
 			}
 		},
 		{
@@ -336,7 +345,7 @@
 			"lat": 19.1399952,
 			"lon": -72.3570972,
 			"tags": {
-				"name:eo": "Haitio"
+				"name:pl": "Haiti"
 			}
 		},
 		{
@@ -345,7 +354,7 @@
 			"lat": 9.5293472,
 			"lon": 2.2584408,
 			"tags": {
-				"name:eo": "Benino"
+				"name:pl": "Benin"
 			}
 		},
 		{
@@ -354,7 +363,7 @@
 			"lat": 10.2735633,
 			"lon": -84.0739102,
 			"tags": {
-				"name:eo": "Kostariko"
+				"name:pl": "Kostaryka"
 			}
 		},
 		{
@@ -363,7 +372,7 @@
 			"lat": 15.4113138,
 			"lon": -61.3653618,
 			"tags": {
-				"name:eo": "Dominiko"
+				"name:pl": "Dominika"
 			}
 		},
 		{
@@ -372,7 +381,7 @@
 			"lat": 13.470062,
 			"lon": -15.4900464,
 			"tags": {
-				"name:eo": "Gambio"
+				"name:pl": "Gambia"
 			}
 		},
 		{
@@ -381,7 +390,7 @@
 			"lat": 10.7226226,
 			"lon": -10.7083587,
 			"tags": {
-				"name:eo": "Gvineo"
+				"name:pl": "Gwinea"
 			}
 		},
 		{
@@ -390,7 +399,7 @@
 			"lat": 12.100035,
 			"lon": -14.9000214,
 			"tags": {
-				"name:eo": "Gvineo Bisaŭa"
+				"name:pl": "Gwinea Bissau"
 			}
 		},
 		{
@@ -399,7 +408,7 @@
 			"lat": 15.0610686,
 			"lon": -84.5978534,
 			"tags": {
-				"name:eo": "Honduro"
+				"name:pl": "Honduras"
 			}
 		},
 		{
@@ -408,7 +417,7 @@
 			"lat": 30.8760272,
 			"lon": 35.0015196,
 			"tags": {
-				"name:eo": "Israelo"
+				"name:pl": "Izrael"
 			}
 		},
 		{
@@ -417,7 +426,7 @@
 			"lat": 33.8750629,
 			"lon": 35.843409,
 			"tags": {
-				"name:eo": "Libano"
+				"name:pl": "Liban"
 			}
 		},
 		{
@@ -426,7 +435,7 @@
 			"lat": 55.3500003,
 			"lon": 23.7499997,
 			"tags": {
-				"name:eo": "Litovio"
+				"name:pl": "Litwa"
 			}
 		},
 		{
@@ -435,7 +444,7 @@
 			"lat": 41.6171214,
 			"lon": 21.7168387,
 			"tags": {
-				"name:eo": "Makedonio"
+				"name:pl": "Macedonia"
 			}
 		},
 		{
@@ -444,7 +453,7 @@
 			"lat": 16.3700359,
 			"lon": -2.2900239,
 			"tags": {
-				"name:eo": "Malio"
+				"name:pl": "Mali"
 			}
 		},
 		{
@@ -453,7 +462,7 @@
 			"lat": -0.5249624,
 			"lon": 166.9333009,
 			"tags": {
-				"name:eo": "Nauro"
+				"name:pl": "Nauru"
 			}
 		},
 		{
@@ -462,7 +471,7 @@
 			"lat": -5.6816069,
 			"lon": 144.2489081,
 			"tags": {
-				"name:eo": "Papuo-Nov-Gvineo"
+				"name:pl": "Papua-Nowa Gwinea"
 			}
 		},
 		{
@@ -471,7 +480,7 @@
 			"lat": 14.5844444,
 			"lon": 29.4917691,
 			"tags": {
-				"name:eo": "Sudano"
+				"name:pl": "Sudan"
 			}
 		},
 		{
@@ -480,7 +489,7 @@
 			"lat": 49.8158683,
 			"lon": 6.1296751,
 			"tags": {
-				"name:eo": "Luksemburgio"
+				"name:pl": "Luksemburg"
 			}
 		},
 		{
@@ -489,7 +498,7 @@
 			"lat": 15.6134137,
 			"lon": 19.0156172,
 			"tags": {
-				"name:eo": "Ĉado"
+				"name:pl": "Czad"
 			}
 		},
 		{
@@ -498,7 +507,7 @@
 			"lat": 13.2904027,
 			"lon": 108.4265113,
 			"tags": {
-				"name:eo": "Vjetnamio"
+				"name:pl": "Wietnam"
 			}
 		},
 		{
@@ -507,7 +516,7 @@
 			"lat": -28.8166236,
 			"lon": 24.991639,
 			"tags": {
-				"name:eo": "Sudafriko"
+				"name:pl": "Republika Południowej Afryki"
 			}
 		},
 		{
@@ -516,7 +525,7 @@
 			"lat": -1.3397668,
 			"lon": -79.3666965,
 			"tags": {
-				"name:eo": "Ekvadoro"
+				"name:pl": "Ekwador"
 			}
 		},
 		{
@@ -525,7 +534,7 @@
 			"lat": -4.6574977,
 			"lon": 55.4540146,
 			"tags": {
-				"name:eo": "Sejŝeloj"
+				"name:pl": "Seszele"
 			}
 		},
 		{
@@ -534,7 +543,7 @@
 			"lat": 32.9407496,
 			"lon": 52.9471344,
 			"tags": {
-				"name:eo": "Irano"
+				"name:pl": "Iran"
 			}
 		},
 		{
@@ -543,7 +552,7 @@
 			"lat": 38.9597594,
 			"lon": 34.9249653,
 			"tags": {
-				"name:eo": "Turkio"
+				"name:pl": "Turcja"
 			}
 		},
 		{
@@ -552,7 +561,7 @@
 			"lat": 41.000028,
 			"lon": 19.9999619,
 			"tags": {
-				"name:eo": "Albanio"
+				"name:pl": "Albania"
 			}
 		},
 		{
@@ -561,7 +570,7 @@
 			"lat": -26.5624806,
 			"lon": 31.3991317,
 			"tags": {
-				"name:eo": "Svazilando"
+				"name:pl": "Suazi"
 			}
 		},
 		{
@@ -570,7 +579,7 @@
 			"lat": 24.0002488,
 			"lon": 53.9994829,
 			"tags": {
-				"name:eo": "Unuiĝintaj Arabaj Emirlandoj"
+				"name:pl": "Zjednoczone Emiraty Arabskie"
 			}
 		},
 		{
@@ -579,7 +588,7 @@
 			"lat": 17.3462278,
 			"lon": -62.7687277,
 			"tags": {
-				"name:eo": "Sankta-Kito kaj Neviso"
+				"name:pl": "Saint Kitts i Nevis"
 			}
 		},
 		{
@@ -588,7 +597,7 @@
 			"lat": -11.8775768,
 			"lon": 17.5691241,
 			"tags": {
-				"name:eo": "Angolo"
+				"name:pl": "Angola"
 			}
 		},
 		{
@@ -597,7 +606,7 @@
 			"lat": -3.3634357,
 			"lon": 29.8870575,
 			"tags": {
-				"name:eo": "Burundo"
+				"name:pl": "Burundi"
 			}
 		},
 		{
@@ -606,7 +615,7 @@
 			"lat": 27.549511,
 			"lon": 90.5119273,
 			"tags": {
-				"name:eo": "Butano"
+				"name:pl": "Bhutan"
 			}
 		},
 		{
@@ -615,7 +624,7 @@
 			"lat": -31.7613365,
 			"lon": -71.3187697,
 			"tags": {
-				"name:eo": "Ĉilio"
+				"name:pl": "Chile"
 			}
 		},
 		{
@@ -624,7 +633,7 @@
 			"lat": 16.0000552,
 			"lon": -24.0083947,
 			"tags": {
-				"name:eo": "Kabo-Verdo"
+				"name:pl": "Wyspy Zielonego Przylądka"
 			}
 		},
 		{
@@ -633,7 +642,7 @@
 			"lat": -51.9666424,
 			"lon": -59.5500387,
 			"tags": {
-				"name:eo": "Insuloj Falklandoj"
+				"name:pl": "Falklandy (Malwiny)"
 			}
 		},
 		{
@@ -642,7 +651,7 @@
 			"lat": 5.5600565,
 			"lon": 150.1982846,
 			"tags": {
-				"name:eo": "Mikronezio"
+				"name:pl": "Mikronezja"
 			}
 		},
 		{
@@ -651,7 +660,7 @@
 			"lat": -0.8999695,
 			"lon": 11.6899699,
 			"tags": {
-				"name:eo": "Gabono"
+				"name:pl": "Gabon"
 			}
 		},
 		{
@@ -660,7 +669,7 @@
 			"lat": 4.8417097,
 			"lon": -58.6416891,
 			"tags": {
-				"name:eo": "Gujano"
+				"name:pl": "Gujana"
 			}
 		},
 		{
@@ -669,7 +678,7 @@
 			"lat": 45.5643442,
 			"lon": 17.0118954,
 			"tags": {
-				"name:eo": "Kroatio"
+				"name:pl": "Chorwacja"
 			}
 		},
 		{
@@ -678,7 +687,7 @@
 			"lat": 47.2286086,
 			"lon": 65.2093197,
 			"tags": {
-				"name:eo": "Kazaĥio"
+				"name:pl": "Kazachstan"
 			}
 		},
 		{
@@ -687,7 +696,7 @@
 			"lat": 5.7499721,
 			"lon": -9.3658524,
 			"tags": {
-				"name:eo": "Liberio"
+				"name:pl": "Liberia"
 			}
 		},
 		{
@@ -696,7 +705,7 @@
 			"lat": 4.7064352,
 			"lon": 73.3287853,
 			"tags": {
-				"name:eo": "Maldivoj"
+				"name:pl": "Malediwy"
 			}
 		},
 		{
@@ -705,7 +714,7 @@
 			"lat": -13.2687204,
 			"lon": 33.9301963,
 			"tags": {
-				"name:eo": "Malavio"
+				"name:pl": "Malawi"
 			}
 		},
 		{
@@ -714,7 +723,7 @@
 			"lat": -19.302233,
 			"lon": 34.9144977,
 			"tags": {
-				"name:eo": "Mozambiko"
+				"name:pl": "Mozambik"
 			}
 		},
 		{
@@ -723,7 +732,7 @@
 			"lat": -23.2335499,
 			"lon": 17.3231107,
 			"tags": {
-				"name:eo": "Namibio"
+				"name:pl": "Namibia"
 			}
 		},
 		{
@@ -732,7 +741,7 @@
 			"lat": 17.7356214,
 			"lon": 9.3238432,
 			"tags": {
-				"name:eo": "Niĝero"
+				"name:pl": "Niger"
 			}
 		},
 		{
@@ -741,7 +750,7 @@
 			"lat": -29.0328038,
 			"lon": 167.9483137,
 			"tags": {
-				"name:eo": "Norfolkinsulo"
+				"name:pl": "Wyspa Norfolk"
 			}
 		},
 		{
@@ -750,7 +759,7 @@
 			"lat": -1.9646631,
 			"lon": 30.0644358,
 			"tags": {
-				"name:eo": "Ruando"
+				"name:pl": "Rwanda"
 			}
 		},
 		{
@@ -759,7 +768,7 @@
 			"lat": 13.8000382,
 			"lon": -88.9140683,
 			"tags": {
-				"name:eo": "Salvadoro"
+				"name:pl": "Salwador"
 			}
 		},
 		{
@@ -768,7 +777,7 @@
 			"lat": 34.6401861,
 			"lon": 39.0494106,
 			"tags": {
-				"name:eo": "Sirio"
+				"name:pl": "Syria"
 			}
 		},
 		{
@@ -777,7 +786,7 @@
 			"lat": 21.7214683,
 			"lon": -71.6201783,
 			"tags": {
-				"name:eo": "Turkoj kaj Kajkoj"
+				"name:pl": "Turks i Caicos"
 			}
 		},
 		{
@@ -786,7 +795,7 @@
 			"lat": 8.7800265,
 			"lon": 1.0199765,
 			"tags": {
-				"name:eo": "Togolando"
+				"name:pl": "Togo"
 			}
 		},
 		{
@@ -795,7 +804,7 @@
 			"lat": -19.9160819,
 			"lon": -175.2026424,
 			"tags": {
-				"name:eo": "Tongo"
+				"name:pl": "Tonga"
 			}
 		},
 		{
@@ -804,7 +813,7 @@
 			"lat": 8.0018709,
 			"lon": -66.1109318,
 			"tags": {
-				"name:eo": "Venezuelo"
+				"name:pl": "Wenezuela"
 			}
 		},
 		{
@@ -813,7 +822,7 @@
 			"lat": 18.4024395,
 			"lon": -64.5661642,
 			"tags": {
-				"name:eo": "Britaj Virgulininsuloj"
+				"name:pl": "Brytyjskie Wyspy Dziewicze"
 			}
 		},
 		{
@@ -822,7 +831,7 @@
 			"lat": -4.7993356,
 			"lon": 114.5632032,
 			"tags": {
-				"name:eo": "Indonezio"
+				"name:pl": "Indonezja"
 			}
 		},
 		{
@@ -831,7 +840,7 @@
 			"lat": 6.9518742,
 			"lon": 170.9985095,
 			"tags": {
-				"name:eo": "Marŝala Insularo"
+				"name:pl": "Wyspy Marshalla"
 			}
 		},
 		{
@@ -840,7 +849,7 @@
 			"lat": 77.6192349,
 			"lon": -42.8125967,
 			"tags": {
-				"name:eo": "Gronlando"
+				"name:pl": "Grenlandia"
 			}
 		},
 		{
@@ -849,7 +858,7 @@
 			"lat": 62.0448724,
 			"lon": -7.0322972,
 			"tags": {
-				"name:eo": "Ferooj"
+				"name:pl": "Wyspy Owcze"
 			}
 		},
 		{
@@ -858,7 +867,7 @@
 			"lat": 59.6749712,
 			"lon": 14.5208584,
 			"tags": {
-				"name:eo": "Svedio"
+				"name:pl": "Szwecja"
 			}
 		},
 		{
@@ -867,7 +876,7 @@
 			"lat": 34.9823018,
 			"lon": 33.1451285,
 			"tags": {
-				"name:eo": "Kipro"
+				"name:pl": "Cypr"
 			}
 		},
 		{
@@ -876,7 +885,7 @@
 			"lat": 1.357107,
 			"lon": 103.8194992,
 			"tags": {
-				"name:eo": "Singapuro"
+				"name:pl": "Singapur"
 			}
 		},
 		{
@@ -885,7 +894,7 @@
 			"lat": 36.5748441,
 			"lon": 139.2394179,
 			"tags": {
-				"name:eo": "Japanio"
+				"name:pl": "Japonia"
 			}
 		},
 		{
@@ -894,7 +903,7 @@
 			"lat": -16.5255069,
 			"lon": 168.1069154,
 			"tags": {
-				"name:eo": "Vanuatuo"
+				"name:pl": "Vanuatu"
 			}
 		},
 		{
@@ -903,7 +912,7 @@
 			"lat": 35.000074,
 			"lon": 104.999927,
 			"tags": {
-				"name:eo": "Ĉinio"
+				"name:pl": "Chiny"
 			}
 		},
 		{
@@ -912,7 +921,7 @@
 			"lat": 18.1850507,
 			"lon": -77.3947693,
 			"tags": {
-				"name:eo": "Jamajko"
+				"name:pl": "Jamajka"
 			}
 		},
 		{
@@ -921,7 +930,7 @@
 			"lat": 40.3936294,
 			"lon": 47.7872508,
 			"tags": {
-				"name:eo": "Azerbajĝano"
+				"name:pl": "Azerbejdżan"
 			}
 		},
 		{
@@ -930,7 +939,7 @@
 			"lat": -17.0568696,
 			"lon": -64.9912286,
 			"tags": {
-				"name:eo": "Bolivio"
+				"name:pl": "Boliwia"
 			}
 		},
 		{
@@ -939,7 +948,7 @@
 			"lat": -10.3333333,
 			"lon": -53.2,
 			"tags": {
-				"name:eo": "Brazilo"
+				"name:pl": "Brazylia"
 			}
 		},
 		{
@@ -948,7 +957,7 @@
 			"lat": -23.1681782,
 			"lon": 24.5928742,
 			"tags": {
-				"name:eo": "Bocvano"
+				"name:pl": "Botswana"
 			}
 		},
 		{
@@ -957,7 +966,7 @@
 			"lat": 61.0666922,
 			"lon": -107.9917071,
 			"tags": {
-				"name:eo": "Kanado"
+				"name:pl": "Kanada"
 			}
 		},
 		{
@@ -966,7 +975,7 @@
 			"lat": 49.8167003,
 			"lon": 15.4749544,
 			"tags": {
-				"name:eo": "Ĉeĥio"
+				"name:pl": "Czechy"
 			}
 		},
 		{
@@ -975,7 +984,7 @@
 			"lat": -18.1239696,
 			"lon": 179.0122737,
 			"tags": {
-				"name:eo": "Fiĝioj"
+				"name:pl": "Fidżi"
 			}
 		},
 		{
@@ -984,7 +993,7 @@
 			"lat": 58.7523778,
 			"lon": 25.3319078,
 			"tags": {
-				"name:eo": "Estonio"
+				"name:pl": "Estonia"
 			}
 		},
 		{
@@ -993,7 +1002,7 @@
 			"lat": 8.0300284,
 			"lon": -1.0800271,
 			"tags": {
-				"name:eo": "Ganao"
+				"name:pl": "Ghana"
 			}
 		},
 		{
@@ -1002,7 +1011,7 @@
 			"lat": 1.613172,
 			"lon": 10.5170357,
 			"tags": {
-				"name:eo": "Ekvatora Gvineo"
+				"name:pl": "Gwinea Równikowa"
 			}
 		},
 		{
@@ -1011,7 +1020,7 @@
 			"lat": -6.4157192,
 			"lon": 72.1173961,
 			"tags": {
-				"name:eo": "Brita Hindoceana Teritorio"
+				"name:pl": "Brytyjskie Terytorium Oceanu Indyjskiego"
 			}
 		},
 		{
@@ -1020,7 +1029,7 @@
 			"lat": 1.4419683,
 			"lon": 38.4313975,
 			"tags": {
-				"name:eo": "Kenjo"
+				"name:pl": "Kenia"
 			}
 		},
 		{
@@ -1029,7 +1038,7 @@
 			"lat": 29.2733964,
 			"lon": 47.4979476,
 			"tags": {
-				"name:eo": "Kuvajto"
+				"name:pl": "Kuwejt"
 			}
 		},
 		{
@@ -1038,7 +1047,7 @@
 			"lat": 16.7417041,
 			"lon": -62.1916844,
 			"tags": {
-				"name:eo": "Moncerato"
+				"name:pl": "Montserrat"
 			}
 		},
 		{
@@ -1047,7 +1056,7 @@
 			"lat": 30.3308401,
 			"lon": 71.247499,
 			"tags": {
-				"name:eo": "Pakistano"
+				"name:pl": "Pakistan"
 			}
 		},
 		{
@@ -1056,7 +1065,7 @@
 			"lat": 8.6400349,
 			"lon": -11.8400269,
 			"tags": {
-				"name:eo": "Siera-Leono"
+				"name:pl": "Sierra Leone"
 			}
 		},
 		{
@@ -1065,7 +1074,7 @@
 			"lat": 22.3511148,
 			"lon": 78.6677428,
 			"tags": {
-				"name:eo": "Barato"
+				"name:pl": "Indie"
 			}
 		},
 		{
@@ -1074,7 +1083,7 @@
 			"lat": 38.6281733,
 			"lon": 70.8156541,
 			"tags": {
-				"name:eo": "Taĝikio"
+				"name:pl": "Tadżykistan"
 			}
 		},
 		{
@@ -1083,7 +1092,7 @@
 			"lat": -6.5247123,
 			"lon": 35.7878438,
 			"tags": {
-				"name:eo": "Tanzanio"
+				"name:pl": "Tanzania"
 			}
 		},
 		{
@@ -1092,7 +1101,7 @@
 			"lat": 2.8894434,
 			"lon": -73.783892,
 			"tags": {
-				"name:eo": "Kolombio"
+				"name:pl": "Kolumbia"
 			}
 		},
 		{
@@ -1101,7 +1110,7 @@
 			"lat": 7.9897371,
 			"lon": -5.5679458,
 			"tags": {
-				"name:eo": "Ebur-Bordo"
+				"name:pl": "Wybrzeże Kości Słoniowej"
 			}
 		},
 		{
@@ -1110,7 +1119,7 @@
 			"lat": 64.9841821,
 			"lon": -18.1059013,
 			"tags": {
-				"name:eo": "Islando"
+				"name:pl": "Islandia"
 			}
 		},
 		{
@@ -1119,7 +1128,7 @@
 			"lat": 64.6863136,
 			"lon": 97.7453061,
 			"tags": {
-				"name:eo": "Rusio"
+				"name:pl": "Rosja"
 			}
 		},
 		{
@@ -1128,7 +1137,7 @@
 			"lat": 21.0000287,
 			"lon": 57.0036901,
 			"tags": {
-				"name:eo": "Omano"
+				"name:pl": "Oman"
 			}
 		},
 		{
@@ -1137,7 +1146,7 @@
 			"lat": -24.7761086,
 			"lon": 134.755,
 			"tags": {
-				"name:eo": "Aŭstralio"
+				"name:pl": "Australia"
 			}
 		},
 		{
@@ -1146,7 +1155,7 @@
 			"lat": 42.6073975,
 			"lon": 25.4856617,
 			"tags": {
-				"name:eo": "Bulgario"
+				"name:pl": "Bułgaria"
 			}
 		},
 		{
@@ -1155,7 +1164,7 @@
 			"lat": 4.6125522,
 			"lon": 13.1535811,
 			"tags": {
-				"name:eo": "Kameruno"
+				"name:pl": "Kamerun"
 			}
 		},
 		{
@@ -1164,7 +1173,7 @@
 			"lat": 26.2540493,
 			"lon": 29.2675469,
 			"tags": {
-				"name:eo": "Egiptujo"
+				"name:pl": "Egipt"
 			}
 		},
 		{
@@ -1173,7 +1182,7 @@
 			"lat": 15.9500319,
 			"lon": 37.9999668,
 			"tags": {
-				"name:eo": "Eritreo"
+				"name:pl": "Erytrea"
 			}
 		},
 		{
@@ -1182,7 +1191,7 @@
 			"lat": 12.1360374,
 			"lon": -61.6904045,
 			"tags": {
-				"name:eo": "Grenado"
+				"name:pl": "Granada"
 			}
 		},
 		{
@@ -1191,7 +1200,7 @@
 			"lat": 33.0955793,
 			"lon": 44.1749775,
 			"tags": {
-				"name:eo": "Irako"
+				"name:pl": "Irak"
 			}
 		},
 		{
@@ -1200,7 +1209,7 @@
 			"lat": 31.1667049,
 			"lon": 36.941628,
 			"tags": {
-				"name:eo": "Jordanio"
+				"name:pl": "Jordania"
 			}
 		},
 		{
@@ -1209,7 +1218,7 @@
 			"lat": 20.0171109,
 			"lon": 103.378253,
 			"tags": {
-				"name:eo": "Laoso"
+				"name:pl": "Laos"
 			}
 		},
 		{
@@ -1218,7 +1227,7 @@
 			"lat": 13.8250489,
 			"lon": -60.975036,
 			"tags": {
-				"name:eo": "Sankta Lucio"
+				"name:pl": "Saint Lucia"
 			}
 		},
 		{
@@ -1227,7 +1236,7 @@
 			"lat": 47.286747,
 			"lon": 28.5110236,
 			"tags": {
-				"name:eo": "Moldavio"
+				"name:pl": "Mołdawia"
 			}
 		},
 		{
@@ -1236,7 +1245,7 @@
 			"lat": 17.1750495,
 			"lon": 95.9999652,
 			"tags": {
-				"name:eo": "Birmo"
+				"name:pl": "Birma"
 			}
 		},
 		{
@@ -1245,7 +1254,7 @@
 			"lat": 20.2540382,
 			"lon": -9.2399263,
 			"tags": {
-				"name:eo": "Maŭritanio"
+				"name:pl": "Mauretania"
 			}
 		},
 		{
@@ -1254,7 +1263,7 @@
 			"lat": 9.6000359,
 			"lon": 7.9999721,
 			"tags": {
-				"name:eo": "Niĝerio"
+				"name:pl": "Nigeria"
 			}
 		},
 		{
@@ -1263,7 +1272,7 @@
 			"lat": 12.3724928,
 			"lon": -84.8700308,
 			"tags": {
-				"name:eo": "Nikaragvo"
+				"name:pl": "Nikaragua"
 			}
 		},
 		{
@@ -1272,7 +1281,7 @@
 			"lat": 8.3096067,
 			"lon": -81.3066246,
 			"tags": {
-				"name:eo": "Panamo"
+				"name:pl": "Panama"
 			}
 		},
 		{
@@ -1281,7 +1290,7 @@
 			"lat": 43.9458623,
 			"lon": 12.458306,
 			"tags": {
-				"name:eo": "San-Marino"
+				"name:pl": "San Marino"
 			}
 		},
 		{
@@ -1290,7 +1299,7 @@
 			"lat": 8.3676771,
 			"lon": 49.083416,
 			"tags": {
-				"name:eo": "Somalio"
+				"name:pl": "Somalia"
 			}
 		},
 		{
@@ -1299,7 +1308,7 @@
 			"lat": 33.8439408,
 			"lon": 9.400138,
 			"tags": {
-				"name:eo": "Tunizio"
+				"name:pl": "Tunezja"
 			}
 		},
 		{
@@ -1308,7 +1317,7 @@
 			"lat": -7.768959,
 			"lon": 178.1167698,
 			"tags": {
-				"name:eo": "Tuvalo"
+				"name:pl": "Tuvalu"
 			}
 		},
 		{
@@ -1317,7 +1326,7 @@
 			"lat": 1.5333554,
 			"lon": 32.2166578,
 			"tags": {
-				"name:eo": "Ugando"
+				"name:pl": "Uganda"
 			}
 		},
 		{
@@ -1326,7 +1335,7 @@
 			"lat": 41.32373,
 			"lon": 63.9528098,
 			"tags": {
-				"name:eo": "Uzbekio"
+				"name:pl": "Uzbekistan"
 			}
 		},
 		{
@@ -1335,7 +1344,7 @@
 			"lat": 39.7837304,
 			"lon": -100.4458825,
 			"tags": {
-				"name:eo": "Unuiĝintaj Ŝtatoj de Ameriko"
+				"name:pl": "Stany Zjednoczone Ameryki"
 			}
 		},
 		{
@@ -1344,7 +1353,7 @@
 			"lat": 28.0000272,
 			"lon": 2.9999825,
 			"tags": {
-				"name:eo": "Alĝerio"
+				"name:pl": "Algieria"
 			}
 		},
 		{
@@ -1353,7 +1362,7 @@
 			"lat": 17.079128,
 			"lon": -61.8222516,
 			"tags": {
-				"name:eo": "Antigvo-Barbudo"
+				"name:pl": "Antigua i Barbuda"
 			}
 		},
 		{
@@ -1362,7 +1371,7 @@
 			"lat": 24.4768783,
 			"lon": 90.2932426,
 			"tags": {
-				"name:eo": "Bangladeŝo"
+				"name:pl": "Bangladesz"
 			}
 		},
 		{
@@ -1371,7 +1380,7 @@
 			"lat": 13.5066394,
 			"lon": 104.869423,
 			"tags": {
-				"name:eo": "Kamboĝo"
+				"name:pl": "Kambodża"
 			}
 		},
 		{
@@ -1380,7 +1389,7 @@
 			"lat": 7.0323598,
 			"lon": 19.9981227,
 			"tags": {
-				"name:eo": "Centr-Afrika Respubliko"
+				"name:pl": "Republika Środkowoafrykańska"
 			}
 		},
 		{
@@ -1389,7 +1398,7 @@
 			"lat": 55.670249,
 			"lon": 10.3333283,
 			"tags": {
-				"name:eo": "Danio"
+				"name:pl": "Dania"
 			}
 		},
 		{
@@ -1398,7 +1407,7 @@
 			"lat": -8.5151979,
 			"lon": 125.8375756,
 			"tags": {
-				"name:eo": "Orienta Timoro"
+				"name:pl": "Timor Wschodni"
 			}
 		},
 		{
@@ -1407,7 +1416,7 @@
 			"lat": 63.2467777,
 			"lon": 25.9209164,
 			"tags": {
-				"name:eo": "Finnlando"
+				"name:pl": "Finlandia"
 			}
 		},
 		{
@@ -1416,7 +1425,7 @@
 			"lat": 41.6809707,
 			"lon": 44.0287382,
 			"tags": {
-				"name:eo": "Kartvelio"
+				"name:pl": "Gruzja"
 			}
 		},
 		{
@@ -1425,7 +1434,7 @@
 			"lat": 38.9953683,
 			"lon": 21.9877132,
 			"tags": {
-				"name:eo": "Grekio"
+				"name:pl": "Grecja"
 			}
 		},
 		{
@@ -1434,7 +1443,7 @@
 			"lat": 0.4483283,
 			"lon": -171.6645388,
 			"tags": {
-				"name:eo": "Kiribato"
+				"name:pl": "Kiribati"
 			}
 		},
 		{
@@ -1443,7 +1452,7 @@
 			"lat": 56.8666904,
 			"lon": 24.5999717,
 			"tags": {
-				"name:eo": "Latvio"
+				"name:pl": "Łotwa"
 			}
 		},
 		{
@@ -1452,7 +1461,7 @@
 			"lat": 26.8234472,
 			"lon": 18.1236723,
 			"tags": {
-				"name:eo": "Libio"
+				"name:pl": "Libia"
 			}
 		},
 		{
@@ -1461,7 +1470,7 @@
 			"lat": -18.9249604,
 			"lon": 46.4416422,
 			"tags": {
-				"name:eo": "Madagaskaro"
+				"name:pl": "Madagaskar"
 			}
 		},
 		{
@@ -1470,7 +1479,7 @@
 			"lat": 22.5000485,
 			"lon": -100.0000375,
 			"tags": {
-				"name:eo": "Meksiko"
+				"name:pl": "Meksyk"
 			}
 		},
 		{
@@ -1479,7 +1488,7 @@
 			"lat": 46.8250388,
 			"lon": 103.8499736,
 			"tags": {
-				"name:eo": "Mongolio"
+				"name:pl": "Mongolia"
 			}
 		},
 		{
@@ -1488,7 +1497,7 @@
 			"lat": 31.1728192,
 			"lon": -7.3366043,
 			"tags": {
-				"name:eo": "Maroko"
+				"name:pl": "Maroko"
 			}
 		},
 		{
@@ -1497,7 +1506,7 @@
 			"lat": 52.0977181,
 			"lon": 19.0258159,
 			"tags": {
-				"name:eo": "Pollando"
+				"name:pl": "Polska"
 			}
 		},
 		{
@@ -1506,7 +1515,7 @@
 			"lat": 25.3336984,
 			"lon": 51.2295295,
 			"tags": {
-				"name:eo": "Kataro"
+				"name:pl": "Katar"
 			}
 		},
 		{
@@ -1515,7 +1524,7 @@
 			"lat": -0.7264327,
 			"lon": 15.6419155,
 			"tags": {
-				"name:eo": "Respubliko Kongo"
+				"name:pl": "Kongo"
 			}
 		},
 		{
@@ -1524,7 +1533,7 @@
 			"lat": 45.9852129,
 			"lon": 24.6859225,
 			"tags": {
-				"name:eo": "Rumanio"
+				"name:pl": "Rumunia"
 			}
 		},
 		{
@@ -1533,7 +1542,7 @@
 			"lat": 12.90447,
 			"lon": -61.2765569,
 			"tags": {
-				"name:eo": "Sankta Vincento kaj Grenadinoj"
+				"name:pl": "Saint Vincent i Grenadyny"
 			}
 		},
 		{
@@ -1542,7 +1551,7 @@
 			"lat": 14.4750607,
 			"lon": -14.4529612,
 			"tags": {
-				"name:eo": "Senegaleo"
+				"name:pl": "Senegal"
 			}
 		},
 		{
@@ -1551,7 +1560,7 @@
 			"lat": 48.7411522,
 			"lon": 19.4528646,
 			"tags": {
-				"name:eo": "Slovakio"
+				"name:pl": "Słowacja"
 			}
 		},
 		{
@@ -1560,7 +1569,7 @@
 			"lat": 4.1413025,
 			"lon": -56.0771187,
 			"tags": {
-				"name:eo": "Surinamo"
+				"name:pl": "Surinam"
 			}
 		},
 		{
@@ -1569,7 +1578,7 @@
 			"lat": 23.9739374,
 			"lon": 120.9820179,
 			"tags": {
-				"name:eo": "Tajvano"
+				"name:pl": "Tajwan"
 			}
 		},
 		{
@@ -1578,7 +1587,7 @@
 			"lat": -32.8755548,
 			"lon": -56.0201525,
 			"tags": {
-				"name:eo": "Urugvajo"
+				"name:pl": "Urugwaj"
 			}
 		},
 		{
@@ -1587,7 +1596,7 @@
 			"lat": -14.5186239,
 			"lon": 27.5599164,
 			"tags": {
-				"name:eo": "Zambio"
+				"name:pl": "Zambia"
 			}
 		},
 		{
@@ -1596,7 +1605,7 @@
 			"lat": 18.1954947,
 			"lon": -63.0750234,
 			"tags": {
-				"name:eo": "Angvilo"
+				"name:pl": "Anguilla"
 			}
 		},
 		{
@@ -1605,7 +1614,7 @@
 			"lat": 32.3018217,
 			"lon": -64.7603583,
 			"tags": {
-				"name:eo": "Bermudo"
+				"name:pl": "Bermudy"
 			}
 		},
 		{
@@ -1614,7 +1623,7 @@
 			"lat": 49.2214561,
 			"lon": -2.1358386,
 			"tags": {
-				"name:eo": "Jersey"
+				"name:pl": "Jersey"
 			}
 		},
 		{
@@ -1623,7 +1632,7 @@
 			"lat": -19.0536414,
 			"lon": -169.8613411,
 			"tags": {
-				"name:eo": "Niuo"
+				"name:pl": "Niue"
 			}
 		},
 		{
@@ -1632,7 +1641,7 @@
 			"lat": -9.1676396,
 			"lon": -171.8196878,
 			"tags": {
-				"name:eo": "Tokelao"
+				"name:pl": "Tokelau"
 			}
 		},
 		{
@@ -1641,7 +1650,7 @@
 			"lat": -2.9814344,
 			"lon": 23.8222636,
 			"tags": {
-				"name:eo": "Demokratia Respubliko Kongo"
+				"name:pl": "Demokratyczna Republika Konga"
 			}
 		},
 		{
@@ -1650,7 +1659,7 @@
 			"lat": 14.8971921,
 			"lon": 100.83273,
 			"tags": {
-				"name:eo": "Tajlando"
+				"name:pl": "Tajlandia"
 			}
 		},
 		{
@@ -1659,7 +1668,7 @@
 			"lat": 43.0285558,
 			"lon": 19.291739,
 			"tags": {
-				"name:eo": "Montenegro"
+				"name:pl": "Czarnogóra"
 			}
 		},
 		{
@@ -1668,16 +1677,25 @@
 			"lat": 43.1500226,
 			"lon": 41.2299786,
 			"tags": {
-				"name:eo": "Abĥazio"
+				"name:pl": "Abchazja"
 			}
 		},
 		{
 			"type": "node",
-			"id": 506532878,
-			"lat": -82.1081822,
-			"lon": 34.37824,
+			"id": 506535828,
+			"lat": -14.289304,
+			"lon": -170.692511,
 			"tags": {
-				"name:eo": "Antarkto"
+				"name:pl": "Samoa Amerykańskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607976629,
+			"lat": 13.5394645,
+			"lon": 144.8970036,
+			"tags": {
+				"name:pl": "Guam"
 			}
 		},
 		{
@@ -1686,7 +1704,7 @@
 			"lat": -9.7354344,
 			"lon": 162.8288542,
 			"tags": {
-				"name:eo": "Salomonoj"
+				"name:pl": "Wyspy Salomona"
 			}
 		},
 		{
@@ -1695,7 +1713,7 @@
 			"lat": 54.7023545,
 			"lon": -3.2765753,
 			"tags": {
-				"name:eo": "Unuiĝinta Reĝlando"
+				"name:pl": "Wielka Brytania"
 			}
 		},
 		{
@@ -1704,7 +1722,7 @@
 			"lat": 7.8699431,
 			"lon": 29.6667897,
 			"tags": {
-				"name:eo": "Sud-Sudano"
+				"name:pl": "Sudan Południowy"
 			}
 		},
 		{
@@ -1713,7 +1731,7 @@
 			"lat": 46.603354,
 			"lon": 1.8883335,
 			"tags": {
-				"name:eo": "Francio"
+				"name:pl": "Francja"
 			}
 		},
 		{
@@ -1722,7 +1740,7 @@
 			"lat": -25.0657719,
 			"lon": -130.1017823,
 			"tags": {
-				"name:eo": "Pitkarna Insulo"
+				"name:pl": "Wyspy Pitcairn"
 			}
 		},
 		{
@@ -1731,7 +1749,7 @@
 			"lat": 52.865196,
 			"lon": -7.9794599,
 			"tags": {
-				"name:eo": "Irlando"
+				"name:pl": "Irlandia"
 			}
 		},
 		{
@@ -1740,7 +1758,16 @@
 			"lat": 46.7985624,
 			"lon": 8.2319736,
 			"tags": {
-				"name:eo": "Svislando"
+				"name:pl": "Szwajcaria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1511934680,
+			"lat": 6.097367,
+			"lon": 133.313631,
+			"tags": {
+				"name:pl": "Palau"
 			}
 		},
 		{
@@ -1749,7 +1776,7 @@
 			"lat": -13.7693895,
 			"lon": -172.1200508,
 			"tags": {
-				"name:eo": "Samoo"
+				"name:pl": "Samoa"
 			}
 		},
 		{
@@ -1758,7 +1785,16 @@
 			"lat": 54.1936805,
 			"lon": -4.5591148,
 			"tags": {
-				"name:eo": "Manksinsulo"
+				"name:pl": "Wyspa Man"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1607605918,
+			"lat": 49.580437,
+			"lon": -2.484854,
+			"tags": {
+				"name:pl": "Guernsey"
 			}
 		},
 		{
@@ -1767,7 +1803,7 @@
 			"lat": -18.4554963,
 			"lon": 29.7468414,
 			"tags": {
-				"name:eo": "Zimbabvo"
+				"name:pl": "Zimbabwe"
 			}
 		},
 		{
@@ -1776,7 +1812,7 @@
 			"lat": 15.6356088,
 			"lon": -89.8988087,
 			"tags": {
-				"name:eo": "Gvatemalo"
+				"name:pl": "Gwatemala"
 			}
 		},
 		{
@@ -1785,7 +1821,7 @@
 			"lat": -23.3165935,
 			"lon": -58.1693445,
 			"tags": {
-				"name:eo": "Paragvajo"
+				"name:pl": "Paragwaj"
 			}
 		},
 		{
@@ -1794,7 +1830,7 @@
 			"lat": 49.4871968,
 			"lon": 31.2718321,
 			"tags": {
-				"name:eo": "Ukrainio"
+				"name:pl": "Ukraina"
 			}
 		},
 		{
@@ -1803,7 +1839,7 @@
 			"lat": 51.0834196,
 			"lon": 10.4234469,
 			"tags": {
-				"name:eo": "Germanio"
+				"name:pl": "Niemcy"
 			}
 		},
 		{
@@ -1812,7 +1848,7 @@
 			"lat": 50.6407351,
 			"lon": 4.66696,
 			"tags": {
-				"name:eo": "Belgio"
+				"name:pl": "Belgia"
 			}
 		},
 		{
@@ -1821,7 +1857,34 @@
 			"lat": 4.4137155,
 			"lon": 114.5653908,
 			"tags": {
-				"name:eo": "Brunejo"
+				"name:pl": "Brunei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1696850886,
+			"lat": 42.3476344,
+			"lon": 44.0979465,
+			"tags": {
+				"name:pl": "Osetia Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1696853468,
+			"lat": 39.8079192,
+			"lon": 46.6977209,
+			"tags": {
+				"name:pl": "Republika Górskiego Karabachu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1696874354,
+			"lat": 35.2245313,
+			"lon": 33.6252379,
+			"tags": {
+				"name:pl": "Cypr Północny"
 			}
 		},
 		{
@@ -1830,7 +1893,7 @@
 			"lat": 41.5089324,
 			"lon": 74.724091,
 			"tags": {
-				"name:eo": "Kirgizistan"
+				"name:pl": "Kirgistan"
 			}
 		},
 		{
@@ -1839,7 +1902,16 @@
 			"lat": -20.2759451,
 			"lon": 57.5703566,
 			"tags": {
-				"name:eo": "Maŭricio"
+				"name:pl": "Mauritius"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1770467684,
+			"lat": 12.5013629,
+			"lon": -69.9618475,
+			"tags": {
+				"name:pl": "Aruba"
 			}
 		},
 		{
@@ -1848,7 +1920,25 @@
 			"lat": 44.3053476,
 			"lon": 17.5961467,
 			"tags": {
-				"name:eo": "Bosnio kaj Hercegovino"
+				"name:pl": "Bośnia i Hercegowina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:pl": "Naddniestrze"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2110225115,
+			"lat": 31.649741,
+			"lon": 35.162072,
+			"tags": {
+				"name:pl": "Palestyna"
 			}
 		},
 		{
@@ -1857,7 +1947,7 @@
 			"lat": 2.3923759,
 			"lon": 112.8471939,
 			"tags": {
-				"name:eo": "Malajzio"
+				"name:pl": "Malezja"
 			}
 		},
 		{
@@ -1866,7 +1956,34 @@
 			"lat": 10.2116702,
 			"lon": 38.6521203,
 			"tags": {
-				"name:eo": "Etiopio"
+				"name:pl": "Etiopia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2377028247,
+			"lat": 40.033265,
+			"lon": -7.8896263,
+			"tags": {
+				"name:pl": "Portugalia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3491215388,
+			"lat": -29.6039267,
+			"lon": 28.3350193,
+			"tags": {
+				"name:pl": "Lesotho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3696525426,
+			"lat": 47.1416307,
+			"lon": 9.5531527,
+			"tags": {
+				"name:pl": "Liechtenstein"
 			}
 		},
 		{
@@ -1875,7 +1992,25 @@
 			"lat": 7.237148,
 			"lon": 80.820923,
 			"tags": {
-				"name:eo": "Sri-Lanko"
+				"name:pl": "Sri Lanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076524861,
+			"lat": 35.8885993,
+			"lon": 14.4476911,
+			"tags": {
+				"name:pl": "Malta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4366234392,
+			"lat": 42.5869578,
+			"lon": 20.9021231,
+			"tags": {
+				"name:pl": "Kosowo"
 			}
 		}
 	]

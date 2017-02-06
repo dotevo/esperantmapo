@@ -1,0 +1,5365 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-06T13:35:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 671022,
+			"lat": 36.7014631,
+			"lon": -118.7559974,
+			"tags": {
+				"name:pl": "Kalifornia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 24330691,
+			"lat": 22.350627,
+			"lon": 114.1849161,
+			"tags": {
+				"name:pl": "Hongkong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34724864,
+			"lat": 47.2868352,
+			"lon": -120.2126139,
+			"tags": {
+				"name:pl": "Waszyngton"
+			}
+		},
+		{
+			"type": "node",
+			"id": 61083317,
+			"lat": 42.1640662,
+			"lon": 9.0982074,
+			"tags": {
+				"name:pl": "Korsyka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240035066,
+			"lat": 46.6960615,
+			"lon": 9.6027351,
+			"tags": {
+				"name:pl": "Gryzonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240122485,
+			"lat": 47.223193,
+			"lon": 11.5261028,
+			"tags": {
+				"name:pl": "Tyrol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244075779,
+			"lat": 32,
+			"lon": 117,
+			"tags": {
+				"name:pl": "Anhui"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244079315,
+			"lat": 26.5450001,
+			"lon": 117.842778,
+			"tags": {
+				"name:pl": "Fujian"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244079544,
+			"lat": 38.0000001,
+			"lon": 101.9999999,
+			"tags": {
+				"name:pl": "Gansu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080393,
+			"lat": 27,
+			"lon": 107,
+			"tags": {
+				"name:pl": "Kuejczou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080439,
+			"lat": 23.1357694,
+			"lon": 113.1982688,
+			"tags": {
+				"name:pl": "Guangdong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080442,
+			"lat": 24,
+			"lon": 109,
+			"tags": {
+				"name:pl": "Kuangsi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080467,
+			"lat": 39.0000001,
+			"lon": 116,
+			"tags": {
+				"name:pl": "Hebei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080473,
+			"lat": 48.0000047,
+			"lon": 127.999992,
+			"tags": {
+				"name:pl": "Heilongjiang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080486,
+			"lat": 34.0000001,
+			"lon": 113.9999999,
+			"tags": {
+				"name:pl": "Henan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080524,
+			"lat": 19.2000001,
+			"lon": 109.5999999,
+			"tags": {
+				"name:pl": "Hajnan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080661,
+			"lat": 31,
+			"lon": 112,
+			"tags": {
+				"name:pl": "Hubei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080670,
+			"lat": 27.9995878,
+			"lon": 112.009538,
+			"tags": {
+				"name:pl": "Hunan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080735,
+			"lat": 33.0000001,
+			"lon": 119.9999999,
+			"tags": {
+				"name:pl": "Jiangsu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080737,
+			"lat": 28,
+			"lon": 116,
+			"tags": {
+				"name:pl": "Jiangxi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080890,
+			"lat": 42.9995032,
+			"lon": 125.9816054,
+			"tags": {
+				"name:pl": "Jilin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081110,
+			"lat": 40.9975197,
+			"lon": 122.9955469,
+			"tags": {
+				"name:pl": "Liaoning"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081311,
+			"lat": 37.0000001,
+			"lon": 105.9999999,
+			"tags": {
+				"name:pl": "Ningxia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081449,
+			"lat": 43.2443242,
+			"lon": 114.3251664,
+			"tags": {
+				"name:pl": "Mongolia Wewnętrzna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081488,
+			"lat": 36,
+			"lon": 96,
+			"tags": {
+				"name:pl": "Qinghai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081618,
+			"lat": 37,
+			"lon": 112,
+			"tags": {
+				"name:pl": "Shanxi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081643,
+			"lat": 36.0000001,
+			"lon": 118.9999999,
+			"tags": {
+				"name:pl": "Szantung"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081648,
+			"lat": 31.2322735,
+			"lon": 121.4691749,
+			"tags": {
+				"name:pl": "Szanghaj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081655,
+			"lat": 36,
+			"lon": 109,
+			"tags": {
+				"name:pl": "Shaanxi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081852,
+			"lat": 30.5000001,
+			"lon": 102.4999999,
+			"tags": {
+				"name:pl": "Syczuan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244082468,
+			"lat": 32.0000002,
+			"lon": 89.9999998,
+			"tags": {
+				"name:pl": "Tybetański Region Autonomiczny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244082773,
+			"lat": 25,
+			"lon": 102,
+			"tags": {
+				"name:pl": "Junnan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083009,
+			"lat": 29.0000001,
+			"lon": 119.9999999,
+			"tags": {
+				"name:pl": "Zhejiang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399410,
+			"lat": 46.8374544,
+			"lon": -56.2120555,
+			"tags": {
+				"name:pl": "Saint-Pierre i Miquelon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399460,
+			"lat": -12.823048,
+			"lon": 45.1520755,
+			"tags": {
+				"name:pl": "Majotta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626603,
+			"lat": 25.0000001,
+			"lon": -107.5000001,
+			"tags": {
+				"name:pl": "Sinaloa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626605,
+			"lat": 18.833333,
+			"lon": -98,
+			"tags": {
+				"name:pl": "Puebla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626607,
+			"lat": 17.9999288,
+			"lon": -92.6681659,
+			"tags": {
+				"name:pl": "Tabasco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626610,
+			"lat": 29.3333331,
+			"lon": -110.6666671,
+			"tags": {
+				"name:pl": "Sonora"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626614,
+			"lat": 22.0000001,
+			"lon": -105.0000001,
+			"tags": {
+				"name:pl": "Nayarit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626616,
+			"lat": 23.9891553,
+			"lon": -98.7026825,
+			"tags": {
+				"name:pl": "Tamaulipas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626619,
+			"lat": 22.5000001,
+			"lon": -100.5000001,
+			"tags": {
+				"name:pl": "San Luis Potosí"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626621,
+			"lat": 19.6666671,
+			"lon": -88.5000001,
+			"tags": {
+				"name:pl": "Quintana Roo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626639,
+			"lat": 19.207098,
+			"lon": -101.878113,
+			"tags": {
+				"name:pl": "Michoacán"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626642,
+			"lat": 24.833333,
+			"lon": -104.833333,
+			"tags": {
+				"name:pl": "Durango"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626645,
+			"lat": 19.416667,
+			"lon": -98.166667,
+			"tags": {
+				"name:pl": "Tlaxcala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626882,
+			"lat": 20.3333331,
+			"lon": -103.6666671,
+			"tags": {
+				"name:pl": "Jalisco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626889,
+			"lat": 19.4839446,
+			"lon": -99.6899716,
+			"tags": {
+				"name:pl": "Meksyk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626892,
+			"lat": 17,
+			"lon": -96.5,
+			"tags": {
+				"name:pl": "Oaxaca"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626893,
+			"lat": 28.5000001,
+			"lon": -106.0000001,
+			"tags": {
+				"name:pl": "Chihuahua"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626894,
+			"lat": 16.5000001,
+			"lon": -92.5000001,
+			"tags": {
+				"name:pl": "Chiapas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626895,
+			"lat": 18.75,
+			"lon": -99,
+			"tags": {
+				"name:pl": "Morelos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626896,
+			"lat": 27.3333331,
+			"lon": -102.0000001,
+			"tags": {
+				"name:pl": "Coahuila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626897,
+			"lat": 21,
+			"lon": -101,
+			"tags": {
+				"name:pl": "Guanajuato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626898,
+			"lat": 19.333333,
+			"lon": -96.666667,
+			"tags": {
+				"name:pl": "Veracruz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626899,
+			"lat": 23.0000001,
+			"lon": -103.0000001,
+			"tags": {
+				"name:pl": "Zacatecas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626900,
+			"lat": 17.666667,
+			"lon": -100,
+			"tags": {
+				"name:pl": "Guerrero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626901,
+			"lat": 26.2384363,
+			"lon": -99.8873,
+			"tags": {
+				"name:pl": "Nuevo León"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626902,
+			"lat": 19.166667,
+			"lon": -104,
+			"tags": {
+				"name:pl": "Colima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626903,
+			"lat": 20.5,
+			"lon": -99,
+			"tags": {
+				"name:pl": "Hidalgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626904,
+			"lat": 19,
+			"lon": -90.5,
+			"tags": {
+				"name:pl": "Campeche"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305626905,
+			"lat": 22.0000001,
+			"lon": -102.5000001,
+			"tags": {
+				"name:pl": "Aguascalientes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700696,
+			"lat": 65.0000004,
+			"lon": -118,
+			"tags": {
+				"name:pl": "Terytoria Północno-Zachodnie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700699,
+			"lat": 55.001251,
+			"lon": -125.002441,
+			"tags": {
+				"name:pl": "Kolumbia Brytyjska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700706,
+			"lat": 53.8217327,
+			"lon": -61.2295532,
+			"tags": {
+				"name:pl": "Nowa Fundlandia i Labrador"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470035,
+			"lat": 32.8129681,
+			"lon": 66.0183185,
+			"tags": {
+				"name:pl": "Oruzgan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470038,
+			"lat": 36.7991624,
+			"lon": 67.2372587,
+			"tags": {
+				"name:pl": "Balch"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470042,
+			"lat": 36.9665706,
+			"lon": 65.9560232,
+			"tags": {
+				"name:pl": "Dżozdżan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470045,
+			"lat": 33.705724,
+			"lon": 69.4083555,
+			"tags": {
+				"name:pl": "Paktija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470050,
+			"lat": 36.5940732,
+			"lon": 69.7938996,
+			"tags": {
+				"name:pl": "Tachar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470052,
+			"lat": 36.8040254,
+			"lon": 71.367658,
+			"tags": {
+				"name:pl": "Badachszan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470054,
+			"lat": 32.3068942,
+			"lon": 67.129904,
+			"tags": {
+				"name:pl": "Zabol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470060,
+			"lat": 33.4014634,
+			"lon": 69.8912294,
+			"tags": {
+				"name:pl": "Chost"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470061,
+			"lat": 35.9261784,
+			"lon": 64.6237758,
+			"tags": {
+				"name:pl": "Farjab"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312470062,
+			"lat": 34.75,
+			"lon": 67.25,
+			"tags": {
+				"name:pl": "Bamian"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313467043,
+			"lat": 12.7203446,
+			"lon": -65.239013,
+			"tags": {
+				"name:pl": "Dependencje Federalne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313753808,
+			"lat": 4.0039882,
+			"lon": -52.999998,
+			"tags": {
+				"name:pl": "Gujana Francuska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316440942,
+			"lat": 28,
+			"lon": 66,
+			"tags": {
+				"name:pl": "Beludżystan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316441009,
+			"lat": 31,
+			"lon": 72,
+			"tags": {
+				"name:pl": "Pendżab"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316441014,
+			"lat": 25.5,
+			"lon": 69,
+			"tags": {
+				"name:pl": "Sindh"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316441052,
+			"lat": 34.5,
+			"lon": 72,
+			"tags": {
+				"name:pl": "Chajber Pasztunchwa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316441063,
+			"lat": 34.3752779,
+			"lon": 73.4730602,
+			"tags": {
+				"name:pl": "Azad Dżammu i Kaszmir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316441092,
+			"lat": 35.9999972,
+			"lon": 75.0000023,
+			"tags": {
+				"name:pl": "Gilgit-Baltistan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316647532,
+			"lat": 33.2588817,
+			"lon": -86.8295337,
+			"tags": {
+				"name:pl": "Alabama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316940520,
+			"lat": 34.395342,
+			"lon": -111.7632755,
+			"tags": {
+				"name:pl": "Arizona"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316942960,
+			"lat": 35.2048883,
+			"lon": -92.4479108,
+			"tags": {
+				"name:pl": "Arkansas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945104,
+			"lat": 38.7251776,
+			"lon": -105.6077167,
+			"tags": {
+				"name:pl": "Kolorado"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945353,
+			"lat": 41.6500201,
+			"lon": -72.7342163,
+			"tags": {
+				"name:pl": "Connecticut"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316945699,
+			"lat": 38.6920451,
+			"lon": -75.4013315,
+			"tags": {
+				"name:pl": "Delaware"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316949496,
+			"lat": 32.3293809,
+			"lon": -83.1137366,
+			"tags": {
+				"name:pl": "Georgia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316949921,
+			"lat": 21.2160437,
+			"lon": -157.975203,
+			"tags": {
+				"name:pl": "Hawaje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316950582,
+			"lat": 43.6447642,
+			"lon": -114.0154071,
+			"tags": {
+				"name:pl": "Idaho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316954434,
+			"lat": 40.3270127,
+			"lon": -86.1746933,
+			"tags": {
+				"name:pl": "Indiana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316955537,
+			"lat": 41.9216734,
+			"lon": -93.3122705,
+			"tags": {
+				"name:pl": "Iowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316956038,
+			"lat": 38.27312,
+			"lon": -98.5821872,
+			"tags": {
+				"name:pl": "Kansas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316959037,
+			"lat": 37.5726028,
+			"lon": -85.1551411,
+			"tags": {
+				"name:pl": "Kentucky"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316961033,
+			"lat": 30.8703881,
+			"lon": -92.007126,
+			"tags": {
+				"name:pl": "Luizjana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316961875,
+			"lat": 45.709097,
+			"lon": -68.8590201,
+			"tags": {
+				"name:pl": "Maine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316964668,
+			"lat": 39.5162234,
+			"lon": -76.9382069,
+			"tags": {
+				"name:pl": "Maryland"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316965734,
+			"lat": 42.3788774,
+			"lon": -72.032366,
+			"tags": {
+				"name:pl": "Massachusetts"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316966612,
+			"lat": 43.6211955,
+			"lon": -84.6824346,
+			"tags": {
+				"name:pl": "Michigan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316967611,
+			"lat": 45.9896587,
+			"lon": -94.6113288,
+			"tags": {
+				"name:pl": "Minnesota"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316968897,
+			"lat": 32.9715645,
+			"lon": -89.7348497,
+			"tags": {
+				"name:pl": "Missisipi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316970920,
+			"lat": 47.3752671,
+			"lon": -109.6387579,
+			"tags": {
+				"name:pl": "Montana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971452,
+			"lat": 41.7370229,
+			"lon": -99.5873816,
+			"tags": {
+				"name:pl": "Nebraska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971669,
+			"lat": 39.5158825,
+			"lon": -116.8537227,
+			"tags": {
+				"name:pl": "Nevada"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316971821,
+			"lat": 43.4849133,
+			"lon": -71.6553992,
+			"tags": {
+				"name:pl": "New Hampshire"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316973311,
+			"lat": 40.0757384,
+			"lon": -74.4041622,
+			"tags": {
+				"name:pl": "New Jersey"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316973967,
+			"lat": 34.5708167,
+			"lon": -105.993007,
+			"tags": {
+				"name:pl": "Nowy Meksyk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316976734,
+			"lat": 43.1561681,
+			"lon": -75.8449946,
+			"tags": {
+				"name:pl": "Nowy Jork"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316979074,
+			"lat": 35.6729639,
+			"lon": -79.0392919,
+			"tags": {
+				"name:pl": "Karolina Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316979718,
+			"lat": 47.6201461,
+			"lon": -100.540737,
+			"tags": {
+				"name:pl": "Dakota Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316982774,
+			"lat": 40.2253569,
+			"lon": -82.6881395,
+			"tags": {
+				"name:pl": "Ohio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316983705,
+			"lat": 34.9550817,
+			"lon": -97.2684063,
+			"tags": {
+				"name:pl": "Oklahoma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316984338,
+			"lat": 43.9792797,
+			"lon": -120.737257,
+			"tags": {
+				"name:pl": "Oregon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316987717,
+			"lat": 40.9699889,
+			"lon": -77.7278831,
+			"tags": {
+				"name:pl": "Pensylwania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316987977,
+			"lat": 41.7962409,
+			"lon": -71.5992372,
+			"tags": {
+				"name:pl": "Rhode Island"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316990225,
+			"lat": 33.6874388,
+			"lon": -80.4363743,
+			"tags": {
+				"name:pl": "Karolina Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316990807,
+			"lat": 44.6471761,
+			"lon": -100.348761,
+			"tags": {
+				"name:pl": "Dakota Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316994008,
+			"lat": 35.7730076,
+			"lon": -86.2820081,
+			"tags": {
+				"name:pl": "Tennessee"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316998356,
+			"lat": 31.8160381,
+			"lon": -99.5120986,
+			"tags": {
+				"name:pl": "Teksas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316999551,
+			"lat": 39.4225192,
+			"lon": -111.7143584,
+			"tags": {
+				"name:pl": "Utah"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317000170,
+			"lat": 44.5990718,
+			"lon": -72.5002608,
+			"tags": {
+				"name:pl": "Vermont"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317004702,
+			"lat": 37.1232245,
+			"lon": -78.4927721,
+			"tags": {
+				"name:pl": "Wirginia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317006365,
+			"lat": 38.4758406,
+			"lon": -80.8408415,
+			"tags": {
+				"name:pl": "Wirginia Zachodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317007239,
+			"lat": 44.4308975,
+			"lon": -89.6884637,
+			"tags": {
+				"name:pl": "Wisconsin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 317007393,
+			"lat": 43.1700264,
+			"lon": -107.5685348,
+			"tags": {
+				"name:pl": "Wyoming"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446173,
+			"lat": 7.2513252,
+			"lon": 26.8456044,
+			"tags": {
+				"name:pl": "Bahr el Ghazal Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446179,
+			"lat": 5,
+			"lon": 31.5,
+			"tags": {
+				"name:pl": "Ekwatoria Środkowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446192,
+			"lat": 9,
+			"lon": 27,
+			"tags": {
+				"name:pl": "Bahr el Ghazal Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446194,
+			"lat": 8.5,
+			"lon": 28.5,
+			"tags": {
+				"name:pl": "Warrap"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446196,
+			"lat": 9.5,
+			"lon": 30,
+			"tags": {
+				"name:pl": "Unity"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446197,
+			"lat": 6.8415466,
+			"lon": 29.8263821,
+			"tags": {
+				"name:pl": "Lakes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446207,
+			"lat": 9,
+			"lon": 33,
+			"tags": {
+				"name:pl": "Nil Górny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 321446210,
+			"lat": 8,
+			"lon": 32,
+			"tags": {
+				"name:pl": "Jonglei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322128912,
+			"lat": 13.7797559,
+			"lon": 14.1550429,
+			"tags": {
+				"name:pl": "Lac"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322128913,
+			"lat": 13.8367731,
+			"lon": 18.9649806,
+			"tags": {
+				"name:pl": "Batha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322129363,
+			"lat": 15.0005701,
+			"lon": 15.1048921,
+			"tags": {
+				"name:pl": "Kanem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322131059,
+			"lat": 13.4613569,
+			"lon": 21.288445,
+			"tags": {
+				"name:pl": "Wadaj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322131587,
+			"lat": 11.3345348,
+			"lon": 16.2884311,
+			"tags": {
+				"name:pl": "Szari-Bagirmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322133409,
+			"lat": 11.6753817,
+			"lon": 18.4910031,
+			"tags": {
+				"name:pl": "Guéra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322133411,
+			"lat": 10.3563576,
+			"lon": 15.6755227,
+			"tags": {
+				"name:pl": "Mayo-Kebbi Est"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322133412,
+			"lat": 9.2640383,
+			"lon": 14.7151598,
+			"tags": {
+				"name:pl": "Mayo-Kebbi Ouest"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322135072,
+			"lat": 9.5983875,
+			"lon": 16.6668247,
+			"tags": {
+				"name:pl": "Tandjilé"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322135074,
+			"lat": 9.3604915,
+			"lon": 18.4905799,
+			"tags": {
+				"name:pl": "Szari Środkowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322135075,
+			"lat": 8.0687686,
+			"lon": 16.3548246,
+			"tags": {
+				"name:pl": "Logon Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322135077,
+			"lat": 8.7687059,
+			"lon": 15.8302774,
+			"tags": {
+				"name:pl": "Logon Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322483515,
+			"lat": 10.7575596,
+			"lon": 20.6934116,
+			"tags": {
+				"name:pl": "Salamat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 322491573,
+			"lat": 8.3972369,
+			"lon": 17.7431715,
+			"tags": {
+				"name:pl": "Mandoul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297956,
+			"lat": -21.1309332,
+			"lon": 55.5265771,
+			"tags": {
+				"name:pl": "Reunion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298155,
+			"lat": -13.8173324,
+			"lon": -177.1489649,
+			"tags": {
+				"name:pl": "Wallis i Futuna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311883,
+			"lat": 41.9034912,
+			"lon": 12.4528349,
+			"tags": {
+				"name:pl": "Watykan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313764,
+			"lat": -12.1691894,
+			"lon": 96.8301442,
+			"tags": {
+				"name:pl": "Wyspy Kokosowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314262,
+			"lat": -44.1511785,
+			"lon": 63.8604556,
+			"tags": {
+				"name:pl": "Francuskie Terytoria Południowe i Antarktyczne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483523,
+			"lat": -10.4837768,
+			"lon": 105.64723,
+			"tags": {
+				"name:pl": "Wyspa Bożego Narodzenia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483527,
+			"lat": -16.225557,
+			"lon": 150.033867,
+			"tags": {
+				"name:pl": "Wyspy Morza Koralowego"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483535,
+			"lat": 16.2490067,
+			"lon": -61.5650444,
+			"tags": {
+				"name:pl": "Gwadelupa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 435374897,
+			"lat": 5.2670468,
+			"lon": 28.7924213,
+			"tags": {
+				"name:pl": "Ekwatoria Zachodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 462226505,
+			"lat": -18.6243749,
+			"lon": -144.6434898,
+			"tags": {
+				"name:pl": "Polinezja Francuska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 470649732,
+			"lat": 56.7861112,
+			"lon": -4.1140518,
+			"tags": {
+				"name:pl": "Szkocja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473831430,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
+			"tags": {
+				"name:pl": "Saksonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473848012,
+			"lat": 48.9467562,
+			"lon": 11.4038717,
+			"tags": {
+				"name:pl": "Bawaria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473849775,
+			"lat": 38.7604815,
+			"lon": -92.5617875,
+			"tags": {
+				"name:pl": "Missouri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473857781,
+			"lat": 53.7735234,
+			"lon": 12.5755746,
+			"tags": {
+				"name:pl": "Meklemburgia-Pomorze Przednie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473862587,
+			"lat": 52.8455492,
+			"lon": 13.2461296,
+			"tags": {
+				"name:pl": "Brandenburgia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473883922,
+			"lat": 50.7333163,
+			"lon": 11.0747905,
+			"tags": {
+				"name:pl": "Turyngia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473890961,
+			"lat": 54.1853998,
+			"lon": 9.8220089,
+			"tags": {
+				"name:pl": "Szlezwik-Holsztyn"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474582475,
+			"lat": 64.4459613,
+			"lon": -149.680909,
+			"tags": {
+				"name:pl": "Alaska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842895,
+			"lat": -29.573402,
+			"lon": 21.2051361,
+			"tags": {
+				"name:pl": "Prowincja Przylądkowa Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 474842944,
+			"lat": -28.7853618,
+			"lon": 26.4978933,
+			"tags": {
+				"name:pl": "Wolne Państwo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 475386053,
+			"lat": 53.5450793,
+			"lon": 15.5661586,
+			"tags": {
+				"name:pl": "województwo zachodniopomorskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 475731866,
+			"lat": 36.0132752,
+			"lon": 59.7147368,
+			"tags": {
+				"name:pl": "Chorasan-e Rezawi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 475733367,
+			"lat": 37.5378855,
+			"lon": 56.9526137,
+			"tags": {
+				"name:pl": "Chorasan Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480241657,
+			"lat": 37.1984436,
+			"lon": 55.070672,
+			"tags": {
+				"name:pl": "Golestan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480250674,
+			"lat": 35.3087569,
+			"lon": 54.5138179,
+			"tags": {
+				"name:pl": "Semnan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480250680,
+			"lat": 32.3868985,
+			"lon": 59.6104942,
+			"tags": {
+				"name:pl": "Chorasan Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480271136,
+			"lat": 34.7191915,
+			"lon": 51.0122844,
+			"tags": {
+				"name:pl": "Kom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480308979,
+			"lat": 36.0156291,
+			"lon": 49.8398161,
+			"tags": {
+				"name:pl": "Kazwin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480338321,
+			"lat": 36.3159159,
+			"lon": 51.8968597,
+			"tags": {
+				"name:pl": "Mazandaran"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480431777,
+			"lat": 36.6679744,
+			"lon": 48.483038,
+			"tags": {
+				"name:pl": "Zandżan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 480452780,
+			"lat": 38.0211113,
+			"lon": 46.3174851,
+			"tags": {
+				"name:pl": "Azerbejdżan Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 481002194,
+			"lat": 33.196733,
+			"lon": 52.504026,
+			"tags": {
+				"name:pl": "Isfahan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 481099514,
+			"lat": 29.571858,
+			"lon": 57.301047,
+			"tags": {
+				"name:pl": "Kerman"
+			}
+		},
+		{
+			"type": "node",
+			"id": 481109416,
+			"lat": 32.2452687,
+			"lon": 55.105172,
+			"tags": {
+				"name:pl": "Jazd"
+			}
+		},
+		{
+			"type": "node",
+			"id": 481249065,
+			"lat": 29.299051,
+			"lon": 53.218456,
+			"tags": {
+				"name:pl": "Fars"
+			}
+		},
+		{
+			"type": "node",
+			"id": 485807427,
+			"lat": 28.1292481,
+			"lon": 60.8236848,
+			"tags": {
+				"name:pl": "Sistan i Beludżystan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 485934542,
+			"lat": 33.1545696,
+			"lon": 46.7576343,
+			"tags": {
+				"name:pl": "Ilam"
+			}
+		},
+		{
+			"type": "node",
+			"id": 486075807,
+			"lat": 33.458327,
+			"lon": 48.6564612,
+			"tags": {
+				"name:pl": "Lorestan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 486089857,
+			"lat": 34.5302705,
+			"lon": 49.7864561,
+			"tags": {
+				"name:pl": "Markazi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 486319228,
+			"lat": 32.0163307,
+			"lon": 50.685709,
+			"tags": {
+				"name:pl": "Czahar Mahal wa Bachtijari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 486620783,
+			"lat": 30.8143476,
+			"lon": 50.8661454,
+			"tags": {
+				"name:pl": "Kohgiluje wa Bujerahmad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 495472876,
+			"lat": 34.4770583,
+			"lon": 46.9150556,
+			"tags": {
+				"name:pl": "Kermanszah"
+			}
+		},
+		{
+			"type": "node",
+			"id": 496170398,
+			"lat": 35.672803,
+			"lon": 47.0124376,
+			"tags": {
+				"name:pl": "Kurdystan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 496235899,
+			"lat": 37.7416484,
+			"lon": 45.0207638,
+			"tags": {
+				"name:pl": "Azerbejdżan Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842538,
+			"lat": 45.0819456,
+			"lon": 134.726645,
+			"tags": {
+				"name:pl": "Kraj Nadmorski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842672,
+			"lat": 52.8032368,
+			"lon": 128.437295,
+			"tags": {
+				"name:pl": "Obwód amurski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842918,
+			"lat": 58.6124279,
+			"lon": 82.0475315,
+			"tags": {
+				"name:pl": "Obwód tomski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503045144,
+			"lat": 67.1471631,
+			"lon": 74.3415488,
+			"tags": {
+				"name:pl": "Jamalsko-Nieniecki Okręg Autonomiczny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503046328,
+			"lat": 61.8793428,
+			"lon": 68.6418156,
+			"tags": {
+				"name:pl": "Chanty-Mansyjski Okręg Autonomiczny - Jugra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503047594,
+			"lat": 58.8206488,
+			"lon": 70.3658837,
+			"tags": {
+				"name:pl": "Obwód tiumeński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503050374,
+			"lat": 56.0935263,
+			"lon": 73.5099936,
+			"tags": {
+				"name:pl": "Obwód omski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503051686,
+			"lat": 54.9720169,
+			"lon": 79.4813924,
+			"tags": {
+				"name:pl": "Obwód nowosybirski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503055077,
+			"lat": 54.5335781,
+			"lon": 87.342861,
+			"tags": {
+				"name:pl": "Obwód kemerowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503057596,
+			"lat": 52.6932243,
+			"lon": 82.6931424,
+			"tags": {
+				"name:pl": "Kraj Ałtajski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503059916,
+			"lat": 50.7114101,
+			"lon": 86.8572186,
+			"tags": {
+				"name:pl": "Republika Ałtaju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503064678,
+			"lat": 53.4399379,
+			"lon": 90.0664303,
+			"tags": {
+				"name:pl": "Chakasja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503073143,
+			"lat": 63.3233807,
+			"lon": 97.0979974,
+			"tags": {
+				"name:pl": "Kraj Krasnojarski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503077246,
+			"lat": 56.6370122,
+			"lon": 104.719221,
+			"tags": {
+				"name:pl": "Obwód irkucki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503080952,
+			"lat": 52.7182426,
+			"lon": 109.492143,
+			"tags": {
+				"name:pl": "Buriacja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503085943,
+			"lat": 28.8936645,
+			"lon": 51.3204877,
+			"tags": {
+				"name:pl": "Buszehr"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503087444,
+			"lat": 52.248521,
+			"lon": 115.956325,
+			"tags": {
+				"name:pl": "Kraj Zabajkalski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503088681,
+			"lat": 66.941626,
+			"lon": 129.642371,
+			"tags": {
+				"name:pl": "Jakucja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503160180,
+			"lat": 37.3388456,
+			"lon": 49.3785519,
+			"tags": {
+				"name:pl": "Gilan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 503188452,
+			"lat": 38.4583983,
+			"lon": 47.9313001,
+			"tags": {
+				"name:pl": "Ardabil"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504966405,
+			"lat": 49.790952,
+			"lon": 20.3793521,
+			"tags": {
+				"name:pl": "województwo małopolskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504970284,
+			"lat": 49.9927121,
+			"lon": 22.177107,
+			"tags": {
+				"name:pl": "województwo podkarpackie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504977488,
+			"lat": 52.5461934,
+			"lon": 21.2073404,
+			"tags": {
+				"name:pl": "województwo mazowieckie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504981968,
+			"lat": 52.1458506,
+			"lon": 17.397672,
+			"tags": {
+				"name:pl": "województwo wielkopolskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006035,
+			"lat": 50.976229,
+			"lon": 22.7991176,
+			"tags": {
+				"name:pl": "województwo lubelskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006802,
+			"lat": 54.4226732,
+			"lon": 40.5705246,
+			"tags": {
+				"name:pl": "Obwód riazański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505006928,
+			"lat": 53.2668455,
+			"lon": 22.8525787,
+			"tags": {
+				"name:pl": "województwo podlaskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505008682,
+			"lat": 53.9311892,
+			"lon": 21.1260808,
+			"tags": {
+				"name:pl": "województwo warmińsko-mazurskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505013148,
+			"lat": 54.143148,
+			"lon": 17.9057338,
+			"tags": {
+				"name:pl": "województwo pomorskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505016447,
+			"lat": 52.1001754,
+			"lon": 15.3605075,
+			"tags": {
+				"name:pl": "województwo lubuskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505025705,
+			"lat": 51.3807987,
+			"lon": 16.4330936,
+			"tags": {
+				"name:pl": "województwo dolnośląskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505029615,
+			"lat": 50.8918612,
+			"lon": 17.9321175,
+			"tags": {
+				"name:pl": "województwo opolskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505034126,
+			"lat": 50.5687422,
+			"lon": 19.2343995,
+			"tags": {
+				"name:pl": "województwo śląskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505043292,
+			"lat": 51.4721678,
+			"lon": 19.3460637,
+			"tags": {
+				"name:pl": "województwo łódzkie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505045821,
+			"lat": 53.0915932,
+			"lon": 18.4463517,
+			"tags": {
+				"name:pl": "województwo kujawsko-pomorskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508056667,
+			"lat": 48.5601613,
+			"lon": 132.2775662,
+			"tags": {
+				"name:pl": "Żydowski Obwód Autonomiczny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508056994,
+			"lat": 51.6312684,
+			"lon": 136.121524,
+			"tags": {
+				"name:pl": "Kraj Chabarowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057236,
+			"lat": 49.7219665,
+			"lon": 143.448533,
+			"tags": {
+				"name:pl": "Obwód sachaliński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057529,
+			"lat": 57.1914882,
+			"lon": 160.0383819,
+			"tags": {
+				"name:pl": "Kraj Kamczacki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057745,
+			"lat": 63.5515028,
+			"lon": 154.014726,
+			"tags": {
+				"name:pl": "Obwód magadański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508057959,
+			"lat": 66.0006475,
+			"lon": 169.4900869,
+			"tags": {
+				"name:pl": "Czukocki Okręg Autonomiczny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 508059331,
+			"lat": 48.6130209,
+			"lon": 81.7489928,
+			"tags": {
+				"name:pl": "Obwód wschodniokazachstański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 512530444,
+			"lat": 31.5535141,
+			"lon": 49.0077168,
+			"tags": {
+				"name:pl": "Chuzestan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 512530445,
+			"lat": 27.7198095,
+			"lon": 56.335807,
+			"tags": {
+				"name:pl": "Hormozgan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 513125713,
+			"lat": 53.7021118,
+			"lon": 25.0711803,
+			"tags": {
+				"name:pl": "obwód grodzieński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 516618494,
+			"lat": 54.7293041,
+			"lon": 21.1489473,
+			"tags": {
+				"name:pl": "obwód kaliningradzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 519425071,
+			"lat": 51.4785568,
+			"lon": 7.5533645,
+			"tags": {
+				"name:pl": "Nadrenia Północna-Westfalia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533634715,
+			"lat": 58.2843833,
+			"lon": 32.5169757,
+			"tags": {
+				"name:pl": "Obwód nowogrodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533719181,
+			"lat": 53.2852213,
+			"lon": 50.4785577,
+			"tags": {
+				"name:pl": "Obwód samarski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 535136806,
+			"lat": 68.0000418,
+			"lon": 33.9999151,
+			"tags": {
+				"name:pl": "Obwód murmański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 535182674,
+			"lat": 58.6414755,
+			"lon": 61.8021546,
+			"tags": {
+				"name:pl": "Obwód swierdłowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 539831949,
+			"lat": -8.4116316,
+			"lon": -37.5919699,
+			"tags": {
+				"name:pl": "Pernambuco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 540553503,
+			"lat": 58.5951603,
+			"lon": 56.3159546,
+			"tags": {
+				"name:pl": "Kraj Permski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 553784069,
+			"lat": 40.0796319,
+			"lon": -89.4339809,
+			"tags": {
+				"name:pl": "Illinois"
+			}
+		},
+		{
+			"type": "node",
+			"id": 559621143,
+			"lat": 63.9881421,
+			"lon": 54.3326073,
+			"tags": {
+				"name:pl": "Republika Komi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 564957290,
+			"lat": 54.5491756,
+			"lon": 25.236244,
+			"tags": {
+				"name:pl": "okręg wileński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566293548,
+			"lat": 53.7254147,
+			"lon": 30.3863145,
+			"tags": {
+				"name:pl": "obwód mohylewski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566293550,
+			"lat": 55.2381972,
+			"lon": 28.7742203,
+			"tags": {
+				"name:pl": "obwód witebski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296860,
+			"lat": 52.4121685,
+			"lon": 25.2547709,
+			"tags": {
+				"name:pl": "obwód brzeski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296861,
+			"lat": 52.3128262,
+			"lon": 29.5418527,
+			"tags": {
+				"name:pl": "obwód homelski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 566296863,
+			"lat": 54.1603039,
+			"lon": 27.7558157,
+			"tags": {
+				"name:pl": "obwód miński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 567535537,
+			"lat": 62.6194031,
+			"lon": 33.4920267,
+			"tags": {
+				"name:pl": "Karjala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226686,
+			"lat": 55.448217,
+			"lon": 50.4763591,
+			"tags": {
+				"name:pl": "Tatarstan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226687,
+			"lat": 54.4747553,
+			"lon": 55.9784582,
+			"tags": {
+				"name:pl": "Baszkiria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573226688,
+			"lat": 57.1961165,
+			"lon": 52.6959832,
+			"tags": {
+				"name:pl": "Udmurcja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 577354816,
+			"lat": 63.4736289,
+			"lon": 43.7199849,
+			"tags": {
+				"name:pl": "Obwód archangielski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 577359740,
+			"lat": 59.9780506,
+			"lon": 39.7150729,
+			"tags": {
+				"name:pl": "Obwód wołogodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 602512999,
+			"lat": 41.8523094,
+			"lon": 1.5745043,
+			"tags": {
+				"name:pl": "Katalonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014861,
+			"lat": 54.1463177,
+			"lon": 47.2324921,
+			"tags": {
+				"name:pl": "Obwód uljanowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014868,
+			"lat": 55.4259922,
+			"lon": 47.0849429,
+			"tags": {
+				"name:pl": "Czuwaszja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 607014871,
+			"lat": 52.0269262,
+			"lon": 54.7276647,
+			"tags": {
+				"name:pl": "Obwód orenburski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 608648126,
+			"lat": 67.6783253,
+			"lon": 57.0626853,
+			"tags": {
+				"name:pl": "Nieniecki Okręg Autonomiczny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739435,
+			"lat": 60.1716709,
+			"lon": 31.8322298,
+			"tags": {
+				"name:pl": "Obwód leningradzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739454,
+			"lat": 57.5358729,
+			"lon": 28.8586826,
+			"tags": {
+				"name:pl": "Obwód pskowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 610739465,
+			"lat": 57.1134475,
+			"lon": 35.1744428,
+			"tags": {
+				"name:pl": "Obwód twerski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618016965,
+			"lat": 55.7655302,
+			"lon": 64.5632681,
+			"tags": {
+				"name:pl": "Obwód kurgański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618755470,
+			"lat": 18.9908235,
+			"lon": -71.9943985,
+			"tags": {
+				"name:pl": "Departament Centralny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618756414,
+			"lat": 18.5304144,
+			"lon": -74.1511463,
+			"tags": {
+				"name:pl": "Departament Grand'Anse"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618757391,
+			"lat": 18.4420426,
+			"lon": -73.3913782,
+			"tags": {
+				"name:pl": "Departament Nippes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618759492,
+			"lat": 19.6258245,
+			"lon": -72.2699286,
+			"tags": {
+				"name:pl": "Departament Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618760787,
+			"lat": 19.5178468,
+			"lon": -71.8728225,
+			"tags": {
+				"name:pl": "Departament Północno-Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618761050,
+			"lat": 19.8469434,
+			"lon": -73.0589966,
+			"tags": {
+				"name:pl": "Departament Północno-Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618762860,
+			"lat": 18.7668687,
+			"lon": -72.4387315,
+			"tags": {
+				"name:pl": "Departament Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618769644,
+			"lat": 18.2973566,
+			"lon": -72.3745698,
+			"tags": {
+				"name:pl": "Departament Południowo-Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618769994,
+			"lat": 18.2612839,
+			"lon": -73.8444985,
+			"tags": {
+				"name:pl": "Departament Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753997,
+			"lat": 52.6935178,
+			"lon": 39.1122664,
+			"tags": {
+				"name:pl": "Obwód lipiecki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753998,
+			"lat": 50.9800393,
+			"lon": 40.1506507,
+			"tags": {
+				"name:pl": "Obwód woroneski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 648753999,
+			"lat": 52.9019574,
+			"lon": 41.3578918,
+			"tags": {
+				"name:pl": "Obwód tambowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 658312593,
+			"lat": 55.5043158,
+			"lon": 38.0353929,
+			"tags": {
+				"name:pl": "Obwód moskiewski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769593,
+			"lat": 50.7696518,
+			"lon": 34.3289305,
+			"tags": {
+				"name:pl": "obwód sumski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769596,
+			"lat": 46.5421715,
+			"lon": 33.4079326,
+			"tags": {
+				"name:pl": "obwód chersoński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769601,
+			"lat": 51.272593,
+			"lon": 31.7417235,
+			"tags": {
+				"name:pl": "obwód czernihowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769605,
+			"lat": 45.5916819,
+			"lon": 33.5992068,
+			"tags": {
+				"name:pl": "Republika Autonomiczna Krymu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769608,
+			"lat": 50.178595,
+			"lon": 30.4924884,
+			"tags": {
+				"name:pl": "obwód kijowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769610,
+			"lat": 48.8990315,
+			"lon": 28.516068,
+			"tags": {
+				"name:pl": "obwód winnicki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769611,
+			"lat": 50.9080532,
+			"lon": 28.3867504,
+			"tags": {
+				"name:pl": "obwód żytomierski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769612,
+			"lat": 46.1147226,
+			"lon": 29.9567193,
+			"tags": {
+				"name:pl": "obwód odeski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769616,
+			"lat": 51.5451167,
+			"lon": 24.6627893,
+			"tags": {
+				"name:pl": "obwód wołyński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769620,
+			"lat": 51.2074112,
+			"lon": 26.5208033,
+			"tags": {
+				"name:pl": "obwód rówieński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769624,
+			"lat": 49.1460165,
+			"lon": 31.2271744,
+			"tags": {
+				"name:pl": "obwód czerkaski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681593,
+			"lat": 48.2953664,
+			"lon": 23.4466092,
+			"tags": {
+				"name:pl": "obwód zakarpacki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681597,
+			"lat": 47.9212914,
+			"lon": 37.7809825,
+			"tags": {
+				"name:pl": "obwód doniecki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681601,
+			"lat": 49.268624,
+			"lon": 27.0635998,
+			"tags": {
+				"name:pl": "obwód chmielnicki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681604,
+			"lat": 49.6630002,
+			"lon": 25.6167516,
+			"tags": {
+				"name:pl": "Obwód tarnopolski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681607,
+			"lat": 50.1594016,
+			"lon": 24.2337089,
+			"tags": {
+				"name:pl": "obwód lwowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681609,
+			"lat": 48.3810791,
+			"lon": 26.1081673,
+			"tags": {
+				"name:pl": "obwód czerniowiecki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681613,
+			"lat": 49.2723647,
+			"lon": 38.9152782,
+			"tags": {
+				"name:pl": "obwód ługański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681618,
+			"lat": 47.4165079,
+			"lon": 35.922969,
+			"tags": {
+				"name:pl": "obwód zaporoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681620,
+			"lat": 49.8607809,
+			"lon": 33.7498787,
+			"tags": {
+				"name:pl": "Obwód połtawski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681623,
+			"lat": 48.3725226,
+			"lon": 31.7834817,
+			"tags": {
+				"name:pl": "obwód kirowohradzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681626,
+			"lat": 48.662589,
+			"lon": 34.9501715,
+			"tags": {
+				"name:pl": "obwód dniepropetrowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681629,
+			"lat": 47.3886032,
+			"lon": 31.9442334,
+			"tags": {
+				"name:pl": "obwód mikołajowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 696768134,
+			"lat": 47.6222451,
+			"lon": 40.7957942,
+			"tags": {
+				"name:pl": "Obwód rostowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 771205162,
+			"lat": 53.1655415,
+			"lon": 44.7879181,
+			"tags": {
+				"name:pl": "Obwód penzeński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778527151,
+			"lat": 58.424756,
+			"lon": 44.2533273,
+			"tags": {
+				"name:pl": "Obwód kostromski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778529234,
+			"lat": 57.7781976,
+			"lon": 39.0021095,
+			"tags": {
+				"name:pl": "Obwód jarosławski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778545155,
+			"lat": 55.0343496,
+			"lon": 33.0192065,
+			"tags": {
+				"name:pl": "Obwód smoleński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778568487,
+			"lat": 52.8392765,
+			"lon": 36.4251709,
+			"tags": {
+				"name:pl": "Obwód orłowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778569127,
+			"lat": 52.8873315,
+			"lon": 33.415853,
+			"tags": {
+				"name:pl": "Obwód briański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 783737730,
+			"lat": 54.7011155,
+			"lon": 23.2125717,
+			"tags": {
+				"name:pl": "okręg mariampolski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882071,
+			"lat": 49.6048339,
+			"lon": 44.2903582,
+			"tags": {
+				"name:pl": "Obwód wołgogradzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882072,
+			"lat": 47.1878186,
+			"lon": 47.608851,
+			"tags": {
+				"name:pl": "Obwód astrachański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 786882074,
+			"lat": 46.2313018,
+			"lon": 45.3275745,
+			"tags": {
+				"name:pl": "Kałmucja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 792588864,
+			"lat": 50.7080119,
+			"lon": 37.5837615,
+			"tags": {
+				"name:pl": "Obwód biełgorodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 792588865,
+			"lat": 51.6568453,
+			"lon": 36.4852695,
+			"tags": {
+				"name:pl": "Obwód kurski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 810217856,
+			"lat": 55.5768748,
+			"lon": 25.6275791,
+			"tags": {
+				"name:pl": "okręg uciański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 816425956,
+			"lat": 55.1017737,
+			"lon": 23.8693418,
+			"tags": {
+				"name:pl": "okręg kowieński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 825447812,
+			"lat": 54.2184817,
+			"lon": 24.1356675,
+			"tags": {
+				"name:pl": "okręg olicki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 864663247,
+			"lat": 56.0328935,
+			"lon": 24.7515027,
+			"tags": {
+				"name:pl": "okręg poniewieski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867080411,
+			"lat": 54.4382773,
+			"lon": 35.5272854,
+			"tags": {
+				"name:pl": "Obwód kałuski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867084499,
+			"lat": 53.9570701,
+			"lon": 37.3690909,
+			"tags": {
+				"name:pl": "Obwód tulski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 867129558,
+			"lat": 56.0503336,
+			"lon": 40.6561633,
+			"tags": {
+				"name:pl": "Obwód włodzimierski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869495624,
+			"lat": 56.4601702,
+			"lon": 44.5855442,
+			"tags": {
+				"name:pl": "Obwód niżnonowogrodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869508901,
+			"lat": 54.3376037,
+			"lon": 44.7729228,
+			"tags": {
+				"name:pl": "Mordowia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869528660,
+			"lat": 51.6520555,
+			"lon": 46.8631952,
+			"tags": {
+				"name:pl": "Obwód saratowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 933435715,
+			"lat": 58.2155351,
+			"lon": 49.7686354,
+			"tags": {
+				"name:pl": "Obwód kirowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 941339901,
+			"lat": 56.0643536,
+			"lon": 22.0677085,
+			"tags": {
+				"name:pl": "okręg telszański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 941339954,
+			"lat": 55.7766339,
+			"lon": 21.2363843,
+			"tags": {
+				"name:pl": "okręg kłajpedzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 949522007,
+			"lat": 37.3399964,
+			"lon": -4.5811614,
+			"tags": {
+				"name:pl": "Andaluzja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 959501189,
+			"lat": 48.1144938,
+			"lon": 70.1404868,
+			"tags": {
+				"name:pl": "Obwód karagandzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1055351027,
+			"lat": 55.3336532,
+			"lon": 22.3410255,
+			"tags": {
+				"name:pl": "okręg tauroski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1055351031,
+			"lat": 55.8192573,
+			"lon": 23.322513,
+			"tags": {
+				"name:pl": "okręg szawelski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1103648780,
+			"lat": 54.4223954,
+			"lon": 61.1865846,
+			"tags": {
+				"name:pl": "Obwód czelabiński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1172157011,
+			"lat": 50.7504894,
+			"lon": 20.7829122,
+			"tags": {
+				"name:pl": "województwo świętokrzyskie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775012,
+			"lat": -3.833333,
+			"lon": -80.5,
+			"tags": {
+				"name:pl": "Region Tumbes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1230775107,
+			"lat": -5,
+			"lon": -80.333333,
+			"tags": {
+				"name:pl": "Region Piura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610245,
+			"lat": 48.8360858,
+			"lon": 6.1999334,
+			"tags": {
+				"name:pl": "Lotaryngia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610251,
+			"lat": 44.3571841,
+			"lon": -0.5391713,
+			"tags": {
+				"name:pl": "Akwitania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610252,
+			"lat": 47.0151891,
+			"lon": 4.2523237,
+			"tags": {
+				"name:pl": "Burgundia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610259,
+			"lat": 43.8324972,
+			"lon": 1.5685814,
+			"tags": {
+				"name:pl": "Midi-Pireneje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610262,
+			"lat": 48.8177569,
+			"lon": -0.4382331,
+			"tags": {
+				"name:pl": "Dolna Normandia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610263,
+			"lat": 49.2566929,
+			"lon": 1.0438139,
+			"tags": {
+				"name:pl": "Górna Normandia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610264,
+			"lat": 47.6594864,
+			"lon": -0.8186143,
+			"tags": {
+				"name:pl": "Kraj Loary"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610265,
+			"lat": 48.183541,
+			"lon": 7.3795231,
+			"tags": {
+				"name:pl": "Alzacja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251670424,
+			"lat": 14.6113732,
+			"lon": -60.9620777,
+			"tags": {
+				"name:pl": "Martynika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442218,
+			"lat": 32.4071058,
+			"lon": 13.8621903,
+			"tags": {
+				"name:pl": "Al-Marakib"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442219,
+			"lat": 32.3759135,
+			"lon": 12.4633806,
+			"tags": {
+				"name:pl": "Az-Zawija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442220,
+			"lat": 26.0198133,
+			"lon": 10.4339911,
+			"tags": {
+				"name:pl": "Ghat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442221,
+			"lat": 32.5587916,
+			"lon": 13.0707024,
+			"tags": {
+				"name:pl": "Al-Dżifara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442222,
+			"lat": 26.9956212,
+			"lon": 15.1065417,
+			"tags": {
+				"name:pl": "Sabha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442223,
+			"lat": 30.1782873,
+			"lon": 24.0530924,
+			"tags": {
+				"name:pl": "Al-Butnan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442224,
+			"lat": 32.7733899,
+			"lon": 13.3318732,
+			"tags": {
+				"name:pl": "Trypolis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442225,
+			"lat": 31.7835199,
+			"lon": 20.6215663,
+			"tags": {
+				"name:pl": "Bengazi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442226,
+			"lat": 31.4667675,
+			"lon": 14.4927999,
+			"tags": {
+				"name:pl": "Misrata"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442227,
+			"lat": 30.6131484,
+			"lon": 10.6709595,
+			"tags": {
+				"name:pl": "Nalut"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442228,
+			"lat": 23.3323776,
+			"lon": 22.0840331,
+			"tags": {
+				"name:pl": "Al-Kufra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442229,
+			"lat": 29.1573123,
+			"lon": 21.7496392,
+			"tags": {
+				"name:pl": "Al-Wahat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442230,
+			"lat": 31.8689169,
+			"lon": 22.5825391,
+			"tags": {
+				"name:pl": "Darna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442231,
+			"lat": 24.5351182,
+			"lon": 15.2592288,
+			"tags": {
+				"name:pl": "Marzuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442232,
+			"lat": 31.9108728,
+			"lon": 21.1477877,
+			"tags": {
+				"name:pl": "Al-Mardż"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442233,
+			"lat": 27.6023172,
+			"lon": 12.8637627,
+			"tags": {
+				"name:pl": "Wadi asz-Szati"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442234,
+			"lat": 32.4874119,
+			"lon": 21.7089729,
+			"tags": {
+				"name:pl": "Al-Dżabal al-Achdar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442235,
+			"lat": 28.0055724,
+			"lon": 16.7430292,
+			"tags": {
+				"name:pl": "Al-Dżufra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442236,
+			"lat": 26.4233369,
+			"lon": 12.7183638,
+			"tags": {
+				"name:pl": "Wadi al-Hajat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442237,
+			"lat": 29.9713958,
+			"lon": 16.6770887,
+			"tags": {
+				"name:pl": "Syrta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442238,
+			"lat": 32.7177153,
+			"lon": 11.9896415,
+			"tags": {
+				"name:pl": "An-Nukat al-Chams"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1312442239,
+			"lat": 30.704649,
+			"lon": 13.2233859,
+			"tags": {
+				"name:pl": "Al-Dżabal al-Gharbi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1367931778,
+			"lat": -21.3019905,
+			"lon": 165.4880773,
+			"tags": {
+				"name:pl": "Nowa Kaledonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1491974656,
+			"lat": 35.0184485,
+			"lon": 135.7636518,
+			"tags": {
+				"name:pl": "Region Kansai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1495303476,
+			"lat": 39.1484315,
+			"lon": 140.7717841,
+			"tags": {
+				"name:pl": "Region Tōhoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1499533875,
+			"lat": 34.8614187,
+			"lon": 133.1261204,
+			"tags": {
+				"name:pl": "Region Chūgoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1504057972,
+			"lat": 33.7277915,
+			"lon": 133.5075229,
+			"tags": {
+				"name:pl": "Sikoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1535458669,
+			"lat": 17.5718354,
+			"lon": 106.2081273,
+			"tags": {
+				"name:pl": "Prowincja Quảng Bình"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1629678526,
+			"lat": 56.9834674,
+			"lon": 22.1540457,
+			"tags": {
+				"name:pl": "Kurlandia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1629678533,
+			"lat": 56.2218172,
+			"lon": 27.128817,
+			"tags": {
+				"name:pl": "Łatgalia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1629678544,
+			"lat": 57.2995381,
+			"lon": 25.6660605,
+			"tags": {
+				"name:pl": "Liwonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1629678548,
+			"lat": 56.6074951,
+			"lon": 24.8969618,
+			"tags": {
+				"name:pl": "Semigalia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119244,
+			"lat": 41.3787291,
+			"lon": -0.7639373,
+			"tags": {
+				"name:pl": "Aragonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119270,
+			"lat": 41.8037172,
+			"lon": -4.7471726,
+			"tags": {
+				"name:pl": "Kastylia i León"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119281,
+			"lat": 39.4177902,
+			"lon": -2.6232332,
+			"tags": {
+				"name:pl": "Kastylia-La Mancha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119316,
+			"lat": 39.6819591,
+			"lon": -0.7654406,
+			"tags": {
+				"name:pl": "Walencja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119349,
+			"lat": 39.1748426,
+			"lon": -6.1529891,
+			"tags": {
+				"name:pl": "Estremadura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1721119400,
+			"lat": 37.9166355,
+			"lon": -1.4779797,
+			"tags": {
+				"name:pl": "Murcja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1750191683,
+			"lat": 41.5,
+			"lon": 85.5,
+			"tags": {
+				"name:pl": "Sinciang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1757670352,
+			"lat": 48.7481718,
+			"lon": 24.5207477,
+			"tags": {
+				"name:pl": "obwód iwanofrankowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917313,
+			"lat": 42.227681,
+			"lon": 13.854983,
+			"tags": {
+				"name:pl": "Abruzja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917315,
+			"lat": 39.0565974,
+			"lon": 16.5249864,
+			"tags": {
+				"name:pl": "Kalabria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917317,
+			"lat": 40.860672,
+			"lon": 14.843984,
+			"tags": {
+				"name:pl": "Kampania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917318,
+			"lat": 44.525696,
+			"lon": 11.039437,
+			"tags": {
+				"name:pl": "Emilia-Romania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917320,
+			"lat": 46.151042,
+			"lon": 13.055904,
+			"tags": {
+				"name:pl": "Friuli-Wenecja Julijska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917321,
+			"lat": 41.9808038,
+			"lon": 12.7662312,
+			"tags": {
+				"name:pl": "Lacjum"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917331,
+			"lat": 40.0912813,
+			"lon": 9.0305773,
+			"tags": {
+				"name:pl": "Sardynia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917332,
+			"lat": 37.587794,
+			"lon": 14.155048,
+			"tags": {
+				"name:pl": "Sycylia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1781917334,
+			"lat": 43.4586541,
+			"lon": 11.1389204,
+			"tags": {
+				"name:pl": "Toskania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1806706046,
+			"lat": 56.9167446,
+			"lon": 41.4352137,
+			"tags": {
+				"name:pl": "Obwód iwanowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1850580646,
+			"lat": 37.2700459,
+			"lon": 127.1033484,
+			"tags": {
+				"name:pl": "Gyeonggi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1853958141,
+			"lat": 37.8179963,
+			"lon": 128.2183835,
+			"tags": {
+				"name:pl": "Gangwon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1869881765,
+			"lat": 36.478804,
+			"lon": 126.7697247,
+			"tags": {
+				"name:pl": "Chungcheong Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1883945002,
+			"lat": 41.007271,
+			"lon": 44.4900113,
+			"tags": {
+				"name:pl": "Prowincja Lori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053539,
+			"lat": 40.3827655,
+			"lon": 44.114727,
+			"tags": {
+				"name:pl": "Prowincja Aragacotn"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053540,
+			"lat": 40.0053589,
+			"lon": 44.7315157,
+			"tags": {
+				"name:pl": "Prowincja Ararat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053541,
+			"lat": 40.1158531,
+			"lon": 43.9365414,
+			"tags": {
+				"name:pl": "Prowincja Armawir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053542,
+			"lat": 40.3030726,
+			"lon": 45.375739,
+			"tags": {
+				"name:pl": "Prowincja Gegharkunik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053544,
+			"lat": 40.918594,
+			"lon": 43.8403536,
+			"tags": {
+				"name:pl": "Prowincja Szirak"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053545,
+			"lat": 39.3281408,
+			"lon": 46.1530296,
+			"tags": {
+				"name:pl": "Prowincja Sjunik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053546,
+			"lat": 40.8275136,
+			"lon": 45.1847828,
+			"tags": {
+				"name:pl": "Prowincja Tawusz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1884053547,
+			"lat": 39.8019849,
+			"lon": 45.4557591,
+			"tags": {
+				"name:pl": "Prowincja Wajoc Dzor"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1895837469,
+			"lat": 36.8584149,
+			"lon": 127.7095746,
+			"tags": {
+				"name:pl": "Ch'ungch'ŏng Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1897951352,
+			"lat": 36.4004081,
+			"lon": 128.8611389,
+			"tags": {
+				"name:pl": "Gyeongsang Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900114892,
+			"lat": 35.375617,
+			"lon": 128.3301115,
+			"tags": {
+				"name:pl": "Gyeongsang Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900155946,
+			"lat": 33.3940067,
+			"lon": 126.5626688,
+			"tags": {
+				"name:pl": "Czedżu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900814181,
+			"lat": 35.7395078,
+			"lon": 127.1181259,
+			"tags": {
+				"name:pl": "Jeolla Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900823975,
+			"lat": 34.9419628,
+			"lon": 126.9999005,
+			"tags": {
+				"name:pl": "Jeolla Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1903363582,
+			"lat": 38.5709632,
+			"lon": 126.2465723,
+			"tags": {
+				"name:pl": "Hwanghae Północne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1903366790,
+			"lat": 38.2628262,
+			"lon": 125.476901,
+			"tags": {
+				"name:pl": "Hwanghae Południowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1939592594,
+			"lat": 22.1899448,
+			"lon": 113.5380454,
+			"tags": {
+				"name:pl": "Makau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1998904343,
+			"lat": 20.8542575,
+			"lon": -99.84756,
+			"tags": {
+				"name:pl": "Querétaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2049929146,
+			"lat": -35.1494368,
+			"lon": 150.7085321,
+			"tags": {
+				"name:pl": "Terytorium Jervis Bay"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2160052315,
+			"lat": 30.0338923,
+			"lon": -115.1425107,
+			"tags": {
+				"name:pl": "Kalifornia Dolna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2160053458,
+			"lat": 20.6845957,
+			"lon": -88.8755669,
+			"tags": {
+				"name:pl": "Jukatan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491869,
+			"lat": 18.2474825,
+			"lon": 18.4237809,
+			"tags": {
+				"name:pl": "Borku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491871,
+			"lat": 18.0383689,
+			"lon": 22.164704,
+			"tags": {
+				"name:pl": "Ennedi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491873,
+			"lat": 12.6540008,
+			"lon": 16.1860714,
+			"tags": {
+				"name:pl": "Hadjer-Lamis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491881,
+			"lat": 12.1112295,
+			"lon": 21.3645066,
+			"tags": {
+				"name:pl": "Sila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491883,
+			"lat": 21.6132867,
+			"lon": 16.5433168,
+			"tags": {
+				"name:pl": "Tibesti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222491887,
+			"lat": 15.0085336,
+			"lon": 21.3244967,
+			"tags": {
+				"name:pl": "Wadi Fira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2222510065,
+			"lat": 5.283932,
+			"lon": 33.5912329,
+			"tags": {
+				"name:pl": "Ekwatoria Wschodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851573,
+			"lat": 24.7208818,
+			"lon": 93.9229386,
+			"tags": {
+				"name:pl": "Manipur"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2278857601,
+			"lat": 33.725113,
+			"lon": 66.2196554,
+			"tags": {
+				"name:pl": "Dajkondi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2278921325,
+			"lat": 35.4338536,
+			"lon": 69.7930899,
+			"tags": {
+				"name:pl": "Pandższir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2281482629,
+			"lat": 27.7567667,
+			"lon": -81.4639835,
+			"tags": {
+				"name:pl": "Floryda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2452912060,
+			"lat": 55.4792046,
+			"lon": 37.3273304,
+			"tags": {
+				"name:pl": "Moskwa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2489280167,
+			"lat": 35.256717,
+			"lon": 44.1592304,
+			"tags": {
+				"name:pl": "Kirkuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2604557728,
+			"lat": -69.1726389,
+			"lon": 138.960274,
+			"tags": {
+				"name:pl": "Wybrzeże Adeli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2614275264,
+			"lat": -15.7754462,
+			"lon": -47.7970891,
+			"tags": {
+				"name:pl": "Dystrykt Federalny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2642288017,
+			"lat": 52.2928116,
+			"lon": -3.73893,
+			"tags": {
+				"name:pl": "Walia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781108,
+			"lat": 21.0090623,
+			"lon": -10.2207449,
+			"tags": {
+				"name:pl": "Adrar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781109,
+			"lat": 16.5809185,
+			"lon": -11.5363724,
+			"tags": {
+				"name:pl": "Al-Asaba"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781110,
+			"lat": 17.2475638,
+			"lon": -13.4037714,
+			"tags": {
+				"name:pl": "Al-Barakina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781111,
+			"lat": 20.8019537,
+			"lon": -16.0012708,
+			"tags": {
+				"name:pl": "Dachlat Nawazibu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781112,
+			"lat": 16.0062275,
+			"lon": -12.8360834,
+			"tags": {
+				"name:pl": "Kurkul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781113,
+			"lat": 15.3766896,
+			"lon": -12.124663,
+			"tags": {
+				"name:pl": "Ghidimagha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781114,
+			"lat": 18.1941112,
+			"lon": -7.0921652,
+			"tags": {
+				"name:pl": "Haud asz-Szarki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781115,
+			"lat": 16.5693922,
+			"lon": -9.8322366,
+			"tags": {
+				"name:pl": "Haud al-Gharbi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781116,
+			"lat": 19.9922766,
+			"lon": -15.113767,
+			"tags": {
+				"name:pl": "Insziri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781117,
+			"lat": 18.5729893,
+			"lon": -10.3937926,
+			"tags": {
+				"name:pl": "Takant"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781118,
+			"lat": 24.1951392,
+			"lon": -9.6664199,
+			"tags": {
+				"name:pl": "Tiris Zammur"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2651781119,
+			"lat": 17.922642,
+			"lon": -14.8476017,
+			"tags": {
+				"name:pl": "At-Tarariza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2671914044,
+			"lat": -18.3982355,
+			"lon": 20.72468,
+			"tags": {
+				"name:pl": "Okawango Wschodnie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2671914045,
+			"lat": -18.256111,
+			"lon": 18.970201,
+			"tags": {
+				"name:pl": "Okawango Zachodnie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2702989703,
+			"lat": -8.9096954,
+			"lon": 14.8728844,
+			"tags": {
+				"name:pl": "Kwanza Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2702989708,
+			"lat": -10.7707527,
+			"lon": 15.0975712,
+			"tags": {
+				"name:pl": "Kwanza Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2702989738,
+			"lat": -8.5088253,
+			"lon": 19.7538618,
+			"tags": {
+				"name:pl": "Lunda Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2702989744,
+			"lat": -10.1473779,
+			"lon": 20.9907756,
+			"tags": {
+				"name:pl": "Lunda Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047215,
+			"lat": 47.862646,
+			"lon": 101.0316283,
+			"tags": {
+				"name:pl": "Północnochangajski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047221,
+			"lat": 48.5470083,
+			"lon": 89.8549358,
+			"tags": {
+				"name:pl": "Bajanolgijski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047224,
+			"lat": 45.2381164,
+			"lon": 99.5146423,
+			"tags": {
+				"name:pl": "Bajanchongorski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047228,
+			"lat": 48.9521438,
+			"lon": 103.3965591,
+			"tags": {
+				"name:pl": "Bulgański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047232,
+			"lat": 47.885981,
+			"lon": 110.4201043,
+			"tags": {
+				"name:pl": "Chentejski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047236,
+			"lat": 46.8997977,
+			"lon": 92.2959651,
+			"tags": {
+				"name:pl": "Kobdoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047238,
+			"lat": 50.2206196,
+			"lon": 99.9170492,
+			"tags": {
+				"name:pl": "Chubsugulski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047241,
+			"lat": 49.3767291,
+			"lon": 106.2901384,
+			"tags": {
+				"name:pl": "Darchański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047246,
+			"lat": 44.4179637,
+			"lon": 109.7783753,
+			"tags": {
+				"name:pl": "Wschodniogobijski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047256,
+			"lat": 47.6772781,
+			"lon": 115.2177155,
+			"tags": {
+				"name:pl": "Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047267,
+			"lat": 45.3463139,
+			"lon": 95.9325806,
+			"tags": {
+				"name:pl": "Gobijsko-ałtajski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047272,
+			"lat": 46.4610827,
+			"lon": 108.5173101,
+			"tags": {
+				"name:pl": "Gobijsko-sumberski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047278,
+			"lat": 49.0243744,
+			"lon": 104.2998863,
+			"tags": {
+				"name:pl": "Orchoński"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047282,
+			"lat": 49.3910136,
+			"lon": 107.0629034,
+			"tags": {
+				"name:pl": "Selengijski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047287,
+			"lat": 46.2093417,
+			"lon": 113.5077196,
+			"tags": {
+				"name:pl": "Suchebatorski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047290,
+			"lat": 47.4692538,
+			"lon": 106.5525161,
+			"tags": {
+				"name:pl": "Centralny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047291,
+			"lat": 49.6313887,
+			"lon": 92.9558186,
+			"tags": {
+				"name:pl": "Uwski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047295,
+			"lat": 48.2934284,
+			"lon": 96.4479958,
+			"tags": {
+				"name:pl": "Dzawchański"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047299,
+			"lat": 43.282363,
+			"lon": 104.1133864,
+			"tags": {
+				"name:pl": "Południowogobijski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2704047305,
+			"lat": 45.8297039,
+			"lon": 102.7237769,
+			"tags": {
+				"name:pl": "Południowochangajski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2811123364,
+			"lat": 5.4091179,
+			"lon": -4.0422099,
+			"tags": {
+				"name:pl": "Abidżan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2898654909,
+			"lat": 45.1890034,
+			"lon": 34.7401104,
+			"tags": {
+				"name:pl": "Republika Krymu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855213,
+			"lat": 32.7889443,
+			"lon": 41.6093983,
+			"tags": {
+				"name:pl": "Al-Anbar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855214,
+			"lat": 32.6319335,
+			"lon": 44.5629362,
+			"tags": {
+				"name:pl": "Babil"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855215,
+			"lat": 33.0112777,
+			"lon": 44.3849679,
+			"tags": {
+				"name:pl": "Bagdad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855216,
+			"lat": 30.2020701,
+			"lon": 47.5274169,
+			"tags": {
+				"name:pl": "Basra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855217,
+			"lat": 31.2857941,
+			"lon": 46.3068347,
+			"tags": {
+				"name:pl": "Zi Kar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855218,
+			"lat": 34.0228719,
+			"lon": 45.1046224,
+			"tags": {
+				"name:pl": "Dijala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855219,
+			"lat": 37.042257,
+			"lon": 43.0953954,
+			"tags": {
+				"name:pl": "Dahuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855220,
+			"lat": 36.5349312,
+			"lon": 44.2534471,
+			"tags": {
+				"name:pl": "Irbil"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855221,
+			"lat": 35.2580676,
+			"lon": 46.0123433,
+			"tags": {
+				"name:pl": "Halabdża"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855222,
+			"lat": 32.4511703,
+			"lon": 43.8196617,
+			"tags": {
+				"name:pl": "Karbala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855224,
+			"lat": 32.0182542,
+			"lon": 47.0695957,
+			"tags": {
+				"name:pl": "Majsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855225,
+			"lat": 30.5923739,
+			"lon": 45.2916041,
+			"tags": {
+				"name:pl": "Al-Musanna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855226,
+			"lat": 31.338353,
+			"lon": 43.8411337,
+			"tags": {
+				"name:pl": "An-Nadżaf"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855227,
+			"lat": 36.0367935,
+			"lon": 42.3168623,
+			"tags": {
+				"name:pl": "Niniwa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855228,
+			"lat": 31.9599617,
+			"lon": 45.1197814,
+			"tags": {
+				"name:pl": "Al-Kadisijja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855229,
+			"lat": 34.376222,
+			"lon": 43.6446504,
+			"tags": {
+				"name:pl": "Salah ad-Din"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855230,
+			"lat": 35.9128293,
+			"lon": 45.2032355,
+			"tags": {
+				"name:pl": "As-Sulajmanijja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2914855231,
+			"lat": 32.6944827,
+			"lon": 45.6848009,
+			"tags": {
+				"name:pl": "Wasit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2925154705,
+			"lat": 40.2390918,
+			"lon": 127.64342,
+			"tags": {
+				"name:pl": "Hamgyŏng Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3140016266,
+			"lat": 45.7684014,
+			"lon": 39.0261044,
+			"tags": {
+				"name:pl": "Kraj Krasnodarski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171863462,
+			"lat": 30.05518,
+			"lon": 107.8748712,
+			"tags": {
+				"name:pl": "Chongqing"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171874991,
+			"lat": 40.190632,
+			"lon": 116.412144,
+			"tags": {
+				"name:pl": "Pekin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3171897223,
+			"lat": 39.3032619,
+			"lon": 117.4163641,
+			"tags": {
+				"name:pl": "Tiencin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471346,
+			"lat": 42.9911816,
+			"lon": -2.5543023,
+			"tags": {
+				"name:pl": "Kraj Basków"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3674772325,
+			"lat": 44.5547288,
+			"lon": 33.4720239,
+			"tags": {
+				"name:pl": "Sewastopol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3679338874,
+			"lat": 49.8299582,
+			"lon": 36.3788957,
+			"tags": {
+				"name:pl": "Obwód Charkowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3708224038,
+			"lat": 39.5416505,
+			"lon": 126.0647645,
+			"tags": {
+				"name:pl": "P'yŏngan Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3916953897,
+			"lat": 49.0677708,
+			"lon": 0.3138532,
+			"tags": {
+				"name:pl": "Normandia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189263789,
+			"lat": 49.653721,
+			"lon": 2.5339474,
+			"tags": {
+				"name:pl": "Pikardia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189298057,
+			"lat": 50.4806465,
+			"lon": 2.7937371,
+			"tags": {
+				"name:pl": "Nord-Pas-de-Calais"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4343334447,
+			"lat": 36.0885431,
+			"lon": 136.8210461,
+			"tags": {
+				"name:pl": "Prefektura Fukui"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4343708013,
+			"lat": 18.8631725,
+			"lon": 103.0344783,
+			"tags": {
+				"name:pl": "Xaisômboun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4347988419,
+			"lat": 42.9903482,
+			"lon": 142.4962523,
+			"tags": {
+				"name:pl": "Prefektura Hokkaido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351323483,
+			"lat": 35.0030052,
+			"lon": 133.7037385,
+			"tags": {
+				"name:pl": "Prefektura Okayama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351351157,
+			"lat": 26.5707754,
+			"lon": 128.0255901,
+			"tags": {
+				"name:pl": "Prefektura Okinawa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351432485,
+			"lat": 13.7538929,
+			"lon": 100.8160803,
+			"tags": {
+				"name:pl": "Bangkok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351438402,
+			"lat": 15.9949473,
+			"lon": 104.7328575,
+			"tags": {
+				"name:pl": "Amnat Charoen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351440757,
+			"lat": 14.6495224,
+			"lon": 100.3170382,
+			"tags": {
+				"name:pl": "Ang Thong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351451831,
+			"lat": 14.6107101,
+			"lon": 102.6453162,
+			"tags": {
+				"name:pl": "Buri Ram"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351469703,
+			"lat": 13.6093192,
+			"lon": 101.5467201,
+			"tags": {
+				"name:pl": "Chachoengsao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351485189,
+			"lat": 15.1453182,
+			"lon": 99.9010244,
+			"tags": {
+				"name:pl": "Chainat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351499346,
+			"lat": 16.2720349,
+			"lon": 101.7153824,
+			"tags": {
+				"name:pl": "Chaiyaphum"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351519904,
+			"lat": 12.8264362,
+			"lon": 102.3152919,
+			"tags": {
+				"name:pl": "Chanthaburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351526617,
+			"lat": 18.6951714,
+			"lon": 98.4462684,
+			"tags": {
+				"name:pl": "Chiang Mai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351546235,
+			"lat": 13.1857117,
+			"lon": 101.1210777,
+			"tags": {
+				"name:pl": "Chonburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351565960,
+			"lat": 10.3782724,
+			"lon": 99.0077685,
+			"tags": {
+				"name:pl": "Chumphon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351568088,
+			"lat": 16.4183581,
+			"lon": 99.6111616,
+			"tags": {
+				"name:pl": "Kamphaeng Phet"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351570608,
+			"lat": 16.5912597,
+			"lon": 103.6525467,
+			"tags": {
+				"name:pl": "Kalasin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351576462,
+			"lat": 14.44019,
+			"lon": 99.2676727,
+			"tags": {
+				"name:pl": "Kanchanaburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351580547,
+			"lat": 16.6022387,
+			"lon": 102.6352933,
+			"tags": {
+				"name:pl": "Khon Kaen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351635826,
+			"lat": 8.1111653,
+			"lon": 99.1097298,
+			"tags": {
+				"name:pl": "Krabi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351645529,
+			"lat": 18.6799728,
+			"lon": 99.7332501,
+			"tags": {
+				"name:pl": "Lampang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351653940,
+			"lat": 18.2661422,
+			"lon": 98.96749,
+			"tags": {
+				"name:pl": "Lamphun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351656276,
+			"lat": 17.3158563,
+			"lon": 101.4638277,
+			"tags": {
+				"name:pl": "Loei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351657253,
+			"lat": 15.9041448,
+			"lon": 103.0840638,
+			"tags": {
+				"name:pl": "Maha Sarakham"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351662132,
+			"lat": 15.026458,
+			"lon": 100.8089178,
+			"tags": {
+				"name:pl": "Lopburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351667345,
+			"lat": 19.3927456,
+			"lon": 98.2031112,
+			"tags": {
+				"name:pl": "Mae Hong Son"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351674788,
+			"lat": 16.6972385,
+			"lon": 104.3470293,
+			"tags": {
+				"name:pl": "Mukdahan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351682832,
+			"lat": 14.1494474,
+			"lon": 101.2177459,
+			"tags": {
+				"name:pl": "Nakhon Nayok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351688228,
+			"lat": 13.8918425,
+			"lon": 100.0165659,
+			"tags": {
+				"name:pl": "Nakhon Pathom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351691505,
+			"lat": 17.1990989,
+			"lon": 104.6089459,
+			"tags": {
+				"name:pl": "Nakhon Phanom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351695511,
+			"lat": 15.2241917,
+			"lon": 101.9313754,
+			"tags": {
+				"name:pl": "Nakhon Ratchasima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351700033,
+			"lat": 15.7054772,
+			"lon": 99.9288481,
+			"tags": {
+				"name:pl": "Nakhon Sawan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351708372,
+			"lat": 8.6772337,
+			"lon": 99.7309635,
+			"tags": {
+				"name:pl": "Nakhon Si Thammarat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351711220,
+			"lat": 18.7544594,
+			"lon": 100.624804,
+			"tags": {
+				"name:pl": "Nan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351715045,
+			"lat": 6.3210758,
+			"lon": 101.5972971,
+			"tags": {
+				"name:pl": "Narathiwat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351716294,
+			"lat": 17.3521009,
+			"lon": 102.2074566,
+			"tags": {
+				"name:pl": "Nongbua Lamphu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351725569,
+			"lat": 17.9301421,
+			"lon": 102.4649809,
+			"tags": {
+				"name:pl": "Nong Khai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351732958,
+			"lat": 13.8610918,
+			"lon": 100.3456772,
+			"tags": {
+				"name:pl": "Nonthaburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351744961,
+			"lat": 7.0366682,
+			"lon": 99.9615397,
+			"tags": {
+				"name:pl": "Satun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351747733,
+			"lat": 8.5058295,
+			"lon": 98.5680335,
+			"tags": {
+				"name:pl": "Phang Nga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351756266,
+			"lat": 7.543525,
+			"lon": 99.9971582,
+			"tags": {
+				"name:pl": "Phatthalung"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351769668,
+			"lat": 19.341673,
+			"lon": 100.1854539,
+			"tags": {
+				"name:pl": "Phayao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351778359,
+			"lat": 16.3293171,
+			"lon": 100.9552749,
+			"tags": {
+				"name:pl": "Phetchabun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351780749,
+			"lat": 13.0692869,
+			"lon": 99.6044376,
+			"tags": {
+				"name:pl": "Phetchaburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351782716,
+			"lat": 16.4551073,
+			"lon": 100.1924695,
+			"tags": {
+				"name:pl": "Phichit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351788539,
+			"lat": 14.2980697,
+			"lon": 100.3754643,
+			"tags": {
+				"name:pl": "Ayutthaya"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351791142,
+			"lat": 18.2930601,
+			"lon": 100.0886757,
+			"tags": {
+				"name:pl": "Phrae"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351792162,
+			"lat": 7.9366015,
+			"lon": 98.3529292,
+			"tags": {
+				"name:pl": "Phuket"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351800551,
+			"lat": 14.1542055,
+			"lon": 101.5547823,
+			"tags": {
+				"name:pl": "Prachinburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351800855,
+			"lat": 12.7943716,
+			"lon": 101.3705344,
+			"tags": {
+				"name:pl": "Rayong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351801471,
+			"lat": 12.0432669,
+			"lon": 99.7487235,
+			"tags": {
+				"name:pl": "Prachuap Khiri Khan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351813343,
+			"lat": 10.0469546,
+			"lon": 98.6870133,
+			"tags": {
+				"name:pl": "Ranong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351814978,
+			"lat": 13.6317897,
+			"lon": 99.3558216,
+			"tags": {
+				"name:pl": "Ratchaburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351823307,
+			"lat": 15.7486448,
+			"lon": 103.7013017,
+			"tags": {
+				"name:pl": "Roi Et"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351829820,
+			"lat": 17.1904453,
+			"lon": 103.9730898,
+			"tags": {
+				"name:pl": "Sakon Nakhon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351830781,
+			"lat": 13.7686129,
+			"lon": 102.1345352,
+			"tags": {
+				"name:pl": "Sa Kaeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351837249,
+			"lat": 13.6531651,
+			"lon": 100.8182578,
+			"tags": {
+				"name:pl": "Samut Prakan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351842944,
+			"lat": 13.5708192,
+			"lon": 100.2585874,
+			"tags": {
+				"name:pl": "Samut Sakhon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351843485,
+			"lat": 14.6240563,
+			"lon": 100.8601022,
+			"tags": {
+				"name:pl": "Saraburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351844993,
+			"lat": 13.3576862,
+			"lon": 99.9619685,
+			"tags": {
+				"name:pl": "Samut Songkhram"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4351875780,
+			"lat": 14.9936716,
+			"lon": 100.3602963,
+			"tags": {
+				"name:pl": "Sing Buri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352770922,
+			"lat": 14.9222,
+			"lon": 104.4439596,
+			"tags": {
+				"name:pl": "Sisaket"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352782548,
+			"lat": 6.8790221,
+			"lon": 100.5498542,
+			"tags": {
+				"name:pl": "Songkhla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352789829,
+			"lat": 17.1446985,
+			"lon": 99.4375845,
+			"tags": {
+				"name:pl": "Sukhothai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352790583,
+			"lat": 14.6777,
+			"lon": 100.0350785,
+			"tags": {
+				"name:pl": "Suphanburi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352795621,
+			"lat": 9.4674663,
+			"lon": 98.830042,
+			"tags": {
+				"name:pl": "Surat Thani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352798087,
+			"lat": 15.0610142,
+			"lon": 103.7613123,
+			"tags": {
+				"name:pl": "Surin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352806527,
+			"lat": 17.1053568,
+			"lon": 98.9953943,
+			"tags": {
+				"name:pl": "Tak"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352807241,
+			"lat": 12.2593544,
+			"lon": 102.4268871,
+			"tags": {
+				"name:pl": "Trat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352808191,
+			"lat": 7.5892935,
+			"lon": 99.5032004,
+			"tags": {
+				"name:pl": "Trang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4352821740,
+			"lat": 17.5211917,
+			"lon": 102.6680012,
+			"tags": {
+				"name:pl": "Udon Thani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353276923,
+			"lat": 15.3912084,
+			"lon": 99.4560531,
+			"tags": {
+				"name:pl": "Uthai Thani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353278623,
+			"lat": 17.625163,
+			"lon": 100.4029452,
+			"tags": {
+				"name:pl": "Uttaradit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353279546,
+			"lat": 6.3344846,
+			"lon": 101.1409694,
+			"tags": {
+				"name:pl": "Yala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353280585,
+			"lat": 16.0282186,
+			"lon": 104.2748479,
+			"tags": {
+				"name:pl": "Yasothon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353375319,
+			"lat": -2.7170632,
+			"lon": 35.681251,
+			"tags": {
+				"name:pl": "Arusza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353379672,
+			"lat": -3.476279,
+			"lon": 37.3872648,
+			"tags": {
+				"name:pl": "Kilimandżaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353384094,
+			"lat": -5.9347636,
+			"lon": 39.2842761,
+			"tags": {
+				"name:pl": "Zanzibar Północny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353386484,
+			"lat": -5.2850214,
+			"lon": 39.7131087,
+			"tags": {
+				"name:pl": "Pemba Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353386537,
+			"lat": -5.0153101,
+			"lon": 39.7313864,
+			"tags": {
+				"name:pl": "Pemba Północna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353393977,
+			"lat": -6.2083752,
+			"lon": 39.3579634,
+			"tags": {
+				"name:pl": "Zanzibar Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4353396211,
+			"lat": -6.1653854,
+			"lon": 39.2386951,
+			"tags": {
+				"name:pl": "Zanzibar Zachodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4357317494,
+			"lat": 28.1292481,
+			"lon": 60.8236848,
+			"tags": {
+				"name:pl": "Sistan i Beludżystan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4418300334,
+			"lat": 54.4419829,
+			"lon": 44.4661144,
+			"tags": {
+				"name:pl": "Republika Mordowii"
+			}
+		}
+	]
+}
