@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-06T12:36:02Z",
+		"timestamp_osm_base": "2017-02-07T12:04:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -643,6 +643,15 @@
 			"lon": 36.3095814,
 			"tags": {
 				"name:io": "Damascus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1147314253,
+			"lat": 25.0375167,
+			"lon": 121.5637,
+			"tags": {
+				"name:io": "Taipei"
 			}
 		},
 		{
