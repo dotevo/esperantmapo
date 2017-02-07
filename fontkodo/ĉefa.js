@@ -40,6 +40,29 @@ function ŝanĝiParametrojn() {
 	window.history.replaceState('', 'Esperantmapo', '?' + teksto)
 }
 
+const LokoIkono = L.Icon.extend({
+		options: {
+			iconSize:     [32, 37],
+			iconAnchor:   [16, 37]
+		}
+	})
+const ikonoj =
+	{
+		libraro: new LokoIkono({iconUrl: 'bildoj/libraro.png'}),
+		stelo: new LokoIkono({iconUrl: 'bildoj/stelo.png'}),
+		esperantisto: new LokoIkono({iconUrl: 'bildoj/esperantisto.png'})
+	}
+
+function ikononDeLoko(obj) {
+	if (obj.tags['office'] == 'ngo' || obj.tags['office'] == 'association') {
+		return ikonoj.stelo
+	}
+	if (obj.tags['books:language:eo'] == 'yes') {
+		return ikonoj.libraro
+	}
+	return ikonoj.esperantisto
+}
+
 function manteloj(opt, lingvo) {
 	const landojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/landoj.json',
@@ -77,7 +100,7 @@ function manteloj(opt, lingvo) {
 	const lokojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/lokoj.json',
 		krei: function(objekto) {
-			L.marker([objekto.lat, objekto.lon]).addTo(opt.lokoj)
+			L.marker([objekto.lat, objekto.lon], {icon: ikononDeLoko(objekto)}).addTo(opt.lokoj)
 				.bindPopup(objekto.tags['name'])
 		}
 	})

@@ -69,6 +69,11 @@ gulp.task('lingvoj', function() {
 		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
 })
 
+gulp.task('bildoj', () =>
+	gulp.src('bildoj/*')
+			.pipe(gulp.dest('kunmetaĵo/bildoj'))
+)
+
 gulp.task('observi', function() {
 	produkta = false
 	gulp.watch('fontkodo/**/*.js', ['js', 'lint'])
@@ -82,6 +87,6 @@ gulp.task('elŝuti', gulp.series('lingvo',
 
 gulp.task('validigi', gulp.series('lint'))
 
-gulp.task('kompili', gulp.parallel('bibliotekoj', 'js', 'html', 'css', 'lingvoj'))
+gulp.task('kompili', gulp.parallel('bildoj', 'bibliotekoj', 'js', 'html', 'css', 'lingvoj'))
 
 gulp.task('produkti', gulp.series('produkta', 'kompili'))

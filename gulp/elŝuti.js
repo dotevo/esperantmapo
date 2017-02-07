@@ -64,10 +64,10 @@ function skribiAlDosiero(path, contents, cb) {
 }
 
 gulp.task('lingvo', function(done) {
-	if(argv.lingvo != null) {
+	if (argv.lingvo != null) {
 		lingvo = argv.lingvo
 	}
-	console.log("Uzas: " + lingvo)
+	console.log('Uzas: ' + lingvo)
 	done()
 })
 
