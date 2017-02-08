@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-07T12:01:02Z",
+		"timestamp_osm_base": "2017-02-08T10:29:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -409,6 +409,24 @@
 			"lon": 45.1520755,
 			"tags": {
 				"name:eo": "Majoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269195852,
+			"lat": 78.7198519,
+			"lon": 20.3493328,
+			"tags": {
+				"name:eo": "Svalbardo kaj Jan-Majen-insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278473326,
+			"lat": 28.877831,
+			"lon": 34.7299308,
+			"tags": {
+				"name:eo": "Akaba Golfo"
 			}
 		},
 		{
@@ -3158,6 +3176,15 @@
 		},
 		{
 			"type": "node",
+			"id": 505039910,
+			"lat": 50.6974516,
+			"lon": 20.7760131,
+			"tags": {
+				"name:eo": "Sanktakruca Provinco"
+			}
+		},
+		{
+			"type": "node",
 			"id": 505043292,
 			"lat": 51.4721678,
 			"lon": 19.3460637,
@@ -3640,6 +3667,15 @@
 			"lon": 39.7150729,
 			"tags": {
 				"name:eo": "Vologda Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 581141063,
+			"lat": 31.4331663,
+			"lon": 34.3779285,
+			"tags": {
+				"name:eo": "Gaza Sektoro"
 			}
 		},
 		{
@@ -4238,6 +4274,114 @@
 		},
 		{
 			"type": "node",
+			"id": 767965426,
+			"lat": 24.9891463,
+			"lon": 29.0019542,
+			"tags": {
+				"name:eo": "Provinco Nova Valo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768549872,
+			"lat": 30.3,
+			"lon": 31.3,
+			"tags": {
+				"name:eo": "Provinco Kaljubija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768565985,
+			"lat": 30.5,
+			"lon": 31,
+			"tags": {
+				"name:eo": "Provinco Minufija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768581765,
+			"lat": 29,
+			"lon": 34,
+			"tags": {
+				"name:eo": "Suda Sinajo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768595418,
+			"lat": 30.8,
+			"lon": 31.8,
+			"tags": {
+				"name:eo": "Ŝarkija Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768598412,
+			"lat": 31.333333,
+			"lon": 31.75,
+			"tags": {
+				"name:eo": "Provinco Dumjat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768735640,
+			"lat": 25.833333,
+			"lon": 32.75,
+			"tags": {
+				"name:eo": "Provinco Kina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768751594,
+			"lat": 29.9951773,
+			"lon": 28.0096257,
+			"tags": {
+				"name:eo": "Provinco Matruh"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768779153,
+			"lat": 29.7606147,
+			"lon": 31.2983139,
+			"tags": {
+				"name:eo": "Provinco Gizo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768810655,
+			"lat": 26.4413547,
+			"lon": 31.7046971,
+			"tags": {
+				"name:eo": "Provinco Saŭhaĝ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768812438,
+			"lat": 30.8393003,
+			"lon": 30.9963429,
+			"tags": {
+				"name:eo": "Provinco Garbija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 769128923,
+			"lat": 31.2365124,
+			"lon": 30.8348713,
+			"tags": {
+				"name:eo": "Provinco Kafr aŝ-Ŝejĥ"
+			}
+		},
+		{
+			"type": "node",
 			"id": 771205162,
 			"lat": 53.1655415,
 			"lon": 44.7879181,
@@ -4630,6 +4774,15 @@
 			"lon": 20.7829122,
 			"tags": {
 				"name:eo": "Sanktakruca Provinco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1225437637,
+			"lat": 12.8331607,
+			"lon": 44.9166065,
+			"tags": {
+				"name:eo": "Adeno"
 			}
 		},
 		{
@@ -5683,6 +5836,15 @@
 			"lon": -99.84756,
 			"tags": {
 				"name:eo": "Keretaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2000314677,
+			"lat": 24.1797324,
+			"lon": -13.7667848,
+			"tags": {
+				"name:eo": "Okcidenta Saharo"
 			}
 		},
 		{

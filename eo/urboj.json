@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-07T12:02:02Z",
+		"timestamp_osm_base": "2017-02-08T10:29:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -233,6 +233,15 @@
 		},
 		{
 			"type": "node",
+			"id": 21421224,
+			"lat": 51.1299804,
+			"lon": 1.308319,
+			"tags": {
+				"name:eo": "Dovero"
+			}
+		},
+		{
+			"type": "node",
 			"id": 21421501,
 			"lat": 53.4054719,
 			"lon": -2.9805392,
@@ -265,6 +274,15 @@
 			"lon": 11.4148038,
 			"tags": {
 				"name:eo": "Ŝverino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 24486765,
+			"lat": 54.3159851,
+			"lon": 13.0904622,
+			"tags": {
+				"name:eo": "Ŝtralsundo"
 			}
 		},
 		{
@@ -368,6 +386,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26150796,
+			"lat": 50.3512101,
+			"lon": 30.95077,
+			"tags": {
+				"name:eo": "Borispilo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26162465,
 			"lat": 53.902334,
 			"lon": 27.5618791,
@@ -409,6 +436,15 @@
 			"lon": 14.5509784,
 			"tags": {
 				"name:eo": "Ŝĉecino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26559209,
+			"lat": 55.2500715,
+			"lon": 9.4997871,
+			"tags": {
+				"name:eo": "Haderslevo"
 			}
 		},
 		{
@@ -467,6 +503,24 @@
 		},
 		{
 			"type": "node",
+			"id": 26692254,
+			"lat": 45.4748298,
+			"lon": 4.5098046,
+			"tags": {
+				"name:eo": "Sankta Chamond"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26692357,
+			"lat": 50.7259985,
+			"lon": 1.6118771,
+			"tags": {
+				"name:eo": "Bulonjo-ĉe-Maro"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26692561,
 			"lat": 48.6937223,
 			"lon": 6.1834097,
@@ -494,11 +548,29 @@
 		},
 		{
 			"type": "node",
+			"id": 26898767,
+			"lat": 67.5686257,
+			"lon": 33.4043924,
+			"tags": {
+				"name:eo": "Apatiti"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27043346,
 			"lat": -4.3217055,
 			"lon": 15.3125974,
 			"tags": {
 				"name:eo": "Kinŝaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27048978,
+			"lat": 54.6554783,
+			"lon": 19.9110348,
+			"tags": {
+				"name:eo": "Baltijsk"
 			}
 		},
 		{
@@ -553,6 +625,15 @@
 			"lon": 27.5550778,
 			"tags": {
 				"name:eo": "Sluck"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27365302,
+			"lat": 51.4820845,
+			"lon": -0.0045417,
+			"tags": {
+				"name:eo": "Grenviĉo"
 			}
 		},
 		{
@@ -872,6 +953,15 @@
 		},
 		{
 			"type": "node",
+			"id": 29011774,
+			"lat": 47.6960491,
+			"lon": 8.634513,
+			"tags": {
+				"name:eo": "Ŝafhaŭzo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 29090735,
 			"lat": 31.7791134,
 			"lon": 35.2266286,
@@ -899,11 +989,38 @@
 		},
 		{
 			"type": "node",
+			"id": 29680830,
+			"lat": 53.5574458,
+			"lon": 13.2602781,
+			"tags": {
+				"name:eo": "Novbrandenburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29750243,
+			"lat": 45.2590875,
+			"lon": 38.1244609,
+			"tags": {
+				"name:eo": "Slavjansk-na-Kubani"
+			}
+		},
+		{
+			"type": "node",
 			"id": 29787492,
 			"lat": 59.4372155,
 			"lon": 24.7453688,
 			"tags": {
 				"name:eo": "Talino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29866526,
+			"lat": 46.7106617,
+			"lon": 38.2778566,
+			"tags": {
+				"name:eo": "Jejsko"
 			}
 		},
 		{
@@ -1070,6 +1187,15 @@
 		},
 		{
 			"type": "node",
+			"id": 31916888,
+			"lat": 50.2907059,
+			"lon": 18.9214033,
+			"tags": {
+				"name:eo": "Ŝvintohuvitso"
+			}
+		},
+		{
+			"type": "node",
 			"id": 31941291,
 			"lat": 49.7596208,
 			"lon": 6.6441878,
@@ -1106,6 +1232,15 @@
 		},
 		{
 			"type": "node",
+			"id": 32677946,
+			"lat": 29.4489258,
+			"lon": 55.6818435,
+			"tags": {
+				"name:eo": "Sirĝan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 33364833,
 			"lat": -22.5744184,
 			"lon": 17.0791233,
@@ -1138,6 +1273,15 @@
 			"lon": 39.723109,
 			"tags": {
 				"name:eo": "Soĉi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34181150,
+			"lat": 44.5610248,
+			"lon": 38.0767599,
+			"tags": {
+				"name:eo": "Gelendĵik"
 			}
 		},
 		{
@@ -1197,10 +1341,19 @@
 		{
 			"type": "node",
 			"id": 46715854,
-			"lat": 49.6249173,
-			"lon": 20.691346,
+			"lat": 50.3681968,
+			"lon": 21.0540917,
 			"tags": {
 				"name:eo": "Nova Sonĉo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 50031810,
+			"lat": 12.5268736,
+			"lon": -70.0356845,
+			"tags": {
+				"name:eo": "Oranjestado"
 			}
 		},
 		{
@@ -1259,11 +1412,29 @@
 		},
 		{
 			"type": "node",
+			"id": 58957648,
+			"lat": 42.5069391,
+			"lon": 1.5212467,
+			"tags": {
+				"name:eo": "Andoro Malnova"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60038888,
 			"lat": 53.132398,
 			"lon": 23.1591679,
 			"tags": {
 				"name:eo": "Bjalistoko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60078445,
+			"lat": 53.9483965,
+			"lon": 32.8606696,
+			"tags": {
+				"name:eo": "Roslavl"
 			}
 		},
 		{
@@ -1331,6 +1502,33 @@
 		},
 		{
 			"type": "node",
+			"id": 67257047,
+			"lat": 37.6537292,
+			"lon": 12.5886912,
+			"tags": {
+				"name:eo": "Mazaradelvalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 68580886,
+			"lat": 40.7491267,
+			"lon": 14.5006415,
+			"tags": {
+				"name:eo": "Pompei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 68651691,
+			"lat": 43.3143628,
+			"lon": -2.6778511,
+			"tags": {
+				"name:eo": "Gerniko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 70990193,
 			"lat": 42.3488992,
 			"lon": 13.3981375,
@@ -1363,6 +1561,15 @@
 			"lon": -58.437076,
 			"tags": {
 				"name:eo": "Bonaero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 83087798,
+			"lat": 59.8818472,
+			"lon": 29.9120399,
+			"tags": {
+				"name:eo": "Petergof"
 			}
 		},
 		{
@@ -1403,6 +1610,24 @@
 		},
 		{
 			"type": "node",
+			"id": 93387393,
+			"lat": 56.3935278,
+			"lon": 38.7211599,
+			"tags": {
+				"name:eo": "Aleksandrov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 93701882,
+			"lat": 43.6767553,
+			"lon": 43.5376506,
+			"tags": {
+				"name:eo": "Baksan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 96209423,
 			"lat": 44.4361414,
 			"lon": 26.1027202,
@@ -1435,6 +1660,15 @@
 			"lon": 22.3021255,
 			"tags": {
 				"name:eo": "Uĵhorodo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 111366726,
+			"lat": 48.4310953,
+			"lon": 22.2096148,
+			"tags": {
+				"name:eo": "Ĉop"
 			}
 		},
 		{
@@ -1475,6 +1709,24 @@
 		},
 		{
 			"type": "node",
+			"id": 127834997,
+			"lat": 51.2705259,
+			"lon": 30.2194322,
+			"tags": {
+				"name:eo": "Ĉernobilo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 127835001,
+			"lat": 51.4061237,
+			"lon": 30.0571098,
+			"tags": {
+				"name:eo": "Pripjat"
+			}
+		},
+		{
+			"type": "node",
 			"id": 129991407,
 			"lat": 47.0122737,
 			"lon": 28.8605936,
@@ -1498,6 +1750,15 @@
 			"lon": 37.4449896,
 			"tags": {
 				"name:eo": "Ĥimki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 146498192,
+			"lat": 50.5917622,
+			"lon": 27.6066973,
+			"tags": {
+				"name:eo": "Novograd-Volinskij"
 			}
 		},
 		{
@@ -1570,6 +1831,15 @@
 			"lon": -44.2933276,
 			"tags": {
 				"name:eo": "San-Luiso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 156159426,
+			"lat": 55.7813357,
+			"lon": 38.6507838,
+			"tags": {
+				"name:eo": "Pavlovskij Posad"
 			}
 		},
 		{
@@ -1844,6 +2114,15 @@
 		},
 		{
 			"type": "node",
+			"id": 206292236,
+			"lat": 47.7857051,
+			"lon": 18.7403659,
+			"tags": {
+				"name:eo": "Esztergom"
+			}
+		},
+		{
+			"type": "node",
 			"id": 208501048,
 			"lat": 25.3726249,
 			"lon": 49.586973,
@@ -1907,6 +2186,15 @@
 		},
 		{
 			"type": "node",
+			"id": 238927834,
+			"lat": 15.2984622,
+			"lon": -61.3875049,
+			"tags": {
+				"name:eo": "Roseo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 240025182,
 			"lat": 47.3685586,
 			"lon": 8.5404434,
@@ -1916,11 +2204,29 @@
 		},
 		{
 			"type": "node",
+			"id": 240034850,
+			"lat": 51.9863077,
+			"lon": 9.8247473,
+			"tags": {
+				"name:eo": "Alfeld (Leine)"
+			}
+		},
+		{
+			"type": "node",
 			"id": 240038130,
 			"lat": 50.9777974,
 			"lon": 11.0287364,
 			"tags": {
 				"name:eo": "Erfurto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240038229,
+			"lat": 54.3690547,
+			"lon": 12.7258585,
+			"tags": {
+				"name:eo": "Barth"
 			}
 		},
 		{
@@ -1993,6 +2299,15 @@
 			"lon": -40.3016327,
 			"tags": {
 				"name:eo": "Vitorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243682125,
+			"lat": 47.7848912,
+			"lon": 18.9705776,
+			"tags": {
+				"name:eo": "Visegrád"
 			}
 		},
 		{
@@ -2087,6 +2402,15 @@
 		},
 		{
 			"type": "node",
+			"id": 245385393,
+			"lat": 41.4769621,
+			"lon": 69.5915399,
+			"tags": {
+				"name:eo": "Chirchiq"
+			}
+		},
+		{
+			"type": "node",
 			"id": 245531332,
 			"lat": 40.4966983,
 			"lon": 68.776055,
@@ -2114,11 +2438,74 @@
 		},
 		{
 			"type": "node",
+			"id": 246514396,
+			"lat": 12.0535331,
+			"lon": -61.751805,
+			"tags": {
+				"name:eo": "Sankta Georgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246514507,
+			"lat": 13.1561864,
+			"lon": -61.2279621,
+			"tags": {
+				"name:eo": "Kingstaŭno"
+			}
+		},
+		{
+			"type": "node",
 			"id": 246671856,
 			"lat": -19.9227318,
 			"lon": -43.9450948,
 			"tags": {
 				"name:eo": "Bel-Horizonto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246842649,
+			"lat": 46.7774872,
+			"lon": -56.1767706,
+			"tags": {
+				"name:eo": "Sanktpiero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247172937,
+			"lat": 40.8785346,
+			"lon": 69.0443667,
+			"tags": {
+				"name:eo": "Oqqurgan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247446451,
+			"lat": 27.5489882,
+			"lon": 90.753264,
+			"tags": {
+				"name:eo": "Jakaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247880583,
+			"lat": 49.255875,
+			"lon": 23.8530863,
+			"tags": {
+				"name:eo": "Strij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248777764,
+			"lat": 48.7440014,
+			"lon": 30.2237716,
+			"tags": {
+				"name:eo": "Uman"
 			}
 		},
 		{
@@ -2159,6 +2546,15 @@
 		},
 		{
 			"type": "node",
+			"id": 250880648,
+			"lat": 34.4505521,
+			"lon": 40.9170636,
+			"tags": {
+				"name:eo": "Abu Kamal"
+			}
+		},
+		{
+			"type": "node",
 			"id": 251223522,
 			"lat": 49.4196404,
 			"lon": 26.9793793,
@@ -2177,11 +2573,74 @@
 		},
 		{
 			"type": "node",
+			"id": 252546931,
+			"lat": 55.7043101,
+			"lon": 38.9569091,
+			"tags": {
+				"name:eo": "Likino-Dulovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253006651,
+			"lat": 48.7199609,
+			"lon": 32.6659476,
+			"tags": {
+				"name:eo": "Znamjanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253016504,
+			"lat": 55.3829765,
+			"lon": 39.0356223,
+			"tags": {
+				"name:eo": "Jegorjevsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253315888,
+			"lat": 46.6153998,
+			"lon": 31.5457415,
+			"tags": {
+				"name:eo": "Oĉakovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253338950,
+			"lat": 55.7293613,
+			"lon": 36.8585382,
+			"tags": {
+				"name:eo": "Zvenigorod"
+			}
+		},
+		{
+			"type": "node",
 			"id": 253438546,
 			"lat": 55.821744,
 			"lon": 37.3404142,
 			"tags": {
 				"name:eo": "Krasnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253732932,
+			"lat": 55.4219938,
+			"lon": 38.2590612,
+			"tags": {
+				"name:eo": "Bronnici"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253814474,
+			"lat": 45.6130277,
+			"lon": 38.9508913,
+			"tags": {
+				"name:eo": "Timaŝovsk"
 			}
 		},
 		{
@@ -2200,6 +2659,24 @@
 			"lon": 38.803538,
 			"tags": {
 				"name:eo": "Alĉevsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 254262743,
+			"lat": 49.2783459,
+			"lon": 23.5064459,
+			"tags": {
+				"name:eo": "Truskavec"
+			}
+		},
+		{
+			"type": "node",
+			"id": 254275595,
+			"lat": 48.2050985,
+			"lon": 22.6453246,
+			"tags": {
+				"name:eo": "Berehove"
 			}
 		},
 		{
@@ -2249,6 +2726,15 @@
 		},
 		{
 			"type": "node",
+			"id": 256361817,
+			"lat": 55.5069136,
+			"lon": 37.5673544,
+			"tags": {
+				"name:eo": "Ŝĉerbinka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256361843,
 			"lat": 55.5709361,
 			"lon": 38.2282099,
@@ -2258,11 +2744,164 @@
 		},
 		{
 			"type": "node",
+			"id": 256361847,
+			"lat": 55.8792983,
+			"lon": 38.7858721,
+			"tags": {
+				"name:eo": "Elektrogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361848,
+			"lat": 55.7448093,
+			"lon": 38.8491341,
+			"tags": {
+				"name:eo": "Drezna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361850,
+			"lat": 55.578403,
+			"lon": 39.5437584,
+			"tags": {
+				"name:eo": "Ŝatura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361852,
+			"lat": 55.6603765,
+			"lon": 39.8776533,
+			"tags": {
+				"name:eo": "Roŝal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361853,
+			"lat": 55.9310313,
+			"lon": 39.4599489,
+			"tags": {
+				"name:eo": "Petuŝki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361854,
+			"lat": 55.9186169,
+			"lon": 39.1705507,
+			"tags": {
+				"name:eo": "Pokrov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361869,
+			"lat": 54.886598,
+			"lon": 38.0772589,
+			"tags": {
+				"name:eo": "Stupino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361870,
+			"lat": 54.837449,
+			"lon": 38.1505119,
+			"tags": {
+				"name:eo": "Kaŝira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361872,
+			"lat": 54.4792776,
+			"lon": 37.693327,
+			"tags": {
+				"name:eo": "Jasnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361873,
+			"lat": 54.854209,
+			"lon": 38.5598853,
+			"tags": {
+				"name:eo": "Ozjori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361874,
+			"lat": 54.7586344,
+			"lon": 38.8817279,
+			"tags": {
+				"name:eo": "Zarajsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361887,
+			"lat": 55.7184467,
+			"lon": 38.2228192,
+			"tags": {
+				"name:eo": "Elektrougli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256579283,
+			"lat": 45.7093755,
+			"lon": 34.3899131,
+			"tags": {
+				"name:eo": "Ĝankojo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613679,
+			"lat": 48.5915754,
+			"lon": 37.9837099,
+			"tags": {
+				"name:eo": "Baĥmut"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256613740,
 			"lat": 48.3058686,
 			"lon": 38.0027664,
 			"tags": {
 				"name:eo": "Horlivka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613834,
+			"lat": 48.6198614,
+			"lon": 37.524945,
+			"tags": {
+				"name:eo": "Druĵkivka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613898,
+			"lat": 48.5255996,
+			"lon": 37.7120012,
+			"tags": {
+				"name:eo": "Kostjantinivka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613916,
+			"lat": 48.2771086,
+			"lon": 37.1772482,
+			"tags": {
+				"name:eo": "Pokrovsk"
 			}
 		},
 		{
@@ -2281,6 +2920,15 @@
 			"lon": 37.6058241,
 			"tags": {
 				"name:eo": "Slovjansko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256614136,
+			"lat": 48.1247511,
+			"lon": 37.8512479,
+			"tags": {
+				"name:eo": "Jasinuvata"
 			}
 		},
 		{
@@ -2312,6 +2960,24 @@
 		},
 		{
 			"type": "node",
+			"id": 258834478,
+			"lat": 55.5825823,
+			"lon": 37.9084815,
+			"tags": {
+				"name:eo": "Litkarino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259862730,
+			"lat": 53.8118,
+			"lon": 36.137,
+			"tags": {
+				"name:eo": "Belov"
+			}
+		},
+		{
+			"type": "node",
 			"id": 260715532,
 			"lat": 26.5897046,
 			"lon": 12.7694188,
@@ -2330,6 +2996,24 @@
 		},
 		{
 			"type": "node",
+			"id": 260893514,
+			"lat": 51.4909494,
+			"lon": 23.9219323,
+			"tags": {
+				"name:eo": "Ŝacko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 260943265,
+			"lat": 50.3892068,
+			"lon": 24.2287906,
+			"tags": {
+				"name:eo": "Ĉervonohrad"
+			}
+		},
+		{
+			"type": "node",
 			"id": 261611194,
 			"lat": 24.4747961,
 			"lon": 54.3705762,
@@ -2344,6 +3028,15 @@
 			"lon": 38.932672,
 			"tags": {
 				"name:eo": "Asmaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 264881676,
+			"lat": 33.4570853,
+			"lon": 9.0250214,
+			"tags": {
+				"name:eo": "Douz"
 			}
 		},
 		{
@@ -2384,6 +3077,33 @@
 		},
 		{
 			"type": "node",
+			"id": 266318137,
+			"lat": 44.5092913,
+			"lon": 33.6002588,
+			"tags": {
+				"name:eo": "Balaklavo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 266727954,
+			"lat": -21.2074736,
+			"lon": -159.7708145,
+			"tags": {
+				"name:eo": "Avaruo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 267622126,
+			"lat": 55.089725,
+			"lon": 36.6613397,
+			"tags": {
+				"name:eo": "Belousovo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 268081010,
 			"lat": 48.6784597,
 			"lon": 26.5852225,
@@ -2411,11 +3131,74 @@
 		},
 		{
 			"type": "node",
+			"id": 269665736,
+			"lat": 51.3484609,
+			"lon": 25.8496537,
+			"tags": {
+				"name:eo": "Varaŝ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 270420987,
+			"lat": 55.3879906,
+			"lon": 36.7399678,
+			"tags": {
+				"name:eo": "Naro-Fominsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 270875270,
+			"lat": 58.8424058,
+			"lon": 57.5550579,
+			"tags": {
+				"name:eo": "Gubaĥa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271231306,
+			"lat": 55.1426603,
+			"lon": 37.4545328,
+			"tags": {
+				"name:eo": "Ĉeĥov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271283522,
+			"lat": 54.7293536,
+			"lon": 37.1815538,
+			"tags": {
+				"name:eo": "Tarusa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 273488676,
+			"lat": 43.7001477,
+			"lon": 28.0362083,
+			"tags": {
+				"name:eo": "General Toŝevo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 273488837,
 			"lat": 42.6232531,
 			"lon": 25.3967476,
 			"tags": {
 				"name:eo": "Kazanlako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 273488962,
+			"lat": 42.6375324,
+			"lon": 24.3577991,
+			"tags": {
+				"name:eo": "Koprivŝtico"
 			}
 		},
 		{
@@ -2456,6 +3239,33 @@
 		},
 		{
 			"type": "node",
+			"id": 280972174,
+			"lat": 18.4257128,
+			"lon": -64.6232227,
+			"tags": {
+				"name:eo": "Rod-Taŭno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280978108,
+			"lat": 18.341137,
+			"lon": -64.932789,
+			"tags": {
+				"name:eo": "Ĉarlotamalio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280982720,
+			"lat": 43.9363996,
+			"lon": 12.4466991,
+			"tags": {
+				"name:eo": "San-Marino"
+			}
+		},
+		{
+			"type": "node",
 			"id": 282294082,
 			"lat": 17.250199,
 			"lon": -88.770018,
@@ -2470,6 +3280,51 @@
 			"lon": 31.045686,
 			"tags": {
 				"name:eo": "Harareo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 283030477,
+			"lat": 47.1065585,
+			"lon": 39.4176939,
+			"tags": {
+				"name:eo": "Azov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 283581865,
+			"lat": 58.4534571,
+			"lon": 56.4245447,
+			"tags": {
+				"name:eo": "Dobrjanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 284716726,
+			"lat": 48.5259211,
+			"lon": 25.0380538,
+			"tags": {
+				"name:eo": "Kolomeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 285734826,
+			"lat": 60.4017837,
+			"lon": 57.0767045,
+			"tags": {
+				"name:eo": "Krasnoviŝersk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 286523928,
+			"lat": 54.0845473,
+			"lon": 61.5519921,
+			"tags": {
+				"name:eo": "Troick"
 			}
 		},
 		{
@@ -2537,11 +3392,29 @@
 		},
 		{
 			"type": "node",
+			"id": 291727016,
+			"lat": 42.2910523,
+			"lon": 43.2866046,
+			"tags": {
+				"name:eo": "Ĉiatura"
+			}
+		},
+		{
+			"type": "node",
 			"id": 291987644,
 			"lat": -22.2745264,
 			"lon": 166.442419,
 			"tags": {
 				"name:eo": "Noumeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 292226474,
+			"lat": 69.4009247,
+			"lon": 32.4413338,
+			"tags": {
+				"name:eo": "Zaozjorsk"
 			}
 		},
 		{
@@ -2578,6 +3451,51 @@
 			"lon": 6.7313031,
 			"tags": {
 				"name:eo": "Sao-Tomeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 296255680,
+			"lat": 21.4607723,
+			"lon": -71.1399956,
+			"tags": {
+				"name:eo": "Kokburno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 296410521,
+			"lat": 56.500682,
+			"lon": 56.0762788,
+			"tags": {
+				"name:eo": "Ĉernuŝka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298019989,
+			"lat": 33.7058066,
+			"lon": 8.9705891,
+			"tags": {
+				"name:eo": "Kebili"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298352406,
+			"lat": 44.4618046,
+			"lon": 39.741048,
+			"tags": {
+				"name:eo": "Apŝeronsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298455987,
+			"lat": 44.8833775,
+			"lon": 39.1909625,
+			"tags": {
+				"name:eo": "Adigejsk"
 			}
 		},
 		{
@@ -2645,11 +3563,137 @@
 		},
 		{
 			"type": "node",
+			"id": 300156975,
+			"lat": 54.3539195,
+			"lon": 41.9266436,
+			"tags": {
+				"name:eo": "Sasovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 300906140,
+			"lat": 49.6607393,
+			"lon": 25.7768485,
+			"tags": {
+				"name:eo": "Zbaraĵo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 305138115,
 			"lat": 14.0931919,
 			"lon": -87.2012631,
 			"tags": {
 				"name:eo": "Tegucigalpo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 307965249,
+			"lat": 58.5665955,
+			"lon": 57.8333911,
+			"tags": {
+				"name:eo": "Gremjaĉinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 309353206,
+			"lat": 54.2302167,
+			"lon": 39.0275374,
+			"tags": {
+				"name:eo": "Miĥajlov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312230548,
+			"lat": 48.8025557,
+			"lon": 26.0401871,
+			"tags": {
+				"name:eo": "Borŝĉivo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312235616,
+			"lat": 49.0630503,
+			"lon": 25.389969,
+			"tags": {
+				"name:eo": "Buĉaĉo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312238259,
+			"lat": 48.6402658,
+			"lon": 25.735898,
+			"tags": {
+				"name:eo": "Zaliŝĉiki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312247291,
+			"lat": 50.0962339,
+			"lon": 25.7258837,
+			"tags": {
+				"name:eo": "Kremenec"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312255547,
+			"lat": 49.2960742,
+			"lon": 25.692491,
+			"tags": {
+				"name:eo": "Terebovlja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312257558,
+			"lat": 49.0160555,
+			"lon": 25.7925191,
+			"tags": {
+				"name:eo": "Ĉortkivo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312263993,
+			"lat": 49.2516597,
+			"lon": 24.633877,
+			"tags": {
+				"name:eo": "Burŝtin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 312276821,
+			"lat": 48.4523142,
+			"lon": 25.5518046,
+			"tags": {
+				"name:eo": "Snjatin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313201927,
+			"lat": 49.1652124,
+			"lon": 26.5865127,
+			"tags": {
+				"name:eo": "Horodok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313248206,
+			"lat": 49.3513996,
+			"lon": 23.5061662,
+			"tags": {
+				"name:eo": "Drohobiĉo"
 			}
 		},
 		{
@@ -2663,11 +3707,38 @@
 		},
 		{
 			"type": "node",
+			"id": 313670944,
+			"lat": 47.5679582,
+			"lon": 31.3338636,
+			"tags": {
+				"name:eo": "Voznesensko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 313764484,
 			"lat": -19.047862,
 			"lon": -65.2596023,
 			"tags": {
 				"name:eo": "Sukro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 314222364,
+			"lat": 49.4696071,
+			"lon": 24.1386133,
+			"tags": {
+				"name:eo": "Novi-Rozdil"
+			}
+		},
+		{
+			"type": "node",
+			"id": 314794893,
+			"lat": 55.6149968,
+			"lon": 40.6708665,
+			"tags": {
+				"name:eo": "Gusj-Ĥrustalnij"
 			}
 		},
 		{
@@ -2690,6 +3761,15 @@
 		},
 		{
 			"type": "node",
+			"id": 316186974,
+			"lat": 48.0556765,
+			"lon": 24.2057063,
+			"tags": {
+				"name:eo": "Raĥiv"
+			}
+		},
+		{
+			"type": "node",
 			"id": 317989136,
 			"lat": 44.1717856,
 			"lon": 28.6319765,
@@ -2704,6 +3784,15 @@
 			"lon": -5.273263,
 			"tags": {
 				"name:eo": "Jamusukro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 327364412,
+			"lat": 49.7488623,
+			"lon": 18.6334308,
+			"tags": {
+				"name:eo": "Teŝino"
 			}
 		},
 		{
@@ -2726,11 +3815,101 @@
 		},
 		{
 			"type": "node",
+			"id": 332349574,
+			"lat": 53.7735697,
+			"lon": 38.1269647,
+			"tags": {
+				"name:eo": "Bogorodick"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332350145,
+			"lat": 53.1418349,
+			"lon": 38.1161866,
+			"tags": {
+				"name:eo": "Jefremov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332353039,
+			"lat": 52.3878001,
+			"lon": 38.9267214,
+			"tags": {
+				"name:eo": "Zadonsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332371954,
+			"lat": 48.3210807,
+			"lon": 40.2650679,
+			"tags": {
+				"name:eo": "Kamensk-Ŝaĥtinskij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 333892583,
+			"lat": 53.9209881,
+			"lon": 40.0192126,
+			"tags": {
+				"name:eo": "Korablino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336140276,
+			"lat": 52.4961206,
+			"lon": 39.9551616,
+			"tags": {
+				"name:eo": "Grjazi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336140811,
+			"lat": 50.8649042,
+			"lon": 39.0772443,
+			"tags": {
+				"name:eo": "Ostrogoĵsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336141081,
+			"lat": 50.4837728,
+			"lon": 35.6712018,
+			"tags": {
+				"name:eo": "Grajvoron"
+			}
+		},
+		{
+			"type": "node",
 			"id": 336215777,
 			"lat": 25.4522583,
 			"lon": 30.5416007,
 			"tags": {
 				"name:eo": "Ĥarga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306335,
+			"lat": 53.9699,
+			"lon": 38.5327,
+			"tags": {
+				"name:eo": "Kimovsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306337,
+			"lat": 54.004465,
+			"lon": 37.5179079,
+			"tags": {
+				"name:eo": "Ŝĉjokino"
 			}
 		},
 		{
@@ -2744,6 +3923,186 @@
 		},
 		{
 			"type": "node",
+			"id": 336306458,
+			"lat": 53.9267119,
+			"lon": 37.9299172,
+			"tags": {
+				"name:eo": "Kirejevsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306490,
+			"lat": 53.7086,
+			"lon": 37.2898,
+			"tags": {
+				"name:eo": "Plavsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336524051,
+			"lat": 55.8477605,
+			"lon": 48.5097031,
+			"tags": {
+				"name:eo": "Zelenodolsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337503361,
+			"lat": 52.004259,
+			"lon": 33.2779899,
+			"tags": {
+				"name:eo": "Novhorod-Siverskij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337510526,
+			"lat": 51.2397495,
+			"lon": 33.206675,
+			"tags": {
+				"name:eo": "Konotop"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337513583,
+			"lat": 50.9492852,
+			"lon": 28.6416207,
+			"tags": {
+				"name:eo": "Korosten"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337516855,
+			"lat": 50.74207,
+			"lon": 33.4877,
+			"tags": {
+				"name:eo": "Romni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337522487,
+			"lat": 50.4187452,
+			"lon": 25.7454622,
+			"tags": {
+				"name:eo": "Dubno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337524419,
+			"lat": 50.329021,
+			"lon": 26.5203627,
+			"tags": {
+				"name:eo": "Ostroh"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337524775,
+			"lat": 50.3087362,
+			"lon": 34.8937695,
+			"tags": {
+				"name:eo": "Oĥtirka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337533363,
+			"lat": 50.1276642,
+			"lon": 25.2490036,
+			"tags": {
+				"name:eo": "Radiviliv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337535126,
+			"lat": 50.0763242,
+			"lon": 29.9214275,
+			"tags": {
+				"name:eo": "Fastiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337535557,
+			"lat": 50.0643984,
+			"lon": 31.4447327,
+			"tags": {
+				"name:eo": "Perejaslav-Ĥmelnickij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337538836,
+			"lat": 49.9658333,
+			"lon": 33.6113889,
+			"tags": {
+				"name:eo": "Mirhorodo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337541446,
+			"lat": 49.8940442,
+			"lon": 28.5814912,
+			"tags": {
+				"name:eo": "Berdiĉiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337556659,
+			"lat": 49.5182487,
+			"lon": 23.1969805,
+			"tags": {
+				"name:eo": "Sambir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337566618,
+			"lat": 49.2335549,
+			"lon": 31.8827069,
+			"tags": {
+				"name:eo": "Smila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337574997,
+			"lat": 49.0367148,
+			"lon": 28.1138519,
+			"tags": {
+				"name:eo": "Ĵmerinka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337575116,
+			"lat": 49.0140647,
+			"lon": 33.6330875,
+			"tags": {
+				"name:eo": "Horiŝni-Plavni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337581265,
+			"lat": 48.88985,
+			"lon": 22.45812,
+			"tags": {
+				"name:eo": "Velikij Bereznij"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337582086,
 			"lat": 48.8943809,
 			"lon": 38.4432589,
@@ -2753,11 +4112,272 @@
 		},
 		{
 			"type": "node",
+			"id": 337586485,
+			"lat": 48.77243,
+			"lon": 22.9796199,
+			"tags": {
+				"name:eo": "Ĵdenijevo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337588084,
+			"lat": 48.7146406,
+			"lon": 23.1888322,
+			"tags": {
+				"name:eo": "Volovec"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337589660,
+			"lat": 48.6810505,
+			"lon": 29.2567642,
+			"tags": {
+				"name:eo": "Ladiĵin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337589760,
+			"lat": 48.67596,
+			"lon": 33.11623,
+			"tags": {
+				"name:eo": "Oleksandrija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337591160,
+			"lat": 48.6358512,
+			"lon": 35.2595541,
+			"tags": {
+				"name:eo": "Novomoskovsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337594479,
+			"lat": 48.5460735,
+			"lon": 22.9895489,
+			"tags": {
+				"name:eo": "Svaljava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337594685,
+			"lat": 48.5413858,
+			"lon": 22.5043823,
+			"tags": {
+				"name:eo": "Seredne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337598184,
+			"lat": 48.4470419,
+			"lon": 27.8061264,
+			"tags": {
+				"name:eo": "Mogiliv-Podilskij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337598436,
+			"lat": 48.4418574,
+			"lon": 22.71786,
+			"tags": {
+				"name:eo": "Mukaĉeve"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337598439,
+			"lat": 48.44078,
+			"lon": 38.74981,
+			"tags": {
+				"name:eo": "Kipuĉe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337603049,
+			"lat": 48.30757,
+			"lon": 39.72004,
+			"tags": {
+				"name:eo": "Sorokine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337604455,
+			"lat": 48.27255,
+			"lon": 24.3611499,
+			"tags": {
+				"name:eo": "Jasina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337657274,
+			"lat": 48.1764917,
+			"lon": 23.291166,
+			"tags": {
+				"name:eo": "Ĥust"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337658507,
+			"lat": 48.1403967,
+			"lon": 23.036008,
+			"tags": {
+				"name:eo": "Vinohradiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337661270,
+			"lat": 48.045745,
+			"lon": 30.8475997,
+			"tags": {
+				"name:eo": "Pervomajsko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337662678,
+			"lat": 48.01163,
+			"lon": 23.5783799,
+			"tags": {
+				"name:eo": "Taĉiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337663241,
+			"lat": 47.9978901,
+			"lon": 23.6995699,
+			"tags": {
+				"name:eo": "Teresva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337664476,
+			"lat": 47.973549,
+			"lon": 24.0147396,
+			"tags": {
+				"name:eo": "Velikij Biĉkiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337665478,
+			"lat": 47.93644,
+			"lon": 29.62017,
+			"tags": {
+				"name:eo": "Balta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337668729,
+			"lat": 47.8283702,
+			"lon": 31.1675163,
+			"tags": {
+				"name:eo": "Juĵnoukrainsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337675469,
+			"lat": 47.4970865,
+			"lon": 34.6487214,
+			"tags": {
+				"name:eo": "Enerhodaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337687341,
+			"lat": 46.7549303,
+			"lon": 33.3741329,
+			"tags": {
+				"name:eo": "Nov-Kaĥovka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337689476,
+			"lat": 46.5320381,
+			"lon": 32.5345028,
+			"tags": {
+				"name:eo": "Hola Pristanj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337696139,
+			"lat": 45.3421228,
+			"lon": 28.8359886,
+			"tags": {
+				"name:eo": "Ismajil"
+			}
+		},
+		{
+			"type": "node",
 			"id": 339722677,
 			"lat": 0.0460699,
 			"lon": -51.0693238,
 			"tags": {
 				"name:eo": "Makapao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 342263289,
+			"lat": 56.332591,
+			"lon": 29.3695249,
+			"tags": {
+				"name:eo": "Pustoŝka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355945765,
+			"lat": 54.3506275,
+			"lon": 38.266561,
+			"tags": {
+				"name:eo": "Venjov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356482553,
+			"lat": 58.3813803,
+			"lon": 42.3479147,
+			"tags": {
+				"name:eo": "Galiĉ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356482920,
+			"lat": 56.2589666,
+			"lon": 32.0858654,
+			"tags": {
+				"name:eo": "Zapadnaja Dvina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356772892,
+			"lat": 47.268697,
+			"lon": 39.8613618,
+			"tags": {
+				"name:eo": "Aksaj"
 			}
 		},
 		{
@@ -2825,11 +4445,38 @@
 		},
 		{
 			"type": "node",
+			"id": 381155248,
+			"lat": 56.015093,
+			"lon": 39.946558,
+			"tags": {
+				"name:eo": "Lakinsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 388977545,
 			"lat": -13.8343691,
 			"lon": -171.7692793,
 			"tags": {
 				"name:eo": "Apio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 389681534,
+			"lat": 42.585344,
+			"lon": 43.4427287,
+			"tags": {
+				"name:eo": "Oni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 393764498,
+			"lat": 54.9459226,
+			"lon": 31.0805113,
+			"tags": {
+				"name:eo": "Rudnja"
 			}
 		},
 		{
@@ -2852,11 +4499,38 @@
 		},
 		{
 			"type": "node",
+			"id": 415523514,
+			"lat": -24.0028977,
+			"lon": -53.147239,
+			"tags": {
+				"name:eo": "Mariluz"
+			}
+		},
+		{
+			"type": "node",
 			"id": 418392093,
 			"lat": 51.1089776,
 			"lon": 17.0326689,
 			"tags": {
 				"name:eo": "Vroclavo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 425219949,
+			"lat": 51.6594646,
+			"lon": 35.6588644,
+			"tags": {
+				"name:eo": "Kurĉatov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 425746989,
+			"lat": 17.1184569,
+			"lon": -61.8448509,
+			"tags": {
+				"name:eo": "Santjonso"
 			}
 		},
 		{
@@ -2906,6 +4580,33 @@
 		},
 		{
 			"type": "node",
+			"id": 442012721,
+			"lat": 55.9846135,
+			"lon": 22.2490753,
+			"tags": {
+				"name:eo": "Telŝiao"
+			}
+		},
+		{
+			"type": "node",
+			"id": 448768937,
+			"lat": -19.0534159,
+			"lon": -169.9191992,
+			"tags": {
+				"name:eo": "Alofo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 462089127,
+			"lat": 55.954618,
+			"lon": 38.0567691,
+			"tags": {
+				"name:eo": "Frjazino"
+			}
+		},
+		{
+			"type": "node",
 			"id": 472114145,
 			"lat": 14.6417889,
 			"lon": -90.5132239,
@@ -2915,11 +4616,38 @@
 		},
 		{
 			"type": "node",
+			"id": 478908972,
+			"lat": 36.4836036,
+			"lon": 59.5183609,
+			"tags": {
+				"name:eo": "Tuso"
+			}
+		},
+		{
+			"type": "node",
 			"id": 501540880,
 			"lat": 11.9918671,
 			"lon": 8.5303654,
 			"tags": {
 				"name:eo": "Kano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 505035532,
+			"lat": 31.4183455,
+			"lon": 34.3502476,
+			"tags": {
+				"name:eo": "Deir el-Balah"
+			}
+		},
+		{
+			"type": "node",
+			"id": 513363722,
+			"lat": 42.7121136,
+			"lon": 41.4721354,
+			"tags": {
+				"name:eo": "Oĉamĉira"
 			}
 		},
 		{
@@ -2956,6 +4684,15 @@
 			"lon": 104.9224426,
 			"tags": {
 				"name:eo": "Pnom-Peno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 560719199,
+			"lat": 47.0505452,
+			"lon": 8.3054682,
+			"tags": {
+				"name:eo": "Lucerno"
 			}
 		},
 		{
@@ -3068,6 +4805,24 @@
 		},
 		{
 			"type": "node",
+			"id": 703902171,
+			"lat": 6.920744,
+			"lon": 158.1627143,
+			"tags": {
+				"name:eo": "Palikiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 703928722,
+			"lat": 7.4954144,
+			"lon": 134.636753,
+			"tags": {
+				"name:eo": "Melekeoko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 734098547,
 			"lat": 29.5585712,
 			"lon": 106.5492822,
@@ -3082,6 +4837,15 @@
 			"lon": -3.1791934,
 			"tags": {
 				"name:eo": "Kardifo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 764019333,
+			"lat": 55.5771391,
+			"lon": 38.9225824,
+			"tags": {
+				"name:eo": "Kurovskoje"
 			}
 		},
 		{
@@ -3140,6 +4904,15 @@
 		},
 		{
 			"type": "node",
+			"id": 768775606,
+			"lat": 29.8500001,
+			"lon": 31.333333,
+			"tags": {
+				"name:eo": "Helŭan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 771323155,
 			"lat": 35.72522,
 			"lon": 139.476606,
@@ -3181,6 +4954,15 @@
 			"lon": 159.9552773,
 			"tags": {
 				"name:eo": "Honiaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 854916003,
+			"lat": 47.9626388,
+			"lon": 23.8647474,
+			"tags": {
+				"name:eo": "Solotvino"
 			}
 		},
 		{
@@ -3230,6 +5012,24 @@
 		},
 		{
 			"type": "node",
+			"id": 1026705983,
+			"lat": 43.5659318,
+			"lon": 43.5832019,
+			"tags": {
+				"name:eo": "Ĉegem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1033896207,
+			"lat": 49.7178387,
+			"lon": 28.8322522,
+			"tags": {
+				"name:eo": "Kozjatin"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1046100133,
 			"lat": 5.320357,
 			"lon": -4.016107,
@@ -3262,6 +5062,15 @@
 			"lon": 36.3095814,
 			"tags": {
 				"name:eo": "Damasko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1105432954,
+			"lat": 50.5957548,
+			"lon": 32.3867593,
+			"tags": {
+				"name:eo": "Priluki"
 			}
 		},
 		{
@@ -3419,11 +5228,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1577255384,
+			"lat": 46.855515,
+			"lon": 9.5254066,
+			"tags": {
+				"name:eo": "Koiro"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1583294719,
 			"lat": 51.3090209,
 			"lon": 9.4762981,
 			"tags": {
 				"name:eo": "Kaselo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1589227483,
+			"lat": 50.4091544,
+			"lon": 36.8940124,
+			"tags": {
+				"name:eo": "Ŝebekino"
 			}
 		},
 		{
@@ -3473,6 +5300,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1628109752,
+			"lat": 50.5814148,
+			"lon": 34.4761301,
+			"tags": {
+				"name:eo": "Lebedin"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1628207792,
 			"lat": 13.7542529,
 			"lon": 100.493087,
@@ -3496,6 +5332,15 @@
 			"lon": 31.699263,
 			"tags": {
 				"name:eo": "Saŭhaĝ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1636999091,
+			"lat": 47.659216,
+			"lon": 9.1750718,
+			"tags": {
+				"name:eo": "Konstanco"
 			}
 		},
 		{
@@ -3581,6 +5426,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1669135487,
+			"lat": 50.8276199,
+			"lon": 3.2659948,
+			"tags": {
+				"name:eo": "Kortrejko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1669842684,
 			"lat": 6.4990718,
 			"lon": 2.6253361,
@@ -3604,6 +5458,15 @@
 			"lon": 51.5264162,
 			"tags": {
 				"name:eo": "Doho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1681538643,
+			"lat": 54.6478265,
+			"lon": 21.0719431,
+			"tags": {
+				"name:eo": "Gvardejsk"
 			}
 		},
 		{
@@ -3716,6 +5579,33 @@
 		},
 		{
 			"type": "node",
+			"id": 1723694093,
+			"lat": 49.556175,
+			"lon": 27.9491205,
+			"tags": {
+				"name:eo": "Ĥmilnik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1741594835,
+			"lat": 49.4718989,
+			"lon": 8.6101969,
+			"tags": {
+				"name:eo": "Ladenburgo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1756064259,
+			"lat": 48.2305107,
+			"lon": 38.185045,
+			"tags": {
+				"name:eo": "Jenakijeve"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1756064266,
 			"lat": 46.8487478,
 			"lon": 35.3676448,
@@ -3739,6 +5629,24 @@
 			"lon": 7.4197576,
 			"tags": {
 				"name:eo": "Monako"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1791553385,
+			"lat": -51.6950575,
+			"lon": -57.8491693,
+			"tags": {
+				"name:eo": "Stanlejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1798809766,
+			"lat": 54.8707703,
+			"lon": 37.2188629,
+			"tags": {
+				"name:eo": "Protvino"
 			}
 		},
 		{
@@ -3851,11 +5759,38 @@
 		},
 		{
 			"type": "node",
+			"id": 1955178858,
+			"lat": 19.4062487,
+			"lon": -101.6391737,
+			"tags": {
+				"name:eo": "Salvador Escalante"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1975586073,
+			"lat": 18.2145861,
+			"lon": -63.0517759,
+			"tags": {
+				"name:eo": "La-Valo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1975648720,
 			"lat": -16.4957229,
 			"lon": -68.1335782,
 			"tags": {
 				"name:eo": "La-Pazo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1976443075,
+			"lat": 41.6351442,
+			"lon": 69.9400208,
+			"tags": {
+				"name:eo": "Charvak"
 			}
 		},
 		{
@@ -3887,6 +5822,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2127195931,
+			"lat": 43.5566193,
+			"lon": 43.8517142,
+			"tags": {
+				"name:eo": "Nartkala"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2195276463,
 			"lat": 6.130419,
 			"lon": 1.215829,
@@ -3914,11 +5858,29 @@
 		},
 		{
 			"type": "node",
+			"id": 2616628792,
+			"lat": 51.30905,
+			"lon": 39.2160054,
+			"tags": {
+				"name:eo": "Novovoroneĵ"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2702400314,
 			"lat": 28.6517178,
 			"lon": 77.2219388,
 			"tags": {
 				"name:eo": "Delhio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3019559323,
+			"lat": 40.223173,
+			"lon": 69.2583902,
+			"tags": {
+				"name:eo": "Bekabad"
 			}
 		},
 		{
@@ -3959,6 +5921,15 @@
 		},
 		{
 			"type": "node",
+			"id": 3933776715,
+			"lat": 38.3239411,
+			"lon": 26.7673244,
+			"tags": {
+				"name:eo": "Urla"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4126283179,
 			"lat": 48.5105805,
 			"lon": 32.2656283,
@@ -3982,6 +5953,24 @@
 			"lon": -77.0365256,
 			"tags": {
 				"name:eo": "Limo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4450437999,
+			"lat": 6.2288772,
+			"lon": 1.5938066,
+			"tags": {
+				"name:eo": "Aneho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4559181618,
+			"lat": 54.9655573,
+			"lon": 39.0277188,
+			"tags": {
+				"name:eo": "Luĥovici"
 			}
 		}
 	]

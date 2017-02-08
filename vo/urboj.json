@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-07T12:00:02Z",
+		"timestamp_osm_base": "2017-02-08T08:53:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -76,6 +76,15 @@
 			"lon": -82.3658562,
 			"tags": {
 				"name:vo": "La Habana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26559273,
+			"lat": 55.6522136,
+			"lon": 12.292049,
+			"tags": {
+				"name:vo": "Taastrup"
 			}
 		},
 		{
@@ -224,6 +233,15 @@
 		},
 		{
 			"type": "node",
+			"id": 68580886,
+			"lat": 40.7491267,
+			"lon": 14.5006415,
+			"tags": {
+				"name:vo": "Pompei"
+			}
+		},
+		{
+			"type": "node",
 			"id": 72959652,
 			"lat": 41.8988173,
 			"lon": 12.47311,
@@ -278,6 +296,15 @@
 		},
 		{
 			"type": "node",
+			"id": 151517566,
+			"lat": 39.5184514,
+			"lon": -104.7612638,
+			"tags": {
+				"name:vo": "Parker (Colorado)"
+			}
+		},
+		{
+			"type": "node",
 			"id": 153353016,
 			"lat": 39.7683331,
 			"lon": -86.1583502,
@@ -305,6 +332,15 @@
 		},
 		{
 			"type": "node",
+			"id": 206292236,
+			"lat": 47.7857051,
+			"lon": 18.7403659,
+			"tags": {
+				"name:vo": "Esztergom"
+			}
+		},
+		{
+			"type": "node",
 			"id": 226881400,
 			"lat": 23.5997857,
 			"lon": 58.5451305,
@@ -323,6 +359,24 @@
 		},
 		{
 			"type": "node",
+			"id": 240034850,
+			"lat": 51.9863077,
+			"lon": 9.8247473,
+			"tags": {
+				"name:vo": "Alfeld (Niedersachsen)"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240038229,
+			"lat": 54.3690547,
+			"lon": 12.7258585,
+			"tags": {
+				"name:vo": "Barth"
+			}
+		},
+		{
+			"type": "node",
 			"id": 240092010,
 			"lat": 47.9960901,
 			"lon": 7.8494005,
@@ -337,6 +391,15 @@
 			"lon": 13.3888599,
 			"tags": {
 				"name:vo": "Berlin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240110419,
+			"lat": 54.4387302,
+			"lon": 12.6821366,
+			"tags": {
+				"name:vo": "Zingst"
 			}
 		},
 		{
@@ -395,6 +458,15 @@
 		},
 		{
 			"type": "node",
+			"id": 280982720,
+			"lat": 43.9363996,
+			"lon": 12.4466991,
+			"tags": {
+				"name:vo": "San Marino"
+			}
+		},
+		{
+			"type": "node",
 			"id": 289346590,
 			"lat": 33.8959203,
 			"lon": 35.47843,
@@ -436,6 +508,15 @@
 			"lon": 126.8634645,
 			"tags": {
 				"name:vo": "Gwangju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 415523514,
+			"lat": -24.0028977,
+			"lon": -53.147239,
+			"tags": {
+				"name:vo": "Mariluz"
 			}
 		},
 		{
@@ -598,6 +679,15 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:vo": "Söul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2278186810,
+			"lat": 56.4469128,
+			"lon": 9.4059354,
+			"tags": {
+				"name:vo": "Viborg"
 			}
 		},
 		{

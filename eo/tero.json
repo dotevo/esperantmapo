@@ -1,0 +1,562 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-08T10:30:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 249399423,
+			"lat": -15.9688384,
+			"lon": -5.6990718,
+			"tags": {
+				"name:eo": "Sankta Heleno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 302106096,
+			"lat": 9.9998762,
+			"lon": 114.0041404,
+			"tags": {
+				"name:eo": "Spratly-insularo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305257315,
+			"lat": -19.7092,
+			"lon": 63.4425995,
+			"tags": {
+				"name:eo": "Rodriges"
+			}
+		},
+		{
+			"type": "node",
+			"id": 585171934,
+			"lat": 43.4519831,
+			"lon": 142.8197834,
+			"tags": {
+				"name:eo": "Hokajdo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 614559432,
+			"lat": 18.8381729,
+			"lon": -73.0200126,
+			"tags": {
+				"name:eo": "Gonavo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1216810344,
+			"lat": 12.5,
+			"lon": 54,
+			"tags": {
+				"name:eo": "Sokotra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076777486,
+			"lat": -21.4814206,
+			"lon": 39.6839546,
+			"tags": {
+				"name:eo": "Bassas da India"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076843844,
+			"lat": -22.3674141,
+			"lon": 40.364165,
+			"tags": {
+				"name:eo": "Eŭropinsulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076982798,
+			"lat": -17.0548849,
+			"lon": 42.7246482,
+			"tags": {
+				"name:eo": "Ĵuan-de-la-Nova Insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4078303461,
+			"lat": -15.8913924,
+			"lon": 54.5230376,
+			"tags": {
+				"name:eo": "Tromelininsulo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 2956897,
+			"center": {
+				"lat": 49.472826,
+				"lon": -2.4494282
+			},
+			"tags": {
+				"name:eo": "Herm"
+			}
+		},
+		{
+			"type": "way",
+			"id": 2956937,
+			"center": {
+				"lat": 49.4283498,
+				"lon": -2.3626233
+			},
+			"tags": {
+				"name:eo": "Sark"
+			}
+		},
+		{
+			"type": "way",
+			"id": 3404730,
+			"center": {
+				"lat": 49.7169888,
+				"lon": -2.1967546
+			},
+			"tags": {
+				"name:eo": "Alderney"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4605565,
+			"center": {
+				"lat": 70.9931958,
+				"lon": -8.502675
+			},
+			"tags": {
+				"name:eo": "Janmajeno"
+			}
+		},
+		{
+			"type": "way",
+			"id": 9884465,
+			"center": {
+				"lat": 16.8497765,
+				"lon": -24.9727136
+			},
+			"tags": {
+				"name:eo": "São Vicente"
+			}
+		},
+		{
+			"type": "way",
+			"id": 11520932,
+			"center": {
+				"lat": -33.7690133,
+				"lon": -80.7963612
+			},
+			"tags": {
+				"name:eo": "Insulo Alejandro Selkirk"
+			}
+		},
+		{
+			"type": "way",
+			"id": 13794435,
+			"center": {
+				"lat": 4.0037167,
+				"lon": -81.6079915
+			},
+			"tags": {
+				"name:eo": "Malpelo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 22771813,
+			"center": {
+				"lat": 74.4264159,
+				"lon": 19.0079928
+			},
+			"tags": {
+				"name:eo": "Urso-insulo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 42010431,
+			"center": {
+				"lat": 16.7289502,
+				"lon": -169.5335119
+			},
+			"tags": {
+				"name:eo": "Jonstonatolo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 224764364,
+			"center": {
+				"lat": -62.4280997,
+				"lon": -60.1766876
+			},
+			"tags": {
+				"name:eo": "Esperanto Insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 376677,
+			"center": {
+				"lat": 60.2459236,
+				"lon": -1.3765687
+			},
+			"tags": {
+				"name:eo": "Ŝetlandaj Insuloj"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1577075,
+			"center": {
+				"lat": 12.5075061,
+				"lon": 53.919786
+			},
+			"tags": {
+				"name:eo": "Sokotra"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1769123,
+			"center": {
+				"lat": 1.3404921,
+				"lon": 103.8245078
+			},
+			"tags": {
+				"name:eo": "Singapuro"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1844217,
+			"center": {
+				"lat": -77.5108145,
+				"lon": 167.749991
+			},
+			"tags": {
+				"name:eo": "Insulo Ross"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2287617,
+			"center": {
+				"lat": 12.5375789,
+				"lon": -81.7114697
+			},
+			"tags": {
+				"name:eo": "Sankta Andreo (insulo)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2410122,
+			"center": {
+				"lat": -6.1000445,
+				"lon": 39.3810392
+			},
+			"tags": {
+				"name:eo": "Unguĵo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2556649,
+			"center": {
+				"lat": -22.3674105,
+				"lon": 40.364165
+			},
+			"tags": {
+				"name:eo": "Eŭropinsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2617574,
+			"center": {
+				"lat": 80.8266798,
+				"lon": -66.452543
+			},
+			"tags": {
+				"name:eo": "Tartupaluk"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2906044,
+			"center": {
+				"lat": 33.5608482,
+				"lon": 133.3814675
+			},
+			"tags": {
+				"name:eo": "Ŝikokuo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2988486,
+			"center": {
+				"lat": -62.7709244,
+				"lon": -61.3626502
+			},
+			"tags": {
+				"name:eo": "Neĝinsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3019029,
+			"center": {
+				"lat": -5.1690844,
+				"lon": 39.7536806
+			},
+			"tags": {
+				"name:eo": "Pembo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3218318,
+			"center": {
+				"lat": 15.190978,
+				"lon": 145.7600273
+			},
+			"tags": {
+				"name:eo": "Saipano"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3790219,
+			"center": {
+				"lat": 54.4467612,
+				"lon": 13.0189807
+			},
+			"tags": {
+				"name:eo": "Bock"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3957497,
+			"center": {
+				"lat": 67.85938,
+				"lon": -75.686
+			},
+			"tags": {
+				"name:eo": "Bafina Insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4176597,
+			"center": {
+				"lat": 55.0218625,
+				"lon": 166.216229
+			},
+			"tags": {
+				"name:eo": "Bering-insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4868269,
+			"center": {
+				"lat": -15.9656678,
+				"lon": -5.7120468
+			},
+			"tags": {
+				"name:eo": "Sankta Heleno"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5176205,
+			"center": {
+				"lat": 57.4174163,
+				"lon": 18.5947897
+			},
+			"tags": {
+				"name:eo": "Gotlando"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6038068,
+			"center": {
+				"lat": 54.3153878,
+				"lon": -2.2324323
+			},
+			"tags": {
+				"name:eo": "granda Britio"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6041206,
+			"center": {
+				"lat": 54.2359141,
+				"lon": -4.5511849
+			},
+			"tags": {
+				"name:eo": "Manksinsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045326,
+			"center": {
+				"lat": 53.2781976,
+				"lon": -4.3142214
+			},
+			"tags": {
+				"name:eo": "Môn"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045455,
+			"center": {
+				"lat": 56.4983704,
+				"lon": -6.8611478
+			},
+			"tags": {
+				"name:eo": "Tiree"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6046655,
+			"center": {
+				"lat": 52.7568883,
+				"lon": -4.7912017
+			},
+			"tags": {
+				"name:eo": "Bardsey"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6047801,
+			"center": {
+				"lat": 55.6784829,
+				"lon": -1.8166608
+			},
+			"tags": {
+				"name:eo": "Lindisfarne"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077487,
+			"center": {
+				"lat": -21.469265,
+				"lon": 39.6906246
+			},
+			"tags": {
+				"name:eo": "Bassas da India"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077490,
+			"center": {
+				"lat": -21.4801651,
+				"lon": 39.6874844
+			},
+			"tags": {
+				"name:eo": "Bassas da India"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077619,
+			"center": {
+				"lat": -22.3654062,
+				"lon": 40.3642739
+			},
+			"tags": {
+				"name:eo": "Eŭropinsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077827,
+			"center": {
+				"lat": -17.0548993,
+				"lon": 42.7246425
+			},
+			"tags": {
+				"name:eo": "Ĵuan-de-la-Nova Insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6080158,
+			"center": {
+				"lat": -15.8913923,
+				"lon": 54.5230377
+			},
+			"tags": {
+				"name:eo": "Tromelininsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6080162,
+			"center": {
+				"lat": -15.8906803,
+				"lon": 54.5224133
+			},
+			"tags": {
+				"name:eo": "Tromelininsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6369992,
+			"center": {
+				"lat": -26.2933498,
+				"lon": -80.1005379
+			},
+			"tags": {
+				"name:eo": "Insulo Sankta Felikso"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6376308,
+			"center": {
+				"lat": -22.3674105,
+				"lon": 40.364165
+			},
+			"tags": {
+				"name:eo": "Eŭropinsulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6956667,
+			"center": {
+				"lat": 49.2123234,
+				"lon": -2.1324657
+			},
+			"tags": {
+				"name:eo": "Ĵersejo"
+			}
+		}
+	]
+}

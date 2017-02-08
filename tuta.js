@@ -14,40 +14,6 @@ var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
 	}
 });
 
-/**
- * @requires ./leaflet-ujo.js
- */
-const reklamteksto = '<a class="reklamujo-fermbutono">X</a><br/>' + '<iframe data-aa="398901" src="https://ad.a-ads.com/398901?size=120x60"' + ' scrolling="no" style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"' + ' allowtransparency="true" frameborder="0"></iframe><br/>' + '<a class="reklamujo-fermbutono">X</a>';
-
-let Reklamujo = function () {
-	function Reklamujo(mapo) {
-		_classCallCheck(this, Reklamujo);
-
-		this.mapo = mapo;
-		this.reklamo = new Ujo();
-		this.reklamo.setPosition('bottomright');
-		mapo.addControl(this.reklamo);
-		this.reŝargi();
-		this.intervalo = setInterval(this.reŝargi.bind(this), 1000 * 60 * 15);
-	}
-
-	_createClass(Reklamujo, [{
-		key: 're\u015Dargi',
-		value: function reArgi() {
-			this.reklamo.setText(reklamteksto);
-			$('.reklamujo-fermbutono').on('click', this.fermi.bind(this));
-		}
-	}, {
-		key: 'fermi',
-		value: function fermi() {
-			clearInterval(this.intervalo);
-			this.mapo.removeControl(this.reklamo);
-		}
-	}]);
-
-	return Reklamujo;
-}();
-
 i18next.use(i18nextXHRBackend);
 
 function escapeHtml(objekto) {
@@ -289,6 +255,10 @@ L.OverpassFetcher = L.LayerGroup.extend({
 
 		for (var key in data.elements) {
 			let el = data.elements[key];
+			if (el.center != null) {
+				el.lat = el.center.lat;
+				el.lon = el.center.lon;
+			}
 			this.options.krei(el);
 		}
 	}
@@ -303,7 +273,6 @@ let mapo;
 /**
  * @requires ./tradukilo.js
  * @requires ./ui.js
- * @requires ./leaflet-reklamujo.js
  * @requires ./overpass/overpass.js
  */
 
@@ -396,6 +365,17 @@ function manteloj(opt, lingvo) {
 		}
 	});
 
+	const teroF = new L.OverpassFetcher({
+		dosiero: lingvo + '/tero.json',
+		krei: function (objekto) {
+			var mia = L.divIcon({
+				className: 'etikedo tero-etikedo',
+				html: objekto.tags['name:' + lingvo]
+			});
+			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.tero);
+		}
+	});
+
 	const lokojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/lokoj.json',
 		krei: function (objekto) {
@@ -417,6 +397,9 @@ $(document).bind('pageinit', function () {
 	if (parametroj.u != null) {
 		$('#urboj').val(parametroj.u).change();
 	}
+	if (parametroj.t != null) {
+		$('#tero').val(parametroj.t).change();
+	}
 	if (parametroj.lo != null) {
 		$('#lokoj').val(parametroj.lo).change();
 	}
@@ -432,14 +415,18 @@ $(document).bind('pageinit', function () {
 	});
 	const osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.4, attribution: teksto });
 	mapo.addLayer(osm);
-	new Reklamujo(mapo);
 
 	const landoj = L.featureGroup().addTo(mapo);
 	const urboj = L.featureGroup().addTo(mapo);
 	const provincoj = L.featureGroup().addTo(mapo);
+	const tero = L.featureGroup().addTo(mapo);
 	const lokoj = L.featureGroup().addTo(mapo);
 
-	manteloj({ landoj: landoj, provincoj: provincoj, urboj: urboj, lokoj: lokoj }, lingvo);
+	manteloj({ landoj: landoj,
+		provincoj: provincoj,
+		urboj: urboj,
+		tero: tero,
+		lokoj: lokoj }, lingvo);
 
 	mapo.on('moveend', () => {
 		parametroj.lat = mapo.getCenter().lat;
@@ -467,6 +454,15 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(provincoj);
 		}
 
+		let elektoTero = $('#tero').val();
+		if ((mapo.getZoom() > 4 || elektoTero === 'C') && elektoProvincoj !== 'N') {
+			if (!mapo.hasLayer(tero)) {
+				mapo.addLayer(tero);
+			}
+		} else {
+			mapo.removeLayer(tero);
+		}
+
 		let elektoUrboj = $('#urboj').val();
 		if ((mapo.getZoom() > 6 || elektoUrboj === 'C') && elektoUrboj !== 'N') {
 			if (!mapo.hasLayer(urboj)) {
@@ -486,15 +482,20 @@ $(document).bind('pageinit', function () {
 		}
 	});
 
-	$('#landoj, #provincoj, #urboj, #lokoj').on('change', function () {
+	$('#landoj, #provincoj, #urboj, #lokoj, #tero').on('change', function () {
 		parametroj.l = $('#landoj').val();
 		parametroj.p = $('#provincoj').val();
 		parametroj.u = $('#urboj').val();
+		parametroj.t = $('#tero').val();
 		parametroj.lo = $('#lokoj').val();
 		mapo.fire('moveend');
 		mapo.fire('zoomend');
 	});
 
 	mapo.fire('zoomend');
+
+	setInterval(function () {
+		$('#reklamujo')[0].contentWindow.location.reload(true);
+	}, 60 * 1000);
 });
 //# sourceMappingURL=tuta.js.map
