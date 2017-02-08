@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T08:53:02Z",
+		"timestamp_osm_base": "2017-02-08T11:10:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -319,6 +319,24 @@
 			"lon": 45.1520755,
 			"tags": {
 				"name:pl": "Majotta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269195852,
+			"lat": 78.7198519,
+			"lon": 20.3493328,
+			"tags": {
+				"name:pl": "Svalbard i Jan Mayen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278473326,
+			"lat": 28.877831,
+			"lon": 34.7299308,
+			"tags": {
+				"name:pl": "Zatoka Akaba"
 			}
 		},
 		{
@@ -2051,6 +2069,15 @@
 		},
 		{
 			"type": "node",
+			"id": 505039910,
+			"lat": 50.6974516,
+			"lon": 20.7760131,
+			"tags": {
+				"name:pl": "województwo świętokrzyskie"
+			}
+		},
+		{
+			"type": "node",
 			"id": 505043292,
 			"lat": 51.4721678,
 			"lon": 19.3460637,
@@ -2182,6 +2209,15 @@
 			"lon": 32.5169757,
 			"tags": {
 				"name:pl": "Obwód nowogrodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533681330,
+			"lat": 35.242552,
+			"lon": 135.454601,
+			"tags": {
+				"name:pl": "Kioto"
 			}
 		},
 		{
@@ -2353,6 +2389,15 @@
 			"lon": 39.7150729,
 			"tags": {
 				"name:pl": "Obwód wołogodzki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 581141063,
+			"lat": 31.4331663,
+			"lon": 34.3779285,
+			"tags": {
+				"name:pl": "Strefa Gazy"
 			}
 		},
 		{
@@ -2771,6 +2816,114 @@
 		},
 		{
 			"type": "node",
+			"id": 767965426,
+			"lat": 24.9891463,
+			"lon": 29.0019542,
+			"tags": {
+				"name:pl": "Muhafaza Nowa Dolina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768549872,
+			"lat": 30.3,
+			"lon": 31.3,
+			"tags": {
+				"name:pl": "Muhafaza Al-Kaljubijja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768565985,
+			"lat": 30.5,
+			"lon": 31,
+			"tags": {
+				"name:pl": "Muhafaza Al-Minufijja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768581765,
+			"lat": 29,
+			"lon": 34,
+			"tags": {
+				"name:pl": "Synaj Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768595418,
+			"lat": 30.8,
+			"lon": 31.8,
+			"tags": {
+				"name:pl": "Muhafaza Wschodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768598412,
+			"lat": 31.333333,
+			"lon": 31.75,
+			"tags": {
+				"name:pl": "Muhafaza Damietta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768735640,
+			"lat": 25.833333,
+			"lon": 32.75,
+			"tags": {
+				"name:pl": "Muhafaza Kina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768751594,
+			"lat": 29.9951773,
+			"lon": 28.0096257,
+			"tags": {
+				"name:pl": "Muhafaza Matruh"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768779153,
+			"lat": 29.7606147,
+			"lon": 31.2983139,
+			"tags": {
+				"name:pl": "Muhafaza Giza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768810655,
+			"lat": 26.4413547,
+			"lon": 31.7046971,
+			"tags": {
+				"name:pl": "Muhafaza Sauhadż"
+			}
+		},
+		{
+			"type": "node",
+			"id": 768812438,
+			"lat": 30.8393003,
+			"lon": 30.9963429,
+			"tags": {
+				"name:pl": "Prowincja Zachodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 769128923,
+			"lat": 31.2365124,
+			"lon": 30.8348713,
+			"tags": {
+				"name:pl": "Muhafaza Kafr asz-Szajch"
+			}
+		},
+		{
+			"type": "node",
 			"id": 771205162,
 			"lat": 53.1655415,
 			"lon": 44.7879181,
@@ -3068,6 +3221,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1237030144,
+			"lat": -11.9999702,
+			"lon": -76.8332244,
+			"tags": {
+				"name:pl": "Prowincja Lima"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1251610245,
 			"lat": 48.8360858,
 			"lon": 6.1999334,
@@ -3356,6 +3518,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1472876649,
+			"lat": 32.0254688,
+			"lon": 35.2888075,
+			"tags": {
+				"name:pl": "Zachodni Brzeg"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1491974656,
 			"lat": 35.0184485,
 			"lon": 135.7636518,
@@ -3370,6 +3541,15 @@
 			"lon": 140.7717841,
 			"tags": {
 				"name:pl": "Region Tōhoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1496405150,
+			"lat": 35.8172763,
+			"lon": 137.8228967,
+			"tags": {
+				"name:pl": "Region Chūbu"
 			}
 		},
 		{
@@ -3779,6 +3959,78 @@
 		},
 		{
 			"type": "node",
+			"id": 1937453307,
+			"lat": 32.4625395,
+			"lon": -6.3543282,
+			"tags": {
+				"name:pl": "Béni Mellal-Khénifra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937456874,
+			"lat": 33.9204332,
+			"lon": -6.3676093,
+			"tags": {
+				"name:pl": "Rabat-Sala-Kénitra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937459087,
+			"lat": 30.187722,
+			"lon": -8.6322498,
+			"tags": {
+				"name:pl": "Sus-Massa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937459728,
+			"lat": 31.6048574,
+			"lon": -8.3654032,
+			"tags": {
+				"name:pl": "Marrakesz-Safi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937460396,
+			"lat": 33.1497689,
+			"lon": -8.14825,
+			"tags": {
+				"name:pl": "Casablanca-Settat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937462502,
+			"lat": 28.5273703,
+			"lon": -10.0315515,
+			"tags": {
+				"name:pl": "Kulmim-Oued Noun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937463246,
+			"lat": 26.7300936,
+			"lon": -12.9766773,
+			"tags": {
+				"name:pl": "Al-Ujun-Sakija al-Hamra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1937463971,
+			"lat": 23.28371,
+			"lon": -15.0202622,
+			"tags": {
+				"name:pl": "Wadi az-Zahab-"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1939592594,
 			"lat": 22.1899448,
 			"lon": 113.5380454,
@@ -3788,11 +4040,56 @@
 		},
 		{
 			"type": "node",
+			"id": 1956029184,
+			"lat": 33.3202138,
+			"lon": -2.4238471,
+			"tags": {
+				"name:pl": "Region Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1956030563,
+			"lat": 35.202941,
+			"lon": -5.5510167,
+			"tags": {
+				"name:pl": "Tanger-Tetuan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1963660780,
+			"lat": 31.1835432,
+			"lon": -5.1395435,
+			"tags": {
+				"name:pl": "Daraa-Tafilalet"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1963671940,
+			"lat": 33.8333136,
+			"lon": -4.8556382,
+			"tags": {
+				"name:pl": "Fez-Meknès"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1998904343,
 			"lat": 20.8542575,
 			"lon": -99.84756,
 			"tags": {
 				"name:pl": "Querétaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2035767441,
+			"lat": 34.8566552,
+			"lon": 138.4855544,
+			"tags": {
+				"name:pl": "Shizuoka"
 			}
 		},
 		{
@@ -4495,6 +4792,15 @@
 			"lon": 127.64342,
 			"tags": {
 				"name:pl": "Hamgyŏng Południowy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3123705041,
+			"lat": 35.9574767,
+			"lon": 139.8670582,
+			"tags": {
+				"name:pl": "Region Kantō"
 			}
 		},
 		{

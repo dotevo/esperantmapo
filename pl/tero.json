@@ -1,0 +1,890 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-08T11:12:02Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 249399423,
+			"lat": -15.9688384,
+			"lon": -5.6990718,
+			"tags": {
+				"name:pl": "Wyspa Świętej Heleny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 292525184,
+			"lat": -1.4309167,
+			"lon": 5.6350749,
+			"tags": {
+				"name:pl": "Pagalu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305257315,
+			"lat": -19.7092,
+			"lon": 63.4425995,
+			"tags": {
+				"name:pl": "Rodrigues"
+			}
+		},
+		{
+			"type": "node",
+			"id": 585171934,
+			"lat": 43.4519831,
+			"lon": 142.8197834,
+			"tags": {
+				"name:pl": "Hokkaido"
+			}
+		},
+		{
+			"type": "node",
+			"id": 614559432,
+			"lat": 18.8381729,
+			"lon": -73.0200126,
+			"tags": {
+				"name:pl": "Gonâve"
+			}
+		},
+		{
+			"type": "node",
+			"id": 663358886,
+			"lat": 39.6594496,
+			"lon": 2.986239,
+			"tags": {
+				"name:pl": "Majorka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1216810344,
+			"lat": 12.5,
+			"lon": 54,
+			"tags": {
+				"name:pl": "Sokotra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1953052109,
+			"lat": -11.6012031,
+			"lon": 130.9780713,
+			"tags": {
+				"name:pl": "Wyspa Melville'a"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2136192026,
+			"lat": 38.2379344,
+			"lon": 20.560883,
+			"tags": {
+				"name:pl": "Kefalinia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2136192042,
+			"lat": 35.2379601,
+			"lon": 24.8005407,
+			"tags": {
+				"name:pl": "Kreta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076777486,
+			"lat": -21.4814206,
+			"lon": 39.6839546,
+			"tags": {
+				"name:pl": "Bassas da India"
+			}
+		},
+		{
+			"type": "way",
+			"id": 2956897,
+			"center": {
+				"lat": 49.472826,
+				"lon": -2.4494282
+			},
+			"tags": {
+				"name:pl": "Herm"
+			}
+		},
+		{
+			"type": "way",
+			"id": 2956937,
+			"center": {
+				"lat": 49.4283498,
+				"lon": -2.3626233
+			},
+			"tags": {
+				"name:pl": "Sark"
+			}
+		},
+		{
+			"type": "way",
+			"id": 3404730,
+			"center": {
+				"lat": 49.7169888,
+				"lon": -2.1967546
+			},
+			"tags": {
+				"name:pl": "Alderney"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4528082,
+			"center": {
+				"lat": 45.2548289,
+				"lon": 30.2037323
+			},
+			"tags": {
+				"name:pl": "Zmijnyj Ostriw"
+			}
+		},
+		{
+			"type": "way",
+			"id": 8990048,
+			"center": {
+				"lat": 45.0774303,
+				"lon": 13.6291898
+			},
+			"tags": {
+				"name:pl": "Wsypa Świętej Katarzyny"
+			}
+		},
+		{
+			"type": "way",
+			"id": 9884465,
+			"center": {
+				"lat": 16.8497765,
+				"lon": -24.9727136
+			},
+			"tags": {
+				"name:pl": "São Vicente"
+			}
+		},
+		{
+			"type": "way",
+			"id": 11520932,
+			"center": {
+				"lat": -33.7690133,
+				"lon": -80.7963612
+			},
+			"tags": {
+				"name:pl": "Alejandro Selkirk"
+			}
+		},
+		{
+			"type": "way",
+			"id": 18577661,
+			"center": {
+				"lat": -31.7550549,
+				"lon": 159.2504944
+			},
+			"tags": {
+				"name:pl": "Piramida Balla"
+			}
+		},
+		{
+			"type": "way",
+			"id": 20747781,
+			"center": {
+				"lat": 65.7547643,
+				"lon": -168.9252055
+			},
+			"tags": {
+				"name:pl": "Mała Diomeda"
+			}
+		},
+		{
+			"type": "way",
+			"id": 22771813,
+			"center": {
+				"lat": 74.4264159,
+				"lon": 19.0079928
+			},
+			"tags": {
+				"name:pl": "Wyspa Niedźwiedzia"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27923209,
+			"center": {
+				"lat": 83.6621503,
+				"lon": -30.616498
+			},
+			"tags": {
+				"name:pl": "Wyspa Kaffeklubben"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37678145,
+			"center": {
+				"lat": 22.0481761,
+				"lon": -81.377868
+			},
+			"tags": {
+				"name:pl": "Wyspa Ernsta Thälmanna"
+			}
+		},
+		{
+			"type": "way",
+			"id": 55591708,
+			"center": {
+				"lat": 52.3379181,
+				"lon": 14.5594893
+			},
+			"tags": {
+				"name:pl": "Kozi Ostrów"
+			}
+		},
+		{
+			"type": "way",
+			"id": 174996681,
+			"center": {
+				"lat": -54.4190839,
+				"lon": 3.3601245
+			},
+			"tags": {
+				"name:pl": "Wyspa Bouveta"
+			}
+		},
+		{
+			"type": "way",
+			"id": 175513085,
+			"center": {
+				"lat": 44.8392457,
+				"lon": 14.8205912
+			},
+			"tags": {
+				"name:pl": "Naga Wyspa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 239644298,
+			"center": {
+				"lat": 25.1801305,
+				"lon": 62.2671857
+			},
+			"tags": {
+				"name:pl": "Przyjaźni Polsko-Pakistańskiej"
+			}
+		},
+		{
+			"type": "way",
+			"id": 329304454,
+			"center": {
+				"lat": 53.4872409,
+				"lon": 14.620862
+			},
+			"tags": {
+				"name:pl": "Dębina"
+			}
+		},
+		{
+			"type": "way",
+			"id": 343725730,
+			"center": {
+				"lat": 53.4512256,
+				"lon": 14.5923153
+			},
+			"tags": {
+				"name:pl": "Ostrów Brdowski"
+			}
+		},
+		{
+			"type": "way",
+			"id": 348272092,
+			"center": {
+				"lat": 46.5982683,
+				"lon": 31.410833
+			},
+			"tags": {
+				"name:pl": "wyspa Berezań"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 147194,
+			"center": {
+				"lat": 58.8901663,
+				"lon": 22.5538672
+			},
+			"tags": {
+				"name:pl": "Hiuma"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 156166,
+			"center": {
+				"lat": -7.9410339,
+				"lon": -14.3577054
+			},
+			"tags": {
+				"name:pl": "Wyspa Wniebowstąpienia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 188921,
+			"center": {
+				"lat": -62.0761152,
+				"lon": -58.3056164
+			},
+			"tags": {
+				"name:pl": "Wyspa Króla Jerzego"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 376677,
+			"center": {
+				"lat": 60.2459236,
+				"lon": -1.3765687
+			},
+			"tags": {
+				"name:pl": "Szetlandy"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 452614,
+			"center": {
+				"lat": 36.1673494,
+				"lon": 27.9656169
+			},
+			"tags": {
+				"name:pl": "Rodos"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 453129,
+			"center": {
+				"lat": 35.3084529,
+				"lon": 24.9169288
+			},
+			"tags": {
+				"name:pl": "Kreta"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 531990,
+			"center": {
+				"lat": 37.6048648,
+				"lon": 24.3375492
+			},
+			"tags": {
+				"name:pl": "Keos"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 532001,
+			"center": {
+				"lat": 37.159368,
+				"lon": 24.4760436
+			},
+			"tags": {
+				"name:pl": "Serifos"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 537592,
+			"center": {
+				"lat": 40.4512551,
+				"lon": 25.5715165
+			},
+			"tags": {
+				"name:pl": "Samotraka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 861780,
+			"center": {
+				"lat": 34.8366121,
+				"lon": 24.0845406
+			},
+			"tags": {
+				"name:pl": "Gawdos"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 898904,
+			"center": {
+				"lat": 34.8734485,
+				"lon": 24.0759127
+			},
+			"tags": {
+				"name:pl": "Prasonisi"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1281377,
+			"center": {
+				"lat": 75.135627,
+				"lon": -95.0074075
+			},
+			"tags": {
+				"name:pl": "Wyspa Cornwallisa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1434381,
+			"center": {
+				"lat": 54.4529603,
+				"lon": 13.4402658
+			},
+			"tags": {
+				"name:pl": "Rugia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1577075,
+			"center": {
+				"lat": 12.5075061,
+				"lon": 53.919786
+			},
+			"tags": {
+				"name:pl": "Sokotra"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1656494,
+			"center": {
+				"lat": 76.6866966,
+				"lon": -119.1602012
+			},
+			"tags": {
+				"name:pl": "Wyspa Księcia Patryka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1769123,
+			"center": {
+				"lat": 1.3404921,
+				"lon": 103.8245078
+			},
+			"tags": {
+				"name:pl": "Singapur"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1844217,
+			"center": {
+				"lat": -77.5108145,
+				"lon": 167.749991
+			},
+			"tags": {
+				"name:pl": "Wyspa Rossa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2283488,
+			"center": {
+				"lat": 65.7817295,
+				"lon": -169.0590542
+			},
+			"tags": {
+				"name:pl": "Wyspa Ratmanowa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2283489,
+			"center": {
+				"lat": 63.3622162,
+				"lon": -170.2670151
+			},
+			"tags": {
+				"name:pl": "Wyspa Świętego Wawrzyńca"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2287617,
+			"center": {
+				"lat": 12.5375789,
+				"lon": -81.7114697
+			},
+			"tags": {
+				"name:pl": "San Andrés (wyspa)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2410122,
+			"center": {
+				"lat": -6.1000445,
+				"lon": 39.3810392
+			},
+			"tags": {
+				"name:pl": "Zanzibar"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2433450,
+			"center": {
+				"lat": 54.6831727,
+				"lon": 167.7697894
+			},
+			"tags": {
+				"name:pl": "Wyspa Miedziana"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2906044,
+			"center": {
+				"lat": 33.5608482,
+				"lon": 133.3814675
+			},
+			"tags": {
+				"name:pl": "Sikoku"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3019029,
+			"center": {
+				"lat": -5.1690844,
+				"lon": 39.7536806
+			},
+			"tags": {
+				"name:pl": "Pemba"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3538209,
+			"center": {
+				"lat": -27.1259837,
+				"lon": -109.3386817
+			},
+			"tags": {
+				"name:pl": "Wyspa Wielkanocna"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3687460,
+			"center": {
+				"lat": -10.5787863,
+				"lon": 142.2198964
+			},
+			"tags": {
+				"name:pl": "Wyspa Thursday"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3791269,
+			"center": {
+				"lat": 53.9907623,
+				"lon": 14.044396
+			},
+			"tags": {
+				"name:pl": "Uznam"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3873481,
+			"center": {
+				"lat": -33.6444743,
+				"lon": -78.8591275
+			},
+			"tags": {
+				"name:pl": "Wyspa Robinsona Crusoe"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4176597,
+			"center": {
+				"lat": 55.0218625,
+				"lon": 166.216229
+			},
+			"tags": {
+				"name:pl": "Wyspa Beringa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4565854,
+			"center": {
+				"lat": -18.623147,
+				"lon": -173.9855158
+			},
+			"tags": {
+				"name:pl": "Vava'u"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4868269,
+			"center": {
+				"lat": -15.9656678,
+				"lon": -5.7120468
+			},
+			"tags": {
+				"name:pl": "Wyspa Świętej Heleny"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5176205,
+			"center": {
+				"lat": 57.4174163,
+				"lon": 18.5947897
+			},
+			"tags": {
+				"name:pl": "Gotlandia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5856703,
+			"center": {
+				"lat": 79.8589087,
+				"lon": 22.4743714
+			},
+			"tags": {
+				"name:pl": "Ziemia Północno-Wschodnia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6038068,
+			"center": {
+				"lat": 54.3153878,
+				"lon": -2.2324323
+			},
+			"tags": {
+				"name:pl": "Wielka Brytania"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6041206,
+			"center": {
+				"lat": 54.2359141,
+				"lon": -4.5511849
+			},
+			"tags": {
+				"name:pl": "Wyspa Man"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045326,
+			"center": {
+				"lat": 53.2781976,
+				"lon": -4.3142214
+			},
+			"tags": {
+				"name:pl": "Anglesey"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045346,
+			"center": {
+				"lat": 53.2856346,
+				"lon": -4.6250822
+			},
+			"tags": {
+				"name:pl": "Holy Island"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045364,
+			"center": {
+				"lat": 53.9521086,
+				"lon": -10.0862738
+			},
+			"tags": {
+				"name:pl": "Wyspa Achill"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045382,
+			"center": {
+				"lat": 55.8239415,
+				"lon": -5.111715
+			},
+			"tags": {
+				"name:pl": "Bute"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6045552,
+			"center": {
+				"lat": 53.1204363,
+				"lon": -9.7298222
+			},
+			"tags": {
+				"name:pl": "Inis Mór"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6046451,
+			"center": {
+				"lat": 58.2302507,
+				"lon": -6.8376938
+			},
+			"tags": {
+				"name:pl": "Bernera"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6046465,
+			"center": {
+				"lat": 56.4805378,
+				"lon": -6.226382
+			},
+			"tags": {
+				"name:pl": "Ulva"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6046479,
+			"center": {
+				"lat": 51.5276298,
+				"lon": 0.5727734
+			},
+			"tags": {
+				"name:pl": "Canvey Island"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6046655,
+			"center": {
+				"lat": 52.7568883,
+				"lon": -4.7912017
+			},
+			"tags": {
+				"name:pl": "Bardsey Island"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6047801,
+			"center": {
+				"lat": 55.6784829,
+				"lon": -1.8166608
+			},
+			"tags": {
+				"name:pl": "Lindisfarne"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077487,
+			"center": {
+				"lat": -21.469265,
+				"lon": 39.6906246
+			},
+			"tags": {
+				"name:pl": "Bassas da India"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6077490,
+			"center": {
+				"lat": -21.4801651,
+				"lon": 39.6874844
+			},
+			"tags": {
+				"name:pl": "Bassas da India"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6256784,
+			"center": {
+				"lat": 46.5207383,
+				"lon": 150.873875
+			},
+			"tags": {
+				"name:pl": "Czirpoi"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6369992,
+			"center": {
+				"lat": -26.2933498,
+				"lon": -80.1005379
+			},
+			"tags": {
+				"name:pl": "San Félix"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6391626,
+			"center": {
+				"lat": -7.9411266,
+				"lon": -14.3577054
+			},
+			"tags": {
+				"name:pl": "Wyspa Wniebowstąpienia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6803636,
+			"center": {
+				"lat": 39.6134222,
+				"lon": 2.9117387
+			},
+			"tags": {
+				"name:pl": "Majorka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6956667,
+			"center": {
+				"lat": 49.2123234,
+				"lon": -2.1324657
+			},
+			"tags": {
+				"name:pl": "Jersey"
+			}
+		}
+	]
+}

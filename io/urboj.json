@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T08:12:02Z",
+		"timestamp_osm_base": "2017-02-08T11:05:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -121,6 +121,15 @@
 			"lon": 24.1051846,
 			"tags": {
 				"name:io": "Riga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27048978,
+			"lat": 54.6554783,
+			"lon": 19.9110348,
+			"tags": {
+				"name:io": "Baltiysk"
 			}
 		},
 		{
@@ -449,6 +458,15 @@
 		},
 		{
 			"type": "node",
+			"id": 246514396,
+			"lat": 12.0535331,
+			"lon": -61.751805,
+			"tags": {
+				"name:io": "St Georges"
+			}
+		},
+		{
+			"type": "node",
 			"id": 246837430,
 			"lat": -20.8799889,
 			"lon": 55.448137,
@@ -458,11 +476,38 @@
 		},
 		{
 			"type": "node",
+			"id": 246842649,
+			"lat": 46.7774872,
+			"lon": -56.1767706,
+			"tags": {
+				"name:io": "St Pierre"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249854726,
 			"lat": -25.2959916,
 			"lon": -57.6311196,
 			"tags": {
 				"name:io": "Asuncion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361847,
+			"lat": 55.8792983,
+			"lon": 38.7858721,
+			"tags": {
+				"name:io": "Elektrogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361887,
+			"lat": 55.7184467,
+			"lon": 38.2228192,
+			"tags": {
+				"name:io": "Elektrougli"
 			}
 		},
 		{
@@ -485,11 +530,29 @@
 		},
 		{
 			"type": "node",
+			"id": 259862730,
+			"lat": 53.8118,
+			"lon": 36.137,
+			"tags": {
+				"name:io": "Belyov"
+			}
+		},
+		{
+			"type": "node",
 			"id": 265018692,
 			"lat": 35.6828378,
 			"lon": 139.7589667,
 			"tags": {
 				"name:io": "Tokyo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280982720,
+			"lat": 43.9363996,
+			"lon": 12.4466991,
+			"tags": {
+				"name:io": "San Marino"
 			}
 		},
 		{
@@ -508,6 +571,15 @@
 			"lon": 6.7313031,
 			"tags": {
 				"name:io": "Sao Tome"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298352406,
+			"lat": 44.4618046,
+			"lon": 39.741048,
+			"tags": {
+				"name:io": "Apsheronsk"
 			}
 		},
 		{
@@ -562,6 +634,15 @@
 			"lon": 129.252024,
 			"tags": {
 				"name:io": "Ulsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 425746989,
+			"lat": 17.1184569,
+			"lon": -61.8448509,
+			"tags": {
+				"name:io": "St Johns"
 			}
 		},
 		{

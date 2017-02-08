@@ -1,0 +1,32 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-08T11:09:03Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "relation",
+			"id": 1769123,
+			"center": {
+				"lat": 1.3404921,
+				"lon": 103.8245078
+			},
+			"tags": {
+				"name:vo": "Singapurän"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5176205,
+			"center": {
+				"lat": 57.4174163,
+				"lon": 18.5947897
+			},
+			"tags": {
+				"name:vo": "Gotläniän"
+			}
+		}
+	]
+}
