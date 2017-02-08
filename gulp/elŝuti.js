@@ -16,10 +16,10 @@ function landoj() {
 	return '[out:json];node["name:' + lingvo + '"][place=country];out center;'
 }
 function provincoj() {
-	return '[out:json];node["name:' + lingvo + '"][place=state];out center;'
+	return '[out:json];node["name:' + lingvo + '"][place="state|region"];out center;'
 }
 function urboj() {
-	return '[out:json];node["name:' + lingvo + '"][place=city];out center;'
+	return '[out:json];node["name:' + lingvo + '"][place~"city|town"];out center;'
 }
 function lokoj() {
 	return '[out:json];' +
