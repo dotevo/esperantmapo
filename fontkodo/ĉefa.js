@@ -3,7 +3,6 @@ let mapo;
 /**
  * @requires ./tradukilo.js
  * @requires ./ui.js
- * @requires ./leaflet-reklamujo.js
  * @requires ./overpass/overpass.js
  */
 
@@ -135,7 +134,6 @@ $(document).bind('pageinit', function() {
 		})
 	const osm = new L.TileLayer(osmUrl, {maxZoom: 19, opacity: 0.4, attribution: teksto})
 	mapo.addLayer(osm)
-	new Reklamujo(mapo)
 
 	const landoj = L.featureGroup().addTo(mapo)
 	const urboj = L.featureGroup().addTo(mapo)
