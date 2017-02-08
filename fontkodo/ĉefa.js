@@ -231,4 +231,8 @@ $(document).bind('pageinit', function() {
 	})
 
 	mapo.fire('zoomend')
+
+	setInterval(function() {
+		$('#reklamujo')[0].contentWindow.location.reload(true)
+	}, 60 * 1000)
 })
