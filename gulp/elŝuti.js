@@ -16,10 +16,17 @@ function landoj() {
 	return '[out:json];node["name:' + lingvo + '"][place=country];out center;'
 }
 function provincoj() {
-	return '[out:json];node["name:' + lingvo + '"][place="state|region"];out center;'
+	return '[out:json];node["name:' + lingvo + '"][place~"state|region"];out center;'
 }
 function urboj() {
 	return '[out:json];node["name:' + lingvo + '"][place~"city|town"];out center;'
+}
+function tero() {
+	return '[out:json];(' +
+		'node["place"="island"]["name:' + lingvo + '"];' +
+		'way["place"="island"]["name:' + lingvo + '"];' +
+		'relation["place"="island"]["name:' + lingvo + '"];' +
+		');out center body;'
 }
 function lokoj() {
 	return '[out:json];' +
@@ -89,6 +96,13 @@ gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
 	return request(servilo + escape(urboj()), function(error, response, body) {
 		let json = simpligiJSON(JSON.parse(body))
 		skribiAlDosiero('kunmetaĵo/' + lingvo + '/urboj.json', JSON.stringify(json, null, '\t'))
+	}).pipe(wait(5000))
+}))
+
+gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
+	return request(servilo + escape(tero()), function(error, response, body) {
+		let json = simpligiJSON(JSON.parse(body))
+		skribiAlDosiero('kunmetaĵo/' + lingvo + '/tero.json', JSON.stringify(json, null, '\t'))
 	}).pipe(wait(5000))
 }))
 

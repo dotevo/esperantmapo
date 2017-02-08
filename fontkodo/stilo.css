@@ -47,9 +47,14 @@ tr, td, th {
 
 .provinco-etikedo{
 	font-style: italic;
-	color: green;
+	color: #800080;
 }
 
 .urbo-etikedo{
 	color: blue;
+}
+
+.tero-etikedo{
+	font-style: italic;
+	color: green;
 }

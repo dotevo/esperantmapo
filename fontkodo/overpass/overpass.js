@@ -38,6 +38,10 @@ L.OverpassFetcher = L.LayerGroup.extend({
 
 		for (var key in data.elements) {
 			let el = data.elements[key]
+			if (el.center != null) {
+				el.lat = el.center.lat
+				el.lon = el.center.lon
+			}
 			this.options.krei(el)
 		}
 	}

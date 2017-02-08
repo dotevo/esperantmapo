@@ -83,7 +83,7 @@ gulp.task('observi', function() {
 })
 
 gulp.task('elŝuti', gulp.series('lingvo',
-	'elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj', 'elŝuti:lokoj'))
+	'elŝuti:landoj', 'elŝuti:provincoj', 'elŝuti:urboj', 'elŝuti:lokoj' , 'elŝuti:tero'))
 
 gulp.task('validigi', gulp.series('lint'))
 
