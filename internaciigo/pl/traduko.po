@@ -8,6 +8,12 @@ msgstr ""
 msgid "Datumoj de la mapo {{link}} kontribuantoj"
 msgstr "Dane mapy {{link}}"
 
+msgid "Menuo"
+msgstr "Menu"
+
+msgid "Fermi"
+msgstr "Zamknij"
+
 msgid "Provincoj"
 msgstr "Prowincje"
 
@@ -19,6 +25,9 @@ msgstr "Miasta"
 
 msgid "Lokoj"
 msgstr "Punkty"
+
+msgid "Tero"
+msgstr "Ziemia"
 
 msgid "Ĉiam"
 msgstr "Zawsze"
