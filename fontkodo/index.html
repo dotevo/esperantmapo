@@ -18,49 +18,56 @@
 </head>
 <body>
 <div id="paĝo" data-role="page" class="type-index">
+	<div data-role="header" class="ui-paĝokapo" data-theme="b">
+		<h1>Esperantmapo</h1>
+		<a href="#panelo" data-icon="bars" data-iconpos="notext" data-i18n="Menuo">Menuo</a>
+	</div>
 	<div id="enhavo" class="ui-enhavo" data-role="content">
 		<div id="mapo" height="100" width="100"></div>
 	</div>
-	<div data-role="footer" class="ui-paĝopiedo" data-position="fixed" data-tap-toggle="true">
-		<div class="ui-grid-d ui-responsive">
-			<div class="ui-block-a">
+	<div data-role="footer" class="ui-paĝopiedo" data-position="fixed" data-tap-toggle="true" data-theme="b">
+		<iframe data-aa="398901" src="https://ad.a-ads.com/398901?size=120x60"
+			scrolling="no" style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"
+			allowtransparency="true" frameborder="0"></iframe>
+	</div>
+	<div data-role="panel" data-display="push" data-theme="b" id="panelo">
+		<ul data-role="listview">
+			<li data-icon="delete"><a href="#" data-rel="close" data-i18n="Malfermi">Malfermi</a></li>
+			<li>
 				<select id="lingvoj" data-mini="true"></select>
-			</div>
-			<div class="ui-block-b">
+			</li>
+			<li>
+				<span data-i18n="Lokoj">Lokoj</span>:
+				<select id="lokoj" data-mini="true">
+					<option value="C" data-i18n="Ĉiam" selected>Ĉiam</option>
+					<option value="N" data-i18n="Neniam">Neniam</option>
+				</select>
+			</li>
+			<li>
 				<span data-i18n="Landoj">Landoj</span>:
 				<select id="landoj" data-mini="true">
 					<option value="C" data-i18n="Ĉiam">Ĉiam</option>
 					<option value="A" data-i18n="Aŭtomate" selected>Aŭtomate</option>
 					<option value="N" data-i18n="Neniam">Neniam</option>
 				</select>
-			</div>
-			<div class="ui-block-c">
+			</li>
+			<li>
 				<span data-i18n="Provincoj">Provincoj</span>:
 				<select id="provincoj" data-mini="true">
 					<option value="C" data-i18n="Ĉiam">Ĉiam</option>
 					<option value="A" data-i18n="Aŭtomate" selected>Aŭtomate</option>
 					<option value="N" data-i18n="Neniam">Neniam</option>
 				</select>
-			</div>
-			<div class="ui-block-d">
+			</li>
+			<li>
 				<span data-i18n="Urboj">Urboj</span>:
 				<select id="urboj" data-mini="true">
 					<option value="C" data-i18n="Ĉiam">Ĉiam</option>
 					<option value="A" data-i18n="Aŭtomate" selected>Aŭtomate</option>
 					<option value="N" data-i18n="Neniam">Neniam</option>
 				</select>
-			</div>
-			<div class="ui-block-e">
-				<span data-i18n="Lokoj">Lokoj</span>:
-				<select id="lokoj" data-mini="true">
-					<option value="C" data-i18n="Ĉiam" selected>Ĉiam</option>
-					<option value="N" data-i18n="Neniam">Neniam</option>
-				</select>
-				<iframe data-aa="398901" src="https://ad.a-ads.com/398901?size=120x60"
-				scrolling="no" style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"
-				allowtransparency="true" frameborder="0"></iframe>
-			</div>
-		</div>
+			</li>
+		</ul>
 	</div>
 </div>
 <script src="tuta.js"></script>
