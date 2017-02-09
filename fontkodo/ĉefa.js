@@ -49,12 +49,16 @@ const ikonoj =
 	{
 		libraro: new LokoIkono({iconUrl: 'bildoj/libraro.png'}),
 		stelo: new LokoIkono({iconUrl: 'bildoj/stelo.png'}),
-		esperantisto: new LokoIkono({iconUrl: 'bildoj/esperantisto.png'})
+		esperantisto: new LokoIkono({iconUrl: 'bildoj/esperantisto.png'}),
+		memoraĵo: new LokoIkono({iconUrl: 'bildoj/memorajxo.png'})
 	}
 
 function ikononDeLoko(obj) {
 	if (obj.tags['office'] == 'ngo' || obj.tags['office'] == 'association') {
 		return ikonoj.stelo
+	}
+	if (obj.tags['historic'] !== null) {
+		return ikonoj.memoraĵo
 	}
 	if (obj.tags['books:language:eo'] == 'yes') {
 		return ikonoj.libraro
