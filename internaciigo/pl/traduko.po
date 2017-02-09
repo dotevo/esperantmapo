@@ -37,3 +37,24 @@ msgstr "Automatycznie"
 
 msgid "Neniam"
 msgstr "Nigdy"
+
+msgid "Lingvoj"
+msgstr "Języki"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Ido"
+msgstr "Ido"
+
+msgid "Loĵbano"
+msgstr "Loban"
+
+msgid "Volapuko"
+msgstr "Valpük"
+
+msgid "La pola"
+msgstr "Polski"
+
+msgid "Ikonoj_el"
+msgstr "Ikony z"
