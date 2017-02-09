@@ -37,3 +37,21 @@ msgstr "Aŭtomate"
 
 msgid "Neniam"
 msgstr "Neniam"
+
+msgid "Lingvoj"
+msgstr "Lingvoj"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Ido"
+msgstr "Ido"
+
+msgid "Loĵbano"
+msgstr "Loĵbano"
+
+msgid "Volapuko"
+msgstr "Volapuko"
+
+msgid "La pola"
+msgstr "La pola"

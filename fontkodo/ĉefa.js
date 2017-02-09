@@ -118,7 +118,6 @@ function manteloj(opt, lingvo) {
 
 $(document).bind('pageinit', function() {
 	console.log(parametroj)
-	let lingvo = 'eo'
 	if (parametroj.l != null) {
 		console.log(parametroj.l)
 		$('#landoj').val(parametroj.l).change()
@@ -134,9 +133,6 @@ $(document).bind('pageinit', function() {
 	}
 	if (parametroj.lo != null) {
 		$('#lokoj').val(parametroj.lo).change()
-	}
-	if (parametroj.lg != null) {
-		lingvo = parametroj.lg
 	}
 
 	mapo = L.map('mapo').setView([parametroj.lat, parametroj.lng], parametroj.z)

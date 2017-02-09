@@ -13,6 +13,8 @@ const i18next = require('gulp-i18next-conv')
 const dependencies = require('gulp-resolve-dependencies')
 const env = require('gulp-env')
 
+const fileinclude = require('gulp-file-include')
+
 const requireDir  = require('require-dir')
 requireDir('./gulp')
 
@@ -32,10 +34,10 @@ gulp.task('lint', function() {
 		.pipe(stylish())
 })
 
-gulp.task('bibliotekoj', () =>
-	gulp.src('bibliotekoj/**/*.js')
+gulp.task('bibliotekoj', () => {
+	return gulp.src('bibliotekoj/**/*.js')
 		.pipe(gulp.dest('kunmetaĵo/bibliotekoj/'))
-)
+})
 
 gulp.task('js', () => {
 	if (produkta === true) {
@@ -50,17 +52,21 @@ gulp.task('js', () => {
 		.pipe(gulp.dest('kunmetaĵo'))
 })
 
-gulp.task('html', () =>
-	gulp.src('fontkodo/**/*.html')
-			.pipe(gulp.dest('kunmetaĵo'))
-)
+gulp.task('html', () => {
+	return gulp.src('fontkodo/html/*.html')
+		.pipe(fileinclude({
+			prefix: '@@',
+			basepath: '@file'
+		}))
+		.pipe(gulp.dest('kunmetaĵo'))
+})
 
-gulp.task('css', () =>
-	gulp.src('fontkodo/**/*.css')
+gulp.task('css', () => {
+	return gulp.src('fontkodo/**/*.css')
 			.pipe(gulp.dest('kunmetaĵo'))
-)
+})
 
-gulp.task('lingvoj', function() {
+gulp.task('lingvoj', () => {
 	gulp.src('internaciigo/*/*.po')
 		.pipe(i18next())
 		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
@@ -69,12 +75,12 @@ gulp.task('lingvoj', function() {
 		.pipe(gulp.dest('kunmetaĵo/internaciigo'))
 })
 
-gulp.task('bildoj', () =>
-	gulp.src('bildoj/*')
-			.pipe(gulp.dest('kunmetaĵo/bildoj'))
-)
+gulp.task('bildoj', () => {
+	return gulp.src('bildoj/*')
+		.pipe(gulp.dest('kunmetaĵo/bildoj'))
+})
 
-gulp.task('observi', function() {
+gulp.task('observi', () => {
 	produkta = false
 	gulp.watch('fontkodo/**/*.js', ['js', 'lint'])
 	gulp.watch('fontkodo/**/*.html', ['html', 'lint'])
