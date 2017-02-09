@@ -60,7 +60,7 @@ function ikononDeLoko(obj) {
 	if (obj.tags['books:language:eo'] == 'yes') {
 		return ikonoj.libraro
 	}
-	if (obj.tags['historic'] !== null) {
+	if (obj.tags['historic'] != null) {
 		return ikonoj.memoraĵo
 	}
 	return ikonoj.esperantisto
