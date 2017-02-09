@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T11:12:02Z",
+		"timestamp_osm_base": "2017-02-09T09:07:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1653,6 +1653,41 @@
 				"operator": "Ruhr-Standort-Informationssystem",
 				"operator:abbr": "RuSIS",
 				"ref": "7963"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1657482985,
+			"lat": 51.43802,
+			"lon": 7.3390641,
+			"tags": {
+				"addr:city": "Witten",
+				"addr:country": "DE",
+				"addr:housenumber": "4",
+				"addr:postcode": "58452",
+				"addr:street": "Schwanenmarkt",
+				"addr:suburb": "Mitte",
+				"alt_name": "Gabinet Urody Witten",
+				"contact:email": "kontakt@polskakosmetyczka.eu",
+				"contact:facebook": "https://www.facebook.com/people/Gabinet-Kosmetyczny-Witten/100010651002165",
+				"contact:mobile": "+49 157 52645299",
+				"contact:website": "https://polskakosmetyczka.eu/",
+				"currency:EUR": "yes",
+				"currency:others": "no",
+				"indoor": "yes",
+				"language:de": "yes",
+				"language:en": "yes",
+				"language:pl": "main",
+				"level": "0",
+				"name": "Witten Schönheitssalon",
+				"name:pl": "Gabinet Kosmetyczny Witten",
+				"old_name": "Elegant Nails",
+				"operator:type": "private",
+				"payment:cash": "yes",
+				"shop": "beauty",
+				"smoking": "no",
+				"start_date": "2017",
+				"wheelchair": "no"
 			}
 		},
 		{

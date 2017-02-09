@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T10:29:03Z",
+		"timestamp_osm_base": "2017-02-09T08:58:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1341,8 +1341,8 @@
 		{
 			"type": "node",
 			"id": 46715854,
-			"lat": 50.3681968,
-			"lon": 21.0540917,
+			"lat": 49.6249173,
+			"lon": 20.691346,
 			"tags": {
 				"name:eo": "Nova Sonĉo"
 			}
@@ -3235,6 +3235,15 @@
 			"lon": 35.0756366,
 			"tags": {
 				"name:eo": "Akko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280304251,
+			"lat": 54.75795,
+			"lon": 83.1068095,
+			"tags": {
+				"name:eo": "Berdsk"
 			}
 		},
 		{
@@ -5778,8 +5787,8 @@
 		{
 			"type": "node",
 			"id": 1975648720,
-			"lat": -16.4957229,
-			"lon": -68.1335782,
+			"lat": -16.4954329,
+			"lon": -68.1331733,
 			"tags": {
 				"name:eo": "La-Pazo"
 			}

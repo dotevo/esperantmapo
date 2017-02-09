@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T11:10:02Z",
+		"timestamp_osm_base": "2017-02-09T09:04:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -8811,8 +8811,8 @@
 		{
 			"type": "node",
 			"id": 253553350,
-			"lat": 53.0516207,
-			"lon": 22.1248317,
+			"lat": 53.8249697,
+			"lon": 22.361359,
 			"tags": {
 				"name:pl": "Ełk"
 			}
@@ -11772,8 +11772,8 @@
 		{
 			"type": "node",
 			"id": 290889369,
-			"lat": 52.0553932,
-			"lon": 106.6543664,
+			"lat": 52.0554097,
+			"lon": 106.6543208,
 			"tags": {
 				"name:pl": "Kabańsk"
 			}
@@ -23841,8 +23841,8 @@
 		{
 			"type": "node",
 			"id": 769235431,
-			"lat": 51.3880021,
-			"lon": 19.5587632,
+			"lat": 51.4082399,
+			"lon": 19.6959866,
 			"tags": {
 				"name:pl": "Piotrków Trybunalski"
 			}
@@ -28710,8 +28710,8 @@
 		{
 			"type": "node",
 			"id": 1854937117,
-			"lat": 52.8146093,
-			"lon": 23.0415762,
+			"lat": 52.1663751,
+			"lon": 22.2765138,
 			"tags": {
 				"name:pl": "Siedlce"
 			}
