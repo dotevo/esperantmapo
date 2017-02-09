@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-08T10:30:02Z",
+		"timestamp_osm_base": "2017-02-09T06:52:04Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -28,6 +28,22 @@
 		},
 		{
 			"type": "node",
+			"id": 1693195745,
+			"lat": 48.200758,
+			"lon": 16.367317,
+			"tags": {
+				"description:en": "(1859-1817) Inventor of Esperanto language. L. L. Zamenhof",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "Dr. Ludwig Zamenhof – autoro de la internacia lingvo Esperanto – Esperanto-Museum Wien-Hofburg",
+				"memorial": "bust",
+				"name": "Dr. Ludwig Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"wheelchair": "yes"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2493336616,
 			"lat": -25.4305709,
 			"lon": -49.2683965,
@@ -38,7 +54,7 @@
 				"addr:postcode": "80020-310",
 				"addr:street": "Rua XV de Novembro",
 				"addr:suburb": "Centro",
-				"amenity": "community_centre",
+				"amenity": "social_centre",
 				"esperanto": "yes",
 				"facebook": "https://www.facebook.com/esperantoparana/",
 				"language:eo": "yes",
@@ -66,6 +82,25 @@
 		},
 		{
 			"type": "node",
+			"id": 2967579395,
+			"lat": 54.4647076,
+			"lon": 17.02862,
+			"tags": {
+				"artwork_type": "stone",
+				"commemorates:wikidata": "Q11758",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "AL DR-ro LUDOVIKO ZAMENHOF AŬTORO DE ESPERANTO 1859 – 1917 SPOŁECZEŃSTWO m. SŁUPSKA 1960",
+				"name": "Tablica pamiątkowa upamiętniająca Ludwika Łazarza Zamenhofa",
+				"name:eo": "Memorŝtono pri Ludoviko Lazaro ZAMENHOFO",
+				"name:lt": "Memorialinė lentelė Liudvikui Zamenhofui atminti",
+				"name:pl": "Tablica pamiątkowa upamiętniająca Ludwika Łazarza Zamenhofa",
+				"start_date": "1960",
+				"tourism": "artwork"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3235646025,
 			"lat": -22.9010312,
 			"lon": -43.1813068,
@@ -84,6 +119,21 @@
 				"phone": "+55 21 2467 4296",
 				"training": "language",
 				"website": "http://www.aerj.org.br"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3480125987,
+			"lat": 47.4909582,
+			"lon": 19.0436289,
+			"tags": {
+				"artwork_type": "statue",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "Dr. L.L. Zamenhof 1859-1917 Az eszperantó nyelv megalkotója",
+				"name": "Dr. L.L. Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"tourism": "artwork"
 			}
 		},
 		{
@@ -197,6 +247,77 @@
 		},
 		{
 			"type": "node",
+			"id": 4475332349,
+			"lat": -22.9097188,
+			"lon": -43.5649077,
+			"tags": {
+				"addr:city": "Rio de Janeiro",
+				"addr:door": "E",
+				"addr:housenumber": "43",
+				"addr:street": "Rua Professor Gonçalves",
+				"addr:suburb": "Campo Grande",
+				"amenity": "fast_food",
+				"contact:facebook": "https://facebook.com/Bongustega/",
+				"contact:instagram": "http://instagram.com/bongustega",
+				"cuisine": "crepe",
+				"delivery": "yes",
+				"esperanto": "yes",
+				"name": "Bongustega",
+				"opening_hours": "Tu-Sa 11:00-23:30; Su 18:00-23:30",
+				"phone": "+55 21 97305 0198;+55 21 2412-2327",
+				"takeaway": "yes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4610363945,
+			"lat": -22.2799384,
+			"lon": -42.5327452,
+			"tags": {
+				"commemorates:wikidata": "Q11758",
+				"esperanto": "yes",
+				"fixme": "confirmar local do monumento",
+				"historic": "monument",
+				"inscription": "L. L. Zamenhof - Criador do Esperanto - III Seminário Esperantista 26, 27, 28 Julho 1968 Homenagem da Cooperativa Cultural dos Esperantistas ao sesquicentenário de Nova Friburgo, sendo prefeito Dr. Amâncio Mario de Azevedo - o esperanto aproxima os povos-",
+				"monument": "bust",
+				"name": "L. L. Zamenhof",
+				"openplaques:id": "42371",
+				"start_date": "1968-07-26..1968-07-28"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4642112460,
+			"lat": 35.7082891,
+			"lon": 139.7233824,
+			"tags": {
+				"addr:city": "新宿区",
+				"addr:housenumber": "111",
+				"addr:postcode": "162-0041",
+				"addr:street": "早大通り",
+				"alt_name": "そーよ！",
+				"amenity": "cafe",
+				"building:colour": "green",
+				"cuisine": "japanese",
+				"description": "Esperanto-vegana kafejo en la centro de Tokio, proksime de Japana Esperanto-Instituto.",
+				"diet:vegan": "only",
+				"esperanto": "yes",
+				"facebook": "https://www.facebook.com/kafejosojo/",
+				"name": "SOJO",
+				"name:eo": "SOJO",
+				"name:etymology:wikidata": "Q11006",
+				"outdoor_seating": "no",
+				"payment:american_express": "yes",
+				"payment:cash": "yes",
+				"payment:discover_card": "yes",
+				"payment:mastercard": "yes",
+				"payment:visa": "yes",
+				"phone": "+81 3-3922-2030",
+				"source": "Bing"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4642303448,
 			"lat": 35.7054123,
 			"lon": 139.72286,
@@ -207,6 +328,98 @@
 				"name:eo": "Biblioteko de JEI",
 				"operator": "Japana Esperanto Instituto",
 				"website": "http://www.jei.or.jp/hp/materialo/bibli_e.htm"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4643030911,
+			"lat": -25.4201605,
+			"lon": -49.2619832,
+			"tags": {
+				"commemorates:wikidata": "Q11758",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"memorial": "bust",
+				"name": "Ludwik Lejzer Zamenhof",
+				"openplaques:id": "42406",
+				"wikimedia_commons": "File:LudwikLejzerZamenhof.Esperanto.Curitiba.JPG"
+			}
+		},
+		{
+			"type": "way",
+			"id": 32944359,
+			"center": {
+				"lat": -25.419464,
+				"lon": -49.2615871
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Doutor Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "no"
+			}
+		},
+		{
+			"type": "way",
+			"id": 40943104,
+			"center": {
+				"lat": -22.9168092,
+				"lon": -43.2072927
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Rua Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 80042160,
+			"center": {
+				"lat": 53.1208896,
+				"lon": 18.0231698
+			},
+			"tags": {
+				"alt_name": "Most Esperanto",
+				"bicycle": "yes",
+				"bridge": "yes",
+				"esperanto": "yes",
+				"highway": "footway",
+				"layer": "2",
+				"name": "Kładka Esperanto",
+				"name:eo": "Ponto Esperanto",
+				"source": "http://ump.waw.pl/ retrieved 11:19:07 11/17/09 (UMP-Torun/src/BYDGOSZCZ.ulice.txt)"
+			}
+		},
+		{
+			"type": "way",
+			"id": 119401741,
+			"center": {
+				"lat": -13.7882484,
+				"lon": -47.4569549
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 130922344,
+			"center": {
+				"lat": -3.7083322,
+				"lon": -40.33451
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "no"
 			}
 		},
 		{
@@ -244,6 +457,68 @@
 		},
 		{
 			"type": "way",
+			"id": 162204164,
+			"center": {
+				"lat": 35.7054564,
+				"lon": 139.7228538
+			},
+			"tags": {
+				"addr:housenumber": "162-0042",
+				"addr:street": "早稲田通り",
+				"alt_name": "Esperanto-Domo",
+				"amenity": "community_centre",
+				"building": "yes",
+				"club": "culture",
+				"contact:fax": "+81 3 3203 4582",
+				"email": "esperanto@jei.or.jp",
+				"esperanto": "yes",
+				"name": "日本エスペラント協会",
+				"name:eo": "Japana Esperanto-Instituto",
+				"old_name": "日本エスペラント学会",
+				"opening_hours": "Tu-Su 10:00-18:00",
+				"phone": "+81 3 3203 4581",
+				"source": "Bing",
+				"website": "http://www.jei.or.jp/",
+				"wikidata": "Q2629773",
+				"wikipedia": "ja:日本エスペラント協会"
+			}
+		},
+		{
+			"type": "way",
+			"id": 181408683,
+			"center": {
+				"lat": 44.3199492,
+				"lon": 3.3826962
+			},
+			"tags": {
+				"building": "yes",
+				"esperanto": "yes",
+				"name": "Les Bories",
+				"source": "Bing"
+			}
+		},
+		{
+			"type": "way",
+			"id": 224764364,
+			"center": {
+				"lat": -62.4280997,
+				"lon": -60.1766876
+			},
+			"tags": {
+				"esperanto": "yes",
+				"name": "Esperanto Island",
+				"name:eo": "Esperanto Insulo",
+				"name:etymology:wikidata": "Q143",
+				"name:pt": "Ilha Esperanto",
+				"natural": "coastline",
+				"place": "island",
+				"source": "ADD",
+				"source:date": "01/07/2002",
+				"wikipedia": "eo:Esperanto_(insulo)"
+			}
+		},
+		{
+			"type": "way",
 			"id": 236603297,
 			"center": {
 				"lat": 53.1308706,
@@ -263,6 +538,19 @@
 				"name": "Esperanto",
 				"roof:shape": "flat",
 				"tourism": "hotel"
+			}
+		},
+		{
+			"type": "way",
+			"id": 400422170,
+			"center": {
+				"lat": 44.2027156,
+				"lon": 3.6511967
+			},
+			"tags": {
+				"building": "house",
+				"esperanto": "yes",
+				"name": "Le Fromental"
 			}
 		}
 	]

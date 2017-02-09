@@ -318,7 +318,8 @@ const LokoIkono = L.Icon.extend({
 const ikonoj = {
 	libraro: new LokoIkono({ iconUrl: 'bildoj/libraro.png' }),
 	stelo: new LokoIkono({ iconUrl: 'bildoj/stelo.png' }),
-	esperantisto: new LokoIkono({ iconUrl: 'bildoj/esperantisto.png' })
+	esperantisto: new LokoIkono({ iconUrl: 'bildoj/esperantisto.png' }),
+	memoraĵo: new LokoIkono({ iconUrl: 'bildoj/memorajxo.png' })
 };
 
 function ikononDeLoko(obj) {
@@ -328,7 +329,18 @@ function ikononDeLoko(obj) {
 	if (obj.tags['books:language:eo'] == 'yes') {
 		return ikonoj.libraro;
 	}
+	if (obj.tags['historic'] !== null) {
+		return ikonoj.memoraĵo;
+	}
 	return ikonoj.esperantisto;
+}
+
+function kreiPriskribon(obj) {
+	let r = '';
+	for (let s in obj.tags) {
+		r += '<i>' + s + '</i>  =  <b>' + obj.tags[s] + '</b><br/>';
+	}
+	return r;
 }
 
 function manteloj(opt, lingvo) {
@@ -379,14 +391,13 @@ function manteloj(opt, lingvo) {
 	const lokojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/lokoj.json',
 		krei: function (objekto) {
-			L.marker([objekto.lat, objekto.lon], { icon: ikononDeLoko(objekto) }).addTo(opt.lokoj).bindPopup(objekto.tags['name']);
+			L.marker([objekto.lat, objekto.lon], { icon: ikononDeLoko(objekto) }).addTo(opt.lokoj).bindPopup(kreiPriskribon(objekto));
 		}
 	});
 }
 
 $(document).bind('pageinit', function () {
 	console.log(parametroj);
-	let lingvo = 'eo';
 	if (parametroj.l != null) {
 		console.log(parametroj.l);
 		$('#landoj').val(parametroj.l).change();
@@ -402,9 +413,6 @@ $(document).bind('pageinit', function () {
 	}
 	if (parametroj.lo != null) {
 		$('#lokoj').val(parametroj.lo).change();
-	}
-	if (parametroj.lg != null) {
-		lingvo = parametroj.lg;
 	}
 
 	mapo = L.map('mapo').setView([parametroj.lat, parametroj.lng], parametroj.z);
