@@ -57,13 +57,21 @@ function ikononDeLoko(obj) {
 	if (obj.tags['office'] == 'ngo' || obj.tags['office'] == 'association') {
 		return ikonoj.stelo
 	}
-	if (obj.tags['historic'] !== null) {
-		return ikonoj.memoraĵo
-	}
 	if (obj.tags['books:language:eo'] == 'yes') {
 		return ikonoj.libraro
 	}
+	if (obj.tags['historic'] !== null) {
+		return ikonoj.memoraĵo
+	}
 	return ikonoj.esperantisto
+}
+
+function kreiPriskribon(obj) {
+	let r = ''
+	for (let s in obj.tags) {
+		r += '<i>' + s + '</i>  =  <b>' + obj.tags[s] + '</b><br/>'
+	}
+	return r
 }
 
 function manteloj(opt, lingvo) {
@@ -115,7 +123,7 @@ function manteloj(opt, lingvo) {
 		dosiero: lingvo + '/lokoj.json',
 		krei: function(objekto) {
 			L.marker([objekto.lat, objekto.lon], {icon: ikononDeLoko(objekto)}).addTo(opt.lokoj)
-				.bindPopup(objekto.tags['name'])
+				.bindPopup(kreiPriskribon(objekto))
 		}
 	})
 }

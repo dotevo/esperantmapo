@@ -88,8 +88,8 @@ gulp.task('elŝuti:landoj', gulp.series('lingvo', function() {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
 			skribiAlDosiero('kunmetaĵo/' + lingvo + '/landoj.json', JSON.stringify(json, null, '\t'))
-		} catch(err) {
-			console.log("ERROR %s", err)
+		} catch (err) {
+			console.log('ERROR %s', err)
 			console.log(body)
 		}
 	}).pipe(wait(5000))
@@ -100,8 +100,8 @@ gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
 			skribiAlDosiero('kunmetaĵo/' + lingvo + '/provincoj.json', JSON.stringify(json, null, '\t'))
-		} catch(err) {
-			console.log("ERROR %s", err)
+		} catch (err) {
+			console.log('ERROR %s', err)
 			console.log(body)
 		}
 	}).pipe(wait(5000))
@@ -112,8 +112,8 @@ gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
 			skribiAlDosiero('kunmetaĵo/' + lingvo + '/urboj.json', JSON.stringify(json, null, '\t'))
-		} catch(err) {
-			console.log("ERROR %s", err)
+		} catch (err) {
+			console.log('ERROR %s', err)
 			console.log(body)
 		}
 	}).pipe(wait(5000))
@@ -124,8 +124,8 @@ gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
 			skribiAlDosiero('kunmetaĵo/' + lingvo + '/tero.json', JSON.stringify(json, null, '\t'))
-		} catch(err) {
-			console.log("ERROR %s", err)
+		} catch (err) {
+			console.log('ERROR %s', err)
 			console.log(body)
 		}
 	}).pipe(wait(5000))
@@ -136,8 +136,8 @@ gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
 		try {
 			let json = JSON.parse(body)
 			skribiAlDosiero('kunmetaĵo/' + lingvo + '/lokoj.json', JSON.stringify(json, null, '\t'))
-		} catch(err) {
-			console.log("ERROR %s", err)
+		} catch (err) {
+			console.log('ERROR %s', err)
 			console.log(body)
 		}
 	}).pipe(wait(5000))
