@@ -56,5 +56,8 @@ msgstr "Valpük"
 msgid "La pola"
 msgstr "Polski"
 
+msgid "La finna"
+msgstr "Fiński"
+
 msgid "Ikonoj_el"
 msgstr "Ikony z"
