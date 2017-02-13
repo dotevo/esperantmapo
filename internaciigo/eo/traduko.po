@@ -56,6 +56,9 @@ msgstr "Volapuko"
 msgid "La pola"
 msgstr "La pola"
 
+msgid "La finna"
+msgstr "La finna"
+
 msgid "Informoj"
 msgstr "Informoj"
 
