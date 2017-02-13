@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-09T08:59:02Z",
+		"timestamp_osm_base": "2017-02-13T08:36:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -243,8 +243,8 @@
 		{
 			"type": "node",
 			"id": 32013127,
-			"lat": 39.019823,
-			"lon": 125.7508675,
+			"lat": 39.0194741,
+			"lon": 125.753388,
 			"tags": {
 				"name:io": "Pyongyang"
 			}
@@ -315,8 +315,8 @@
 		{
 			"type": "node",
 			"id": 67157058,
-			"lat": 27.7087963,
-			"lon": 85.3202438,
+			"lat": 27.708796,
+			"lon": 85.320244,
 			"tags": {
 				"name:io": "Katmandu"
 			}
@@ -378,8 +378,8 @@
 		{
 			"type": "node",
 			"id": 163043169,
-			"lat": 56.4887123,
-			"lon": 84.9523238,
+			"lat": 56.488712,
+			"lon": 84.952324,
 			"tags": {
 				"name:io": "Tomsk"
 			}
@@ -387,8 +387,8 @@
 		{
 			"type": "node",
 			"id": 191657470,
-			"lat": 53.7152883,
-			"lon": 91.4388763,
+			"lat": 53.71529,
+			"lon": 91.438873,
 			"tags": {
 				"name:io": "Abakan"
 			}
@@ -531,8 +531,8 @@
 		{
 			"type": "node",
 			"id": 259862730,
-			"lat": 53.8118,
-			"lon": 36.137,
+			"lat": 53.811798,
+			"lon": 36.137001,
 			"tags": {
 				"name:io": "Belyov"
 			}

@@ -1,0 +1,514 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-13T08:28:03Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 249399410,
+			"lat": 46.8374544,
+			"lon": -56.2120555,
+			"tags": {
+				"name:fi": "Saint-Pierre ja Miquelon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269195852,
+			"lat": 78.7198519,
+			"lon": 20.3493328,
+			"tags": {
+				"name:fi": "Svalbard ja Jan Mayen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305700699,
+			"lat": 55.001251,
+			"lon": -125.002441,
+			"tags": {
+				"name:fi": "Brittiläinen Kolumbia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313753808,
+			"lat": 4.0039882,
+			"lon": -52.999998,
+			"tags": {
+				"name:fi": "Ranskan Guayana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356559371,
+			"lat": 17.789187,
+			"lon": -64.7080574,
+			"tags": {
+				"name:fi": "Yhdysvaltain Neitsytsaaret"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297956,
+			"lat": -21.1309332,
+			"lon": 55.5265771,
+			"tags": {
+				"name:fi": "Réunion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298155,
+			"lat": -13.8173324,
+			"lon": -177.1489649,
+			"tags": {
+				"name:fi": "Wallis- ja Futunasaaret"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311883,
+			"lat": 41.9034912,
+			"lon": 12.4528349,
+			"tags": {
+				"name:fi": "Vatikaanivaltio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313764,
+			"lat": -12.1691894,
+			"lon": 96.8301442,
+			"tags": {
+				"name:fi": "Kookossaaret"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314262,
+			"lat": -44.1511785,
+			"lon": 63.8604556,
+			"tags": {
+				"name:fi": "Ranskan eteläiset ja antarktiset alueet"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483523,
+			"lat": -10.4837768,
+			"lon": 105.64723,
+			"tags": {
+				"name:fi": "Joulusaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483527,
+			"lat": -16.225557,
+			"lon": 150.033867,
+			"tags": {
+				"name:fi": "Korallimeren saaret"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483535,
+			"lat": 16.2490067,
+			"lon": -61.5650444,
+			"tags": {
+				"name:fi": "Guadeloupe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 462226505,
+			"lat": -18.6243749,
+			"lon": -144.6434898,
+			"tags": {
+				"name:fi": "Ranskan Polynesia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473831430,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
+			"tags": {
+				"name:fi": "Saksi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473848012,
+			"lat": 48.9467562,
+			"lon": 11.4038717,
+			"tags": {
+				"name:fi": "Baijeri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473857781,
+			"lat": 53.7735234,
+			"lon": 12.5755746,
+			"tags": {
+				"name:fi": "Mecklenburg-Etu-Pommeri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 489460194,
+			"lat": 17.8962582,
+			"lon": -62.8299256,
+			"tags": {
+				"name:fi": "Saint-Barthélemy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 502842918,
+			"lat": 58.6124279,
+			"lon": 82.0475315,
+			"tags": {
+				"name:fi": "Tomskin alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504981968,
+			"lat": 52.1458506,
+			"lon": 17.397672,
+			"tags": {
+				"name:fi": "Ison-Puolan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 567535537,
+			"lat": 62.6194031,
+			"lon": 33.4920267,
+			"tags": {
+				"name:fi": "Karjala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 581141063,
+			"lat": 31.4331663,
+			"lon": 34.3779285,
+			"tags": {
+				"name:fi": "Gazan kaista"
+			}
+		},
+		{
+			"type": "node",
+			"id": 658312593,
+			"lat": 55.5043158,
+			"lon": 38.0353929,
+			"tags": {
+				"name:fi": "Moskovan alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681769605,
+			"lat": 45.5916819,
+			"lon": 33.5992068,
+			"tags": {
+				"name:fi": "Krimin autonominen tasavalta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681604,
+			"lat": 49.6630002,
+			"lon": 25.6167516,
+			"tags": {
+				"name:fi": "Ternopilin alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 683681620,
+			"lat": 49.8607809,
+			"lon": 33.7498787,
+			"tags": {
+				"name:fi": "Pultavan alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778529234,
+			"lat": 57.7781976,
+			"lon": 39.0021095,
+			"tags": {
+				"name:fi": "Jaroslavlin alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610251,
+			"lat": 44.3571841,
+			"lon": -0.5391713,
+			"tags": {
+				"name:fi": "Akvitania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251610252,
+			"lat": 47.0151891,
+			"lon": 4.2523237,
+			"tags": {
+				"name:fi": "Burgundi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1251670424,
+			"lat": 14.6113732,
+			"lon": -60.9620777,
+			"tags": {
+				"name:fi": "Martinique"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1367931778,
+			"lat": -21.3019905,
+			"lon": 165.4880773,
+			"tags": {
+				"name:fi": "Uusi-Kaledonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1499533875,
+			"lat": 34.8614187,
+			"lon": 133.1261204,
+			"tags": {
+				"name:fi": "Chūgoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1629678526,
+			"lat": 56.9834674,
+			"lon": 22.1540457,
+			"tags": {
+				"name:fi": "Kuurinmaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1850580646,
+			"lat": 37.2700459,
+			"lon": 127.1033484,
+			"tags": {
+				"name:fi": "Gyeonggi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1853958141,
+			"lat": 37.8179963,
+			"lon": 128.2183835,
+			"tags": {
+				"name:fi": "Gangwon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1869881765,
+			"lat": 36.478804,
+			"lon": 126.7697247,
+			"tags": {
+				"name:fi": "Etelä-Chungcheong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1895837469,
+			"lat": 36.8584149,
+			"lon": 127.7095746,
+			"tags": {
+				"name:fi": "Pohjois-Chungcheon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1897951352,
+			"lat": 36.4004081,
+			"lon": 128.8611389,
+			"tags": {
+				"name:fi": "Pohjois-Gyeongsang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900114892,
+			"lat": 35.375617,
+			"lon": 128.3301115,
+			"tags": {
+				"name:fi": "Etelä-Gyeongsang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900155946,
+			"lat": 33.3940067,
+			"lon": 126.5626688,
+			"tags": {
+				"name:fi": "Jeju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900814181,
+			"lat": 35.7395078,
+			"lon": 127.1181259,
+			"tags": {
+				"name:fi": "Pohjois-Jeolla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1900823975,
+			"lat": 34.9419628,
+			"lon": 126.9999005,
+			"tags": {
+				"name:fi": "Etelä-Jeolla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1903366790,
+			"lat": 38.2628262,
+			"lon": 125.476901,
+			"tags": {
+				"name:fi": "Etelä-Hwanghae"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2000314677,
+			"lat": 24.1797324,
+			"lon": -13.7667848,
+			"tags": {
+				"name:fi": "Länsi-Sahara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851573,
+			"lat": 24.7208818,
+			"lon": 93.9229386,
+			"tags": {
+				"name:fi": "Manipur"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2604557728,
+			"lat": -69.1726389,
+			"lon": 138.960274,
+			"tags": {
+				"name:fi": "Adélienmaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2642288017,
+			"lat": 52.2928116,
+			"lon": -3.73893,
+			"tags": {
+				"name:fi": "Wales"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2811123364,
+			"lat": 5.4091179,
+			"lon": -4.0422099,
+			"tags": {
+				"name:fi": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2925154705,
+			"lat": 40.2390918,
+			"lon": 127.64342,
+			"tags": {
+				"name:fi": "Etelä-Hamgyŏng"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3140016266,
+			"lat": 45.7684014,
+			"lon": 39.0261044,
+			"tags": {
+				"name:fi": "Krasnodarin aluepiiri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471345,
+			"lat": 43.1595664,
+			"lon": -4.0878382,
+			"tags": {
+				"name:fi": "Kantabria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3679338874,
+			"lat": 49.8299582,
+			"lon": 36.3788957,
+			"tags": {
+				"name:fi": "Harkova alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3708224038,
+			"lat": 39.5416505,
+			"lon": 126.0647645,
+			"tags": {
+				"name:fi": "Etelä-P'yŏngan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189263789,
+			"lat": 49.653721,
+			"lon": 2.5339474,
+			"tags": {
+				"name:fi": "Picardie"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4189298057,
+			"lat": 50.4806465,
+			"lon": 2.7937371,
+			"tags": {
+				"name:fi": "Nord-Pas-de-Calais"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4575686020,
+			"lat": 40.6333004,
+			"lon": 20.082904,
+			"tags": {
+				"name:fi": "Beratin maakunta"
+			}
+		}
+	]
+}

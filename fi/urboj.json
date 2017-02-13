@@ -1,0 +1,5419 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-02-13T08:28:03Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 107775,
+			"lat": 51.5073219,
+			"lon": -0.1276474,
+			"tags": {
+				"name:fi": "Lontoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441183,
+			"lat": 37.9841493,
+			"lon": 23.7279843,
+			"tags": {
+				"name:fi": "Ateena"
+			}
+		},
+		{
+			"type": "node",
+			"id": 13707878,
+			"lat": 55.6867243,
+			"lon": 12.5700724,
+			"tags": {
+				"name:fi": "Kööpenhamina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 16173236,
+			"lat": 28.6138967,
+			"lon": 77.2159562,
+			"tags": {
+				"name:fi": "New Delhi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 17328659,
+			"lat": 48.2083537,
+			"lon": 16.3725042,
+			"tags": {
+				"name:fi": "Wien"
+			}
+		},
+		{
+			"type": "node",
+			"id": 17807753,
+			"lat": 48.8566101,
+			"lon": 2.3514992,
+			"tags": {
+				"name:fi": "Pariisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 20833623,
+			"lat": 53.550341,
+			"lon": 10.000654,
+			"tags": {
+				"name:fi": "Hampuri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 20953083,
+			"lat": 50.938361,
+			"lon": 6.959974,
+			"tags": {
+				"name:fi": "Köln"
+			}
+		},
+		{
+			"type": "node",
+			"id": 21034458,
+			"lat": 33.3024309,
+			"lon": 44.3787992,
+			"tags": {
+				"name:fi": "Bagdad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 21640149,
+			"lat": 61.4867236,
+			"lon": 21.7910016,
+			"tags": {
+				"name:fi": "Pori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 21847490,
+			"lat": 60.4517531,
+			"lon": 22.2670522,
+			"tags": {
+				"name:fi": "Turku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 22980865,
+			"lat": 60.3953913,
+			"lon": 25.6604862,
+			"tags": {
+				"name:fi": "Porvoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25248662,
+			"lat": 39.9059631,
+			"lon": 116.391248,
+			"tags": {
+				"name:fi": "Peking"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25327151,
+			"lat": 53.866444,
+			"lon": 10.684738,
+			"tags": {
+				"name:fi": "Lyypekki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25417670,
+			"lat": 60.4061996,
+			"lon": 22.3685677,
+			"tags": {
+				"name:fi": "Kaarina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25735371,
+			"lat": 59.8594126,
+			"lon": 17.64112,
+			"tags": {
+				"name:fi": "Uppsala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25929985,
+			"lat": 59.3251172,
+			"lon": 18.0710935,
+			"tags": {
+				"name:fi": "Tukholma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25960293,
+			"lat": 35.7006177,
+			"lon": 51.401375,
+			"tags": {
+				"name:fi": "Teheran"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25963469,
+			"lat": 60.2147412,
+			"lon": 24.7135291,
+			"tags": {
+				"name:fi": "Kauniainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25963545,
+			"lat": 60.2241869,
+			"lon": 24.6603626,
+			"tags": {
+				"name:fi": "Espoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038568,
+			"lat": 36.2974945,
+			"lon": 59.6059232,
+			"tags": {
+				"name:fi": "Mašhad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26150422,
+			"lat": 50.4501071,
+			"lon": 30.5240501,
+			"tags": {
+				"name:fi": "Kiova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26162465,
+			"lat": 53.902334,
+			"lon": 27.5618791,
+			"tags": {
+				"name:fi": "Minsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26396457,
+			"lat": 23.1379911,
+			"lon": -82.3658562,
+			"tags": {
+				"name:fi": "Havanna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26490651,
+			"lat": 38.047608,
+			"lon": 23.5348663,
+			"tags": {
+				"name:fi": "Elefsina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26707967,
+			"lat": 56.9493977,
+			"lon": 24.1051846,
+			"tags": {
+				"name:fi": "Riika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26878551,
+			"lat": 67.151442,
+			"lon": 32.4130551,
+			"tags": {
+				"name:fi": "Kantalahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898767,
+			"lat": 67.568626,
+			"lon": 33.404392,
+			"tags": {
+				"name:fi": "Apatiitti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898768,
+			"lat": 65.200096,
+			"lon": 31.180172,
+			"tags": {
+				"name:fi": "Uhtua"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898769,
+			"lat": 67.6151331,
+			"lon": 33.6637527,
+			"tags": {
+				"name:fi": "Hiipinä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898776,
+			"lat": 63.8924047,
+			"lon": 34.2660109,
+			"tags": {
+				"name:fi": "Vojatšu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898825,
+			"lat": 63.7435087,
+			"lon": 34.3106868,
+			"tags": {
+				"name:fi": "Sekee"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26898826,
+			"lat": 66.857452,
+			"lon": 32.3871,
+			"tags": {
+				"name:fi": "Ruhtinanlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26903504,
+			"lat": 61.790039,
+			"lon": 34.390007,
+			"tags": {
+				"name:fi": "Petroskoi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26921263,
+			"lat": 62.20929,
+			"lon": 34.268185,
+			"tags": {
+				"name:fi": "Kontupohja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26951330,
+			"lat": 59.218876,
+			"lon": 39.893276,
+			"tags": {
+				"name:fi": "Vologda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27000366,
+			"lat": 56.858675,
+			"lon": 35.9208284,
+			"tags": {
+				"name:fi": "Tver"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27001056,
+			"lat": 57.588303,
+			"lon": 34.5714,
+			"tags": {
+				"name:fi": "Vyšni Volotšok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27017589,
+			"lat": 58.5209862,
+			"lon": 31.2757862,
+			"tags": {
+				"name:fi": "Veliki Novgorod"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27024680,
+			"lat": 59.722256,
+			"lon": 30.415731,
+			"tags": {
+				"name:fi": "Puškin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27025179,
+			"lat": 59.5706273,
+			"lon": 30.1305083,
+			"tags": {
+				"name:fi": "Hatsina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27025689,
+			"lat": 57.817398,
+			"lon": 28.334368,
+			"tags": {
+				"name:fi": "Pihkova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27073428,
+			"lat": 53.2423778,
+			"lon": 34.3668288,
+			"tags": {
+				"name:fi": "Brjansk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27129690,
+			"lat": 69.7263374,
+			"lon": 30.049768,
+			"tags": {
+				"name:fi": "Kirkkoniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27132996,
+			"lat": 29.5569348,
+			"lon": 34.9497949,
+			"tags": {
+				"name:fi": "Eilat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27193093,
+			"lat": 54.6870458,
+			"lon": 25.2829111,
+			"tags": {
+				"name:fi": "Vilna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27290739,
+			"lat": 63.1304959,
+			"lon": 22.250699,
+			"tags": {
+				"name:fi": "Vöyri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27432369,
+			"lat": 63.8256568,
+			"lon": 20.2630745,
+			"tags": {
+				"name:fi": "Uumaja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27446511,
+			"lat": 59.6431998,
+			"lon": 33.534473,
+			"tags": {
+				"name:fi": "Tihvinä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27490597,
+			"lat": 59.938732,
+			"lon": 30.316229,
+			"tags": {
+				"name:fi": "Pietari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27504067,
+			"lat": 55.7823547,
+			"lon": 49.1242266,
+			"tags": {
+				"name:fi": "Kazan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27504156,
+			"lat": 55.1598408,
+			"lon": 61.4025547,
+			"tags": {
+				"name:fi": "Tšeljabinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27505129,
+			"lat": 45.0354329,
+			"lon": 38.9757116,
+			"tags": {
+				"name:fi": "Krasnodar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27505266,
+			"lat": 57.6263877,
+			"lon": 39.8933705,
+			"tags": {
+				"name:fi": "Jaroslavl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27505582,
+			"lat": 54.6295687,
+			"lon": 39.7425039,
+			"tags": {
+				"name:fi": "Rjazan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27524177,
+			"lat": 42.8767446,
+			"lon": 74.6069949,
+			"tags": {
+				"name:fi": "Biškek"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27524773,
+			"lat": 41.3123363,
+			"lon": 69.2787079,
+			"tags": {
+				"name:fi": "Taškent"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27547977,
+			"lat": 38.5762757,
+			"lon": 68.786394,
+			"tags": {
+				"name:fi": "Dušanbe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27547986,
+			"lat": 47.9184676,
+			"lon": 106.9177016,
+			"tags": {
+				"name:fi": "Ulaanbaatar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27559814,
+			"lat": 65.5831352,
+			"lon": 22.1460134,
+			"tags": {
+				"name:fi": "Luulaja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27561960,
+			"lat": 65.835667,
+			"lon": 24.1357213,
+			"tags": {
+				"name:fi": "Haaparanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27564968,
+			"lat": 36.800108,
+			"lon": 10.184794,
+			"tags": {
+				"name:fi": "Tunis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565002,
+			"lat": 12.368148,
+			"lon": -1.527085,
+			"tags": {
+				"name:fi": "Ouagadougou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565076,
+			"lat": 9.0107934,
+			"lon": 38.7612525,
+			"tags": {
+				"name:fi": "Addis Abeba"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565085,
+			"lat": 11.593665,
+			"lon": 43.14724,
+			"tags": {
+				"name:fi": "Djibouti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29064107,
+			"lat": 65.0118734,
+			"lon": 25.4716809,
+			"tags": {
+				"name:fi": "Oulu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29090735,
+			"lat": 31.7791134,
+			"lon": 35.2266286,
+			"tags": {
+				"name:fi": "Jerusalem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29184455,
+			"lat": 66.3900454,
+			"lon": 23.6550021,
+			"tags": {
+				"name:fi": "Ylitornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29438069,
+			"lat": 35.3340134,
+			"lon": 25.1328543,
+			"tags": {
+				"name:fi": "Heraklion"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29532674,
+			"lat": 56.8375098,
+			"lon": 24.4975204,
+			"tags": {
+				"name:fi": "Ykskylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29787492,
+			"lat": 59.4372155,
+			"lon": 24.7453688,
+			"tags": {
+				"name:fi": "Tallinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29866526,
+			"lat": 46.7106617,
+			"lon": 38.2778566,
+			"tags": {
+				"name:fi": "Jeisk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29980666,
+			"lat": 47.0957848,
+			"lon": 37.5499352,
+			"tags": {
+				"name:fi": "Mariupol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30391426,
+			"lat": 55.8776479,
+			"lon": 26.5286273,
+			"tags": {
+				"name:fi": "Väinänlinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30860534,
+			"lat": 60.1227857,
+			"lon": 24.4406694,
+			"tags": {
+				"name:fi": "Kirkkonummi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30871749,
+			"lat": 60.3091871,
+			"lon": 25.0364526,
+			"tags": {
+				"name:fi": "Vantaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969480,
+			"lat": 61.4980214,
+			"lon": 23.7603118,
+			"tags": {
+				"name:fi": "Tampere"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969494,
+			"lat": 60.9838761,
+			"lon": 25.6561814,
+			"tags": {
+				"name:fi": "Lahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969502,
+			"lat": 60.6335719,
+			"lon": 24.8695328,
+			"tags": {
+				"name:fi": "Hyvinkää"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969505,
+			"lat": 61.1714623,
+			"lon": 28.7708613,
+			"tags": {
+				"name:fi": "Imatra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969517,
+			"lat": 63.6666709,
+			"lon": 22.7000229,
+			"tags": {
+				"name:fi": "Pietarsaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969519,
+			"lat": 60.4743601,
+			"lon": 25.0925118,
+			"tags": {
+				"name:fi": "Järvenpää"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969521,
+			"lat": 62.6000152,
+			"lon": 29.7666591,
+			"tags": {
+				"name:fi": "Joensuu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969525,
+			"lat": 64.2240872,
+			"lon": 27.7334227,
+			"tags": {
+				"name:fi": "Kajaani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969526,
+			"lat": 65.7333404,
+			"lon": 24.5666495,
+			"tags": {
+				"name:fi": "Kemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969527,
+			"lat": 60.4000005,
+			"lon": 25.1166696,
+			"tags": {
+				"name:fi": "Kerava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969528,
+			"lat": 63.8365833,
+			"lon": 23.1336253,
+			"tags": {
+				"name:fi": "Kokkola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969529,
+			"lat": 60.4674228,
+			"lon": 26.9450844,
+			"tags": {
+				"name:fi": "Kotka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969530,
+			"lat": 60.870144,
+			"lon": 26.7018011,
+			"tags": {
+				"name:fi": "Kouvola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969531,
+			"lat": 61.0582424,
+			"lon": 28.1875302,
+			"tags": {
+				"name:fi": "Lappeenranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969532,
+			"lat": 61.4766324,
+			"lon": 23.5053509,
+			"tags": {
+				"name:fi": "Nokia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969533,
+			"lat": 60.488138,
+			"lon": 22.1635993,
+			"tags": {
+				"name:fi": "Raisio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969534,
+			"lat": 61.1289148,
+			"lon": 21.5039401,
+			"tags": {
+				"name:fi": "Rauma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969535,
+			"lat": 60.7390089,
+			"lon": 24.7728148,
+			"tags": {
+				"name:fi": "Riihimäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969536,
+			"lat": 62.7954104,
+			"lon": 22.8442015,
+			"tags": {
+				"name:fi": "Seinäjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969537,
+			"lat": 62.3176377,
+			"lon": 27.8681227,
+			"tags": {
+				"name:fi": "Varkaus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969538,
+			"lat": 61.0000058,
+			"lon": 24.4499748,
+			"tags": {
+				"name:fi": "Hämeenlinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969540,
+			"lat": 62.6032186,
+			"lon": 25.7301361,
+			"tags": {
+				"name:fi": "Äänekoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969541,
+			"lat": 62.5499772,
+			"lon": 24.0702272,
+			"tags": {
+				"name:fi": "Ähtäri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969547,
+			"lat": 61.2160602,
+			"lon": 25.500376,
+			"tags": {
+				"name:fi": "Asikkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969551,
+			"lat": 59.9744647,
+			"lon": 23.4357477,
+			"tags": {
+				"name:fi": "Tammisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969552,
+			"lat": 62.7999349,
+			"lon": 30.1504004,
+			"tags": {
+				"name:fi": "Eno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969553,
+			"lat": 61.1335128,
+			"lon": 22.1331075,
+			"tags": {
+				"name:fi": "Eura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969555,
+			"lat": 60.8167634,
+			"lon": 23.6329178,
+			"tags": {
+				"name:fi": "Forssa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969556,
+			"lat": 63.7508776,
+			"lon": 25.3127727,
+			"tags": {
+				"name:fi": "Haapajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969557,
+			"lat": 64.1378737,
+			"lon": 25.3658176,
+			"tags": {
+				"name:fi": "Haapavesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969559,
+			"lat": 61.633333,
+			"lon": 23.2,
+			"tags": {
+				"name:fi": "Hämeenkyrö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969560,
+			"lat": 60.5666705,
+			"lon": 27.2000065,
+			"tags": {
+				"name:fi": "Hamina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969561,
+			"lat": 59.8227846,
+			"lon": 22.9695072,
+			"tags": {
+				"name:fi": "Hanko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969564,
+			"lat": 65.1763737,
+			"lon": 25.3532265,
+			"tags": {
+				"name:fi": "Haukipudas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969565,
+			"lat": 60.7814147,
+			"lon": 24.9929783,
+			"tags": {
+				"name:fi": "Hausjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969568,
+			"lat": 61.1833622,
+			"lon": 22.7003288,
+			"tags": {
+				"name:fi": "Huittinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969569,
+			"lat": 60.933333,
+			"lon": 23.366667,
+			"tags": {
+				"name:fi": "Humppila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969570,
+			"lat": 64.6747218,
+			"lon": 28.4922537,
+			"tags": {
+				"name:fi": "Hyrynsalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969572,
+			"lat": 63.5567679,
+			"lon": 27.1892281,
+			"tags": {
+				"name:fi": "Iisalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969574,
+			"lat": 60.8666614,
+			"lon": 26.3833273,
+			"tags": {
+				"name:fi": "Iitti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969576,
+			"lat": 61.7701493,
+			"lon": 23.0633777,
+			"tags": {
+				"name:fi": "Ikaalinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969578,
+			"lat": 62.731342,
+			"lon": 22.5797719,
+			"tags": {
+				"name:fi": "Ilmajoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969580,
+			"lat": 62.6799792,
+			"lon": 30.9325619,
+			"tags": {
+				"name:fi": "Ilomantsi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969582,
+			"lat": 60.0466389,
+			"lon": 24.0054417,
+			"tags": {
+				"name:fi": "Inkoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969586,
+			"lat": 63,
+			"lon": 22.316667,
+			"tags": {
+				"name:fi": "Isokyrö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969593,
+			"lat": 61.8639814,
+			"lon": 25.1845044,
+			"tags": {
+				"name:fi": "Jämsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969595,
+			"lat": 61.9191417,
+			"lon": 25.1793075,
+			"tags": {
+				"name:fi": "Jämsänkoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969597,
+			"lat": 60.9281802,
+			"lon": 24.6692633,
+			"tags": {
+				"name:fi": "Janakkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969601,
+			"lat": 60.8033158,
+			"lon": 23.4868447,
+			"tags": {
+				"name:fi": "Jokioinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969603,
+			"lat": 61.7422322,
+			"lon": 26.1103922,
+			"tags": {
+				"name:fi": "Joutsa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969605,
+			"lat": 61.1116302,
+			"lon": 28.4825622,
+			"tags": {
+				"name:fi": "Joutseno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969607,
+			"lat": 63.066667,
+			"lon": 28.35,
+			"tags": {
+				"name:fi": "Juankoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969611,
+			"lat": 63.2413327,
+			"lon": 29.2537109,
+			"tags": {
+				"name:fi": "Juuka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969613,
+			"lat": 62.9757575,
+			"lon": 28.4801127,
+			"tags": {
+				"name:fi": "Kaavi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969623,
+			"lat": 61.4649006,
+			"lon": 24.0659379,
+			"tags": {
+				"name:fi": "Kangasala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969627,
+			"lat": 63.9007773,
+			"lon": 23.9170363,
+			"tags": {
+				"name:fi": "Kannus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969629,
+			"lat": 60.0732491,
+			"lon": 23.663234,
+			"tags": {
+				"name:fi": "Karjaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969631,
+			"lat": 60.5343804,
+			"lon": 24.2145287,
+			"tags": {
+				"name:fi": "Karkkila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969633,
+			"lat": 60.8769339,
+			"lon": 25.2651864,
+			"tags": {
+				"name:fi": "Kärkölä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969635,
+			"lat": 62.8778892,
+			"lon": 24.8007998,
+			"tags": {
+				"name:fi": "Karstula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969637,
+			"lat": 62.385127,
+			"lon": 21.2229123,
+			"tags": {
+				"name:fi": "Kaskinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969639,
+			"lat": 62.431748,
+			"lon": 22.1841988,
+			"tags": {
+				"name:fi": "Kauhajoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969641,
+			"lat": 63.099494,
+			"lon": 23.0686698,
+			"tags": {
+				"name:fi": "Kauhava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969645,
+			"lat": 63.5490486,
+			"lon": 23.6964967,
+			"tags": {
+				"name:fi": "Kaustinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969651,
+			"lat": 66.7161179,
+			"lon": 27.4333534,
+			"tags": {
+				"name:fi": "Kemijärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969653,
+			"lat": 64.91245,
+			"lon": 25.5108223,
+			"tags": {
+				"name:fi": "Kempele"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969655,
+			"lat": 62.2579819,
+			"lon": 24.7083599,
+			"tags": {
+				"name:fi": "Keuruu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969657,
+			"lat": 65.1299324,
+			"lon": 25.7773028,
+			"tags": {
+				"name:fi": "Kiiminki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969659,
+			"lat": 62.1001947,
+			"lon": 30.1356168,
+			"tags": {
+				"name:fi": "Kitee"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969663,
+			"lat": 63.6528354,
+			"lon": 26.619693,
+			"tags": {
+				"name:fi": "Kiuruvesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969667,
+			"lat": 61.2513342,
+			"lon": 22.3492421,
+			"tags": {
+				"name:fi": "Kokemäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969669,
+			"lat": 62.766667,
+			"lon": 29.85,
+			"tags": {
+				"name:fi": "Kontiolahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969678,
+			"lat": 62.2736018,
+			"lon": 21.3730807,
+			"tags": {
+				"name:fi": "Kristiinankaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969679,
+			"lat": 64.1261745,
+			"lon": 29.519515,
+			"tags": {
+				"name:fi": "Kuhmo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969680,
+			"lat": 61.566667,
+			"lon": 25.183333,
+			"tags": {
+				"name:fi": "Kuhmoinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969681,
+			"lat": 61.85,
+			"lon": 24.783333,
+			"tags": {
+				"name:fi": "Kuorevesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969682,
+			"lat": 62.6170727,
+			"lon": 22.3992367,
+			"tags": {
+				"name:fi": "Kurikka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969683,
+			"lat": 65.9647019,
+			"lon": 29.1867006,
+			"tags": {
+				"name:fi": "Kuusamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969688,
+			"lat": 62.9761064,
+			"lon": 22.0122155,
+			"tags": {
+				"name:fi": "Laihia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969689,
+			"lat": 60.8801155,
+			"lon": 21.6926352,
+			"tags": {
+				"name:fi": "Laitila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969691,
+			"lat": 63.3638712,
+			"lon": 27.3984804,
+			"tags": {
+				"name:fi": "Lapinlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969692,
+			"lat": 63.2193382,
+			"lon": 23.628386,
+			"tags": {
+				"name:fi": "Lappajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969694,
+			"lat": 62.9702783,
+			"lon": 23.0068628,
+			"tags": {
+				"name:fi": "Lapua"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969695,
+			"lat": 62.416667,
+			"lon": 25.95,
+			"tags": {
+				"name:fi": "Laukaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969697,
+			"lat": 61.316667,
+			"lon": 23.7499999,
+			"tags": {
+				"name:fi": "Lempäälä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969699,
+			"lat": 62.4894313,
+			"lon": 27.7860813,
+			"tags": {
+				"name:fi": "Leppävirta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969700,
+			"lat": 63.3178213,
+			"lon": 30.0191312,
+			"tags": {
+				"name:fi": "Lieksa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969702,
+			"lat": 60.5022019,
+			"lon": 22.4554559,
+			"tags": {
+				"name:fi": "Lieto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969705,
+			"lat": 64.8106448,
+			"lon": 25.4084842,
+			"tags": {
+				"name:fi": "Liminka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969706,
+			"lat": 62.5314503,
+			"lon": 29.3872024,
+			"tags": {
+				"name:fi": "Liperi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969707,
+			"lat": 60.2526036,
+			"lon": 24.0684575,
+			"tags": {
+				"name:fi": "Lohja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969708,
+			"lat": 60.8472453,
+			"lon": 23.0513931,
+			"tags": {
+				"name:fi": "Loimaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969709,
+			"lat": 60.7185304,
+			"lon": 24.4404268,
+			"tags": {
+				"name:fi": "Loppi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969710,
+			"lat": 60.4562304,
+			"lon": 26.2267726,
+			"tags": {
+				"name:fi": "Loviisa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969713,
+			"lat": 62.9332091,
+			"lon": 21.5667698,
+			"tags": {
+				"name:fi": "Maalahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969714,
+			"lat": 60.6339269,
+			"lon": 25.3188193,
+			"tags": {
+				"name:fi": "Mäntsälä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969715,
+			"lat": 62.0341467,
+			"lon": 24.6224105,
+			"tags": {
+				"name:fi": "Mänttä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969717,
+			"lat": 60.566667,
+			"lon": 22.1,
+			"tags": {
+				"name:fi": "Masku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969719,
+			"lat": 64.8063089,
+			"lon": 25.9953642,
+			"tags": {
+				"name:fi": "Muhos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969720,
+			"lat": 62.1289925,
+			"lon": 25.6749474,
+			"tags": {
+				"name:fi": "Muurame"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969723,
+			"lat": 60.4688687,
+			"lon": 22.0291149,
+			"tags": {
+				"name:fi": "Naantali"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969725,
+			"lat": 62.4779756,
+			"lon": 21.336676,
+			"tags": {
+				"name:fi": "Närpiö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969727,
+			"lat": 63.2046382,
+			"lon": 28.086253,
+			"tags": {
+				"name:fi": "Nilsiä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969728,
+			"lat": 63.9289531,
+			"lon": 24.9612586,
+			"tags": {
+				"name:fi": "Nivala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969730,
+			"lat": 60.3338298,
+			"lon": 24.3213755,
+			"tags": {
+				"name:fi": "Nummela"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969731,
+			"lat": 63.5422079,
+			"lon": 29.14101,
+			"tags": {
+				"name:fi": "Nurmes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969732,
+			"lat": 60.466667,
+			"lon": 24.8,
+			"tags": {
+				"name:fi": "Nurmijärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969734,
+			"lat": 63.5222473,
+			"lon": 22.5284347,
+			"tags": {
+				"name:fi": "Uusikaarlepyy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969735,
+			"lat": 60.8037974,
+			"lon": 25.7306477,
+			"tags": {
+				"name:fi": "Orimattila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969736,
+			"lat": 61.6775495,
+			"lon": 24.3587506,
+			"tags": {
+				"name:fi": "Orivesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969737,
+			"lat": 64.2667732,
+			"lon": 24.8000331,
+			"tags": {
+				"name:fi": "Oulainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969739,
+			"lat": 62.733333,
+			"lon": 29.016667,
+			"tags": {
+				"name:fi": "Outokumpu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969740,
+			"lat": 61.3512901,
+			"lon": 25.2785646,
+			"tags": {
+				"name:fi": "Padasjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969741,
+			"lat": 60.4570244,
+			"lon": 22.6883278,
+			"tags": {
+				"name:fi": "Paimio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969742,
+			"lat": 61.3371322,
+			"lon": 24.2649422,
+			"tags": {
+				"name:fi": "Pälkäne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969743,
+			"lat": 64.4068668,
+			"lon": 27.8335512,
+			"tags": {
+				"name:fi": "Paltamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969745,
+			"lat": 60.3054487,
+			"lon": 22.2996452,
+			"tags": {
+				"name:fi": "Parainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969746,
+			"lat": 61.5500927,
+			"lon": 29.4999948,
+			"tags": {
+				"name:fi": "Parikkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969747,
+			"lat": 62.0102011,
+			"lon": 23.0245972,
+			"tags": {
+				"name:fi": "Parkano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969750,
+			"lat": 66.7747332,
+			"lon": 23.9676822,
+			"tags": {
+				"name:fi": "Pello"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969752,
+			"lat": 62.2504776,
+			"lon": 25.2004692,
+			"tags": {
+				"name:fi": "Petäjävesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969753,
+			"lat": 63.2333327,
+			"lon": 26.7500075,
+			"tags": {
+				"name:fi": "Pielavesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969755,
+			"lat": 63.3706192,
+			"lon": 25.5754689,
+			"tags": {
+				"name:fi": "Pihtipudas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969757,
+			"lat": 61.4654497,
+			"lon": 23.6456252,
+			"tags": {
+				"name:fi": "Pirkkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969760,
+			"lat": 66.1092595,
+			"lon": 28.1650783,
+			"tags": {
+				"name:fi": "Posio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969761,
+			"lat": 65.360401,
+			"lon": 26.9984899,
+			"tags": {
+				"name:fi": "Pudasjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969762,
+			"lat": 64.8729778,
+			"lon": 27.6552537,
+			"tags": {
+				"name:fi": "Puolanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969763,
+			"lat": 63.6809739,
+			"lon": 25.9733504,
+			"tags": {
+				"name:fi": "Pyhäjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969764,
+			"lat": 64.4663193,
+			"lon": 24.2550528,
+			"tags": {
+				"name:fi": "Pyhäjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969767,
+			"lat": 65.9276817,
+			"lon": 26.5131044,
+			"tags": {
+				"name:fi": "Ranua"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969768,
+			"lat": 62.6181495,
+			"lon": 26.8470499,
+			"tags": {
+				"name:fi": "Rautalampi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969769,
+			"lat": 61.4318984,
+			"lon": 29.3523937,
+			"tags": {
+				"name:fi": "Simpele"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969770,
+			"lat": 61.2912416,
+			"lon": 28.8295473,
+			"tags": {
+				"name:fi": "Ruokolahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969775,
+			"lat": 61.0506941,
+			"lon": 22.333669,
+			"tags": {
+				"name:fi": "Säkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969776,
+			"lat": 66.8318774,
+			"lon": 28.6668631,
+			"tags": {
+				"name:fi": "Salla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969777,
+			"lat": 60.3846716,
+			"lon": 23.1286377,
+			"tags": {
+				"name:fi": "Salo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969778,
+			"lat": 61.1968302,
+			"lon": 27.6806426,
+			"tags": {
+				"name:fi": "Savitaipale"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969780,
+			"lat": 60.376199,
+			"lon": 25.2651428,
+			"tags": {
+				"name:fi": "Sipoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969781,
+			"lat": 63.0743109,
+			"lon": 27.6623456,
+			"tags": {
+				"name:fi": "Siilinjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969783,
+			"lat": 67.4189716,
+			"lon": 26.5902179,
+			"tags": {
+				"name:fi": "Sodankylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969785,
+			"lat": 63.6689479,
+			"lon": 27.5233154,
+			"tags": {
+				"name:fi": "Sonkajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969786,
+			"lat": 64.1318262,
+			"lon": 28.3878316,
+			"tags": {
+				"name:fi": "Sotkamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969788,
+			"lat": 62.6241926,
+			"lon": 27.1245609,
+			"tags": {
+				"name:fi": "Suonenjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969789,
+			"lat": 65.5752942,
+			"lon": 28.2425866,
+			"tags": {
+				"name:fi": "Taivalkoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969790,
+			"lat": 60.8075779,
+			"lon": 23.7667967,
+			"tags": {
+				"name:fi": "Tammela"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969791,
+			"lat": 60.8151183,
+			"lon": 24.6258213,
+			"tags": {
+				"name:fi": "Tervakoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969792,
+			"lat": 62.4841034,
+			"lon": 21.7393192,
+			"tags": {
+				"name:fi": "Teuva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969796,
+			"lat": 62.2259448,
+			"lon": 30.3335512,
+			"tags": {
+				"name:fi": "Tohmajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969802,
+			"lat": 65.8457589,
+			"lon": 24.1464,
+			"tags": {
+				"name:fi": "Tornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969803,
+			"lat": 60.4035495,
+			"lon": 25.0193959,
+			"tags": {
+				"name:fi": "Tuusula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969804,
+			"lat": 64.7621368,
+			"lon": 25.6498871,
+			"tags": {
+				"name:fi": "Tyrnävä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969805,
+			"lat": 62.9166655,
+			"lon": 30.2499931,
+			"tags": {
+				"name:fi": "Uimaharju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969806,
+			"lat": 61.433333,
+			"lon": 21.883333,
+			"tags": {
+				"name:fi": "Ulvila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969808,
+			"lat": 60.8016507,
+			"lon": 21.4086143,
+			"tags": {
+				"name:fi": "Uusikaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969812,
+			"lat": 64.5565274,
+			"lon": 26.8466518,
+			"tags": {
+				"name:fi": "Vaala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969817,
+			"lat": 61.3396213,
+			"lon": 22.9139772,
+			"tags": {
+				"name:fi": "Sastamala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969819,
+			"lat": 60.6166634,
+			"lon": 27.2500029,
+			"tags": {
+				"name:fi": "Vehkalahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969823,
+			"lat": 63.4719205,
+			"lon": 23.792566,
+			"tags": {
+				"name:fi": "Veteli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969825,
+			"lat": 63.75,
+			"lon": 27.016667,
+			"tags": {
+				"name:fi": "Vieremä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969828,
+			"lat": 60.4168803,
+			"lon": 24.320558,
+			"tags": {
+				"name:fi": "Vihti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969832,
+			"lat": 63.0837203,
+			"lon": 25.8528349,
+			"tags": {
+				"name:fi": "Viitasaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969839,
+			"lat": 62.2402483,
+			"lon": 23.7725594,
+			"tags": {
+				"name:fi": "Virrat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969854,
+			"lat": 61.6877956,
+			"lon": 27.2726569,
+			"tags": {
+				"name:fi": "Mikkeli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969875,
+			"lat": 66.3164258,
+			"lon": 23.6712997,
+			"tags": {
+				"name:fi": "Ylitornio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969876,
+			"lat": 64.0728903,
+			"lon": 24.5327326,
+			"tags": {
+				"name:fi": "Ylivieska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969878,
+			"lat": 61.5499614,
+			"lon": 23.5969495,
+			"tags": {
+				"name:fi": "Ylöjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31058179,
+			"lat": 43.1349971,
+			"lon": 24.715431,
+			"tags": {
+				"name:fi": "Lovetš"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31058197,
+			"lat": 43.2049102,
+			"lon": 23.5556418,
+			"tags": {
+				"name:fi": "Vratsa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31264165,
+			"lat": 70.3677049,
+			"lon": 31.0997854,
+			"tags": {
+				"name:fi": "Vuoreija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31376615,
+			"lat": 35.5141834,
+			"lon": 24.0181459,
+			"tags": {
+				"name:fi": "Hania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32013127,
+			"lat": 39.0194741,
+			"lon": 125.753388,
+			"tags": {
+				"name:fi": "Pjongjang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32520143,
+			"lat": 36.197971,
+			"lon": 37.1656697,
+			"tags": {
+				"name:fi": "Aleppo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32675806,
+			"lat": -33.928992,
+			"lon": 18.417396,
+			"tags": {
+				"name:fi": "Kapkaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 33622904,
+			"lat": 46.2017559,
+			"lon": 6.1466014,
+			"tags": {
+				"name:fi": "Geneve"
+			}
+		},
+		{
+			"type": "node",
+			"id": 33625350,
+			"lat": 61.797009,
+			"lon": 25.7046425,
+			"tags": {
+				"name:fi": "Luhanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 33779515,
+			"lat": 69.0110992,
+			"lon": 23.0368311,
+			"tags": {
+				"name:fi": "Koutokeino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34002096,
+			"lat": 67.8550724,
+			"lon": 20.2255482,
+			"tags": {
+				"name:fi": "Kiiruna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34043670,
+			"lat": 43.5854823,
+			"lon": 39.723109,
+			"tags": {
+				"name:fi": "Sotši"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34089539,
+			"lat": 62.5007704,
+			"lon": 25.4379608,
+			"tags": {
+				"name:fi": "Uurainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34181150,
+			"lat": 44.5610248,
+			"lon": 38.0767599,
+			"tags": {
+				"name:fi": "Gelendžik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34390476,
+			"lat": 60.366665,
+			"lon": 28.616673,
+			"tags": {
+				"name:fi": "Koivisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34390960,
+			"lat": 60.6280319,
+			"lon": 28.5688339,
+			"tags": {
+				"name:fi": "Uuras"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34391623,
+			"lat": 61.1112542,
+			"lon": 28.8701036,
+			"tags": {
+				"name:fi": "Enso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34391624,
+			"lat": 60.9526102,
+			"lon": 29.1303401,
+			"tags": {
+				"name:fi": "Antrea"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34582422,
+			"lat": -22.9110137,
+			"lon": -43.2093727,
+			"tags": {
+				"name:fi": "Rio de Janeiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 34684808,
+			"lat": 2.042778,
+			"lon": 45.338564,
+			"tags": {
+				"name:fi": "Mogadishu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 38461549,
+			"lat": 67.135243,
+			"lon": 20.6604843,
+			"tags": {
+				"name:fi": "Jällivaara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 39682896,
+			"lat": 48.0158753,
+			"lon": 37.8013407,
+			"tags": {
+				"name:fi": "Donetsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 52943358,
+			"lat": 49.6112768,
+			"lon": 6.129799,
+			"tags": {
+				"name:fi": "Luxemburg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 53211431,
+			"lat": 61.8689933,
+			"lon": 28.8797178,
+			"tags": {
+				"name:fi": "Savonlinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 53233332,
+			"lat": 62.1782081,
+			"lon": 27.8284927,
+			"tags": {
+				"name:fi": "Joroinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 57549546,
+			"lat": 39.6382927,
+			"lon": 22.4159499,
+			"tags": {
+				"name:fi": "Larissa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 57554537,
+			"lat": 40.6403167,
+			"lon": 22.9352716,
+			"tags": {
+				"name:fi": "Thessaloniki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60079145,
+			"lat": 59.5414322,
+			"lon": 30.8769783,
+			"tags": {
+				"name:fi": "Tusina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60081897,
+			"lat": 59.748444,
+			"lon": 30.604479,
+			"tags": {
+				"name:fi": "Kolpina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60251543,
+			"lat": 61.7872702,
+			"lon": 28.3712945,
+			"tags": {
+				"name:fi": "Sulkava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60405981,
+			"lat": 57.040794,
+			"lon": 34.973373,
+			"tags": {
+				"name:fi": "Toržok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60441122,
+			"lat": 60.7586535,
+			"lon": 22.6456935,
+			"tags": {
+				"name:fi": "Pöytyä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60477767,
+			"lat": 60.1970751,
+			"lon": 29.7071585,
+			"tags": {
+				"name:fi": "Terijoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60571493,
+			"lat": 44.8178787,
+			"lon": 20.4568089,
+			"tags": {
+				"name:fi": "Belgrad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60696063,
+			"lat": 59.3463239,
+			"lon": 31.2442083,
+			"tags": {
+				"name:fi": "Ljuban"
+			}
+		},
+		{
+			"type": "node",
+			"id": 62221032,
+			"lat": 38.2462033,
+			"lon": 21.7352492,
+			"tags": {
+				"name:fi": "Patras"
+			}
+		},
+		{
+			"type": "node",
+			"id": 62270270,
+			"lat": 19.4326009,
+			"lon": -99.1333416,
+			"tags": {
+				"name:fi": "México"
+			}
+		},
+		{
+			"type": "node",
+			"id": 62505581,
+			"lat": 45.4667971,
+			"lon": 9.1904984,
+			"tags": {
+				"name:fi": "Milano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 63621589,
+			"lat": 45.0677551,
+			"lon": 7.6824892,
+			"tags": {
+				"name:fi": "Torino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 64778090,
+			"lat": 45.4371908,
+			"lon": 12.3345899,
+			"tags": {
+				"name:fi": "Venetsia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 67253662,
+			"lat": 38.11127,
+			"lon": 13.3534422,
+			"tags": {
+				"name:fi": "Palermo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 67253693,
+			"lat": 37.5021788,
+			"lon": 15.0872574,
+			"tags": {
+				"name:fi": "Catania"
+			}
+		},
+		{
+			"type": "node",
+			"id": 68528603,
+			"lat": 40.4712427,
+			"lon": 17.2432278,
+			"tags": {
+				"name:fi": "Taranto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 68651691,
+			"lat": 43.3143628,
+			"lon": -2.6778511,
+			"tags": {
+				"name:fi": "Guernica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 72959652,
+			"lat": 41.8988173,
+			"lon": 12.47311,
+			"tags": {
+				"name:fi": "Rooma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 74132064,
+			"lat": 21.0292095,
+			"lon": 105.85247,
+			"tags": {
+				"name:fi": "Hanoi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 82452220,
+			"lat": 56.3355543,
+			"lon": 36.7352147,
+			"tags": {
+				"name:fi": "Klin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 82545393,
+			"lat": 61.0385285,
+			"lon": 30.1248482,
+			"tags": {
+				"name:fi": "Käkisalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 82989938,
+			"lat": 62.2393002,
+			"lon": 25.745951,
+			"tags": {
+				"name:fi": "Jyväskylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 83087798,
+			"lat": 59.881847,
+			"lon": 29.912041,
+			"tags": {
+				"name:fi": "Pietarhovi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 83308922,
+			"lat": 60.256651,
+			"lon": 29.6051421,
+			"tags": {
+				"name:fi": "Raivola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 83312335,
+			"lat": 60.5570987,
+			"lon": 30.2540609,
+			"tags": {
+				"name:fi": "Rautu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 90495941,
+			"lat": 55.0951738,
+			"lon": 36.611913,
+			"tags": {
+				"name:fi": "Obninsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 92441557,
+			"lat": 56.7366104,
+			"lon": 38.8462821,
+			"tags": {
+				"name:fi": "Pereslavl-Zalesski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 96209423,
+			"lat": 44.4361414,
+			"lon": 26.1027202,
+			"tags": {
+				"name:fi": "Bukarest"
+			}
+		},
+		{
+			"type": "node",
+			"id": 125891414,
+			"lat": 60.143707,
+			"lon": 30.207806,
+			"tags": {
+				"name:fi": "Sierattala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 126244310,
+			"lat": 36.4379874,
+			"lon": 28.2233083,
+			"tags": {
+				"name:fi": "Rodos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 127834997,
+			"lat": 51.2705259,
+			"lon": 30.2194322,
+			"tags": {
+				"name:fi": "Tšernobyl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 127835001,
+			"lat": 51.4061237,
+			"lon": 30.0571098,
+			"tags": {
+				"name:fi": "Prypjat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 130040361,
+			"lat": 40.1776121,
+			"lon": 44.5125849,
+			"tags": {
+				"name:fi": "Jerevan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 130170551,
+			"lat": 40.7828829,
+			"lon": 21.4145565,
+			"tags": {
+				"name:fi": "Flórina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 143564891,
+			"lat": 55.8892847,
+			"lon": 37.4449896,
+			"tags": {
+				"name:fi": "Himki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148901123,
+			"lat": 57.7679158,
+			"lon": 40.9269141,
+			"tags": {
+				"name:fi": "Kostroma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148901125,
+			"lat": 56.9984452,
+			"lon": 40.9737394,
+			"tags": {
+				"name:fi": "Ivanovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 150936508,
+			"lat": 48.118146,
+			"lon": -123.4307413,
+			"tags": {
+				"name:fi": "Port Angeles"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153353016,
+			"lat": 39.7683331,
+			"lon": -86.1583502,
+			"tags": {
+				"name:fi": "Indianapolis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 156159426,
+			"lat": 55.7813357,
+			"lon": 38.6507838,
+			"tags": {
+				"name:fi": "Pavlovski Posad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 156167469,
+			"lat": 55.7903785,
+			"lon": 38.4405711,
+			"tags": {
+				"name:fi": "Elektrostal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 156167485,
+			"lat": 55.8553511,
+			"lon": 38.4411898,
+			"tags": {
+				"name:fi": "Noginsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 158368533,
+			"lat": 38.8949549,
+			"lon": -77.0366456,
+			"tags": {
+				"name:fi": "Washington"
+			}
+		},
+		{
+			"type": "node",
+			"id": 161650096,
+			"lat": 37.9386936,
+			"lon": 22.9280447,
+			"tags": {
+				"name:fi": "Korintti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 163043169,
+			"lat": 56.488712,
+			"lon": 84.952324,
+			"tags": {
+				"name:fi": "Tomsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191644503,
+			"lat": 42.97554,
+			"lon": 47.49612,
+			"tags": {
+				"name:fi": "Mahatškala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191657470,
+			"lat": 53.71529,
+			"lon": 91.438873,
+			"tags": {
+				"name:fi": "Abakan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191697061,
+			"lat": 46.349854,
+			"lon": 48.031567,
+			"tags": {
+				"name:fi": "Astrahan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191698855,
+			"lat": 56.1288899,
+			"lon": 40.4075203,
+			"tags": {
+				"name:fi": "Vladimir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191738860,
+			"lat": 48.7881668,
+			"lon": 132.9282082,
+			"tags": {
+				"name:fi": "Birobidžan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191749240,
+			"lat": 55.7420117,
+			"lon": 52.3992173,
+			"tags": {
+				"name:fi": "Naberežnyje Tšelny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191771467,
+			"lat": 47.7119167,
+			"lon": 40.2115699,
+			"tags": {
+				"name:fi": "Šahty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191858851,
+			"lat": 55.6783142,
+			"lon": 37.89377,
+			"tags": {
+				"name:fi": "Ljubertsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191867420,
+			"lat": 55.0938743,
+			"lon": 38.7670121,
+			"tags": {
+				"name:fi": "Kolomna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191871925,
+			"lat": 55.6711507,
+			"lon": 37.2727963,
+			"tags": {
+				"name:fi": "Odintsovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191880180,
+			"lat": 54.9155247,
+			"lon": 37.4195533,
+			"tags": {
+				"name:fi": "Serpuhov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191885615,
+			"lat": 55.8083278,
+			"lon": 38.9790038,
+			"tags": {
+				"name:fi": "Orehovo-Zujevo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191913805,
+			"lat": 55.5972801,
+			"lon": 38.1199863,
+			"tags": {
+				"name:fi": "Žukovski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 192288043,
+			"lat": 35.5200185,
+			"lon": 35.7781044,
+			"tags": {
+				"name:fi": "Lattakia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 195297952,
+			"lat": 60.6702833,
+			"lon": 25.8513925,
+			"tags": {
+				"name:fi": "Myrskylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 198296889,
+			"lat": 69.9668853,
+			"lon": 23.2725891,
+			"tags": {
+				"name:fi": "Alattio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 206292236,
+			"lat": 47.7857051,
+			"lon": 18.7403659,
+			"tags": {
+				"name:fi": "Esztergom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 211503865,
+			"lat": 60.068558,
+			"lon": 30.394814,
+			"tags": {
+				"name:fi": "Pukrankylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 215106645,
+			"lat": 60.4476393,
+			"lon": 26.0303389,
+			"tags": {
+				"name:fi": "Pernaja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 217317194,
+			"lat": 59.376495,
+			"lon": 28.611298,
+			"tags": {
+				"name:fi": "Jaama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 217323851,
+			"lat": 59.375828,
+			"lon": 28.226357,
+			"tags": {
+				"name:fi": "Iivananlinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 226881400,
+			"lat": 23.5997857,
+			"lon": 58.5451305,
+			"tags": {
+				"name:fi": "Masqat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 235967510,
+			"lat": 60.0981084,
+			"lon": 29.9597606,
+			"tags": {
+				"name:fi": "Siestarjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240025182,
+			"lat": 47.3685586,
+			"lon": 8.5404434,
+			"tags": {
+				"name:fi": "Zürich"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240092010,
+			"lat": 47.9960901,
+			"lon": 7.8494005,
+			"tags": {
+				"name:fi": "Freiburg im Breisgau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240109189,
+			"lat": 52.5170365,
+			"lon": 13.3888599,
+			"tags": {
+				"name:fi": "Berliini"
+			}
+		},
+		{
+			"type": "node",
+			"id": 240120582,
+			"lat": 49.014068,
+			"lon": 8.404437,
+			"tags": {
+				"name:fi": "Karlsruhe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978899,
+			"lat": 53.60684,
+			"lon": 24.73915,
+			"tags": {
+				"name:fi": "Štšutšyn"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978956,
+			"lat": 54.8569819,
+			"lon": 29.1598825,
+			"tags": {
+				"name:fi": "Tchachniki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243067858,
+			"lat": 60.2186937,
+			"lon": 30.2931287,
+			"tags": {
+				"name:fi": "Ohalatva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243067926,
+			"lat": 60.0837018,
+			"lon": 30.2795673,
+			"tags": {
+				"name:fi": "Parkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243068681,
+			"lat": 60.024006,
+			"lon": 30.646042,
+			"tags": {
+				"name:fi": "Seuloskoi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243480022,
+			"lat": 60.1591625,
+			"lon": 30.5252704,
+			"tags": {
+				"name:fi": "Toksova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243682125,
+			"lat": 47.7848912,
+			"lon": 18.9705776,
+			"tags": {
+				"name:fi": "Visegrád"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081031,
+			"lat": 44.4195345,
+			"lon": 84.9093735,
+			"tags": {
+				"name:fi": "Kuytun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081381,
+			"lat": 32.0609736,
+			"lon": 118.7916458,
+			"tags": {
+				"name:fi": "Nanjing"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081999,
+			"lat": 43.8058709,
+			"lon": 87.6064713,
+			"tags": {
+				"name:fi": "Ürümqi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244217868,
+			"lat": 59.990845,
+			"lon": 29.774652,
+			"tags": {
+				"name:fi": "Kronstadt"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244374623,
+			"lat": 64.6796865,
+			"lon": 24.4709175,
+			"tags": {
+				"name:fi": "Raahe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 245916676,
+			"lat": 63.366783,
+			"lon": 24.9708779,
+			"tags": {
+				"name:fi": "Kinnula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246676969,
+			"lat": 59.947418,
+			"lon": 30.561453,
+			"tags": {
+				"name:fi": "Saksan Jaanila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246678899,
+			"lat": 59.8813954,
+			"lon": 30.9855331,
+			"tags": {
+				"name:fi": "Korotka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246837430,
+			"lat": -20.8799889,
+			"lon": 55.448137,
+			"tags": {
+				"name:fi": "Saint-Denis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247216329,
+			"lat": 62.0820094,
+			"lon": 32.345856,
+			"tags": {
+				"name:fi": "Suojärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248268280,
+			"lat": 59.9615811,
+			"lon": 29.4166768,
+			"tags": {
+				"name:fi": "Lepäsi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248517049,
+			"lat": 60.7339323,
+			"lon": 33.5457731,
+			"tags": {
+				"name:fi": "Lotinapelto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248560493,
+			"lat": 58.247665,
+			"lon": 32.522858,
+			"tags": {
+				"name:fi": "Krestsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248561620,
+			"lat": 57.9791414,
+			"lon": 33.2537994,
+			"tags": {
+				"name:fi": "Valdai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248561802,
+			"lat": 57.885204,
+			"lon": 34.049603,
+			"tags": {
+				"name:fi": "Bologoje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249423791,
+			"lat": 60.102423,
+			"lon": 19.94126,
+			"tags": {
+				"name:fi": "Maarianhamina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249589704,
+			"lat": 60.1378436,
+			"lon": 24.2266417,
+			"tags": {
+				"name:fi": "Siuntio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249759120,
+			"lat": 60.0460671,
+			"lon": 30.4458472,
+			"tags": {
+				"name:fi": "Muurola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249841082,
+			"lat": 61.1211675,
+			"lon": 29.8730838,
+			"tags": {
+				"name:fi": "Kaarlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 252546931,
+			"lat": 55.7043101,
+			"lon": 38.9569091,
+			"tags": {
+				"name:fi": "Likino-Duljovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253016504,
+			"lat": 55.3829765,
+			"lon": 39.0356223,
+			"tags": {
+				"name:fi": "Jegorjevsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253041038,
+			"lat": 55.9964173,
+			"lon": 37.1984616,
+			"tags": {
+				"name:fi": "Zelenograd"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253338949,
+			"lat": 55.5755486,
+			"lon": 36.6952802,
+			"tags": {
+				"name:fi": "Kubinka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253338950,
+			"lat": 55.7293613,
+			"lon": 36.8585382,
+			"tags": {
+				"name:fi": "Zvenigorod"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253438546,
+			"lat": 55.821744,
+			"lon": 37.3404142,
+			"tags": {
+				"name:fi": "Krasnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253732932,
+			"lat": 55.4219938,
+			"lon": 38.2590612,
+			"tags": {
+				"name:fi": "Bronnitsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253874196,
+			"lat": 48.5674507,
+			"lon": 39.2912928,
+			"tags": {
+				"name:fi": "Luhansk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 253877159,
+			"lat": 48.4693266,
+			"lon": 38.803538,
+			"tags": {
+				"name:fi": "Altševsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 254467298,
+			"lat": 42.4916507,
+			"lon": 78.3900779,
+			"tags": {
+				"name:fi": "Karakul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361817,
+			"lat": 55.5069136,
+			"lon": 37.5673544,
+			"tags": {
+				"name:fi": "Štšerbinka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361843,
+			"lat": 55.5709361,
+			"lon": 38.2282099,
+			"tags": {
+				"name:fi": "Ramenskoje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361847,
+			"lat": 55.8792983,
+			"lon": 38.7858721,
+			"tags": {
+				"name:fi": "Elektrogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361848,
+			"lat": 55.7448093,
+			"lon": 38.8491341,
+			"tags": {
+				"name:fi": "Drezna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361850,
+			"lat": 55.578403,
+			"lon": 39.5437584,
+			"tags": {
+				"name:fi": "Šatura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361852,
+			"lat": 55.6603765,
+			"lon": 39.8776533,
+			"tags": {
+				"name:fi": "Rošal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361853,
+			"lat": 55.9310313,
+			"lon": 39.4599489,
+			"tags": {
+				"name:fi": "Petuški"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361869,
+			"lat": 54.886598,
+			"lon": 38.0772589,
+			"tags": {
+				"name:fi": "Stupino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361870,
+			"lat": 54.837449,
+			"lon": 38.1505119,
+			"tags": {
+				"name:fi": "Kašira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361872,
+			"lat": 54.479279,
+			"lon": 37.693329,
+			"tags": {
+				"name:fi": "Jasnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361873,
+			"lat": 54.854209,
+			"lon": 38.5598853,
+			"tags": {
+				"name:fi": "Ozjory"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361874,
+			"lat": 54.7586344,
+			"lon": 38.8817279,
+			"tags": {
+				"name:fi": "Zaraisk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361887,
+			"lat": 55.7184467,
+			"lon": 38.2228192,
+			"tags": {
+				"name:fi": "Elektrougli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613930,
+			"lat": 48.0448144,
+			"lon": 37.9635093,
+			"tags": {
+				"name:fi": "Makijivka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256613986,
+			"lat": 48.8522691,
+			"lon": 37.6058241,
+			"tags": {
+				"name:fi": "Slovjansk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256991275,
+			"lat": 13.0998526,
+			"lon": 103.1966659,
+			"tags": {
+				"name:fi": "Băt Dâmbâng"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257363453,
+			"lat": 35.8404121,
+			"lon": 128.5586643,
+			"tags": {
+				"name:fi": "Daegu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257363455,
+			"lat": 36.3326329,
+			"lon": 127.3845762,
+			"tags": {
+				"name:fi": "Daejeon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257838557,
+			"lat": 13.3452447,
+			"lon": 103.8541628,
+			"tags": {
+				"name:fi": "Siĕm Réab"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257906827,
+			"lat": 60.532538,
+			"lon": 28.6697439,
+			"tags": {
+				"name:fi": "Johannes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 258834478,
+			"lat": 55.5825823,
+			"lon": 37.9084815,
+			"tags": {
+				"name:fi": "Lytkarino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259862730,
+			"lat": 53.811798,
+			"lon": 36.137001,
+			"tags": {
+				"name:fi": "Beljov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 261076253,
+			"lat": 47.2036761,
+			"lon": 27.7987286,
+			"tags": {
+				"name:fi": "Ungheni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265018692,
+			"lat": 35.6828378,
+			"lon": 139.7589667,
+			"tags": {
+				"name:fi": "Tokio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265056942,
+			"lat": 49.4447888,
+			"lon": 32.0587805,
+			"tags": {
+				"name:fi": "Tšerkasy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265058149,
+			"lat": 49.0797222,
+			"lon": 33.4325,
+			"tags": {
+				"name:fi": "Krementšuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265099159,
+			"lat": 47.3884177,
+			"lon": 28.8285808,
+			"tags": {
+				"name:fi": "Orhei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265607597,
+			"lat": 60.1660125,
+			"lon": 22.7385024,
+			"tags": {
+				"name:fi": "Kemiö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 268459612,
+			"lat": 48.9225224,
+			"lon": 24.7103188,
+			"tags": {
+				"name:fi": "Ivano-Frankivsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269342417,
+			"lat": 68.970665,
+			"lon": 33.07497,
+			"tags": {
+				"name:fi": "Murmansk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269913250,
+			"lat": 16.8602906,
+			"lon": -99.8768321,
+			"tags": {
+				"name:fi": "Acapulco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 270420987,
+			"lat": 55.3879906,
+			"lon": 36.7399678,
+			"tags": {
+				"name:fi": "Naro-Fominsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 270470354,
+			"lat": 59.355141,
+			"lon": 30.068037,
+			"tags": {
+				"name:fi": "Siiverska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 270875270,
+			"lat": 58.842407,
+			"lon": 57.555058,
+			"tags": {
+				"name:fi": "Gubaha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271231306,
+			"lat": 55.1426603,
+			"lon": 37.4545328,
+			"tags": {
+				"name:fi": "Tšehov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271283522,
+			"lat": 54.7293536,
+			"lon": 37.1815538,
+			"tags": {
+				"name:fi": "Tarusa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271613766,
+			"lat": 30.048819,
+			"lon": 31.243666,
+			"tags": {
+				"name:fi": "Kairo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 272845466,
+			"lat": 69.4062217,
+			"lon": 30.2114216,
+			"tags": {
+				"name:fi": "Kolosjoki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 273488837,
+			"lat": 42.6232531,
+			"lon": 25.3967476,
+			"tags": {
+				"name:fi": "Kazanlăk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 274202470,
+			"lat": 42.1071766,
+			"lon": 43.0350696,
+			"tags": {
+				"name:fi": "Zestaponi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276627958,
+			"lat": 64.5216684,
+			"lon": 34.7625835,
+			"tags": {
+				"name:fi": "Belomorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276628719,
+			"lat": 64.543022,
+			"lon": 40.537121,
+			"tags": {
+				"name:fi": "Arkangeli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278473852,
+			"lat": 32.9281747,
+			"lon": 35.0756366,
+			"tags": {
+				"name:fi": "Akko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280304251,
+			"lat": 54.75795,
+			"lon": 83.1068095,
+			"tags": {
+				"name:fi": "Berdsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280982720,
+			"lat": 43.9363996,
+			"lon": 12.4466991,
+			"tags": {
+				"name:fi": "San Marino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 283573095,
+			"lat": 60.6273036,
+			"lon": 26.1981468,
+			"tags": {
+				"name:fi": "Lapinjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 283581865,
+			"lat": 58.4534571,
+			"lon": 56.4245447,
+			"tags": {
+				"name:fi": "Dobrjanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 285734826,
+			"lat": 60.4017837,
+			"lon": 57.0767045,
+			"tags": {
+				"name:fi": "Krasnovišersk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 286523928,
+			"lat": 54.084549,
+			"lon": 61.551991,
+			"tags": {
+				"name:fi": "Troitsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 286542728,
+			"lat": 38.9004584,
+			"lon": 22.4341691,
+			"tags": {
+				"name:fi": "Lamia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 289346590,
+			"lat": 33.8959203,
+			"lon": 35.47843,
+			"tags": {
+				"name:fi": "Beirut"
+			}
+		},
+		{
+			"type": "node",
+			"id": 291725496,
+			"lat": 42.3253518,
+			"lon": 42.5979488,
+			"tags": {
+				"name:fi": "Tsqaltubo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 291727016,
+			"lat": 42.2910523,
+			"lon": 43.2866046,
+			"tags": {
+				"name:fi": "Tšiatura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 292226474,
+			"lat": 69.400925,
+			"lon": 32.441334,
+			"tags": {
+				"name:fi": "Zaozersk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 293546203,
+			"lat": 32.2204986,
+			"lon": 35.2568883,
+			"tags": {
+				"name:fi": "Sikkem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 293620554,
+			"lat": 58.3727059,
+			"lon": 26.7237528,
+			"tags": {
+				"name:fi": "Tartto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 293896977,
+			"lat": 61.0610432,
+			"lon": 27.8050674,
+			"tags": {
+				"name:fi": "Lemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294107164,
+			"lat": 34.0123846,
+			"lon": 71.5787458,
+			"tags": {
+				"name:fi": "Peshāwar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 296410521,
+			"lat": 56.500682,
+			"lon": 56.0762788,
+			"tags": {
+				"name:fi": "Tšernuška"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298352406,
+			"lat": 44.4618046,
+			"lon": 39.741048,
+			"tags": {
+				"name:fi": "Apšeronsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299120862,
+			"lat": 34.022405,
+			"lon": -6.834543,
+			"tags": {
+				"name:fi": "Rabat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299302852,
+			"lat": 41.5117618,
+			"lon": 20.960212,
+			"tags": {
+				"name:fi": "Kicevo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299569447,
+			"lat": 31.128233,
+			"lon": 30.646198,
+			"tags": {
+				"name:fi": "Disuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299617915,
+			"lat": 36.775348,
+			"lon": 3.060065,
+			"tags": {
+				"name:fi": "Alger"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299937114,
+			"lat": 31.5302006,
+			"lon": 35.094777,
+			"tags": {
+				"name:fi": "Hebron"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299944872,
+			"lat": 31.3457612,
+			"lon": 34.3025277,
+			"tags": {
+				"name:fi": "Han Junis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 300156975,
+			"lat": 54.35392,
+			"lon": 41.926643,
+			"tags": {
+				"name:fi": "Sasovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 300254767,
+			"lat": 32.4618837,
+			"lon": 35.297566,
+			"tags": {
+				"name:fi": "Jenin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 300377090,
+			"lat": 59.8424,
+			"lon": 31.586657,
+			"tags": {
+				"name:fi": "Naasia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 303015164,
+			"lat": 66.6780339,
+			"lon": 34.3376019,
+			"tags": {
+				"name:fi": "Umpi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304009402,
+			"lat": 60.4756432,
+			"lon": 25.3745932,
+			"tags": {
+				"name:fi": "Pornainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304025149,
+			"lat": 67.563049,
+			"lon": 30.474108,
+			"tags": {
+				"name:fi": "Koutero"
+			}
+		},
+		{
+			"type": "node",
+			"id": 305097830,
+			"lat": 50.9160647,
+			"lon": 31.1167509,
+			"tags": {
+				"name:fi": "Kozelets"
+			}
+		},
+		{
+			"type": "node",
+			"id": 307965249,
+			"lat": 58.566597,
+			"lon": 57.833389,
+			"tags": {
+				"name:fi": "Gremjatšinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 309353206,
+			"lat": 54.230217,
+			"lon": 39.027538,
+			"tags": {
+				"name:fi": "Mihailov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 309493556,
+			"lat": 64.9550895,
+			"lon": 34.5697446,
+			"tags": {
+				"name:fi": "Kemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 309773771,
+			"lat": 61.693157,
+			"lon": 33.622738,
+			"tags": {
+				"name:fi": "Prääsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 309965794,
+			"lat": 61.5717807,
+			"lon": 31.4744211,
+			"tags": {
+				"name:fi": "Pitkäranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 314794893,
+			"lat": 55.6149968,
+			"lon": 40.6708665,
+			"tags": {
+				"name:fi": "Gus-Hrustalnyi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 315390382,
+			"lat": 19.7540045,
+			"lon": 96.1344976,
+			"tags": {
+				"name:fi": "Naypyidaw"
+			}
+		},
+		{
+			"type": "node",
+			"id": 326805677,
+			"lat": 60.0293761,
+			"lon": 23.5261949,
+			"tags": {
+				"name:fi": "Raasepori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332350145,
+			"lat": 53.141834,
+			"lon": 38.116188,
+			"tags": {
+				"name:fi": "Jefremov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332371954,
+			"lat": 48.3210807,
+			"lon": 40.2650679,
+			"tags": {
+				"name:fi": "Kamensk-Šahtinski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332784789,
+			"lat": 32.3210552,
+			"lon": 35.3689104,
+			"tags": {
+				"name:fi": "Tubas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332791003,
+			"lat": 31.7020867,
+			"lon": 35.2297392,
+			"tags": {
+				"name:fi": "Beit Sahur"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332791394,
+			"lat": 31.5775469,
+			"lon": 35.099317,
+			"tags": {
+				"name:fi": "Halhul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332791725,
+			"lat": 31.5168713,
+			"lon": 35.163048,
+			"tags": {
+				"name:fi": "Bani Naim"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332791981,
+			"lat": 31.445255,
+			"lon": 35.0900532,
+			"tags": {
+				"name:fi": "Jatta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332792048,
+			"lat": 31.4077191,
+			"lon": 34.9710159,
+			"tags": {
+				"name:fi": "Ad-Dahirija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332792078,
+			"lat": 31.3991137,
+			"lon": 35.0669568,
+			"tags": {
+				"name:fi": "As Samu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332951187,
+			"lat": 31.5061233,
+			"lon": 34.9515852,
+			"tags": {
+				"name:fi": "Beit Avva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332961581,
+			"lat": 32.3072839,
+			"lon": 35.1160492,
+			"tags": {
+				"name:fi": "Anabta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336140276,
+			"lat": 52.49612,
+			"lon": 39.955162,
+			"tags": {
+				"name:fi": "Grjazi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336140813,
+			"lat": 51.03437,
+			"lon": 36.732021,
+			"tags": {
+				"name:fi": "Prohorovka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306337,
+			"lat": 54.004465,
+			"lon": 37.5179079,
+			"tags": {
+				"name:fi": "Štšokino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306378,
+			"lat": 54.011013,
+			"lon": 38.290943,
+			"tags": {
+				"name:fi": "Novomoskovsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336306490,
+			"lat": 53.708599,
+			"lon": 37.289799,
+			"tags": {
+				"name:fi": "Plavsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 336526429,
+			"lat": 53.248169,
+			"lon": 50.489956,
+			"tags": {
+				"name:fi": "Aleksejevka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337593799,
+			"lat": 48.5623082,
+			"lon": 38.6416719,
+			"tags": {
+				"name:fi": "Stahanov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337658682,
+			"lat": 48.1351471,
+			"lon": 38.9198948,
+			"tags": {
+				"name:fi": "Krasnyi Lutš"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337660247,
+			"lat": 48.0811324,
+			"lon": 39.642561,
+			"tags": {
+				"name:fi": "Sverdlovsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 347359894,
+			"lat": 61.808434,
+			"lon": 36.536045,
+			"tags": {
+				"name:fi": "Puudosi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355945765,
+			"lat": 54.3506275,
+			"lon": 38.266561,
+			"tags": {
+				"name:fi": "Venjov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356482553,
+			"lat": 58.381382,
+			"lon": 42.347916,
+			"tags": {
+				"name:fi": "Galitš"
+			}
+		},
+		{
+			"type": "node",
+			"id": 356482685,
+			"lat": 57.4215311,
+			"lon": 34.9932788,
+			"tags": {
+				"name:fi": "Spirovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 358015143,
+			"lat": 35.1853168,
+			"lon": 129.0625899,
+			"tags": {
+				"name:fi": "Busan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 358015168,
+			"lat": 35.1491083,
+			"lon": 126.8634645,
+			"tags": {
+				"name:fi": "Gwangju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 360001149,
+			"lat": 55.9094928,
+			"lon": 37.7339358,
+			"tags": {
+				"name:fi": "Mytištši"
+			}
+		},
+		{
+			"type": "node",
+			"id": 360001289,
+			"lat": 55.6838591,
+			"lon": 37.1919786,
+			"tags": {
+				"name:fi": "Vlasiha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 360001895,
+			"lat": 55.4308841,
+			"lon": 37.5453056,
+			"tags": {
+				"name:fi": "Podolsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 373930564,
+			"lat": 59.940431,
+			"lon": 31.0336955,
+			"tags": {
+				"name:fi": "Pähkinälinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 381155248,
+			"lat": 56.015093,
+			"lon": 39.946558,
+			"tags": {
+				"name:fi": "Lakinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 389681534,
+			"lat": 42.585344,
+			"lon": 43.4427287,
+			"tags": {
+				"name:fi": "Oni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 394996639,
+			"lat": 54.941551,
+			"lon": 20.154604,
+			"tags": {
+				"name:fi": "Svetlogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 406747508,
+			"lat": 45.4077172,
+			"lon": 11.8734455,
+			"tags": {
+				"name:fi": "Padova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 415150369,
+			"lat": 35.5487857,
+			"lon": 129.252024,
+			"tags": {
+				"name:fi": "Ulsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 425746989,
+			"lat": 17.1184569,
+			"lon": -61.8448509,
+			"tags": {
+				"name:fi": "St. John’s"
+			}
+		},
+		{
+			"type": "node",
+			"id": 426903042,
+			"lat": 56.645784,
+			"lon": 36.2909911,
+			"tags": {
+				"name:fi": "Redkino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 428039507,
+			"lat": 38.4153421,
+			"lon": 27.144474,
+			"tags": {
+				"name:fi": "Smyrna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 428339450,
+			"lat": 27.8669082,
+			"lon": 34.3014551,
+			"tags": {
+				"name:fi": "Šarm al-Šaikh"
+			}
+		},
+		{
+			"type": "node",
+			"id": 428339515,
+			"lat": 52.2319237,
+			"lon": 21.0067265,
+			"tags": {
+				"name:fi": "Varsova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 431636549,
+			"lat": 31.707212,
+			"lon": 35.2044436,
+			"tags": {
+				"name:fi": "Betlehem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432287759,
+			"lat": 31.9324487,
+			"lon": 35.0433428,
+			"tags": {
+				"name:fi": "Modiin Ilit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432335269,
+			"lat": 31.855987,
+			"lon": 35.4598851,
+			"tags": {
+				"name:fi": "Jeriko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 472114145,
+			"lat": 14.6417889,
+			"lon": -90.5132239,
+			"tags": {
+				"name:fi": "Guatemala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 504266619,
+			"lat": 31.5077213,
+			"lon": 34.4607415,
+			"tags": {
+				"name:fi": "Aaza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 527555169,
+			"lat": 35.685227,
+			"lon": 139.572916,
+			"tags": {
+				"name:fi": "Mitaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 531668011,
+			"lat": 1.2904527,
+			"lon": 103.852038,
+			"tags": {
+				"name:fi": "Singapore"
+			}
+		},
+		{
+			"type": "node",
+			"id": 533681139,
+			"lat": 35.0185804,
+			"lon": 135.763835,
+			"tags": {
+				"name:fi": "Kioto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 544060405,
+			"lat": 29.3797091,
+			"lon": 47.9735629,
+			"tags": {
+				"name:fi": "Kuwait"
+			}
+		},
+		{
+			"type": "node",
+			"id": 571225333,
+			"lat": 35.9502686,
+			"lon": 39.0095221,
+			"tags": {
+				"name:fi": "Rakka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 602527728,
+			"lat": 35.634023,
+			"lon": 139.575977,
+			"tags": {
+				"name:fi": "Komae"
+			}
+		},
+		{
+			"type": "node",
+			"id": 621286703,
+			"lat": 35.660036,
+			"lon": 139.554815,
+			"tags": {
+				"name:fi": "Chōfu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 621890744,
+			"lat": 35.661089,
+			"lon": 139.473429,
+			"tags": {
+				"name:fi": "Fuchū"
+			}
+		},
+		{
+			"type": "node",
+			"id": 622423997,
+			"lat": 35.660175,
+			"lon": 139.283071,
+			"tags": {
+				"name:fi": "Hachiōji"
+			}
+		},
+		{
+			"type": "node",
+			"id": 622424880,
+			"lat": 35.6610715,
+			"lon": 139.4147051,
+			"tags": {
+				"name:fi": "Hino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 622640333,
+			"lat": 35.638229,
+			"lon": 139.507776,
+			"tags": {
+				"name:fi": "Inagi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 622642835,
+			"lat": 35.637188,
+			"lon": 139.443503,
+			"tags": {
+				"name:fi": "Tama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 623797057,
+			"lat": 35.564193,
+			"lon": 139.442839,
+			"tags": {
+				"name:fi": "Machida"
+			}
+		},
+		{
+			"type": "node",
+			"id": 623801472,
+			"lat": 35.709674,
+			"lon": 139.454224,
+			"tags": {
+				"name:fi": "Kokubunji"
+			}
+		},
+		{
+			"type": "node",
+			"id": 623805032,
+			"lat": 35.681991,
+			"lon": 139.43624,
+			"tags": {
+				"name:fi": "Kunitachi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 628649194,
+			"lat": 56.92379,
+			"lon": 32.744606,
+			"tags": {
+				"name:fi": "Peno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 676672956,
+			"lat": 35.3396115,
+			"lon": 33.3194082,
+			"tags": {
+				"name:fi": "Kyrenia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 694264962,
+			"lat": 54.981277,
+			"lon": 33.345932,
+			"tags": {
+				"name:fi": "Verhnedneprovski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 729610410,
+			"lat": 43.652058,
+			"lon": 51.157997,
+			"tags": {
+				"name:fi": "Aqtaw"
+			}
+		},
+		{
+			"type": "node",
+			"id": 738723480,
+			"lat": 31.2525238,
+			"lon": 34.7905787,
+			"tags": {
+				"name:fi": "Beer Sheva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 764019333,
+			"lat": 55.5771391,
+			"lon": 38.9225824,
+			"tags": {
+				"name:fi": "Kurovskoje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 771323155,
+			"lat": 35.72522,
+			"lon": 139.476606,
+			"tags": {
+				"name:fi": "Kodaira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 864954797,
+			"lat": 63.214438,
+			"lon": 24.4196234,
+			"tags": {
+				"name:fi": "Perho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 884345171,
+			"lat": 57.551205,
+			"lon": 29.945297,
+			"tags": {
+				"name:fi": "Dedovitši"
+			}
+		},
+		{
+			"type": "node",
+			"id": 922694649,
+			"lat": 56.1854031,
+			"lon": 36.9781174,
+			"tags": {
+				"name:fi": "Solnetsnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 964974964,
+			"lat": 59.929295,
+			"lon": 30.629723,
+			"tags": {
+				"name:fi": "Vanhakylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 986551118,
+			"lat": 69.3180029,
+			"lon": 32.8067302,
+			"tags": {
+				"name:fi": "Vidjajevo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1009135181,
+			"lat": 60.709217,
+			"lon": 28.744051,
+			"tags": {
+				"name:fi": "Viipuri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1028724310,
+			"lat": 52.58308,
+			"lon": 51.273315,
+			"tags": {
+				"name:fi": "Aleksejevka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1046100133,
+			"lat": 5.320357,
+			"lon": -4.016107,
+			"tags": {
+				"name:fi": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1054320920,
+			"lat": 35.70248,
+			"lon": 139.350065,
+			"tags": {
+				"name:fi": "Akishima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1091272140,
+			"lat": 33.5130695,
+			"lon": 36.3095814,
+			"tags": {
+				"name:fi": "Damaskos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1111454647,
+			"lat": 35.646096,
+			"lon": 139.65627,
+			"tags": {
+				"name:fi": "Setagaya"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1147314253,
+			"lat": 25.0375167,
+			"lon": 121.5637,
+			"tags": {
+				"name:fi": "Taipei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1187053943,
+			"lat": 57.868053,
+			"lon": 33.686657,
+			"tags": {
+				"name:fi": "Ozjornyi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1242998122,
+			"lat": 8.9714493,
+			"lon": -79.5341802,
+			"tags": {
+				"name:fi": "Panamá"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1327370735,
+			"lat": 60.589195,
+			"lon": 27.7037499,
+			"tags": {
+				"name:fi": "Virolahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1329955586,
+			"lat": 60.4932922,
+			"lon": 26.5473712,
+			"tags": {
+				"name:fi": "Pyhtää"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1372024636,
+			"lat": 62.5862041,
+			"lon": 23.6185286,
+			"tags": {
+				"name:fi": "Alavus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1372477580,
+			"lat": 60.1674086,
+			"lon": 24.9425683,
+			"tags": {
+				"name:fi": "Helsinki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1376026523,
+			"lat": 60.1211791,
+			"lon": 30.1637647,
+			"tags": {
+				"name:fi": "Raavski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1440354068,
+			"lat": 35.803601,
+			"lon": 139.238128,
+			"tags": {
+				"name:fi": "Ōme"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1470838617,
+			"lat": 38.6844742,
+			"lon": -7.1005662,
+			"tags": {
+				"name:fi": "Olivenza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513663376,
+			"lat": 35.731042,
+			"lon": 139.217028,
+			"tags": {
+				"name:fi": "Akiruno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513663390,
+			"lat": 35.737188,
+			"lon": 139.334682,
+			"tags": {
+				"name:fi": "Fussa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513663393,
+			"lat": 35.764833,
+			"lon": 139.307862,
+			"tags": {
+				"name:fi": "Hamura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1589807663,
+			"lat": 59.4974632,
+			"lon": 34.6618291,
+			"tags": {
+				"name:fi": "Jefimovski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1590291928,
+			"lat": 34.3916058,
+			"lon": 132.4518156,
+			"tags": {
+				"name:fi": "Hiroshima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601837931,
+			"lat": 50.0874654,
+			"lon": 14.4212535,
+			"tags": {
+				"name:fi": "Praha"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1614277087,
+			"lat": 41.6935247,
+			"lon": 44.8015019,
+			"tags": {
+				"name:fi": "Tbilisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1619811558,
+			"lat": 35.7041083,
+			"lon": 139.5106759,
+			"tags": {
+				"name:fi": "Koganei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1627107363,
+			"lat": 68.140732,
+			"lon": 33.282597,
+			"tags": {
+				"name:fi": "Petra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1628207792,
+			"lat": 13.7542529,
+			"lon": 100.493087,
+			"tags": {
+				"name:fi": "Bangkok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1628525065,
+			"lat": 67.939903,
+			"lon": 32.931679,
+			"tags": {
+				"name:fi": "Montsa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1635651356,
+			"lat": 50.8465565,
+			"lon": 4.351697,
+			"tags": {
+				"name:fi": "Bryssel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1666626393,
+			"lat": 45.5202471,
+			"lon": -122.6741949,
+			"tags": {
+				"name:fi": "Portland"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1668137014,
+			"lat": 63.1247621,
+			"lon": 21.6941345,
+			"tags": {
+				"name:fi": "Mustasaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1669842684,
+			"lat": 6.4990718,
+			"lon": 2.6253361,
+			"tags": {
+				"name:fi": "Porto-Novo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1673414219,
+			"lat": 35.752546,
+			"lon": 139.519089,
+			"tags": {
+				"name:fi": "Higashikurume"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1673414230,
+			"lat": 35.768929,
+			"lon": 139.484539,
+			"tags": {
+				"name:fi": "Higashimurayama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1673414233,
+			"lat": 35.785483,
+			"lon": 139.531253,
+			"tags": {
+				"name:fi": "Kiyose"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1681538643,
+			"lat": 54.6478265,
+			"lon": 21.0719431,
+			"tags": {
+				"name:fi": "Gvardeisk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1683305965,
+			"lat": 32.0877639,
+			"lon": 34.8859985,
+			"tags": {
+				"name:fi": "Petah Tikva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1684082165,
+			"lat": 55.9206499,
+			"lon": 37.9915576,
+			"tags": {
+				"name:fi": "Štšolkovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1685829423,
+			"lat": 49.9902794,
+			"lon": 36.2303893,
+			"tags": {
+				"name:fi": "Harkova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1686293227,
+			"lat": 55.7506828,
+			"lon": 37.6174976,
+			"tags": {
+				"name:fi": "Moskova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1695006618,
+			"lat": 32.1061476,
+			"lon": 35.1852079,
+			"tags": {
+				"name:fi": "Ariel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1698668366,
+			"lat": 42.1419118,
+			"lon": 24.7498385,
+			"tags": {
+				"name:fi": "Plovdiv"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1699640925,
+			"lat": 32.896672,
+			"lon": 13.1777923,
+			"tags": {
+				"name:fi": "Tripoli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1700083447,
+			"lat": 42.6977211,
+			"lon": 23.3225964,
+			"tags": {
+				"name:fi": "Sofia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1700534808,
+			"lat": 48.1371079,
+			"lon": 11.5753822,
+			"tags": {
+				"name:fi": "München"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1701090139,
+			"lat": 43.7009358,
+			"lon": 7.2683912,
+			"tags": {
+				"name:fi": "Nizza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1717099673,
+			"lat": 35.740869,
+			"lon": 139.428831,
+			"tags": {
+				"name:fi": "Higashiyamato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1751567591,
+			"lat": 43.6158817,
+			"lon": 25.3509536,
+			"tags": {
+				"name:fi": "Svištov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1756064259,
+			"lat": 48.2305107,
+			"lon": 38.185045,
+			"tags": {
+				"name:fi": "Jenakijeve"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1790048269,
+			"lat": 43.7311424,
+			"lon": 7.4197576,
+			"tags": {
+				"name:fi": "Monaco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1798809766,
+			"lat": 54.8707703,
+			"lon": 37.2188629,
+			"tags": {
+				"name:fi": "Protvino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1811650017,
+			"lat": 37.9396678,
+			"lon": 58.3874263,
+			"tags": {
+				"name:fi": "Ašgabat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1827940532,
+			"lat": 39.624247,
+			"lon": 19.9210427,
+			"tags": {
+				"name:fi": "Korfu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1828409507,
+			"lat": 62.915024,
+			"lon": 34.473339,
+			"tags": {
+				"name:fi": "Karhumäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1830695012,
+			"lat": 45.3534002,
+			"lon": 36.4538645,
+			"tags": {
+				"name:fi": "Kertš"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1833198964,
+			"lat": 59.1172617,
+			"lon": 28.0869796,
+			"tags": {
+				"name:fi": "Slantsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1838666975,
+			"lat": 50.0619474,
+			"lon": 19.9368564,
+			"tags": {
+				"name:fi": "Krakova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1839536171,
+			"lat": 61.5179265,
+			"lon": 30.2038927,
+			"tags": {
+				"name:fi": "Lahdenpohja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1858199523,
+			"lat": 60.979276,
+			"lon": 32.9749376,
+			"tags": {
+				"name:fi": "Aunus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1858201567,
+			"lat": 61.70274,
+			"lon": 30.691231,
+			"tags": {
+				"name:fi": "Sortavala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1912365631,
+			"lat": 37.5666791,
+			"lon": 126.9782914,
+			"tags": {
+				"name:fi": "Soul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1932675079,
+			"lat": 37.0646139,
+			"lon": 15.2907196,
+			"tags": {
+				"name:fi": "Syrakusa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1944059487,
+			"lat": 45.0534751,
+			"lon": 9.6947461,
+			"tags": {
+				"name:fi": "Piacenza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1956457853,
+			"lat": 44.0302371,
+			"lon": 89.5845814,
+			"tags": {
+				"name:fi": "Qitai"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2078883019,
+			"lat": 64.5873013,
+			"lon": 30.5969076,
+			"tags": {
+				"name:fi": "Kostamus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2095029787,
+			"lat": 55.322518,
+			"lon": 38.6816824,
+			"tags": {
+				"name:fi": "Voskresensk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2251092237,
+			"lat": 56.9562093,
+			"lon": 8.6848749,
+			"tags": {
+				"name:fi": "Thistedin kunta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2291707774,
+			"lat": 59.1246973,
+			"lon": 31.6727258,
+			"tags": {
+				"name:fi": "Tiutova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2418943009,
+			"lat": 32.3111468,
+			"lon": 35.0275505,
+			"tags": {
+				"name:fi": "Tulkarem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3320526612,
+			"lat": -6.1664908,
+			"lon": 39.2074312,
+			"tags": {
+				"name:fi": "Sansibar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3554636995,
+			"lat": 69.6492969,
+			"lon": 18.9548489,
+			"tags": {
+				"name:fi": "Tromssa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4559181618,
+			"lat": 54.9655573,
+			"lon": 39.0277188,
+			"tags": {
+				"name:fi": "Luhovitsy"
+			}
+		}
+	]
+}

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-09T08:57:04Z",
+		"timestamp_osm_base": "2017-02-13T08:32:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -4774,15 +4774,6 @@
 			"lon": 20.7829122,
 			"tags": {
 				"name:eo": "Sanktakruca Provinco"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1225437637,
-			"lat": 12.8331607,
-			"lon": 44.9166065,
-			"tags": {
-				"name:eo": "Adeno"
 			}
 		},
 		{
