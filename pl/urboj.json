@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:38:02Z",
+		"timestamp_osm_base": "2017-02-15T13:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -395,11 +395,83 @@
 		},
 		{
 			"type": "node",
+			"id": 25938759,
+			"lat": 48.2117887,
+			"lon": 17.1534331,
+			"tags": {
+				"name:pl": "Rača"
+			}
+		},
+		{
+			"type": "node",
 			"id": 25960293,
 			"lat": 35.7006177,
 			"lon": 51.401375,
 			"tags": {
 				"name:pl": "Teheran"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035729,
+			"lat": 48.5763484,
+			"lon": 19.1285389,
+			"tags": {
+				"name:pl": "Zwoleń"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035755,
+			"lat": 48.7314317,
+			"lon": 18.7626944,
+			"tags": {
+				"name:pl": "Handlová"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035777,
+			"lat": 49.123928,
+			"lon": 18.3239559,
+			"tags": {
+				"name:pl": "Púchov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035810,
+			"lat": 48.4833983,
+			"lon": 18.7215497,
+			"tags": {
+				"name:pl": "Žarnovica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035833,
+			"lat": 48.0861055,
+			"lon": 18.1868344,
+			"tags": {
+				"name:pl": "Šurany"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035885,
+			"lat": 48.1910498,
+			"lon": 17.7270629,
+			"tags": {
+				"name:pl": "Galanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035889,
+			"lat": 48.4245994,
+			"lon": 18.6413651,
+			"tags": {
+				"name:pl": "Nová Baňa"
 			}
 		},
 		{
@@ -422,11 +494,56 @@
 		},
 		{
 			"type": "node",
+			"id": 26035953,
+			"lat": 48.6369924,
+			"lon": 17.148493,
+			"tags": {
+				"name:pl": "Šaštín-Stráže"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26035956,
+			"lat": 49.1159316,
+			"lon": 18.4469936,
+			"tags": {
+				"name:pl": "Powaska Bystrzyca"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036064,
+			"lat": 49.0724921,
+			"lon": 18.929193,
+			"tags": {
+				"name:pl": "Martin"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26036067,
 			"lat": 49.1362088,
 			"lon": 20.4308701,
 			"tags": {
 				"name:pl": "Kieżmark"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036111,
+			"lat": 48.5594345,
+			"lon": 18.1754394,
+			"tags": {
+				"name:pl": "Topolczany"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036127,
+			"lat": 48.5787043,
+			"lon": 19.9531888,
+			"tags": {
+				"name:pl": "Hnúšťa"
 			}
 		},
 		{
@@ -440,11 +557,101 @@
 		},
 		{
 			"type": "node",
+			"id": 26036174,
+			"lat": 48.4580926,
+			"lon": 18.8988414,
+			"tags": {
+				"name:pl": "Bańska Szczawnica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036176,
+			"lat": 47.8951059,
+			"lon": 17.5781248,
+			"tags": {
+				"name:pl": "Gabčíkovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036195,
+			"lat": 48.4308293,
+			"lon": 19.7923921,
+			"tags": {
+				"name:pl": "Poltár"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036262,
+			"lat": 48.9985674,
+			"lon": 18.2307598,
+			"tags": {
+				"name:pl": "Ilava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036269,
+			"lat": 48.7792477,
+			"lon": 17.6941177,
+			"tags": {
+				"name:pl": "Stará Turá"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036300,
+			"lat": 48.6264092,
+			"lon": 18.3730067,
+			"tags": {
+				"name:pl": "Partizánske"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036308,
+			"lat": 48.2442845,
+			"lon": 18.3061153,
+			"tags": {
+				"name:pl": "Vráble"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036344,
+			"lat": 48.4278838,
+			"lon": 17.798782,
+			"tags": {
+				"name:pl": "Hlohovec"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26036345,
 			"lat": 49.0251116,
 			"lon": 20.587999,
 			"tags": {
 				"name:pl": "Lewocza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036359,
+			"lat": 48.7540345,
+			"lon": 17.5650224,
+			"tags": {
+				"name:pl": "Myjava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036360,
+			"lat": 48.8614083,
+			"lon": 18.8608115,
+			"tags": {
+				"name:pl": "Turčianske Teplice"
 			}
 		},
 		{
@@ -467,6 +674,33 @@
 		},
 		{
 			"type": "node",
+			"id": 26036421,
+			"lat": 48.0275832,
+			"lon": 17.3115709,
+			"tags": {
+				"name:pl": "Šamorín"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036457,
+			"lat": 49.0582357,
+			"lon": 20.1965291,
+			"tags": {
+				"name:pl": "Świt"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036482,
+			"lat": 48.9350033,
+			"lon": 21.9020268,
+			"tags": {
+				"name:pl": "Humenné"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26036489,
 			"lat": 49.2711323,
 			"lon": 21.9039645,
@@ -481,6 +715,15 @@
 			"lon": 21.0975671,
 			"tags": {
 				"name:pl": "Sabinov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036522,
+			"lat": 48.9574049,
+			"lon": 18.1662967,
+			"tags": {
+				"name:pl": "Dubnica nad Váhom"
 			}
 		},
 		{
@@ -512,11 +755,29 @@
 		},
 		{
 			"type": "node",
+			"id": 26036701,
+			"lat": 48.7799591,
+			"lon": 18.5821986,
+			"tags": {
+				"name:pl": "Bojnice"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26036744,
 			"lat": 49.4095122,
 			"lon": 19.4807834,
 			"tags": {
 				"name:pl": "Namiestów"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036792,
+			"lat": 48.3527285,
+			"lon": 19.069182,
+			"tags": {
+				"name:pl": "Krupina"
 			}
 		},
 		{
@@ -530,6 +791,105 @@
 		},
 		{
 			"type": "node",
+			"id": 26036837,
+			"lat": 48.4347503,
+			"lon": 17.020348,
+			"tags": {
+				"name:pl": "Malacky"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036873,
+			"lat": 49.2145239,
+			"lon": 19.2953168,
+			"tags": {
+				"name:pl": "Dolný Kubín"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036884,
+			"lat": 48.9094451,
+			"lon": 18.1702976,
+			"tags": {
+				"name:pl": "Trenczyńskie Cieplice"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036885,
+			"lat": 48.2731324,
+			"lon": 17.0327458,
+			"tags": {
+				"name:pl": "Stupava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036896,
+			"lat": 48.6543702,
+			"lon": 20.5313556,
+			"tags": {
+				"name:pl": "Rożniawa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036901,
+			"lat": 47.8557806,
+			"lon": 17.7693671,
+			"tags": {
+				"name:pl": "Wielki Meder"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036903,
+			"lat": 49.0371787,
+			"lon": 19.7217331,
+			"tags": {
+				"name:pl": "Liptowski Gródek"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036918,
+			"lat": 48.4221599,
+			"lon": 20.3232507,
+			"tags": {
+				"name:pl": "Tornaľa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036937,
+			"lat": 48.7065765,
+			"lon": 18.9165968,
+			"tags": {
+				"name:pl": "Kremnica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036952,
+			"lat": 48.6812756,
+			"lon": 19.9420632,
+			"tags": {
+				"name:pl": "Tisovec"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26036979,
+			"lat": 47.9182347,
+			"lon": 17.9966591,
+			"tags": {
+				"name:pl": "Kolárovo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037035,
 			"lat": 49.2234674,
 			"lon": 18.7393139,
@@ -539,11 +899,47 @@
 		},
 		{
 			"type": "node",
+			"id": 26037045,
+			"lat": 49.2999184,
+			"lon": 18.7865084,
+			"tags": {
+				"name:pl": "Kysucké Nové Mesto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037053,
+			"lat": 48.0694559,
+			"lon": 18.9493378,
+			"tags": {
+				"name:pl": "Šahy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037066,
+			"lat": 48.808256,
+			"lon": 17.1628162,
+			"tags": {
+				"name:pl": "Holíč"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037089,
 			"lat": 48.4166409,
 			"lon": 22.0887368,
 			"tags": {
 				"name:pl": "Czerna nad Cisą"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037093,
+			"lat": 48.9646151,
+			"lon": 18.1175713,
+			"tags": {
+				"name:pl": "Nemšová"
 			}
 		},
 		{
@@ -566,11 +962,83 @@
 		},
 		{
 			"type": "node",
+			"id": 26037190,
+			"lat": 48.9435344,
+			"lon": 20.562964,
+			"tags": {
+				"name:pl": "Nowa Wieś Spiska"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037195,
 			"lat": 48.6286222,
 			"lon": 21.7201711,
 			"tags": {
 				"name:pl": "Trzebiszów"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037204,
+			"lat": 48.7164472,
+			"lon": 18.5408304,
+			"tags": {
+				"name:pl": "Nováky"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037254,
+			"lat": 48.6195312,
+			"lon": 17.7238763,
+			"tags": {
+				"name:pl": "Vrbové"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037282,
+			"lat": 48.6833333,
+			"lon": 20.1166667,
+			"tags": {
+				"name:pl": "Revúca"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037285,
+			"lat": 48.2887778,
+			"lon": 18.5318545,
+			"tags": {
+				"name:pl": "Tlmače"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037308,
+			"lat": 48.0492258,
+			"lon": 18.6583548,
+			"tags": {
+				"name:pl": "Želiezovce"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037335,
+			"lat": 48.2409223,
+			"lon": 19.3341711,
+			"tags": {
+				"name:pl": "Modrý Kameň"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037344,
+			"lat": 48.7216671,
+			"lon": 18.2598263,
+			"tags": {
+				"name:pl": "Bánovce nad Bebravou"
 			}
 		},
 		{
@@ -584,11 +1052,47 @@
 		},
 		{
 			"type": "node",
+			"id": 26037381,
+			"lat": 48.3833333,
+			"lon": 18.4,
+			"tags": {
+				"name:pl": "Złote Moravce"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037382,
+			"lat": 47.7574079,
+			"lon": 18.1298249,
+			"tags": {
+				"name:pl": "Komárno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037388,
+			"lat": 48.3300774,
+			"lon": 19.6637435,
+			"tags": {
+				"name:pl": "Łuczeniec"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037409,
 			"lat": 49.2926871,
 			"lon": 21.2756031,
 			"tags": {
 				"name:pl": "Bardejów"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037417,
+			"lat": 48.8452079,
+			"lon": 17.2279127,
+			"tags": {
+				"name:pl": "Skalica"
 			}
 		},
 		{
@@ -602,11 +1106,74 @@
 		},
 		{
 			"type": "node",
+			"id": 26037427,
+			"lat": 48.8211362,
+			"lon": 20.3649119,
+			"tags": {
+				"name:pl": "Dobszyna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037466,
+			"lat": 48.2093428,
+			"lon": 19.3490365,
+			"tags": {
+				"name:pl": "Veľký Krtíš"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037507,
 			"lat": 48.5895247,
 			"lon": 17.8213848,
 			"tags": {
 				"name:pl": "Pieszczany"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037521,
+			"lat": 49.3897116,
+			"lon": 18.8318753,
+			"tags": {
+				"name:pl": "Krásno nad Kysucou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037523,
+			"lat": 47.797458,
+			"lon": 18.7158684,
+			"tags": {
+				"name:pl": "Štúrovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037541,
+			"lat": 48.1691898,
+			"lon": 18.8823161,
+			"tags": {
+				"name:pl": "Dudince"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037553,
+			"lat": 49.1900051,
+			"lon": 20.4553246,
+			"tags": {
+				"name:pl": "Biała Spiska"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037561,
+			"lat": 48.8053349,
+			"lon": 19.6409612,
+			"tags": {
+				"name:pl": "Brezno"
 			}
 		},
 		{
@@ -620,11 +1187,47 @@
 		},
 		{
 			"type": "node",
+			"id": 26037578,
+			"lat": 48.2701641,
+			"lon": 19.8222938,
+			"tags": {
+				"name:pl": "Fiľakovo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037584,
 			"lat": 49.2020091,
 			"lon": 21.6521343,
 			"tags": {
 				"name:pl": "Stropkow"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037592,
+			"lat": 47.9893751,
+			"lon": 17.6202595,
+			"tags": {
+				"name:pl": "Dunajská Streda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037598,
+			"lat": 48.4441776,
+			"lon": 17.7654426,
+			"tags": {
+				"name:pl": "Leopoldov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037614,
+			"lat": 48.7633248,
+			"lon": 17.8303857,
+			"tags": {
+				"name:pl": "Nowe Miasto nad Wagiem"
 			}
 		},
 		{
@@ -638,6 +1241,24 @@
 		},
 		{
 			"type": "node",
+			"id": 26037619,
+			"lat": 48.2854539,
+			"lon": 17.270194,
+			"tags": {
+				"name:pl": "Pezinok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037628,
+			"lat": 49.2570573,
+			"lon": 20.5353472,
+			"tags": {
+				"name:pl": "Podoliniec"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037632,
 			"lat": 48.3767652,
 			"lon": 17.5858175,
@@ -647,11 +1268,47 @@
 		},
 		{
 			"type": "node",
+			"id": 26037643,
+			"lat": 48.6131806,
+			"lon": 19.1423663,
+			"tags": {
+				"name:pl": "Sliač"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037649,
 			"lat": 49.3365743,
 			"lon": 19.5541875,
 			"tags": {
 				"name:pl": "Twardoszyn"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037655,
+			"lat": 48.5764603,
+			"lon": 19.525865,
+			"tags": {
+				"name:pl": "Hriňová"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037683,
+			"lat": 49.1292613,
+			"lon": 18.6811061,
+			"tags": {
+				"name:pl": "Rajecké Teplice"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037696,
+			"lat": 48.7176973,
+			"lon": 17.1177133,
+			"tags": {
+				"name:pl": "Gbely"
 			}
 		},
 		{
@@ -683,6 +1340,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26037896,
+			"lat": 48.9358736,
+			"lon": 18.1457351,
+			"tags": {
+				"name:pl": "Nová Dubnica"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26037902,
 			"lat": 49.1135267,
 			"lon": 21.5166587,
@@ -697,6 +1363,51 @@
 			"lon": 21.8337692,
 			"tags": {
 				"name:pl": "Strážske"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037934,
+			"lat": 47.8761227,
+			"lon": 18.198313,
+			"tags": {
+				"name:pl": "Hurbanovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26037969,
+			"lat": 48.2199473,
+			"lon": 17.3969901,
+			"tags": {
+				"name:pl": "Senec"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038012,
+			"lat": 48.627958,
+			"lon": 20.2402981,
+			"tags": {
+				"name:pl": "Jelšava"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038066,
+			"lat": 48.5449223,
+			"lon": 19.4152478,
+			"tags": {
+				"name:pl": "Detva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038091,
+			"lat": 48.6616437,
+			"lon": 17.5370299,
+			"tags": {
+				"name:pl": "Brezová pod Bradlom"
 			}
 		},
 		{
@@ -719,11 +1430,47 @@
 		},
 		{
 			"type": "node",
+			"id": 26038145,
+			"lat": 48.7718361,
+			"lon": 18.6234916,
+			"tags": {
+				"name:pl": "Prievidza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038248,
+			"lat": 49.1088603,
+			"lon": 18.9250702,
+			"tags": {
+				"name:pl": "Vrútky"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26038252,
 			"lat": 49.3638916,
 			"lon": 19.6156408,
 			"tags": {
 				"name:pl": "Trzciana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038282,
+			"lat": 47.9861843,
+			"lon": 18.1631415,
+			"tags": {
+				"name:pl": "Nowe Zamki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038294,
+			"lat": 49.1163981,
+			"lon": 19.0391539,
+			"tags": {
+				"name:pl": "Turany"
 			}
 		},
 		{
@@ -737,6 +1484,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26038384,
+			"lat": 49.0886262,
+			"lon": 18.6352209,
+			"tags": {
+				"name:pl": "Rajec"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26038399,
 			"lat": 48.5538814,
 			"lon": 22.0773719,
@@ -746,11 +1502,38 @@
 		},
 		{
 			"type": "node",
+			"id": 26038401,
+			"lat": 48.2889032,
+			"lon": 17.7308808,
+			"tags": {
+				"name:pl": "Sereď"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038409,
+			"lat": 49.1385895,
+			"lon": 20.220797,
+			"tags": {
+				"name:pl": "Wysokie Tatry"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26038421,
 			"lat": 48.8891513,
 			"lon": 21.6822318,
 			"tags": {
 				"name:pl": "Vranov nad Topľou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26038430,
+			"lat": 48.5910183,
+			"lon": 18.8500892,
+			"tags": {
+				"name:pl": "Żar nad Hronem"
 			}
 		},
 		{
@@ -1120,6 +1903,15 @@
 			"lon": 39.823769,
 			"tags": {
 				"name:pl": "Siewierodwińsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26901997,
+			"lat": 48.336443,
+			"lon": 17.3080373,
+			"tags": {
+				"name:pl": "Modra"
 			}
 		},
 		{
@@ -1737,8 +2529,8 @@
 		{
 			"type": "node",
 			"id": 27548009,
-			"lat": 51.1282585,
-			"lon": 71.4305462,
+			"lat": 51.128258,
+			"lon": 71.43055,
 			"tags": {
 				"name:pl": "Astana"
 			}
@@ -2232,8 +3024,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.7106617,
-			"lon": 38.2778566,
+			"lat": 46.710663,
+			"lon": 38.277855,
 			"tags": {
 				"name:pl": "Jejsk"
 			}
@@ -7254,8 +8046,8 @@
 		{
 			"type": "node",
 			"id": 241492821,
-			"lat": 44.8575482,
-			"lon": 65.4932971,
+			"lat": 44.857548,
+			"lon": 65.493294,
 			"tags": {
 				"name:pl": "Kyzyłorda"
 			}
@@ -7334,6 +8126,15 @@
 		},
 		{
 			"type": "node",
+			"id": 242978898,
+			"lat": 53.150019,
+			"lon": 24.8165192,
+			"tags": {
+				"name:pl": "Zelwa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 242978899,
 			"lat": 53.60684,
 			"lon": 24.73915,
@@ -7347,7 +8148,7 @@
 			"lat": 52.188831,
 			"lon": 25.155764,
 			"tags": {
-				"name:pl": "Drohiczyn Poleski"
+				"name:pl": "Drohiczyn"
 			}
 		},
 		{
@@ -7586,6 +8387,15 @@
 		},
 		{
 			"type": "node",
+			"id": 242978931,
+			"lat": 55.3683555,
+			"lon": 27.4649402,
+			"tags": {
+				"name:pl": "Szarkowszczyzna"
+			}
+		},
+		{
+			"type": "node",
 			"id": 242978932,
 			"lat": 53.6845342,
 			"lon": 27.1364365,
@@ -7721,11 +8531,20 @@
 		},
 		{
 			"type": "node",
+			"id": 242978964,
+			"lat": 54.2484021,
+			"lon": 29.7971582,
+			"tags": {
+				"name:pl": "Kruhłe"
+			}
+		},
+		{
+			"type": "node",
 			"id": 242978965,
 			"lat": 54.0007654,
 			"lon": 29.7092489,
 			"tags": {
-				"name:pl": "Biełyniczy"
+				"name:pl": "Białynicze"
 			}
 		},
 		{
@@ -7788,7 +8607,7 @@
 			"lat": 51.7820906,
 			"lon": 30.2686322,
 			"tags": {
-				"name:pl": "Brahiń"
+				"name:pl": "Brahin"
 			}
 		},
 		{
@@ -7914,7 +8733,7 @@
 			"lat": 52.36668,
 			"lon": 23.3782199,
 			"tags": {
-				"name:pl": "Wysokie Litewskie"
+				"name:pl": "Wysokie"
 			}
 		},
 		{
@@ -7977,7 +8796,7 @@
 			"lat": 52.7575059,
 			"lon": 25.1528353,
 			"tags": {
-				"name:pl": "Kosów Poleski"
+				"name:pl": "Kosów"
 			}
 		},
 		{
@@ -8014,6 +8833,15 @@
 			"lon": 27.4773639,
 			"tags": {
 				"name:pl": "Mikaszewicze"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242979038,
+			"lat": 54.91027,
+			"lon": 26.70691,
+			"tags": {
+				"name:pl": "Narocz"
 			}
 		},
 		{
@@ -10674,8 +11502,8 @@
 		{
 			"type": "node",
 			"id": 271100134,
-			"lat": 45.4840227,
-			"lon": 64.0849014,
+			"lat": 45.484024,
+			"lon": 64.0849,
 			"tags": {
 				"name:pl": "Żosały"
 			}
@@ -11101,6 +11929,15 @@
 			"lon": 37.5827086,
 			"tags": {
 				"name:pl": "Kramatorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 275186298,
+			"lat": 45.3080619,
+			"lon": 33.0357639,
+			"tags": {
+				"name:pl": "Myrnyj"
 			}
 		},
 		{
@@ -12059,6 +12896,15 @@
 		},
 		{
 			"type": "node",
+			"id": 292995540,
+			"lat": 44.7522963,
+			"lon": 33.8534782,
+			"tags": {
+				"name:pl": "Bakczysaraj"
+			}
+		},
+		{
+			"type": "node",
 			"id": 293127233,
 			"lat": 52.5898737,
 			"lon": 14.6536335,
@@ -12316,6 +13162,15 @@
 			"lon": 20.960212,
 			"tags": {
 				"name:pl": "Kiczewo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 299466010,
+			"lat": 44.9633478,
+			"lon": 35.2381272,
+			"tags": {
+				"name:pl": "Koktebel"
 			}
 		},
 		{
@@ -12676,6 +13531,33 @@
 			"lon": 35.768337,
 			"tags": {
 				"name:pl": "Kromy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 311423386,
+			"lat": 45.4291446,
+			"lon": 35.8222792,
+			"tags": {
+				"name:pl": "Szczołkine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 311425368,
+			"lat": 45.297284,
+			"lon": 35.7758985,
+			"tags": {
+				"name:pl": "Łenine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 311427965,
+			"lat": 45.3761402,
+			"lon": 36.2919984,
+			"tags": {
+				"name:pl": "Baherowe"
 			}
 		},
 		{
@@ -14322,7 +15204,7 @@
 			"lat": 50.8266045,
 			"lon": 26.9950145,
 			"tags": {
-				"name:pl": "Ludwipol (Sosnowe)"
+				"name:pl": "Ludwipol"
 			}
 		},
 		{
@@ -14421,7 +15303,7 @@
 			"lat": 50.6933301,
 			"lon": 28.6396035,
 			"tags": {
-				"name:pl": "Bobryk Nowy"
+				"name:pl": "Nowa Borowa"
 			}
 		},
 		{
@@ -14448,7 +15330,7 @@
 			"lat": 50.5959845,
 			"lon": 28.445337,
 			"tags": {
-				"name:pl": "Horoszki"
+				"name:pl": "Horoszów"
 			}
 		},
 		{
@@ -15543,8 +16425,8 @@
 		{
 			"type": "node",
 			"id": 337558381,
-			"lat": 49.45976,
-			"lon": 28.52017,
+			"lat": 49.4595797,
+			"lon": 28.5242167,
 			"tags": {
 				"name:pl": "Kalinówka"
 			}
@@ -17711,6 +18593,24 @@
 		},
 		{
 			"type": "node",
+			"id": 337680625,
+			"lat": 47.20241,
+			"lon": 30.909,
+			"tags": {
+				"name:pl": "Berezówka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337680708,
+			"lat": 47.178599,
+			"lon": 33.9428266,
+			"tags": {
+				"name:pl": "Wełyka Łepetycha"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337680782,
 			"lat": 47.19486,
 			"lon": 36.2075,
@@ -17774,11 +18674,29 @@
 		},
 		{
 			"type": "node",
+			"id": 337684196,
+			"lat": 47.00706,
+			"lon": 33.7317445,
+			"tags": {
+				"name:pl": "Hornostajiwka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337684928,
 			"lat": 46.9466357,
 			"lon": 35.4402552,
 			"tags": {
 				"name:pl": "Myrne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337685440,
+			"lat": 46.908604,
+			"lon": 30.7245991,
+			"tags": {
+				"name:pl": "Petriwka"
 			}
 		},
 		{
@@ -17801,6 +18719,15 @@
 		},
 		{
 			"type": "node",
+			"id": 337686273,
+			"lat": 46.8357749,
+			"lon": 33.416743,
+			"tags": {
+				"name:pl": "Berysław"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337686448,
 			"lat": 46.8193867,
 			"lon": 30.943207,
@@ -17819,11 +18746,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337686714,
+			"lat": 46.7874595,
+			"lon": 33.3385468,
+			"tags": {
+				"name:pl": "Kozaćke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337687328,
+			"lat": 46.7548513,
+			"lon": 33.4243883,
+			"tags": {
+				"name:pl": "Tawrijśk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337687341,
 			"lat": 46.7549303,
 			"lon": 33.3741329,
 			"tags": {
 				"name:pl": "Nowa Kachowka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337687346,
+			"lat": 46.7491957,
+			"lon": 33.2632062,
+			"tags": {
+				"name:pl": "Dnipriany"
 			}
 		},
 		{
@@ -17842,6 +18796,15 @@
 			"lon": 35.63896,
 			"tags": {
 				"name:pl": "Pryazowśke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337687732,
+			"lat": 46.71661,
+			"lon": 32.64793,
+			"tags": {
+				"name:pl": "Zełeniwka"
 			}
 		},
 		{
@@ -17869,6 +18832,24 @@
 			"lon": 32.7230607,
 			"tags": {
 				"name:pl": "Antonówka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337688638,
+			"lat": 46.6363122,
+			"lon": 32.5030815,
+			"tags": {
+				"name:pl": "Komyszany"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337688690,
+			"lat": 46.63078,
+			"lon": 32.44537,
+			"tags": {
+				"name:pl": "Biłozerka"
 			}
 		},
 		{
@@ -17918,11 +18899,29 @@
 		},
 		{
 			"type": "node",
+			"id": 337690107,
+			"lat": 46.42213,
+			"lon": 33.1461985,
+			"tags": {
+				"name:pl": "Bryliwka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337690427,
 			"lat": 46.3717985,
 			"lon": 35.3696143,
 			"tags": {
 				"name:pl": "Kiryłówka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337690523,
+			"lat": 46.3617756,
+			"lon": 33.5380219,
+			"tags": {
+				"name:pl": "Czapłynka"
 			}
 		},
 		{
@@ -17972,6 +18971,15 @@
 		},
 		{
 			"type": "node",
+			"id": 337691244,
+			"lat": 46.257184,
+			"lon": 33.2843632,
+			"tags": {
+				"name:pl": "Kałanczak"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337691323,
 			"lat": 46.2470043,
 			"lon": 30.4449097,
@@ -18008,11 +19016,29 @@
 		},
 		{
 			"type": "node",
+			"id": 337692021,
+			"lat": 46.1203932,
+			"lon": 32.910339,
+			"tags": {
+				"name:pl": "Skadowśk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337692066,
 			"lat": 46.113261,
 			"lon": 33.6904091,
 			"tags": {
 				"name:pl": "Armiańsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337692174,
+			"lat": 46.0862145,
+			"lon": 32.5272239,
+			"tags": {
+				"name:pl": "Łazurne"
 			}
 		},
 		{
@@ -18053,11 +19079,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337692649,
+			"lat": 45.9565346,
+			"lon": 33.7979467,
+			"tags": {
+				"name:pl": "Krasnoperekopsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337693147,
 			"lat": 45.84011,
 			"lon": 29.61674,
 			"tags": {
 				"name:pl": "Tatarbunary"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337693487,
+			"lat": 45.7683327,
+			"lon": 33.489566,
+			"tags": {
+				"name:pl": "Rozdolne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337693838,
+			"lat": 45.7124068,
+			"lon": 33.864073,
+			"tags": {
+				"name:pl": "Perwomajśke"
 			}
 		},
 		{
@@ -18071,6 +19124,15 @@
 		},
 		{
 			"type": "node",
+			"id": 337694589,
+			"lat": 45.586971,
+			"lon": 34.5655905,
+			"tags": {
+				"name:pl": "Azowśke"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337694693,
 			"lat": 45.5811117,
 			"lon": 28.9879186,
@@ -18080,11 +19142,29 @@
 		},
 		{
 			"type": "node",
+			"id": 337694734,
+			"lat": 45.56476,
+			"lon": 34.30172,
+			"tags": {
+				"name:pl": "Wilne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337695072,
+			"lat": 45.508597,
+			"lon": 32.707775,
+			"tags": {
+				"name:pl": "Czornomorśke"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337695202,
 			"lat": 45.4959593,
 			"lon": 34.2950929,
 			"tags": {
-				"name:pl": "Krasnogwardejśkoe"
+				"name:pl": "Krasnohwardijśke"
 			}
 		},
 		{
@@ -18107,11 +19187,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337695561,
+			"lat": 45.4430256,
+			"lon": 34.7384352,
+			"tags": {
+				"name:pl": "Nyżńohirśkyj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337695588,
+			"lat": 45.4400925,
+			"lon": 33.5965762,
+			"tags": {
+				"name:pl": "Nowoseliwśke"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337695776,
 			"lat": 45.40306,
 			"lon": 29.58309,
 			"tags": {
 				"name:pl": "Wilkowo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337696123,
+			"lat": 45.3458907,
+			"lon": 34.9235341,
+			"tags": {
+				"name:pl": "Sowietśkyj"
 			}
 		},
 		{
@@ -18125,11 +19232,371 @@
 		},
 		{
 			"type": "node",
+			"id": 337696595,
+			"lat": 45.2931604,
+			"lon": 34.128563,
+			"tags": {
+				"name:pl": "Oktiabrśke"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337696984,
 			"lat": 45.2306487,
 			"lon": 35.201075,
 			"tags": {
-				"name:pl": "Kirowśkoe"
+				"name:pl": "Kirowśke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337697542,
+			"lat": 45.1310903,
+			"lon": 33.6017516,
+			"tags": {
+				"name:pl": "Saki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337697628,
+			"lat": 45.1191428,
+			"lon": 35.4815631,
+			"tags": {
+				"name:pl": "Prymorśkyj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337697817,
+			"lat": 45.0943138,
+			"lon": 33.5752494,
+			"tags": {
+				"name:pl": "Nowofedoriwka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337697952,
+			"lat": 45.0584385,
+			"lon": 34.594959,
+			"tags": {
+				"name:pl": "Biłohirśk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337697977,
+			"lat": 45.0547297,
+			"lon": 34.3226704,
+			"tags": {
+				"name:pl": "Zuja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698201,
+			"lat": 45.0293926,
+			"lon": 35.0881549,
+			"tags": {
+				"name:pl": "Stary Krym"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698230,
+			"lat": 45.0195507,
+			"lon": 34.001051,
+			"tags": {
+				"name:pl": "Aerofłotśkyj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698272,
+			"lat": 45.0160039,
+			"lon": 34.0487769,
+			"tags": {
+				"name:pl": "Ahrarne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698279,
+			"lat": 45.0198964,
+			"lon": 34.0214674,
+			"tags": {
+				"name:pl": "Komsomolśke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698300,
+			"lat": 45.0101779,
+			"lon": 34.0264874,
+			"tags": {
+				"name:pl": "Hresiwśkyj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698341,
+			"lat": 45.00927,
+			"lon": 34.05659,
+			"tags": {
+				"name:pl": "Mołodiżne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698627,
+			"lat": 44.9640797,
+			"lon": 35.3580294,
+			"tags": {
+				"name:pl": "Ordżonikidze"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698703,
+			"lat": 44.9382816,
+			"lon": 35.1568474,
+			"tags": {
+				"name:pl": "Szczebetowka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337698784,
+			"lat": 44.9143409,
+			"lon": 35.1882694,
+			"tags": {
+				"name:pl": "Kurortne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337699174,
+			"lat": 44.8347618,
+			"lon": 33.9622556,
+			"tags": {
+				"name:pl": "Posztowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337699185,
+			"lat": 44.8291568,
+			"lon": 34.9127351,
+			"tags": {
+				"name:pl": "Nowyj Swit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337699692,
+			"lat": 44.6313455,
+			"lon": 33.8645453,
+			"tags": {
+				"name:pl": "Kujbyszewe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337699879,
+			"lat": 44.58183,
+			"lon": 34.34292,
+			"tags": {
+				"name:pl": "Partenit"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337699968,
+			"lat": 44.5633144,
+			"lon": 34.2887068,
+			"tags": {
+				"name:pl": "Krasnokamjanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700009,
+			"lat": 44.5479215,
+			"lon": 34.2736976,
+			"tags": {
+				"name:pl": "Gurzuf"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700061,
+			"lat": 44.5310633,
+			"lon": 34.1885438,
+			"tags": {
+				"name:pl": "Sowietśke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700092,
+			"lat": 44.515634,
+			"lon": 34.2388642,
+			"tags": {
+				"name:pl": "Nikita"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700100,
+			"lat": 44.5056381,
+			"lon": 34.2149528,
+			"tags": {
+				"name:pl": "Widradne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700114,
+			"lat": 44.5131431,
+			"lon": 34.2195259,
+			"tags": {
+				"name:pl": "Woschod"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700122,
+			"lat": 44.5087776,
+			"lon": 34.1886781,
+			"tags": {
+				"name:pl": "Masandra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700166,
+			"lat": 44.47677,
+			"lon": 34.14173,
+			"tags": {
+				"name:pl": "Wynohradne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700209,
+			"lat": 44.46648,
+			"lon": 34.14104,
+			"tags": {
+				"name:pl": "Liwadia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700219,
+			"lat": 44.4603,
+			"lon": 34.13692,
+			"tags": {
+				"name:pl": "Oreanda"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700248,
+			"lat": 44.4427352,
+			"lon": 34.132819,
+			"tags": {
+				"name:pl": "Kurpaty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700260,
+			"lat": 44.4318416,
+			"lon": 34.086413,
+			"tags": {
+				"name:pl": "Korejiz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700267,
+			"lat": 44.4324718,
+			"lon": 34.1065456,
+			"tags": {
+				"name:pl": "Haspra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700287,
+			"lat": 44.407001,
+			"lon": 33.9871072,
+			"tags": {
+				"name:pl": "Hołuba Zatoka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700311,
+			"lat": 44.4059623,
+			"lon": 34.0050679,
+			"tags": {
+				"name:pl": "Simejiz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700320,
+			"lat": 44.404849,
+			"lon": 33.8962227,
+			"tags": {
+				"name:pl": "Berehowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700328,
+			"lat": 44.4056727,
+			"lon": 33.9117275,
+			"tags": {
+				"name:pl": "Parkowe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700339,
+			"lat": 44.4023267,
+			"lon": 33.8224464,
+			"tags": {
+				"name:pl": "Sanatorne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700347,
+			"lat": 44.3972312,
+			"lon": 33.9724039,
+			"tags": {
+				"name:pl": "Kaciweli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700352,
+			"lat": 44.3972713,
+			"lon": 33.9558655,
+			"tags": {
+				"name:pl": "Ponyziwka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337700359,
+			"lat": 44.3915373,
+			"lon": 33.7872282,
+			"tags": {
+				"name:pl": "Foros"
 			}
 		},
 		{
@@ -20312,6 +21779,33 @@
 		},
 		{
 			"type": "node",
+			"id": 530544335,
+			"lat": 48.130042,
+			"lon": 17.2074215,
+			"tags": {
+				"name:pl": "Podunajské Biskupice"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544338,
+			"lat": 48.1493142,
+			"lon": 17.1645049,
+			"tags": {
+				"name:pl": "Ružinov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544340,
+			"lat": 48.145195,
+			"lon": 17.2004942,
+			"tags": {
+				"name:pl": "Vrakuňa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 530544342,
 			"lat": 48.1535383,
 			"lon": 17.1096711,
@@ -20321,11 +21815,119 @@
 		},
 		{
 			"type": "node",
+			"id": 530544346,
+			"lat": 48.1592404,
+			"lon": 17.0526768,
+			"tags": {
+				"name:pl": "Karlova Ves"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544350,
+			"lat": 48.1405887,
+			"lon": 17.1123274,
+			"tags": {
+				"name:pl": "Stare Miasto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544351,
+			"lat": 48.110972,
+			"lon": 17.1112897,
+			"tags": {
+				"name:pl": "Petržalka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544353,
+			"lat": 48.2090089,
+			"lon": 16.9730008,
+			"tags": {
+				"name:pl": "Devínska Nová Ves"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544354,
+			"lat": 48.1911965,
+			"lon": 17.0542794,
+			"tags": {
+				"name:pl": "Lamač"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544360,
+			"lat": 48.1671622,
+			"lon": 17.1383524,
+			"tags": {
+				"name:pl": "Nové Mesto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544365,
+			"lat": 48.2392876,
+			"lon": 17.0383357,
+			"tags": {
+				"name:pl": "Záhorská Bystrica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544367,
+			"lat": 48.1870886,
+			"lon": 17.0375032,
+			"tags": {
+				"name:pl": "Dúbravka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544368,
+			"lat": 48.1745864,
+			"lon": 16.9826096,
+			"tags": {
+				"name:pl": "Devín"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544369,
+			"lat": 48.2049103,
+			"lon": 17.2065787,
+			"tags": {
+				"name:pl": "Vajnory"
+			}
+		},
+		{
+			"type": "node",
 			"id": 530544371,
 			"lat": 48.31295,
 			"lon": 18.0894593,
 			"tags": {
 				"name:pl": "Nitra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544378,
+			"lat": 48.2163194,
+			"lon": 18.6000869,
+			"tags": {
+				"name:pl": "Levice"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544392,
+			"lat": 49.2235748,
+			"lon": 18.5586825,
+			"tags": {
+				"name:pl": "Bytča"
 			}
 		},
 		{
@@ -20947,6 +22549,15 @@
 			"lon": 51.8160376,
 			"tags": {
 				"name:pl": "Niżniekamsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 555326196,
+			"lat": 48.151379,
+			"lon": 17.8748587,
+			"tags": {
+				"name:pl": "Šaľa"
 			}
 		},
 		{
@@ -26495,11 +28106,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1170282655,
+			"lat": 45.3837166,
+			"lon": 33.1170303,
+			"tags": {
+				"name:pl": "Nowoozerne"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1170597942,
 			"lat": 29.1245649,
 			"lon": 15.9402605,
 			"tags": {
 				"name:pl": "Hun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1172307894,
+			"lat": 45.1552262,
+			"lon": 33.274385,
+			"tags": {
+				"name:pl": "Zaozerne"
 			}
 		},
 		{
@@ -27360,8 +28989,8 @@
 		{
 			"type": "node",
 			"id": 1583747666,
-			"lat": 42.6508159,
-			"lon": 18.0933331,
+			"lat": 42.6506843,
+			"lon": 18.0905837,
 			"tags": {
 				"name:pl": "Dubrownik"
 			}
@@ -28772,6 +30401,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1718340421,
+			"lat": 47.1691588,
+			"lon": 30.8145604,
+			"tags": {
+				"name:pl": "Rauchiwka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1721409422,
 			"lat": 32.9844222,
 			"lon": 131.5760604,
@@ -29614,6 +31252,15 @@
 			"lon": 34.473339,
 			"tags": {
 				"name:pl": "Miedwieżjegorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1828995697,
+			"lat": 48.6787557,
+			"lon": 17.3661529,
+			"tags": {
+				"name:pl": "Senica"
 			}
 		},
 		{
@@ -31508,6 +33155,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2407788294,
+			"lat": 44.4204046,
+			"lon": 34.0483715,
+			"tags": {
+				"name:pl": "Ałupka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2440240365,
 			"lat": 47.6450359,
 			"lon": 36.1696004,
@@ -31828,6 +33484,15 @@
 			"lon": 136.1086582,
 			"tags": {
 				"name:pl": "Nabari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2758288894,
+			"lat": 45.1157294,
+			"lon": 34.0239034,
+			"tags": {
+				"name:pl": "Hwardijśke"
 			}
 		},
 		{
@@ -32327,6 +33992,15 @@
 		},
 		{
 			"type": "node",
+			"id": 3389534770,
+			"lat": 46.5966167,
+			"lon": 33.2214167,
+			"tags": {
+				"name:pl": "Nowa Majaczka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3409309160,
 			"lat": 48.7412044,
 			"lon": 39.235405,
@@ -32526,8 +34200,8 @@
 		{
 			"type": "node",
 			"id": 4370385260,
-			"lat": 57.0629086,
-			"lon": 27.9210613,
+			"lat": 57.062908,
+			"lon": 27.921061,
 			"tags": {
 				"name:pl": "Pytałowo"
 			}

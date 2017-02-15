@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:32:03Z",
+		"timestamp_osm_base": "2017-02-15T13:17:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -395,6 +395,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26151301,
+			"lat": 52.4238936,
+			"lon": 31.0131698,
+			"tags": {
+				"name:eo": "Homel"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26162465,
 			"lat": 53.902334,
 			"lon": 27.5618791,
@@ -729,8 +738,8 @@
 		{
 			"type": "node",
 			"id": 27548009,
-			"lat": 51.1282585,
-			"lon": 71.4305462,
+			"lat": 51.128258,
+			"lon": 71.43055,
 			"tags": {
 				"name:eo": "Astano"
 			}
@@ -1017,8 +1026,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.7106617,
-			"lon": 38.2778566,
+			"lat": 46.710663,
+			"lon": 38.277855,
 			"tags": {
 				"name:eo": "Jejsko"
 			}
@@ -1439,6 +1448,15 @@
 		},
 		{
 			"type": "node",
+			"id": 60410873,
+			"lat": 46.9713414,
+			"lon": 32.0042394,
+			"tags": {
+				"name:eo": "Nikolajevo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60485579,
 			"lat": -1.950851,
 			"lon": 30.061507,
@@ -1691,6 +1709,24 @@
 		},
 		{
 			"type": "node",
+			"id": 119306895,
+			"lat": 55.5347704,
+			"lon": 28.645089,
+			"tags": {
+				"name:eo": "Navapolack"
+			}
+		},
+		{
+			"type": "node",
+			"id": 119310785,
+			"lat": 55.4850083,
+			"lon": 28.7685276,
+			"tags": {
+				"name:eo": "Polack"
+			}
+		},
+		{
+			"type": "node",
 			"id": 122739684,
 			"lat": 17.9640988,
 			"lon": 102.6133707,
@@ -1768,6 +1804,24 @@
 			"lon": 26.2513165,
 			"tags": {
 				"name:eo": "Rivno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 146570870,
+			"lat": 50.7450733,
+			"lon": 25.320078,
+			"tags": {
+				"name:eo": "Lucko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 146651245,
+			"lat": 51.2090293,
+			"lon": 24.7166617,
+			"tags": {
+				"name:eo": "Kovel"
 			}
 		},
 		{
@@ -2051,6 +2105,24 @@
 		},
 		{
 			"type": "node",
+			"id": 193823659,
+			"lat": 53.1449683,
+			"lon": 29.2281209,
+			"tags": {
+				"name:eo": "Babrujsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 193824312,
+			"lat": 52.8909861,
+			"lon": 30.0383045,
+			"tags": {
+				"name:eo": "Ĵlobin"
+			}
+		},
+		{
+			"type": "node",
 			"id": 195594311,
 			"lat": -3.1319515,
 			"lon": -59.9864062,
@@ -2267,6 +2339,15 @@
 		},
 		{
 			"type": "node",
+			"id": 242978887,
+			"lat": 55.1930197,
+			"lon": 30.2070437,
+			"tags": {
+				"name:eo": "Vicebsko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 242978894,
 			"lat": 52.2085858,
 			"lon": 24.3542923,
@@ -2276,11 +2357,101 @@
 		},
 		{
 			"type": "node",
+			"id": 242978903,
+			"lat": 53.8949515,
+			"lon": 25.295719,
+			"tags": {
+				"name:eo": "Lida"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978904,
+			"lat": 53.0927071,
+			"lon": 25.3193209,
+			"tags": {
+				"name:eo": "Slonim"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978909,
+			"lat": 53.5942131,
+			"lon": 25.8217516,
+			"tags": {
+				"name:eo": "Navahrudak"
+			}
+		},
+		{
+			"type": "node",
 			"id": 242978911,
 			"lat": 53.1322925,
 			"lon": 26.0184156,
 			"tags": {
 				"name:eo": "Baranaviĉi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978912,
+			"lat": 52.1114306,
+			"lon": 26.1026086,
+			"tags": {
+				"name:eo": "Pinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978914,
+			"lat": 54.4817188,
+			"lon": 26.4016684,
+			"tags": {
+				"name:eo": "Smarhon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978930,
+			"lat": 52.7893039,
+			"lon": 27.5318168,
+			"tags": {
+				"name:eo": "Salihorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978952,
+			"lat": 54.2240665,
+			"lon": 28.5117849,
+			"tags": {
+				"name:eo": "Borisov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978971,
+			"lat": 53.0820031,
+			"lon": 30.0531983,
+			"tags": {
+				"name:eo": "Rahaĉoŭ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978985,
+			"lat": 52.3717518,
+			"lon": 30.3860239,
+			"tags": {
+				"name:eo": "Reĉica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 242978991,
+			"lat": 54.278515,
+			"lon": 30.9912491,
+			"tags": {
+				"name:eo": "Horki"
 			}
 		},
 		{
@@ -2555,6 +2726,15 @@
 		},
 		{
 			"type": "node",
+			"id": 251073791,
+			"lat": 44.6054434,
+			"lon": 33.5220842,
+			"tags": {
+				"name:eo": "Sebastopolo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 251223522,
 			"lat": 49.4196404,
 			"lon": 26.9793793,
@@ -2704,6 +2884,15 @@
 			"lon": 30.1116924,
 			"tags": {
 				"name:eo": "Bila-Cerkva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 255260767,
+			"lat": 50.3242036,
+			"lon": 29.0399759,
+			"tags": {
+				"name:eo": "Korostiŝiv"
 			}
 		},
 		{
@@ -2978,6 +3167,33 @@
 		},
 		{
 			"type": "node",
+			"id": 259980476,
+			"lat": 50.7224829,
+			"lon": 24.1648399,
+			"tags": {
+				"name:eo": "Novovolinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259984311,
+			"lat": 50.8474669,
+			"lon": 24.319319,
+			"tags": {
+				"name:eo": "Volodimir-Volinskij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 260342645,
+			"lat": 51.2169499,
+			"lon": 24.0386003,
+			"tags": {
+				"name:eo": "Ljuboml"
+			}
+		},
+		{
+			"type": "node",
 			"id": 260715532,
 			"lat": 26.5897046,
 			"lon": 12.7694188,
@@ -3239,11 +3455,29 @@
 		},
 		{
 			"type": "node",
+			"id": 277491317,
+			"lat": 52.0442118,
+			"lon": 29.2597287,
+			"tags": {
+				"name:eo": "Mazir"
+			}
+		},
+		{
+			"type": "node",
 			"id": 278473852,
 			"lat": 32.9281747,
 			"lon": 35.0756366,
 			"tags": {
 				"name:eo": "Akko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 280028528,
+			"lat": 53.9090245,
+			"lon": 30.3429838,
+			"tags": {
+				"name:eo": "Mahilovo"
 			}
 		},
 		{
@@ -3716,6 +3950,15 @@
 		},
 		{
 			"type": "node",
+			"id": 313426755,
+			"lat": 51.3259771,
+			"lon": 28.8026718,
+			"tags": {
+				"name:eo": "Ovruĉ"
+			}
+		},
+		{
+			"type": "node",
 			"id": 313557783,
 			"lat": -30.033,
 			"lon": -51.2305,
@@ -4004,6 +4247,24 @@
 		},
 		{
 			"type": "node",
+			"id": 337506245,
+			"lat": 51.6271153,
+			"lon": 24.961357,
+			"tags": {
+				"name:eo": "Kamin-Kaŝirskij"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337506833,
+			"lat": 51.57051,
+			"lon": 26.56632,
+			"tags": {
+				"name:eo": "Dubrovicja"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337507351,
 			"lat": 51.52279,
 			"lon": 32.21638,
@@ -4013,11 +4274,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337509542,
+			"lat": 51.31782,
+			"lon": 26.62262,
+			"tags": {
+				"name:eo": "Sarni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337509799,
+			"lat": 51.2908106,
+			"lon": 25.537878,
+			"tags": {
+				"name:eo": "Maneviĉi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337510526,
 			"lat": 51.2397495,
 			"lon": 33.206675,
 			"tags": {
 				"name:eo": "Konotop"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337510555,
+			"lat": 51.22272,
+			"lon": 27.64881,
+			"tags": {
+				"name:eo": "Olevsk"
 			}
 		},
 		{
@@ -4040,11 +4328,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337514044,
+			"lat": 50.916354,
+			"lon": 25.271556,
+			"tags": {
+				"name:eo": "Roĵiŝĉe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337514561,
+			"lat": 50.88283,
+			"lon": 26.4513,
+			"tags": {
+				"name:eo": "Kostopil"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337514854,
 			"lat": 50.8623444,
 			"lon": 32.3910082,
 			"tags": {
 				"name:eo": "Iĉnja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337515438,
+			"lat": 50.8312306,
+			"lon": 25.4565259,
+			"tags": {
+				"name:eo": "Kiverci"
 			}
 		},
 		{
@@ -4063,6 +4378,24 @@
 			"lon": 33.4877,
 			"tags": {
 				"name:eo": "Romni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337520736,
+			"lat": 50.50175,
+			"lon": 29.24252,
+			"tags": {
+				"name:eo": "Radomiŝl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337520759,
+			"lat": 50.518994,
+			"lon": 26.2431096,
+			"tags": {
+				"name:eo": "Zdolbuniv"
 			}
 		},
 		{
@@ -4391,11 +4724,38 @@
 		},
 		{
 			"type": "node",
+			"id": 337686273,
+			"lat": 46.8357749,
+			"lon": 33.416743,
+			"tags": {
+				"name:eo": "Berislav"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337686681,
+			"lat": 46.8054626,
+			"lon": 33.4817825,
+			"tags": {
+				"name:eo": "Kaĥovka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337687341,
 			"lat": 46.7549303,
 			"lon": 33.3741329,
 			"tags": {
 				"name:eo": "Nov-Kaĥovka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337688735,
+			"lat": 46.6249473,
+			"lon": 32.7251086,
+			"tags": {
+				"name:eo": "Oleŝki"
 			}
 		},
 		{
@@ -4414,6 +4774,15 @@
 			"lon": 30.653466,
 			"tags": {
 				"name:eo": "Ĉornomorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337692021,
+			"lat": 46.1203932,
+			"lon": 32.910339,
+			"tags": {
+				"name:eo": "Skadovsk"
 			}
 		},
 		{
@@ -4729,6 +5098,15 @@
 			"lon": 59.5183609,
 			"tags": {
 				"name:eo": "Tuso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 496475615,
+			"lat": 52.1286204,
+			"lon": 29.3314442,
+			"tags": {
+				"name:eo": "Kalinkaviĉi"
 			}
 		},
 		{
@@ -5210,11 +5588,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1153145528,
+			"lat": 53.1539638,
+			"lon": 24.4489454,
+			"tags": {
+				"name:eo": "Vaŭkavisk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1168567868,
 			"lat": 43.024593,
 			"lon": 44.68211,
 			"tags": {
 				"name:eo": "Vladikavkaz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1186506546,
+			"lat": 51.0035653,
+			"lon": 26.7524487,
+			"tags": {
+				"name:eo": "Berezne"
 			}
 		},
 		{
@@ -5786,6 +6182,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1816928488,
+			"lat": 54.3073587,
+			"lon": 26.8390328,
+			"tags": {
+				"name:eo": "Maladzeĉna"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1830695012,
 			"lat": 45.3534002,
 			"lon": 36.4538645,
@@ -5957,6 +6362,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2271196833,
+			"lat": 53.3084631,
+			"lon": 28.6382068,
+			"tags": {
+				"name:eo": "Asipoviĉi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2339172677,
 			"lat": 46.8516737,
 			"lon": 29.6349762,
@@ -5989,6 +6403,15 @@
 			"lon": 77.2219388,
 			"tags": {
 				"name:eo": "Delhio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2967480392,
+			"lat": 52.6330338,
+			"lon": 29.7484282,
+			"tags": {
+				"name:eo": "Svetlahorsk"
 			}
 		},
 		{
