@@ -47,15 +47,22 @@ const LokoIkono = L.Icon.extend({
 	})
 const ikonoj =
 	{
+		alia: new LokoIkono({iconUrl: 'bildoj/alia.png'}),
 		libraro: new LokoIkono({iconUrl: 'bildoj/libraro.png'}),
-		stelo: new LokoIkono({iconUrl: 'bildoj/stelo.png'}),
+		esperanto: new LokoIkono({iconUrl: 'bildoj/esperanto.png'}),
+		ngo: new LokoIkono({iconUrl: 'bildoj/ngo.png'}),
+		hotelo: new LokoIkono({iconUrl: 'bildoj/hotelo.png'}),
+		zamenhof: new LokoIkono({iconUrl: 'bildoj/zamenhof.png'}),
 		esperantisto: new LokoIkono({iconUrl: 'bildoj/esperantisto.png'}),
 		memoraĵo: new LokoIkono({iconUrl: 'bildoj/memorajxo.png'})
 	}
 
 function ikononDeLoko(obj) {
 	if (obj.tags['office'] == 'ngo' || obj.tags['office'] == 'association') {
-		return ikonoj.stelo
+		return ikonoj.ngo
+	}
+	if (obj.tags['tourism'] == 'hotel' || obj.tags['tourism'] == 'hostel') {
+		return ikonoj.hotelo
 	}
 	if (obj.tags['books:language:eo'] == 'yes') {
 		return ikonoj.libraro
@@ -63,7 +70,16 @@ function ikononDeLoko(obj) {
 	if (obj.tags['historic'] != null) {
 		return ikonoj.memoraĵo
 	}
-	return ikonoj.esperantisto
+	if (obj.tags['name:etymology:wikidata'] == 'Q123') {
+		return ikonoj.esperanto
+	}
+	if (obj.tags['name:etymology:wikidata'] == 'Q11758') {
+		return ikonoj.zamenhof
+	}
+	if (obj.tags['language:eo'] == 'yes') {
+		return ikonoj.esperantisto
+	}
+	return ikonoj.alia
 }
 
 function kreiPriskribon(obj) {
