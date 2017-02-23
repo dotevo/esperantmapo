@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-15T13:27:02Z",
+		"timestamp_osm_base": "2017-02-21T08:29:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1701,8 +1701,8 @@
 		{
 			"type": "node",
 			"id": 26476059,
-			"lat": 27.1781213,
-			"lon": 56.2766447,
+			"lat": 27.180872,
+			"lon": 56.2806494,
 			"tags": {
 				"name:pl": "Bandar-e Abbas"
 			}
@@ -5930,6 +5930,15 @@
 		},
 		{
 			"type": "node",
+			"id": 132731678,
+			"lat": 15.7143063,
+			"lon": 106.4127399,
+			"tags": {
+				"name:pl": "Saravane"
+			}
+		},
+		{
+			"type": "node",
 			"id": 134237444,
 			"lat": 40.9935874,
 			"lon": 22.8741455,
@@ -8841,7 +8850,7 @@
 			"lat": 54.91027,
 			"lon": 26.70691,
 			"tags": {
-				"name:pl": "Narocz"
+				"name:pl": "Narocz (Kupa)"
 			}
 		},
 		{
@@ -13297,6 +13306,15 @@
 			"lon": 66.914993,
 			"tags": {
 				"name:pl": "Arkałyk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 300086614,
+			"lat": 19.2653107,
+			"lon": 101.7059229,
+			"tags": {
+				"name:pl": "Muang Xaignabouli"
 			}
 		},
 		{
@@ -20970,8 +20988,8 @@
 		{
 			"type": "node",
 			"id": 429469860,
-			"lat": 44.1502497,
-			"lon": 87.8803922,
+			"lat": 44.1550685,
+			"lon": 87.9533697,
 			"tags": {
 				"name:pl": "Fukang"
 			}
@@ -21856,6 +21874,15 @@
 			"lon": 17.0542794,
 			"tags": {
 				"name:pl": "Lamač"
+			}
+		},
+		{
+			"type": "node",
+			"id": 530544357,
+			"lat": 48.2547823,
+			"lon": 17.2128007,
+			"tags": {
+				"name:pl": "Svätý Jur"
 			}
 		},
 		{

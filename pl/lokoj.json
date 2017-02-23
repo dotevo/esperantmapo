@@ -2,37 +2,10 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-15T13:30:02Z",
+		"timestamp_osm_base": "2017-02-21T08:31:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
-		{
-			"type": "node",
-			"id": 30972780,
-			"lat": 51.421725,
-			"lon": 7.1444279,
-			"tags": {
-				"FIXME": "laut RuSIS weiter östlich",
-				"alt_name": "Schwimmbrücke Dahlhausen UL",
-				"contact:website": "http://www.rusis.de/",
-				"emergency": "access_point",
-				"emergency_telephone_code": "112",
-				"highway": "emergency_access_point",
-				"language:de": "main",
-				"language:en": "yes",
-				"language:es": "yes",
-				"language:fr": "yes",
-				"language:others": "no",
-				"language:pl": "yes",
-				"language:ru": "yes",
-				"language:tr": "yes",
-				"name": "RuSIS 5011",
-				"network": "RuSIS",
-				"operator": "Ruhr-Standort-Informationssystem",
-				"operator:abbr": "RuSIS",
-				"ref": "5011"
-			}
-		},
 		{
 			"type": "node",
 			"id": 30972783,
@@ -2635,8 +2608,8 @@
 		{
 			"type": "node",
 			"id": 3721283268,
-			"lat": 51.4035156,
-			"lon": 7.1617313,
+			"lat": 51.4035198,
+			"lon": 7.1616719,
 			"tags": {
 				"alt_name": "stromab Ruhrbrücke Hattingen (B51)",
 				"contact:website": "http://www.rusis.de/",
@@ -5832,6 +5805,33 @@
 				"operator": "Ruhr-Standort-Informationssystem",
 				"operator:abbr": "RuSIS",
 				"ref": "9800"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4692156996,
+			"lat": 51.4217329,
+			"lon": 7.1444288,
+			"tags": {
+				"FIXME": "laut RuSIS weiter östlich",
+				"alt_name": "Schwimmbrücke Dahlhausen UL",
+				"contact:website": "http://www.rusis.de/",
+				"emergency": "access_point",
+				"emergency_telephone_code": "112",
+				"highway": "emergency_access_point",
+				"language:de": "main",
+				"language:en": "yes",
+				"language:es": "yes",
+				"language:fr": "yes",
+				"language:others": "no",
+				"language:pl": "yes",
+				"language:ru": "yes",
+				"language:tr": "yes",
+				"name": "RuSIS 5011",
+				"network": "RuSIS",
+				"operator": "Ruhr-Standort-Informationssystem",
+				"operator:abbr": "RuSIS",
+				"ref": "5011"
 			}
 		},
 		{

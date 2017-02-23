@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-15T13:17:03Z",
+		"timestamp_osm_base": "2017-02-23T07:12:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1781,6 +1781,15 @@
 		},
 		{
 			"type": "node",
+			"id": 132731678,
+			"lat": 15.7143063,
+			"lon": 106.4127399,
+			"tags": {
+				"name:eo": "Salavan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 143564891,
 			"lat": 55.8892847,
 			"lon": 37.4449896,
@@ -3239,6 +3248,15 @@
 		},
 		{
 			"type": "node",
+			"id": 261709042,
+			"lat": 49.7831792,
+			"lon": 23.6479323,
+			"tags": {
+				"name:eo": "Horodok"
+			}
+		},
+		{
+			"type": "node",
 			"id": 263946020,
 			"lat": 15.338997,
 			"lon": 38.932672,
@@ -3815,6 +3833,15 @@
 		},
 		{
 			"type": "node",
+			"id": 300086614,
+			"lat": 19.2653107,
+			"lon": 101.7059229,
+			"tags": {
+				"name:eo": "Sainjabuli"
+			}
+		},
+		{
+			"type": "node",
 			"id": 300156975,
 			"lat": 54.35392,
 			"lon": 41.926643,
@@ -3937,6 +3964,15 @@
 			"lon": 26.5865127,
 			"tags": {
 				"name:eo": "Horodok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313246159,
+			"lat": 49.2887965,
+			"lon": 23.4175813,
+			"tags": {
+				"name:eo": "Borislavo"
 			}
 		},
 		{
@@ -4463,6 +4499,15 @@
 		},
 		{
 			"type": "node",
+			"id": 337540194,
+			"lat": 49.9316152,
+			"lon": 23.5661291,
+			"tags": {
+				"name:eo": "Novojavorivsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337541446,
 			"lat": 49.8940442,
 			"lon": 28.5814912,
@@ -4481,11 +4526,29 @@
 		},
 		{
 			"type": "node",
+			"id": 337556154,
+			"lat": 49.5253714,
+			"lon": 23.9788155,
+			"tags": {
+				"name:eo": "Mikolaiv"
+			}
+		},
+		{
+			"type": "node",
 			"id": 337556659,
 			"lat": 49.5182487,
 			"lon": 23.1969805,
 			"tags": {
 				"name:eo": "Sambir"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337563707,
+			"lat": 49.2940892,
+			"lon": 23.5646648,
+			"tags": {
+				"name:eo": "Stebniko"
 			}
 		},
 		{

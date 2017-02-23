@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-15T13:17:03Z",
+		"timestamp_osm_base": "2017-02-23T07:12:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3195,8 +3195,8 @@
 		{
 			"type": "node",
 			"id": 505045821,
-			"lat": 53.0915932,
-			"lon": 18.4463517,
+			"lat": 53.3220016,
+			"lon": 18.3392939,
 			"tags": {
 				"name:eo": "Kujavia-Pomeria Provinco"
 			}

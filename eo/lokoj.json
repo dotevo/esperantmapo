@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-15T13:18:02Z",
+		"timestamp_osm_base": "2017-02-23T07:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -66,6 +66,34 @@
 				"short_name": "PEA",
 				"training": "language",
 				"website": "http://www.esperantoparana.com.br/"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2608621526,
+			"lat": 51.4571961,
+			"lon": 7.945123,
+			"tags": {
+				"bus": "yes",
+				"highway": "bus_stop",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"public_transport": "stop_position"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2679171748,
+			"lat": 43.5854516,
+			"lon": 1.3773038,
+			"tags": {
+				"advertising": "poster_box",
+				"amenity": "bicycle_rental",
+				"capacity": "18",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"network": "VélôToulouse",
+				"operator": "JCDecaux"
 			}
 		},
 		{
@@ -139,15 +167,18 @@
 		{
 			"type": "node",
 			"id": 3480125987,
-			"lat": 47.4909582,
-			"lon": 19.0436289,
+			"lat": 47.4909031,
+			"lon": 19.043508,
 			"tags": {
+				"artist_name": "Berecz Péter",
 				"artwork_type": "statue",
 				"esperanto": "yes",
 				"historic": "memorial",
 				"inscription": "Dr. L.L. Zamenhof 1859-1917 Az eszperantó nyelv megalkotója",
 				"name": "Dr. L.L. Zamenhof",
 				"name:etymology:wikidata": "Q11758",
+				"source": "Köztérkép",
+				"start_date": "1999",
 				"tourism": "artwork"
 			}
 		},
@@ -328,7 +359,8 @@
 				"payment:mastercard": "yes",
 				"payment:visa": "yes",
 				"phone": "+81 3-3922-2030",
-				"source": "Bing"
+				"source": "Bing",
+				"wikidata": "Q28804296"
 			}
 		},
 		{
@@ -358,6 +390,133 @@
 				"name": "Ludwik Lejzer Zamenhof",
 				"openplaques:id": "42406",
 				"wikimedia_commons": "File:LudwikLejzerZamenhof.Esperanto.Curitiba.JPG"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4697101399,
+			"lat": 47.490963,
+			"lon": 19.0436065,
+			"tags": {
+				"alt_name": "Eszperantó Emlékkő",
+				"artist_name": "Kőfalvy Gyula",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription:eo": "Je la memoro de la internacia kunlaboro por la paco | okaze de la 51-a universala kongreso de esperanto",
+				"inscription:hu": "A Békéért folyó nemzetközi egyittmunkálkodás emlékére | Az 51. Eszperanto Világkongresszus alkalmával",
+				"memorial:type": "plaque",
+				"name": "Eszperanto Park",
+				"name:eo": "Esperanto Parko",
+				"name:hu": "Eszperanto Park",
+				"source": "Köztérkép",
+				"start_date": "1966"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6627465,
+			"center": {
+				"lat": 52.5125254,
+				"lon": 4.6721898
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6627612,
+			"center": {
+				"lat": 52.5129849,
+				"lon": 4.6722694
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6627640,
+			"center": {
+				"lat": 52.5125378,
+				"lon": 4.6731566
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6628098,
+			"center": {
+				"lat": 52.5134647,
+				"lon": 4.6707514
+			},
+			"tags": {
+				"footway": "sidewalk",
+				"highway": "footway",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6628124,
+			"center": {
+				"lat": 52.5129244,
+				"lon": 4.6712622
+			},
+			"tags": {
+				"footway": "sidewalk",
+				"highway": "footway",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6628153,
+			"center": {
+				"lat": 52.5127288,
+				"lon": 4.6704072
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6628166,
+			"center": {
+				"lat": 52.5125988,
+				"lon": 4.6713248
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 19730367,
+			"center": {
+				"lat": 43.5835778,
+				"lon": 1.3755995
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "50",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -419,6 +578,21 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rua Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 127532725,
+			"center": {
+				"lat": 43.5850598,
+				"lon": 1.3764826
+			},
+			"tags": {
+				"cycleway": "lane",
+				"highway": "unclassified",
+				"maxspeed": "50",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
 		},
@@ -500,6 +674,45 @@
 		},
 		{
 			"type": "way",
+			"id": 177849232,
+			"center": {
+				"lat": 51.4586218,
+				"lon": 7.942702
+			},
+			"tags": {
+				"leisure": "playground",
+				"name": "Spielplatz Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 177849233,
+			"center": {
+				"lat": 51.457908,
+				"lon": 7.9437504
+			},
+			"tags": {
+				"highway": "living_street",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 177856430,
+			"center": {
+				"lat": 51.4578136,
+				"lon": 7.9438256
+			},
+			"tags": {
+				"highway": "living_street",
+				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
 			"id": 181408683,
 			"center": {
 				"lat": 44.3199492,
@@ -553,6 +766,52 @@
 				"name": "Esperanto",
 				"roof:shape": "flat",
 				"tourism": "hotel"
+			}
+		},
+		{
+			"type": "way",
+			"id": 263250267,
+			"center": {
+				"lat": 43.5867423,
+				"lon": 1.3754981
+			},
+			"tags": {
+				"cycleway": "lane",
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 290280654,
+			"center": {
+				"lat": -25.4182952,
+				"lon": -49.2609606
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Rua Doutor Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 340756526,
+			"center": {
+				"lat": 47.4909564,
+				"lon": 19.0438973
+			},
+			"tags": {
+				"artist_name": "Korniss Dezső;Hegyi György;Rác András",
+				"disused:amenity": "fountain",
+				"drinking_water": "no",
+				"esperanto": "yes",
+				"name": "Eszperantó-kút",
+				"source": "Köztérkép",
+				"start_date": "1967"
 			}
 		},
 		{
