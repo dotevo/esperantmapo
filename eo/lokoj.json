@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-23T07:19:03Z",
+		"timestamp_osm_base": "2017-02-28T08:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -507,6 +507,34 @@
 		},
 		{
 			"type": "way",
+			"id": 18465514,
+			"center": {
+				"lat": 52.2443701,
+				"lon": 20.9805589
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Esperanto",
+				"name:etymology:wikidata": "Q123",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 18465516,
+			"center": {
+				"lat": 52.246291,
+				"lon": 20.9805803
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Esperanto",
+				"name:etymology:wikidata": "Q123",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 19730367,
 			"center": {
 				"lat": 43.5835778,
@@ -517,6 +545,135 @@
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 20133457,
+			"center": {
+				"lat": 52.247638,
+				"lon": 20.996546
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25526036,
+			"center": {
+				"lat": 50.0634642,
+				"lon": 19.9459175
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Doktora Ludwika Zamenhofa",
+				"name:be": "вуліца Доктара Людвіка Заменгофа",
+				"name:etymology:wikidata": "Q11758",
+				"old_name": "Niecała",
+				"oneway": "yes",
+				"source:maxspeed": "PL:zone30"
+			}
+		},
+		{
+			"type": "way",
+			"id": 26344197,
+			"center": {
+				"lat": 50.0635659,
+				"lon": 19.9470518
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Doktora Ludwika Zamenhofa",
+				"name:be": "вуліца Доктара Людвіка Заменгофа",
+				"name:etymology:wikidata": "Q11758",
+				"old_name": "Niecała",
+				"source:maxspeed": "PL:zone30"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27036239,
+			"center": {
+				"lat": 51.0873746,
+				"lon": 17.0384527
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Plac Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"source:maxspeed": "PL:zone30"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27292714,
+			"center": {
+				"lat": 49.8253674,
+				"lon": 19.0451293
+			},
+			"tags": {
+				"leisure": "park",
+				"name": "Plac Esperanto",
+				"name:etymology:wikidata": "Q123"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27292715,
+			"center": {
+				"lat": 49.8248278,
+				"lon": 19.0451689
+			},
+			"tags": {
+				"highway": "tertiary",
+				"lanes": "1",
+				"maxspeed": "50",
+				"maxspeed:conditional": "60 @ (23:00-05:00)",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"source:maxspeed": "PL:urban"
+			}
+		},
+		{
+			"type": "way",
+			"id": 31132876,
+			"center": {
+				"lat": 50.8428724,
+				"lon": 16.4623845
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 31349066,
+			"center": {
+				"lat": 50.2937031,
+				"lon": 16.6486496
+			},
+			"tags": {
+				"highway": "tertiary",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "3235D",
+				"source": "uhul:ortofoto"
 			}
 		},
 		{
@@ -550,6 +707,56 @@
 		},
 		{
 			"type": "way",
+			"id": 45485713,
+			"center": {
+				"lat": 50.8431059,
+				"lon": 16.463898
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 45485732,
+			"center": {
+				"lat": 50.8477958,
+				"lon": 16.4736933
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 48100540,
+			"center": {
+				"lat": 50.281262,
+				"lon": 16.6403108
+			},
+			"tags": {
+				"highway": "tertiary",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "3235D"
+			}
+		},
+		{
+			"type": "way",
 			"id": 80042160,
 			"center": {
 				"lat": 53.1208896,
@@ -565,6 +772,36 @@
 				"name": "Kładka Esperanto",
 				"name:eo": "Ponto Esperanto",
 				"source": "http://ump.waw.pl/ retrieved 11:19:07 11/17/09 (UMP-Torun/src/BYDGOSZCZ.ulice.txt)"
+			}
+		},
+		{
+			"type": "way",
+			"id": 85666340,
+			"center": {
+				"lat": 52.2511617,
+				"lon": 20.9934387
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 105145789,
+			"center": {
+				"lat": 51.7302121,
+				"lon": 19.4958201
+			},
+			"tags": {
+				"addr:housenumber": "4",
+				"addr:street": "Leona Kruczkowskiego",
+				"amenity": "school",
+				"building": "yes",
+				"name": "XXXI LO im. Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -609,6 +846,37 @@
 				"name": "Rua Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "no"
+			}
+		},
+		{
+			"type": "way",
+			"id": 137389175,
+			"center": {
+				"lat": 52.2498621,
+				"lon": 20.9945397
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 151221195,
+			"center": {
+				"lat": 51.762237,
+				"lon": 19.4565504
+			},
+			"tags": {
+				"highway": "tertiary",
+				"lanes": "2",
+				"maxspeed": "30",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -674,6 +942,52 @@
 		},
 		{
 			"type": "way",
+			"id": 164610075,
+			"center": {
+				"lat": 51.7620475,
+				"lon": 19.4542319
+			},
+			"tags": {
+				"highway": "tertiary",
+				"lanes": "2",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164610082,
+			"center": {
+				"lat": 51.7617475,
+				"lon": 19.4506193
+			},
+			"tags": {
+				"highway": "tertiary",
+				"lanes": "2",
+				"maxspeed": "50",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 173992946,
+			"center": {
+				"lat": 52.1217388,
+				"lon": 20.6504045
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
 			"id": 177849232,
 			"center": {
 				"lat": 51.4586218,
@@ -727,6 +1041,19 @@
 		},
 		{
 			"type": "way",
+			"id": 199955092,
+			"center": {
+				"lat": 52.1034901,
+				"lon": 21.2928385
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
 			"id": 224764364,
 			"center": {
 				"lat": -62.4280997,
@@ -770,6 +1097,56 @@
 		},
 		{
 			"type": "way",
+			"id": 255885282,
+			"center": {
+				"lat": 50.8432919,
+				"lon": 16.4654708
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 255946030,
+			"center": {
+				"lat": 50.8495344,
+				"lon": 16.4751271
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 255946037,
+			"center": {
+				"lat": 50.8494783,
+				"lon": 16.4752065
+			},
+			"tags": {
+				"highway": "tertiary",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 263250267,
 			"center": {
 				"lat": 43.5867423,
@@ -785,6 +1162,161 @@
 		},
 		{
 			"type": "way",
+			"id": 285573644,
+			"center": {
+				"lat": 50.8498338,
+				"lon": 16.4756028
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285864322,
+			"center": {
+				"lat": 50.8456554,
+				"lon": 16.4718309
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285864324,
+			"center": {
+				"lat": 50.8453629,
+				"lon": 16.471543
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "3",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"placement": "middle_of:2",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"turn:lanes": "left|through|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285875491,
+			"center": {
+				"lat": 50.8452009,
+				"lon": 16.471449
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285875494,
+			"center": {
+				"lat": 50.8450282,
+				"lon": 16.4711653
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"placement": "middle_of:2",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"turn:lanes": "left|through"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285875495,
+			"center": {
+				"lat": 50.844613,
+				"lon": 16.4706717
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"placement": "middle_of:2",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"turn:lanes": "left|through"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285875496,
+			"center": {
+				"lat": 50.8441557,
+				"lon": 16.469635
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"turn:lanes": "left;through|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 285875497,
+			"center": {
+				"lat": 50.8439112,
+				"lon": 16.467545
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
 			"id": 290280654,
 			"center": {
 				"lat": -25.4182952,
@@ -795,6 +1327,63 @@
 				"name": "Rua Doutor Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 321538732,
+			"center": {
+				"lat": 50.8480195,
+				"lon": 16.4737021
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 321538733,
+			"center": {
+				"lat": 50.8461801,
+				"lon": 16.472285
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 338950577,
+			"center": {
+				"lat": 52.1254965,
+				"lon": 20.6525553
+			},
+			"tags": {
+				"addr:city": "Milanówek",
+				"addr:city:simc": "0921020",
+				"addr:housenumber": "16",
+				"addr:postcode": "05-822",
+				"addr:street": "Zachodnia",
+				"addr:street:sym_ul": "25305",
+				"building": "yes",
+				"name": "Esperanto",
+				"name:etymology:wikidata": "Q123",
+				"old_name": "Esperanto",
+				"source:addr": "milanowek.e-mapa.net"
 			}
 		},
 		{
@@ -816,6 +1405,107 @@
 		},
 		{
 			"type": "way",
+			"id": 352505641,
+			"center": {
+				"lat": 51.0873797,
+				"lon": 17.0381858
+			},
+			"tags": {
+				"barrier": "kerb",
+				"name": "Plac Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"place": "square"
+			}
+		},
+		{
+			"type": "way",
+			"id": 362697998,
+			"center": {
+				"lat": 50.2882846,
+				"lon": 16.6443459
+			},
+			"tags": {
+				"highway": "tertiary",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "3235D",
+				"source": "uhul:ortofoto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 382216177,
+			"center": {
+				"lat": 50.8424703,
+				"lon": 16.4603463
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 382216178,
+			"center": {
+				"lat": 50.8429641,
+				"lon": 16.463048
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 385840604,
+			"center": {
+				"lat": 50.8425773,
+				"lon": 16.4613196
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
+			"id": 385840605,
+			"center": {
+				"lat": 50.8425825,
+				"lon": 16.4606725
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
+				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+			}
+		},
+		{
+			"type": "way",
 			"id": 400422170,
 			"center": {
 				"lat": 44.2027156,
@@ -825,6 +1515,23 @@
 				"building": "house",
 				"esperanto": "yes",
 				"name": "Le Fromental"
+			}
+		},
+		{
+			"type": "way",
+			"id": 442453094,
+			"center": {
+				"lat": 52.2487367,
+				"lon": 20.9955599
+			},
+			"tags": {
+				"highway": "residential",
+				"lanes:backward": "1",
+				"lanes:forward": "2",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"turn:lanes:forward": "|through;right",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		}
 	]

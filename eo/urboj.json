@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-23T07:12:02Z",
+		"timestamp_osm_base": "2017-02-28T08:26:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1557,8 +1557,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8988173,
-			"lon": 12.47311,
+			"lat": 41.8992085,
+			"lon": 12.476757,
 			"tags": {
 				"name:eo": "Romo"
 			}
@@ -2529,8 +2529,8 @@
 		{
 			"type": "node",
 			"id": 244080443,
-			"lat": 23.1300037,
-			"lon": 113.259001,
+			"lat": 23.1387267,
+			"lon": 113.319321,
 			"tags": {
 				"name:eo": "Kantono"
 			}
