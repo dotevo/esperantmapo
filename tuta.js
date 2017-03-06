@@ -339,7 +339,7 @@ function ikononDeLoko(obj) {
 	if (obj.tags['historic'] != null) {
 		return ikonoj.memoraĵo;
 	}
-	if (obj.tags['name:etymology:wikidata'] == 'Q123') {
+	if (obj.tags['name:etymology:wikidata'] == 'Q143') {
 		return ikonoj.esperanto;
 	}
 	if (obj.tags['name:etymology:wikidata'] == 'Q11758') {
