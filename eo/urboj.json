@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-28T08:26:02Z",
+		"timestamp_osm_base": "2017-03-06T08:22:04Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -211,6 +211,15 @@
 			"lon": 0.124862,
 			"tags": {
 				"name:eo": "Kembriĝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 20981158,
+			"lat": 59.9132694,
+			"lon": 10.7391112,
+			"tags": {
+				"name:eo": "Oslo"
 			}
 		},
 		{
@@ -575,6 +584,15 @@
 		},
 		{
 			"type": "node",
+			"id": 27048976,
+			"lat": 54.7066422,
+			"lon": 20.5105166,
+			"tags": {
+				"name:eo": "Kaliningrado"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27048978,
 			"lat": 54.6554783,
 			"lon": 19.9110348,
@@ -764,6 +782,15 @@
 		},
 		{
 			"type": "node",
+			"id": 27564954,
+			"lat": 12.649319,
+			"lon": -8.000337,
+			"tags": {
+				"name:eo": "Bamako"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27564966,
 			"lat": 29.974498,
 			"lon": 32.537086,
@@ -899,6 +926,15 @@
 		},
 		{
 			"type": "node",
+			"id": 27565081,
+			"lat": -25.966213,
+			"lon": 32.56745,
+			"tags": {
+				"name:eo": "Maputo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27565085,
 			"lat": 11.593665,
 			"lon": 43.14724,
@@ -913,6 +949,15 @@
 			"lon": 36.8172449,
 			"tags": {
 				"name:eo": "Najrobo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565116,
+			"lat": -18.9100122,
+			"lon": 47.5255809,
+			"tags": {
+				"name:eo": "Antananarivo"
 			}
 		},
 		{
@@ -1061,6 +1106,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30391973,
+			"lat": -25.665655,
+			"lon": 27.241448,
+			"tags": {
+				"name:eo": "Rustenburgo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30656833,
 			"lat": -29.310054,
 			"lon": 27.478222,
@@ -1111,6 +1165,15 @@
 			"lon": 7.4892974,
 			"tags": {
 				"name:eo": "Abuĝo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31219396,
+			"lat": 29.6568869,
+			"lon": 91.1314249,
+			"tags": {
+				"name:eo": "Lasao"
 			}
 		},
 		{
@@ -1192,15 +1255,6 @@
 			"lon": 21.1572247,
 			"tags": {
 				"name:eo": "Radomo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31916888,
-			"lat": 50.2907059,
-			"lon": 18.9214033,
-			"tags": {
-				"name:eo": "Ŝvintohuvitso"
 			}
 		},
 		{
@@ -1385,6 +1439,15 @@
 		},
 		{
 			"type": "node",
+			"id": 51828236,
+			"lat": -26.515556,
+			"lon": 29.992222,
+			"tags": {
+				"name:eo": "Ermelo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 52943358,
 			"lat": 49.6112768,
 			"lon": 6.129799,
@@ -1408,6 +1471,24 @@
 			"lon": -76.7928128,
 			"tags": {
 				"name:eo": "Kingstono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 53433945,
+			"lat": -38.6874922,
+			"lon": 176.0754385,
+			"tags": {
+				"name:eo": "Taupo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 57554537,
+			"lat": 40.6403167,
+			"lon": 22.9352716,
+			"tags": {
+				"name:eo": "Tesaloniko"
 			}
 		},
 		{
@@ -1444,6 +1525,15 @@
 			"lon": 32.8606696,
 			"tags": {
 				"name:eo": "Roslavl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60237699,
+			"lat": 54.9600365,
+			"lon": 20.4750188,
+			"tags": {
+				"name:eo": "Zelenogradsk"
 			}
 		},
 		{
@@ -2528,6 +2618,15 @@
 		},
 		{
 			"type": "node",
+			"id": 244075908,
+			"lat": 30.5119718,
+			"lon": 117.0429659,
+			"tags": {
+				"name:eo": "Ankingo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 244080443,
 			"lat": 23.1387267,
 			"lon": 113.319321,
@@ -2659,6 +2758,15 @@
 			"lon": 69.0443667,
 			"tags": {
 				"name:eo": "Oqqurgan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247173413,
+			"lat": 41.3873284,
+			"lon": 69.4641139,
+			"tags": {
+				"name:eo": "Kibray"
 			}
 		},
 		{
@@ -3311,11 +3419,29 @@
 		},
 		{
 			"type": "node",
+			"id": 265958490,
+			"lat": 38.7077926,
+			"lon": -9.1365061,
+			"tags": {
+				"name:eo": "Lisbono"
+			}
+		},
+		{
+			"type": "node",
 			"id": 266318137,
 			"lat": 44.5092913,
 			"lon": 33.6002588,
 			"tags": {
 				"name:eo": "Balaklavo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 266714836,
+			"lat": 54.638054,
+			"lon": 21.80892,
+			"tags": {
+				"name:eo": "Ĉernjaĥovsk"
 			}
 		},
 		{
@@ -3406,6 +3532,15 @@
 			"lon": 37.1815538,
 			"tags": {
 				"name:eo": "Tarusa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271613766,
+			"lat": 30.048819,
+			"lon": 31.243666,
+			"tags": {
+				"name:eo": "Kairo"
 			}
 		},
 		{
@@ -4923,8 +5058,8 @@
 		{
 			"type": "node",
 			"id": 358015143,
-			"lat": 35.1853168,
-			"lon": 129.0625899,
+			"lat": 35.1799528,
+			"lon": 129.0752365,
 			"tags": {
 				"name:eo": "Pusano"
 			}
@@ -4967,11 +5102,29 @@
 		},
 		{
 			"type": "node",
+			"id": 369469617,
+			"lat": 19.811719,
+			"lon": 105.7745698,
+			"tags": {
+				"name:eo": "Thanh Hoa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 369486734,
 			"lat": 10.7758439,
 			"lon": 106.7017555,
 			"tags": {
 				"name:eo": "Ho-Ĉi-Min-urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 369487094,
+			"lat": 17.4695049,
+			"lon": 106.6177781,
+			"tags": {
+				"name:eo": "Dong Hoi"
 			}
 		},
 		{
@@ -5192,6 +5345,15 @@
 		},
 		{
 			"type": "node",
+			"id": 508040941,
+			"lat": 31.6259901,
+			"lon": -7.9886083,
+			"tags": {
+				"name:eo": "Marakeŝo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 513363722,
 			"lat": 42.7121136,
 			"lon": 41.4721354,
@@ -5350,6 +5512,15 @@
 			"lon": -74.0760867,
 			"tags": {
 				"name:eo": "Bogoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 703225446,
+			"lat": 5.1535058,
+			"lon": -75.0371423,
+			"tags": {
+				"name:eo": "Fresno"
 			}
 		},
 		{
@@ -5521,6 +5692,15 @@
 			"lon": 23.8647474,
 			"tags": {
 				"name:eo": "Solotvino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 864242816,
+			"lat": 36.034913,
+			"lon": 139.754941,
+			"tags": {
+				"name:eo": "Sugito"
 			}
 		},
 		{
@@ -6461,6 +6641,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2668706359,
+			"lat": 62.2299808,
+			"lon": -133.3540278,
+			"tags": {
+				"name:eo": "Faro"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2702400314,
 			"lat": 28.6517178,
 			"lon": 77.2219388,
@@ -6484,6 +6673,15 @@
 			"lon": 69.2583902,
 			"tags": {
 				"name:eo": "Bekabad"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3072758152,
+			"lat": -13.973456,
+			"lon": 33.7878122,
+			"tags": {
+				"name:eo": "Lilongvo"
 			}
 		},
 		{
