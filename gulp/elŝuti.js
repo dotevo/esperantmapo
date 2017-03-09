@@ -38,8 +38,8 @@ function lokoj() {
 			((lingvo == 'eo') ?
 			'node["esperanto"="yes"];' +
 			'way["esperanto"="yes"];' +
-			'node["name:etymology:wikidata"="Q123"];' +
-			'way["name:etymology:wikidata"="Q123"];' +
+			'node["name:etymology:wikidata"="Q143"];' +
+			'way["name:etymology:wikidata"="Q143"];' +
 			'node["name:etymology:wikidata"="Q11758"];' +
 			'way["name:etymology:wikidata"="Q11758"];'
 			: '') +
