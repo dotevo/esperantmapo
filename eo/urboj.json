@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-06T08:22:04Z",
+		"timestamp_osm_base": "2017-03-09T07:53:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1539,8 +1539,8 @@
 		{
 			"type": "node",
 			"id": 60410873,
-			"lat": 46.9713414,
-			"lon": 32.0042394,
+			"lat": 46.9659167,
+			"lon": 32.0035348,
 			"tags": {
 				"name:eo": "Nikolajevo"
 			}
@@ -3779,6 +3779,15 @@
 		},
 		{
 			"type": "node",
+			"id": 287686736,
+			"lat": 43.1999049,
+			"lon": 46.8713343,
+			"tags": {
+				"name:eo": "Kizilurt"
+			}
+		},
+		{
+			"type": "node",
 			"id": 289141966,
 			"lat": 18.547327,
 			"lon": -72.3395928,
@@ -5129,6 +5138,15 @@
 		},
 		{
 			"type": "node",
+			"id": 369487099,
+			"lat": 16.4690912,
+			"lon": 107.5777611,
+			"tags": {
+				"name:eo": "Hue"
+			}
+		},
+		{
+			"type": "node",
 			"id": 370757335,
 			"lat": -1.45056,
 			"lon": -48.4682453,
@@ -5373,8 +5391,8 @@
 		{
 			"type": "node",
 			"id": 531668011,
-			"lat": 1.2904527,
-			"lon": 103.852038,
+			"lat": 1.2904753,
+			"lon": 103.8520359,
 			"tags": {
 				"name:eo": "Singapuro"
 			}

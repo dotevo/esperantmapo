@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-06T08:21:02Z",
+		"timestamp_osm_base": "2017-03-09T07:50:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -5327,6 +5327,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1750191683,
+			"lat": 41.5,
+			"lon": 85.5,
+			"tags": {
+				"name:eo": "Ŝinĝjango"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1756225709,
 			"lat": 46.3355508,
 			"lon": -63.1466676,
@@ -6965,6 +6974,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4351323483,
+			"lat": 35.0030052,
+			"lon": 133.7037385,
+			"tags": {
+				"name:eo": "Gubernio Okajamo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4351432485,
 			"lat": 13.7538929,
 			"lon": 100.8160803,
@@ -6979,6 +6997,15 @@
 			"lon": -106.1412243,
 			"tags": {
 				"name:eo": "Saskaĉevano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4545343340,
+			"lat": 54.6294982,
+			"lon": -6.7654416,
+			"tags": {
+				"name:eo": "Nord-Irlando"
 			}
 		},
 		{

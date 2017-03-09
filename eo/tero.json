@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-06T08:23:03Z",
+		"timestamp_osm_base": "2017-03-09T07:52:04Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -112,7 +112,7 @@
 			"id": 2956937,
 			"center": {
 				"lat": 49.4283498,
-				"lon": -2.3626233
+				"lon": -2.3626232
 			},
 			"tags": {
 				"name:eo": "Sark"
@@ -156,7 +156,7 @@
 			"id": 11520932,
 			"center": {
 				"lat": -33.7690133,
-				"lon": -80.7963612
+				"lon": -80.7963611
 			},
 			"tags": {
 				"name:eo": "Insulo Alejandro Selkirk"
@@ -199,8 +199,8 @@
 			"type": "way",
 			"id": 224764364,
 			"center": {
-				"lat": -62.4280997,
-				"lon": -60.1766876
+				"lat": -62.4280998,
+				"lon": -60.1766875
 			},
 			"tags": {
 				"name:eo": "Esperanto Insulo"
@@ -233,7 +233,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8245078
+				"lon": 103.8245077
 			},
 			"tags": {
 				"name:eo": "Singapuro"
@@ -266,7 +266,7 @@
 			"id": 2410122,
 			"center": {
 				"lat": -6.1000445,
-				"lon": 39.3810392
+				"lon": 39.3810391
 			},
 			"tags": {
 				"name:eo": "Unguĵo"
@@ -298,7 +298,7 @@
 			"type": "relation",
 			"id": 2906044,
 			"center": {
-				"lat": 33.5608482,
+				"lat": 33.5608481,
 				"lon": 133.3814675
 			},
 			"tags": {
@@ -309,7 +309,7 @@
 			"type": "relation",
 			"id": 2988486,
 			"center": {
-				"lat": -62.7709244,
+				"lat": -62.7709245,
 				"lon": -61.3626502
 			},
 			"tags": {
@@ -321,7 +321,7 @@
 			"id": 3019029,
 			"center": {
 				"lat": -5.1690844,
-				"lon": 39.7536806
+				"lon": 39.7536805
 			},
 			"tags": {
 				"name:eo": "Pembo"
@@ -343,7 +343,7 @@
 			"id": 3790219,
 			"center": {
 				"lat": 54.4467612,
-				"lon": 13.0189807
+				"lon": 13.0189806
 			},
 			"tags": {
 				"name:eo": "Bock"
@@ -386,8 +386,8 @@
 			"type": "relation",
 			"id": 4868269,
 			"center": {
-				"lat": -15.9656678,
-				"lon": -5.7120468
+				"lat": -15.9656679,
+				"lon": -5.7120467
 			},
 			"tags": {
 				"name:eo": "Sankta Heleno"
@@ -408,7 +408,7 @@
 			"type": "relation",
 			"id": 6038068,
 			"center": {
-				"lat": 54.3153878,
+				"lat": 54.3153877,
 				"lon": -2.2324323
 			},
 			"tags": {
@@ -419,7 +419,7 @@
 			"type": "relation",
 			"id": 6041206,
 			"center": {
-				"lat": 54.2359141,
+				"lat": 54.235914,
 				"lon": -4.5511849
 			},
 			"tags": {
@@ -519,7 +519,7 @@
 			"id": 6080158,
 			"center": {
 				"lat": -15.8913923,
-				"lon": 54.5230377
+				"lon": 54.5230376
 			},
 			"tags": {
 				"name:eo": "Tromelininsulo"
@@ -530,7 +530,7 @@
 			"id": 6080162,
 			"center": {
 				"lat": -15.8906803,
-				"lon": 54.5224133
+				"lon": 54.5224132
 			},
 			"tags": {
 				"name:eo": "Tromelininsulo"

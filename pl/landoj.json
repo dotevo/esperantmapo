@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-21T08:28:02Z",
+		"timestamp_osm_base": "2017-03-09T08:03:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -198,8 +198,8 @@
 		{
 			"type": "node",
 			"id": 249399362,
-			"lat": 35.3985008,
-			"lon": 127.937111,
+			"lat": 35.7647865,
+			"lon": 127.9642376,
 			"tags": {
 				"name:pl": "Korea Południowa"
 			}

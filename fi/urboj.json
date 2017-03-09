@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:28:03Z",
+		"timestamp_osm_base": "2017-03-09T08:02:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -648,8 +648,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.7106617,
-			"lon": 38.2778566,
+			"lat": 46.710663,
+			"lon": 38.277855,
 			"tags": {
 				"name:fi": "Jeisk"
 			}
@@ -2493,8 +2493,8 @@
 		{
 			"type": "node",
 			"id": 60696063,
-			"lat": 59.3463239,
-			"lon": 31.2442083,
+			"lat": 59.346325,
+			"lon": 31.244207,
 			"tags": {
 				"name:fi": "Ljuban"
 			}
@@ -2583,8 +2583,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8988173,
-			"lon": 12.47311,
+			"lat": 41.8992085,
+			"lon": 12.476757,
 			"tags": {
 				"name:fi": "Rooma"
 			}
@@ -3141,8 +3141,8 @@
 		{
 			"type": "node",
 			"id": 244081031,
-			"lat": 44.4195345,
-			"lon": 84.9093735,
+			"lat": 44.4245113,
+			"lon": 84.9006885,
 			"tags": {
 				"name:fi": "Kuytun"
 			}
@@ -4347,8 +4347,8 @@
 		{
 			"type": "node",
 			"id": 358015143,
-			"lat": 35.1853168,
-			"lon": 129.0625899,
+			"lat": 35.1799528,
+			"lon": 129.0752365,
 			"tags": {
 				"name:fi": "Busan"
 			}
@@ -4545,8 +4545,8 @@
 		{
 			"type": "node",
 			"id": 531668011,
-			"lat": 1.2904527,
-			"lon": 103.852038,
+			"lat": 1.2904753,
+			"lon": 103.8520359,
 			"tags": {
 				"name:fi": "Singapore"
 			}
@@ -5265,8 +5265,8 @@
 		{
 			"type": "node",
 			"id": 1833198964,
-			"lat": 59.1172617,
-			"lon": 28.0869796,
+			"lat": 59.11726,
+			"lon": 28.086979,
 			"tags": {
 				"name:fi": "Slantsy"
 			}

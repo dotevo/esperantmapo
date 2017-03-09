@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:28:03Z",
+		"timestamp_osm_base": "2017-03-09T08:02:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -283,6 +283,15 @@
 			"lon": 165.4880773,
 			"tags": {
 				"name:fi": "Uusi-Kaledonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1472876649,
+			"lat": 32.0254688,
+			"lon": 35.2888075,
+			"tags": {
+				"name:fi": "Juudea & Samaria"
 			}
 		},
 		{

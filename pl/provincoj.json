@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-21T08:28:02Z",
+		"timestamp_osm_base": "2017-03-09T08:04:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1242,8 +1242,8 @@
 		{
 			"type": "node",
 			"id": 322128912,
-			"lat": 13.7797559,
-			"lon": 14.1550429,
+			"lat": 13.5820827,
+			"lon": 14.3788329,
 			"tags": {
 				"name:pl": "Lac"
 			}
@@ -1260,8 +1260,8 @@
 		{
 			"type": "node",
 			"id": 322129363,
-			"lat": 15.0005701,
-			"lon": 15.1048921,
+			"lat": 15.2264398,
+			"lon": 15.3151191,
 			"tags": {
 				"name:pl": "Kanem"
 			}
@@ -1296,8 +1296,8 @@
 		{
 			"type": "node",
 			"id": 322133411,
-			"lat": 10.3563576,
-			"lon": 15.6755227,
+			"lat": 10.126618,
+			"lon": 15.818345,
 			"tags": {
 				"name:pl": "Mayo-Kebbi Est"
 			}
@@ -1314,8 +1314,8 @@
 		{
 			"type": "node",
 			"id": 322135072,
-			"lat": 9.5983875,
-			"lon": 16.6668247,
+			"lat": 9.5713051,
+			"lon": 16.5294956,
 			"tags": {
 				"name:pl": "Tandjilé"
 			}
@@ -1323,8 +1323,8 @@
 		{
 			"type": "node",
 			"id": 322135074,
-			"lat": 9.3604915,
-			"lon": 18.4905799,
+			"lat": 9.4407768,
+			"lon": 18.8160927,
 			"tags": {
 				"name:pl": "Szari Środkowe"
 			}
@@ -1332,8 +1332,8 @@
 		{
 			"type": "node",
 			"id": 322135075,
-			"lat": 8.0687686,
-			"lon": 16.3548246,
+			"lat": 8.2047152,
+			"lon": 16.470181,
 			"tags": {
 				"name:pl": "Logon Wschodni"
 			}
@@ -1341,8 +1341,8 @@
 		{
 			"type": "node",
 			"id": 322135077,
-			"lat": 8.7687059,
-			"lon": 15.8302774,
+			"lat": 8.7795637,
+			"lon": 15.9126749,
 			"tags": {
 				"name:pl": "Logon Zachodni"
 			}
@@ -1359,8 +1359,8 @@
 		{
 			"type": "node",
 			"id": 322491573,
-			"lat": 8.3972369,
-			"lon": 17.7431715,
+			"lat": 8.6905755,
+			"lon": 17.6333082,
 			"tags": {
 				"name:pl": "Mandoul"
 			}
@@ -3573,8 +3573,8 @@
 		{
 			"type": "node",
 			"id": 1535458669,
-			"lat": 17.5718354,
-			"lon": 106.2081273,
+			"lat": 17.5462658,
+			"lon": 106.2576229,
 			"tags": {
 				"name:pl": "Prowincja Quảng Bình"
 			}
@@ -3996,8 +3996,8 @@
 		{
 			"type": "node",
 			"id": 1937460396,
-			"lat": 33.1497689,
-			"lon": -8.14825,
+			"lat": 33.2627128,
+			"lon": -7.9639028,
 			"tags": {
 				"name:pl": "Casablanca-Settat"
 			}
@@ -4122,8 +4122,8 @@
 		{
 			"type": "node",
 			"id": 2222491869,
-			"lat": 18.2474825,
-			"lon": 18.4237809,
+			"lat": 17.2658129,
+			"lon": 18.3695288,
 			"tags": {
 				"name:pl": "Borku"
 			}
@@ -4131,8 +4131,8 @@
 		{
 			"type": "node",
 			"id": 2222491871,
-			"lat": 18.0383689,
-			"lon": 22.164704,
+			"lat": 18.1636803,
+			"lon": 21.5082709,
 			"tags": {
 				"name:pl": "Ennedi"
 			}
@@ -4140,8 +4140,8 @@
 		{
 			"type": "node",
 			"id": 2222491873,
-			"lat": 12.6540008,
-			"lon": 16.1860714,
+			"lat": 12.6903906,
+			"lon": 16.3352648,
 			"tags": {
 				"name:pl": "Hadjer-Lamis"
 			}
@@ -4149,8 +4149,8 @@
 		{
 			"type": "node",
 			"id": 2222491881,
-			"lat": 12.1112295,
-			"lon": 21.3645066,
+			"lat": 12.11786,
+			"lon": 21.4458848,
 			"tags": {
 				"name:pl": "Sila"
 			}
@@ -4158,8 +4158,8 @@
 		{
 			"type": "node",
 			"id": 2222491883,
-			"lat": 21.6132867,
-			"lon": 16.5433168,
+			"lat": 20.6808703,
+			"lon": 17.9935121,
 			"tags": {
 				"name:pl": "Tibesti"
 			}
@@ -4167,8 +4167,8 @@
 		{
 			"type": "node",
 			"id": 2222491887,
-			"lat": 15.0085336,
-			"lon": 21.3244967,
+			"lat": 15.0191449,
+			"lon": 21.467319,
 			"tags": {
 				"name:pl": "Wadi Fira"
 			}
@@ -4905,8 +4905,8 @@
 		{
 			"type": "node",
 			"id": 4343334447,
-			"lat": 36.0885431,
-			"lon": 136.8210461,
+			"lat": 35.9263502,
+			"lon": 136.6068127,
 			"tags": {
 				"name:pl": "Prefektura Fukui"
 			}
@@ -5543,6 +5543,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4352815871,
+			"lat": 15.1879684,
+			"lon": 105.3269544,
+			"tags": {
+				"name:pl": "Ubon Ratchathani"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4352821740,
 			"lat": 17.5211917,
 			"lon": 102.6680012,
@@ -5665,6 +5674,15 @@
 			"lon": 44.4661144,
 			"tags": {
 				"name:pl": "Republika Mordowii"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4708675056,
+			"lat": 17.6219737,
+			"lon": 23.3133676,
+			"tags": {
+				"name:pl": "Ennedi"
 			}
 		}
 	]

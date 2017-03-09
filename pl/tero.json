@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-21T08:31:02Z",
+		"timestamp_osm_base": "2017-03-09T08:07:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -121,7 +121,7 @@
 			"id": 2956937,
 			"center": {
 				"lat": 49.4283498,
-				"lon": -2.3626233
+				"lon": -2.3626232
 			},
 			"tags": {
 				"name:pl": "Sark"
@@ -136,17 +136,6 @@
 			},
 			"tags": {
 				"name:pl": "Alderney"
-			}
-		},
-		{
-			"type": "way",
-			"id": 4528082,
-			"center": {
-				"lat": 45.2548289,
-				"lon": 30.2037323
-			},
-			"tags": {
-				"name:pl": "Zmijnyj Ostriw"
 			}
 		},
 		{
@@ -176,7 +165,7 @@
 			"id": 11520932,
 			"center": {
 				"lat": -33.7690133,
-				"lon": -80.7963612
+				"lon": -80.7963611
 			},
 			"tags": {
 				"name:pl": "Alejandro Selkirk"
@@ -187,7 +176,7 @@
 			"id": 18577661,
 			"center": {
 				"lat": -31.7550549,
-				"lon": 159.2504944
+				"lon": 159.2504943
 			},
 			"tags": {
 				"name:pl": "Piramida Balla"
@@ -197,8 +186,8 @@
 			"type": "way",
 			"id": 20747781,
 			"center": {
-				"lat": 65.7547643,
-				"lon": -168.9252055
+				"lat": 65.7547642,
+				"lon": -168.9252054
 			},
 			"tags": {
 				"name:pl": "Mała Diomeda"
@@ -220,7 +209,7 @@
 			"id": 27923209,
 			"center": {
 				"lat": 83.6621503,
-				"lon": -30.616498
+				"lon": -30.6164979
 			},
 			"tags": {
 				"name:pl": "Wyspa Kaffeklubben"
@@ -230,8 +219,8 @@
 			"type": "way",
 			"id": 37678145,
 			"center": {
-				"lat": 22.0481761,
-				"lon": -81.377868
+				"lat": 22.048176,
+				"lon": -81.3778679
 			},
 			"tags": {
 				"name:pl": "Wyspa Ernsta Thälmanna"
@@ -242,7 +231,7 @@
 			"id": 55591708,
 			"center": {
 				"lat": 52.3379181,
-				"lon": 14.5594893
+				"lon": 14.5594892
 			},
 			"tags": {
 				"name:pl": "Kozi Ostrów"
@@ -329,8 +318,8 @@
 			"type": "relation",
 			"id": 156166,
 			"center": {
-				"lat": -7.9410339,
-				"lon": -14.3577054
+				"lat": -7.941034,
+				"lon": -14.3577053
 			},
 			"tags": {
 				"name:pl": "Wyspa Wniebowstąpienia"
@@ -340,7 +329,7 @@
 			"type": "relation",
 			"id": 188921,
 			"center": {
-				"lat": -62.0761152,
+				"lat": -62.0761153,
 				"lon": -58.3056164
 			},
 			"tags": {
@@ -363,7 +352,7 @@
 			"id": 452614,
 			"center": {
 				"lat": 36.1673494,
-				"lon": 27.9656169
+				"lon": 27.9656168
 			},
 			"tags": {
 				"name:pl": "Rodos"
@@ -395,8 +384,8 @@
 			"type": "relation",
 			"id": 532001,
 			"center": {
-				"lat": 37.159368,
-				"lon": 24.4760436
+				"lat": 37.1593679,
+				"lon": 24.4760435
 			},
 			"tags": {
 				"name:pl": "Serifos"
@@ -418,7 +407,7 @@
 			"id": 861780,
 			"center": {
 				"lat": 34.8366121,
-				"lon": 24.0845406
+				"lon": 24.0845405
 			},
 			"tags": {
 				"name:pl": "Gawdos"
@@ -429,7 +418,7 @@
 			"id": 898904,
 			"center": {
 				"lat": 34.8734485,
-				"lon": 24.0759127
+				"lon": 24.0759126
 			},
 			"tags": {
 				"name:pl": "Prasonisi"
@@ -472,7 +461,7 @@
 			"type": "relation",
 			"id": 1656494,
 			"center": {
-				"lat": 76.6866966,
+				"lat": 76.6866965,
 				"lon": -119.1602012
 			},
 			"tags": {
@@ -484,7 +473,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8245078
+				"lon": 103.8245077
 			},
 			"tags": {
 				"name:pl": "Singapur"
@@ -516,8 +505,8 @@
 			"type": "relation",
 			"id": 2283489,
 			"center": {
-				"lat": 63.3622162,
-				"lon": -170.2670151
+				"lat": 63.3622161,
+				"lon": -170.267015
 			},
 			"tags": {
 				"name:pl": "Wyspa Świętego Wawrzyńca"
@@ -539,7 +528,7 @@
 			"id": 2410122,
 			"center": {
 				"lat": -6.1000445,
-				"lon": 39.3810392
+				"lon": 39.3810391
 			},
 			"tags": {
 				"name:pl": "Zanzibar"
@@ -550,7 +539,7 @@
 			"id": 2433450,
 			"center": {
 				"lat": 54.6831727,
-				"lon": 167.7697894
+				"lon": 167.7697893
 			},
 			"tags": {
 				"name:pl": "Wyspa Miedziana"
@@ -560,7 +549,7 @@
 			"type": "relation",
 			"id": 2906044,
 			"center": {
-				"lat": 33.5608482,
+				"lat": 33.5608481,
 				"lon": 133.3814675
 			},
 			"tags": {
@@ -572,7 +561,7 @@
 			"id": 3019029,
 			"center": {
 				"lat": -5.1690844,
-				"lon": 39.7536806
+				"lon": 39.7536805
 			},
 			"tags": {
 				"name:pl": "Pemba"
@@ -624,6 +613,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3987424,
+			"center": {
+				"lat": 50.1591908,
+				"lon": 143.187038
+			},
+			"tags": {
+				"name:pl": "Sachalin"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 4176597,
 			"center": {
 				"lat": 55.0218625,
@@ -637,8 +637,8 @@
 			"type": "relation",
 			"id": 4565854,
 			"center": {
-				"lat": -18.623147,
-				"lon": -173.9855158
+				"lat": -18.6231469,
+				"lon": -173.9855157
 			},
 			"tags": {
 				"name:pl": "Vava'u"
@@ -648,8 +648,8 @@
 			"type": "relation",
 			"id": 4868269,
 			"center": {
-				"lat": -15.9656678,
-				"lon": -5.7120468
+				"lat": -15.9656679,
+				"lon": -5.7120467
 			},
 			"tags": {
 				"name:pl": "Wyspa Świętej Heleny"
@@ -681,7 +681,7 @@
 			"type": "relation",
 			"id": 6038068,
 			"center": {
-				"lat": 54.3153878,
+				"lat": 54.3153877,
 				"lon": -2.2324323
 			},
 			"tags": {
@@ -692,7 +692,7 @@
 			"type": "relation",
 			"id": 6041206,
 			"center": {
-				"lat": 54.2359141,
+				"lat": 54.235914,
 				"lon": -4.5511849
 			},
 			"tags": {
@@ -780,7 +780,7 @@
 			"type": "relation",
 			"id": 6046479,
 			"center": {
-				"lat": 51.5276298,
+				"lat": 51.5276297,
 				"lon": 0.5727734
 			},
 			"tags": {
@@ -835,7 +835,7 @@
 			"type": "relation",
 			"id": 6256784,
 			"center": {
-				"lat": 46.5207383,
+				"lat": 46.5207384,
 				"lon": 150.873875
 			},
 			"tags": {
@@ -857,8 +857,8 @@
 			"type": "relation",
 			"id": 6391626,
 			"center": {
-				"lat": -7.9411266,
-				"lon": -14.3577054
+				"lat": -7.9411265,
+				"lon": -14.3577053
 			},
 			"tags": {
 				"name:pl": "Wyspa Wniebowstąpienia"

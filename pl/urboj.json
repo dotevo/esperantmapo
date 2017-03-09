@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-21T08:29:02Z",
+		"timestamp_osm_base": "2017-03-09T08:04:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1696,15 +1696,6 @@
 			"lon": 14.5614374,
 			"tags": {
 				"name:pl": "Słubice"
-			}
-		},
-		{
-			"type": "node",
-			"id": 26476059,
-			"lat": 27.180872,
-			"lon": 56.2806494,
-			"tags": {
-				"name:pl": "Bandar-e Abbas"
 			}
 		},
 		{
@@ -3635,11 +3626,29 @@
 		},
 		{
 			"type": "node",
+			"id": 31590318,
+			"lat": 53.1980846,
+			"lon": 19.6445713,
+			"tags": {
+				"name:pl": "Górzno"
+			}
+		},
+		{
+			"type": "node",
 			"id": 31591564,
 			"lat": 53.53861,
 			"lon": 17.2338685,
 			"tags": {
 				"name:pl": "Debrzno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31592428,
+			"lat": 53.1860233,
+			"lon": 18.6112806,
+			"tags": {
+				"name:pl": "Chełmża"
 			}
 		},
 		{
@@ -4896,8 +4905,8 @@
 		{
 			"type": "node",
 			"id": 60410873,
-			"lat": 46.9713414,
-			"lon": 32.0042394,
+			"lat": 46.9659167,
+			"lon": 32.0035348,
 			"tags": {
 				"name:pl": "Mikołajów"
 			}
@@ -5238,8 +5247,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8988173,
-			"lon": 12.47311,
+			"lat": 41.8992085,
+			"lon": 12.476757,
 			"tags": {
 				"name:pl": "Rzym"
 			}
@@ -9018,8 +9027,8 @@
 		{
 			"type": "node",
 			"id": 244080443,
-			"lat": 23.1300037,
-			"lon": 113.259001,
+			"lat": 23.1387267,
+			"lon": 113.319321,
 			"tags": {
 				"name:pl": "Kanton"
 			}
@@ -9054,8 +9063,8 @@
 		{
 			"type": "node",
 			"id": 244081031,
-			"lat": 44.4195345,
-			"lon": 84.9093735,
+			"lat": 44.4245113,
+			"lon": 84.9006885,
 			"tags": {
 				"name:pl": "Kuytun"
 			}
@@ -15840,8 +15849,8 @@
 		{
 			"type": "node",
 			"id": 337535925,
-			"lat": 50.05234,
-			"lon": 28.11539,
+			"lat": 50.0524287,
+			"lon": 28.1153765,
 			"tags": {
 				"name:pl": "Cudnów"
 			}
@@ -15975,8 +15984,8 @@
 		{
 			"type": "node",
 			"id": 337539972,
-			"lat": 49.9416784,
-			"lon": 23.387441,
+			"lat": 49.9456001,
+			"lon": 23.3886319,
 			"tags": {
 				"name:pl": "Jaworów"
 			}
@@ -19458,8 +19467,8 @@
 		{
 			"type": "node",
 			"id": 337700092,
-			"lat": 44.515634,
-			"lon": 34.2388642,
+			"lat": 44.5158616,
+			"lon": 34.2379522,
 			"tags": {
 				"name:pl": "Nikita"
 			}
@@ -20034,8 +20043,8 @@
 		{
 			"type": "node",
 			"id": 358015143,
-			"lat": 35.1853168,
-			"lon": 129.0625899,
+			"lat": 35.1799528,
+			"lon": 129.0752365,
 			"tags": {
 				"name:pl": "Pusan"
 			}
@@ -21987,8 +21996,8 @@
 		{
 			"type": "node",
 			"id": 531668011,
-			"lat": 1.2904527,
-			"lon": 103.852038,
+			"lat": 1.2904753,
+			"lon": 103.8520359,
 			"tags": {
 				"name:pl": "Singapur"
 			}
@@ -23373,8 +23382,8 @@
 		{
 			"type": "node",
 			"id": 619310110,
-			"lat": 39.288474,
-			"lon": 141.104994,
+			"lat": 39.2898137,
+			"lon": 141.1026009,
 			"tags": {
 				"name:pl": "Kitakami"
 			}
@@ -28655,6 +28664,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1434536116,
+			"lat": 43.2390843,
+			"lon": 45.0473614,
+			"tags": {
+				"name:pl": "Niestierowskaja"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1438867377,
 			"lat": 35.664752,
 			"lon": 139.698096,
@@ -31302,8 +31320,8 @@
 		{
 			"type": "node",
 			"id": 1830216906,
-			"lat": 44.868823,
-			"lon": 13.8461349,
+			"lat": 44.8695385,
+			"lon": 13.8457778,
 			"tags": {
 				"name:pl": "Pula"
 			}
@@ -33178,6 +33196,15 @@
 			"lon": 25.4971504,
 			"tags": {
 				"name:pl": "Mickuny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2405762435,
+			"lat": 14.6845866,
+			"lon": 106.5793568,
+			"tags": {
+				"name:pl": "Sanamxai"
 			}
 		},
 		{

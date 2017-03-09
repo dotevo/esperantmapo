@@ -2,10 +2,28 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:35:02Z",
+		"timestamp_osm_base": "2017-03-09T08:01:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 26847709,
+			"lat": 47.2000338,
+			"lon": 13.199959,
+			"tags": {
+				"name:io": "Austria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148332300,
+			"lat": 40.0028028,
+			"lon": -4.003104,
+			"tags": {
+				"name:io": "Hispania"
+			}
+		},
 		{
 			"type": "node",
 			"id": 246422158,
@@ -72,8 +90,8 @@
 		{
 			"type": "node",
 			"id": 249399362,
-			"lat": 35.3985008,
-			"lon": 127.937111,
+			"lat": 35.7647865,
+			"lon": 127.9642376,
 			"tags": {
 				"name:io": "Sud-Korea"
 			}
@@ -935,6 +953,15 @@
 		},
 		{
 			"type": "node",
+			"id": 432424968,
+			"lat": 55.670249,
+			"lon": 10.3333283,
+			"tags": {
+				"name:io": "Dania"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432424981,
 			"lat": 63.2467777,
 			"lon": 25.9209164,
@@ -994,6 +1021,15 @@
 			"lon": -7.3366043,
 			"tags": {
 				"name:io": "Maroko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425060,
+			"lat": 52.0977181,
+			"lon": 19.0258159,
+			"tags": {
+				"name:io": "Polonia"
 			}
 		},
 		{
@@ -1174,6 +1210,15 @@
 			"lon": -58.1693445,
 			"tags": {
 				"name:io": "Paraguay"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1683325355,
+			"lat": 51.0834196,
+			"lon": 10.4234469,
+			"tags": {
+				"name:io": "Germania"
 			}
 		},
 		{
