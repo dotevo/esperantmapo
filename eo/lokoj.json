@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T07:52:04Z",
+		"timestamp_osm_base": "2017-03-13T10:01:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -343,6 +343,35 @@
 				"opening_hours": "Tu-Sa 11:00-23:30; Su 18:00-23:30",
 				"phone": "+55 21 97305 0198;+55 21 2412-2327",
 				"takeaway": "yes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4560916691,
+			"lat": 53.1335233,
+			"lon": 23.1508564,
+			"tags": {
+				"commemorates:wikidata": "Q11716602",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"memorial": "plaque",
+				"name": "Tablica upamiętniająca Jakuba Szapiro",
+				"name:eo": "Memortabulo pri Jakobo ŜAPIRO",
+				"name:pl": "Tablica upamiętniająca Jakuba Szapiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4561065891,
+			"lat": 53.1347633,
+			"lon": 23.1610495,
+			"tags": {
+				"commemorates:wikidata": "Q11758",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"memorial": "plaque",
+				"name": "Miejsce urodzin Ludwika Zamenhofa",
+				"name:eo": "Naskiĝloko de Ludoviko Lazaro ZAMENHOFO"
 			}
 		},
 		{

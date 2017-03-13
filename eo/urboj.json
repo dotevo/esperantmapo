@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T07:53:03Z",
+		"timestamp_osm_base": "2017-03-13T10:03:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1089,8 +1089,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499352,
+			"lat": 47.0957773,
+			"lon": 37.5499333,
 			"tags": {
 				"name:eo": "Mariupolo"
 			}
@@ -3367,7 +3367,7 @@
 			"type": "node",
 			"id": 263946020,
 			"lat": 15.338997,
-			"lon": 38.932672,
+			"lon": 38.9326719,
 			"tags": {
 				"name:eo": "Asmaro"
 			}
@@ -3771,8 +3771,8 @@
 		{
 			"type": "node",
 			"id": 287660963,
-			"lat": 42.884438,
-			"lon": 47.638794,
+			"lat": 42.8881414,
+			"lon": 47.6424676,
 			"tags": {
 				"name:eo": "Kaspijsk"
 			}
@@ -4697,15 +4697,6 @@
 		},
 		{
 			"type": "node",
-			"id": 337566618,
-			"lat": 49.2335549,
-			"lon": 31.8827069,
-			"tags": {
-				"name:eo": "Smila"
-			}
-		},
-		{
-			"type": "node",
 			"id": 337574997,
 			"lat": 49.0367148,
 			"lon": 28.1138519,
@@ -5125,6 +5116,15 @@
 			"lon": 106.7017555,
 			"tags": {
 				"name:eo": "Ho-Ĉi-Min-urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 369487010,
+			"lat": 13.770409,
+			"lon": 109.232667,
+			"tags": {
+				"name:eo": "Qui Nhơn"
 			}
 		},
 		{
