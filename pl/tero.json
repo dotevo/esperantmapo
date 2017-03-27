@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:07:02Z",
+		"timestamp_osm_base": "2017-03-27T07:29:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -154,7 +154,7 @@
 			"id": 9884465,
 			"center": {
 				"lat": 16.8497765,
-				"lon": -24.9727136
+				"lon": -24.9727146
 			},
 			"tags": {
 				"name:pl": "São Vicente"
@@ -228,21 +228,10 @@
 		},
 		{
 			"type": "way",
-			"id": 55591708,
-			"center": {
-				"lat": 52.3379181,
-				"lon": 14.5594892
-			},
-			"tags": {
-				"name:pl": "Kozi Ostrów"
-			}
-		},
-		{
-			"type": "way",
 			"id": 174996681,
 			"center": {
-				"lat": -54.4190839,
-				"lon": 3.3601245
+				"lat": -54.4198946,
+				"lon": 3.3595708
 			},
 			"tags": {
 				"name:pl": "Wyspa Bouveta"
@@ -884,6 +873,17 @@
 			},
 			"tags": {
 				"name:pl": "Jersey"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7112309,
+			"center": {
+				"lat": 42.1881326,
+				"lon": 9.0500054
+			},
+			"tags": {
+				"name:pl": "Korsyka"
 			}
 		}
 	]

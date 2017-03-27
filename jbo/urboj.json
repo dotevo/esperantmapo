@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T07:57:02Z",
+		"timestamp_osm_base": "2017-03-27T07:31:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -39,7 +39,7 @@
 			"lat": 48.8566101,
 			"lon": 2.3514992,
 			"tags": {
-				"name:jbo": "Paris"
+				"name:jbo": "paris"
 			}
 		},
 		{
@@ -58,6 +58,24 @@
 			"lon": 116.391248,
 			"tags": {
 				"name:jbo": "beidjin"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26150422,
+			"lat": 50.4501071,
+			"lon": 30.5240501,
+			"tags": {
+				"name:jbo": "kiev"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26162465,
+			"lat": 53.902334,
+			"lon": 27.5618791,
+			"tags": {
+				"name:jbo": "misk"
 			}
 		},
 		{
@@ -116,6 +134,15 @@
 		},
 		{
 			"type": "node",
+			"id": 60571493,
+			"lat": 44.8178787,
+			"lon": 20.4568089,
+			"tags": {
+				"name:jbo": "be'ograd"
+			}
+		},
+		{
+			"type": "node",
 			"id": 61785451,
 			"lat": 40.7305991,
 			"lon": -73.9865812,
@@ -135,8 +162,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8992085,
-			"lon": 12.476757,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:jbo": "romas"
 			}
@@ -179,6 +206,15 @@
 		},
 		{
 			"type": "node",
+			"id": 428339515,
+			"lat": 52.2319237,
+			"lon": 21.0067265,
+			"tags": {
+				"name:jbo": "varcavas"
+			}
+		},
+		{
+			"type": "node",
 			"id": 531668011,
 			"lat": 1.2904753,
 			"lon": 103.8520359,
@@ -207,8 +243,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:jbo": "moskovas"
 			}
@@ -220,6 +256,15 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:jbo": ".sol."
+			}
+		},
+		{
+			"type": "node",
+			"id": 3473474851,
+			"lat": 53.3497645,
+			"lon": -6.2602732,
+			"tags": {
+				"name:jbo": "dublin"
 			}
 		}
 	]

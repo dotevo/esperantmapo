@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:01:03Z",
+		"timestamp_osm_base": "2017-03-27T07:23:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -225,8 +225,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499352,
+			"lat": 47.0957773,
+			"lon": 37.5499333,
 			"tags": {
 				"name:io": "Mariupol"
 			}
@@ -333,8 +333,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8992085,
-			"lon": 12.476757,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:io": "Roma"
 			}
@@ -837,8 +837,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:io": "Moskva"
 			}

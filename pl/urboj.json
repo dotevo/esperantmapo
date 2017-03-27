@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:04:02Z",
+		"timestamp_osm_base": "2017-03-27T07:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3051,8 +3051,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499352,
+			"lat": 47.0957773,
+			"lon": 37.5499333,
 			"tags": {
 				"name:pl": "Mariupol"
 			}
@@ -3087,8 +3087,8 @@
 		{
 			"type": "node",
 			"id": 30115597,
-			"lat": 38.249388,
-			"lon": 48.2969668,
+			"lat": 38.2490931,
+			"lon": 48.2955721,
 			"tags": {
 				"name:pl": "Ardabil"
 			}
@@ -3982,6 +3982,15 @@
 			"lon": 16.4870549,
 			"tags": {
 				"name:pl": "Świdnica"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31916983,
+			"lat": 50.7807282,
+			"lon": 17.0696829,
+			"tags": {
+				"name:pl": "Strzelin"
 			}
 		},
 		{
@@ -4949,6 +4958,15 @@
 		},
 		{
 			"type": "node",
+			"id": 60616322,
+			"lat": 56.6159692,
+			"lon": 25.079759,
+			"tags": {
+				"name:pl": "Jełgawa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60647966,
 			"lat": 41.7634935,
 			"lon": -72.6830523,
@@ -5247,8 +5265,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8992085,
-			"lon": 12.476757,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:pl": "Rzym"
 			}
@@ -8721,8 +8739,8 @@
 		{
 			"type": "node",
 			"id": 242978991,
-			"lat": 54.278515,
-			"lon": 30.9912491,
+			"lat": 54.289463,
+			"lon": 30.9810782,
 			"tags": {
 				"name:pl": "Horki"
 			}
@@ -8788,15 +8806,6 @@
 			"lon": 31.7157948,
 			"tags": {
 				"name:pl": "Krzyczew"
-			}
-		},
-		{
-			"type": "node",
-			"id": 242979001,
-			"lat": 53.568131,
-			"lon": 31.3826007,
-			"tags": {
-				"name:pl": "Czeryków"
 			}
 		},
 		{
@@ -9540,8 +9549,8 @@
 		{
 			"type": "node",
 			"id": 249265887,
-			"lat": 54.38332,
-			"lon": 23.6458162,
+			"lat": 54.3834122,
+			"lon": 23.6460683,
 			"tags": {
 				"name:pl": "Simno"
 			}
@@ -10900,7 +10909,7 @@
 			"type": "node",
 			"id": 263946020,
 			"lat": 15.338997,
-			"lon": 38.932672,
+			"lon": 38.9326719,
 			"tags": {
 				"name:pl": "Asmara"
 			}
@@ -12069,8 +12078,8 @@
 		{
 			"type": "node",
 			"id": 277491317,
-			"lat": 52.0442118,
-			"lon": 29.2597287,
+			"lat": 52.047562,
+			"lon": 29.2665915,
 			"tags": {
 				"name:pl": "Mozyrz"
 			}
@@ -12609,8 +12618,8 @@
 		{
 			"type": "node",
 			"id": 287660963,
-			"lat": 42.884438,
-			"lon": 47.638794,
+			"lat": 42.8881414,
+			"lon": 47.6424676,
 			"tags": {
 				"name:pl": "Kaspijsk"
 			}
@@ -14013,8 +14022,8 @@
 		{
 			"type": "node",
 			"id": 313247874,
-			"lat": 49.8222275,
-			"lon": 24.5162249,
+			"lat": 49.8220371,
+			"lon": 24.5165092,
 			"tags": {
 				"name:pl": "Gliniany"
 			}
@@ -15975,8 +15984,8 @@
 		{
 			"type": "node",
 			"id": 337539725,
-			"lat": 49.9452456,
-			"lon": 25.3186032,
+			"lat": 49.9452145,
+			"lon": 25.318681,
 			"tags": {
 				"name:pl": "Podkamień"
 			}
@@ -16703,15 +16712,6 @@
 		},
 		{
 			"type": "node",
-			"id": 337566618,
-			"lat": 49.2335549,
-			"lon": 31.8827069,
-			"tags": {
-				"name:pl": "Smiła"
-			}
-		},
-		{
-			"type": "node",
 			"id": 337566625,
 			"lat": 49.2293472,
 			"lon": 29.0639734,
@@ -17194,15 +17194,6 @@
 			"lon": 38.4432589,
 			"tags": {
 				"name:pl": "Lisiczańsk"
-			}
-		},
-		{
-			"type": "node",
-			"id": 337582373,
-			"lat": 48.87028,
-			"lon": 24.61075,
-			"tags": {
-				"name:pl": "Łysiec"
 			}
 		},
 		{
@@ -18891,8 +18882,8 @@
 		{
 			"type": "node",
 			"id": 337689002,
-			"lat": 46.5872469,
-			"lon": 30.9462902,
+			"lat": 46.5848284,
+			"lon": 30.9338018,
 			"tags": {
 				"name:pl": "Czornomorśke"
 			}
@@ -20240,6 +20231,24 @@
 		},
 		{
 			"type": "node",
+			"id": 369486933,
+			"lat": 11.5769829,
+			"lon": 108.9865391,
+			"tags": {
+				"name:pl": "Phan Rang-Tháp Chàm"
+			}
+		},
+		{
+			"type": "node",
+			"id": 370165396,
+			"lat": 50.7070882,
+			"lon": 16.0003894,
+			"tags": {
+				"name:pl": "Lubawka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 370757335,
 			"lat": -1.45056,
 			"lon": -48.4682453,
@@ -20353,6 +20362,15 @@
 			"lon": 141.794768,
 			"tags": {
 				"name:pl": "Iwamizawa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 383911098,
+			"lat": 51.0658444,
+			"lon": 15.3732142,
+			"tags": {
+				"name:pl": "Olszyna"
 			}
 		},
 		{
@@ -21117,7 +21135,7 @@
 			"lat": 55.4421115,
 			"lon": 25.8150193,
 			"tags": {
-				"name:pl": "Tauroginy"
+				"name:pl": "Tauroginie"
 			}
 		},
 		{
@@ -27189,8 +27207,8 @@
 		{
 			"type": "node",
 			"id": 902415509,
-			"lat": 55.8118887,
-			"lon": 22.8827646,
+			"lat": 55.8118809,
+			"lon": 22.8829079,
 			"tags": {
 				"name:pl": "Szawkiany"
 			}
@@ -27660,7 +27678,7 @@
 			"lat": 53.7468361,
 			"lon": 27.3342647,
 			"tags": {
-				"name:pl": "Fanipol"
+				"name:pl": "Fanipal"
 			}
 		},
 		{
@@ -28592,6 +28610,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1415303531,
+			"lat": 60.69767,
+			"lon": 60.418358,
+			"tags": {
+				"name:pl": "Iwdel"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1416924022,
 			"lat": 51.2305015,
 			"lon": 58.4738015,
@@ -28773,8 +28800,8 @@
 		{
 			"type": "node",
 			"id": 1487757399,
-			"lat": 31.888834,
-			"lon": 54.3643037,
+			"lat": 31.8882874,
+			"lon": 54.3642876,
 			"tags": {
 				"name:pl": "Jazd"
 			}
@@ -30312,8 +30339,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:pl": "Moskwa"
 			}
@@ -31756,6 +31783,15 @@
 			"lon": 135.6961681,
 			"tags": {
 				"name:pl": "Ikoma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1932181216,
+			"lat": 47.1392862,
+			"lon": 9.5227962,
+			"tags": {
+				"name:pl": "Vaduz"
 			}
 		},
 		{
@@ -33465,7 +33501,7 @@
 			"lat": 54.8612621,
 			"lon": 25.5676737,
 			"tags": {
-				"name:pl": "Skiersobole"
+				"name:pl": "Skiersabale"
 			}
 		},
 		{
@@ -34276,6 +34312,15 @@
 			"lon": 39.0277188,
 			"tags": {
 				"name:pl": "Łuchowicy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4736396990,
+			"lat": 53.5697773,
+			"lon": 31.3804512,
+			"tags": {
+				"name:pl": "Czeryków"
 			}
 		}
 	]

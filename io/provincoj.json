@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:01:03Z",
+		"timestamp_osm_base": "2017-03-27T07:23:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,6 +40,69 @@
 			"lon": -144.6434898,
 			"tags": {
 				"name:io": "Franca Polinezia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 470649732,
+			"lat": 56.7861112,
+			"lon": -4.1140518,
+			"tags": {
+				"name:io": "Skotia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473831430,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
+			"tags": {
+				"name:io": "Saxonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473848012,
+			"lat": 48.9467562,
+			"lon": 11.4038717,
+			"tags": {
+				"name:io": "Bavaria"
+			}
+		},
+		{
+			"type": "node",
+			"id": 473883922,
+			"lat": 50.7333163,
+			"lon": 11.0747905,
+			"tags": {
+				"name:io": "Turingia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 519425071,
+			"lat": 51.4785568,
+			"lon": 7.5533645,
+			"tags": {
+				"name:io": "Nordrheno-Vestfalia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 519436857,
+			"lat": 49.7497346,
+			"lon": 7.4396553,
+			"tags": {
+				"name:io": "Rhenlando-Palatenio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565666206,
+			"lat": 48.6296972,
+			"lon": 9.1949534,
+			"tags": {
+				"name:io": "Badenia-Wurtemberg"
 			}
 		},
 		{
@@ -89,11 +152,65 @@
 		},
 		{
 			"type": "node",
+			"id": 1673514242,
+			"lat": 52.8398531,
+			"lon": 9.075962,
+			"tags": {
+				"name:io": "Infra-Saxonia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1807621457,
+			"lat": 51.908526,
+			"lon": 11.4939134,
+			"tags": {
+				"name:io": "Saxonia-Anhalt"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1900155946,
 			"lat": 33.3940067,
 			"lon": 126.5626688,
 			"tags": {
 				"name:io": "Jeju insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1971329414,
+			"lat": -21.9182856,
+			"lon": 144.4588889,
+			"tags": {
+				"name:io": "Quinslando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2000314677,
+			"lat": 24.1797324,
+			"lon": -13.7667848,
+			"tags": {
+				"name:io": "Westa Sahara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2497852043,
+			"lat": 50.6118537,
+			"lon": 9.1909725,
+			"tags": {
+				"name:io": "Hesia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2642288017,
+			"lat": 52.2928116,
+			"lon": -3.73893,
+			"tags": {
+				"name:io": "Wals"
 			}
 		},
 		{

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:03:02Z",
+		"timestamp_osm_base": "2017-03-27T07:26:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -246,6 +246,39 @@
 		},
 		{
 			"type": "way",
+			"id": 4226163,
+			"center": {
+				"lat": 60.1723221,
+				"lon": 24.8845373
+			},
+			"tags": {
+				"name:fi": "Porsas"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4226172,
+			"center": {
+				"lat": 60.1752204,
+				"lon": 24.902012
+			},
+			"tags": {
+				"name:fi": "Taivalluoto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4226188,
+			"center": {
+				"lat": 60.1786237,
+				"lon": 24.8609897
+			},
+			"tags": {
+				"name:fi": "Kalkkipaasi"
+			}
+		},
+		{
+			"type": "way",
 			"id": 4230592,
 			"center": {
 				"lat": 60.1316046,
@@ -433,6 +466,17 @@
 		},
 		{
 			"type": "way",
+			"id": 4690292,
+			"center": {
+				"lat": 60.1866689,
+				"lon": 24.8816517
+			},
+			"tags": {
+				"name:fi": "Eteläinen Pukkisaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 4711036,
 			"center": {
 				"lat": 60.1786269,
@@ -554,6 +598,17 @@
 		},
 		{
 			"type": "way",
+			"id": 5059898,
+			"center": {
+				"lat": 60.1329298,
+				"lon": 24.7830656
+			},
+			"tags": {
+				"name:fi": "Miessaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 5059904,
 			"center": {
 				"lat": 60.1278049,
@@ -578,8 +633,8 @@
 			"type": "way",
 			"id": 5114758,
 			"center": {
-				"lat": 60.1520717,
-				"lon": 24.8014065
+				"lat": 60.1520462,
+				"lon": 24.8013913
 			},
 			"tags": {
 				"name:fi": "Varsasaari"
@@ -667,7 +722,7 @@
 			"id": 9884465,
 			"center": {
 				"lat": 16.8497765,
-				"lon": -24.9727136
+				"lon": -24.9727146
 			},
 			"tags": {
 				"name:fi": "São Vicente"
@@ -829,17 +884,6 @@
 		},
 		{
 			"type": "way",
-			"id": 22743863,
-			"center": {
-				"lat": 60.2239703,
-				"lon": 25.194861
-			},
-			"tags": {
-				"name:fi": "Kalkkisaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 22771813,
 			"center": {
 				"lat": 74.4264159,
@@ -858,6 +902,17 @@
 			},
 			"tags": {
 				"name:fi": "Nurmiluoto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 22882331,
+			"center": {
+				"lat": 60.1506401,
+				"lon": 24.8720754
+			},
+			"tags": {
+				"name:fi": "Nahkahousut"
 			}
 		},
 		{
@@ -913,6 +968,17 @@
 			},
 			"tags": {
 				"name:fi": "Ulko-Hattu"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23076247,
+			"center": {
+				"lat": 60.1670886,
+				"lon": 24.8797068
+			},
+			"tags": {
+				"name:fi": "Annansaari"
 			}
 		},
 		{
@@ -1071,17 +1137,6 @@
 		},
 		{
 			"type": "way",
-			"id": 24428531,
-			"center": {
-				"lat": 60.1016448,
-				"lon": 25.0156248
-			},
-			"tags": {
-				"name:fi": "Kuivasaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 24428689,
 			"center": {
 				"lat": 60.1528048,
@@ -1236,6 +1291,17 @@
 		},
 		{
 			"type": "way",
+			"id": 25276320,
+			"center": {
+				"lat": 60.1693115,
+				"lon": 25.0710273
+			},
+			"tags": {
+				"name:fi": "Repossaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 25637116,
 			"center": {
 				"lat": 68.878125,
@@ -1243,17 +1309,6 @@
 			},
 			"tags": {
 				"name:fi": "Jääsaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25654140,
-			"center": {
-				"lat": 60.2247533,
-				"lon": 25.1891056
-			},
-			"tags": {
-				"name:fi": "Varissaari"
 			}
 		},
 		{
@@ -1276,17 +1331,6 @@
 			},
 			"tags": {
 				"name:fi": "Rokansaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25679591,
-			"center": {
-				"lat": 68.938897,
-				"lon": 27.2921469
-			},
-			"tags": {
-				"name:fi": "Ukonkivi"
 			}
 		},
 		{
@@ -1964,8 +2008,8 @@
 			"type": "way",
 			"id": 47457807,
 			"center": {
-				"lat": 60.012085,
-				"lon": 24.3613899
+				"lat": 60.0117099,
+				"lon": 24.3613815
 			},
 			"tags": {
 				"name:fi": "Iso-Musta"
@@ -1975,8 +2019,8 @@
 			"type": "way",
 			"id": 47457816,
 			"center": {
-				"lat": 60.0096601,
-				"lon": 24.3672649
+				"lat": 60.0094747,
+				"lon": 24.3674223
 			},
 			"tags": {
 				"name:fi": "Pikku-Musta"
@@ -2277,6 +2321,17 @@
 			},
 			"tags": {
 				"name:fi": "Valkosaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 125482059,
+			"center": {
+				"lat": 60.1817971,
+				"lon": 24.9044207
+			},
+			"tags": {
+				"name:fi": "Rajasaari"
 			}
 		},
 		{
@@ -2622,17 +2677,6 @@
 		},
 		{
 			"type": "way",
-			"id": 242028087,
-			"center": {
-				"lat": 60.2270404,
-				"lon": 25.200931
-			},
-			"tags": {
-				"name:fi": "Matosaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 242028444,
 			"center": {
 				"lat": 60.2286875,
@@ -2679,8 +2723,8 @@
 			"type": "way",
 			"id": 310068900,
 			"center": {
-				"lat": 61.6275705,
-				"lon": 21.4872479
+				"lat": 61.6276101,
+				"lon": 21.4872157
 			},
 			"tags": {
 				"name:fi": "Lampaluoto"
@@ -2855,7 +2899,7 @@
 			"type": "way",
 			"id": 334500609,
 			"center": {
-				"lat": 61.6218643,
+				"lat": 61.6218573,
 				"lon": 21.5133223
 			},
 			"tags": {
@@ -2866,8 +2910,8 @@
 			"type": "way",
 			"id": 334514276,
 			"center": {
-				"lat": 61.6184491,
-				"lon": 21.4701653
+				"lat": 61.6184185,
+				"lon": 21.4702511
 			},
 			"tags": {
 				"name:fi": "Kumpelikari"
@@ -2943,8 +2987,8 @@
 			"type": "way",
 			"id": 338980288,
 			"center": {
-				"lat": 61.620228,
-				"lon": 21.6147662
+				"lat": 61.6204164,
+				"lon": 21.6135977
 			},
 			"tags": {
 				"name:fi": "Holakrundi"
@@ -3194,6 +3238,17 @@
 		},
 		{
 			"type": "way",
+			"id": 395338474,
+			"center": {
+				"lat": 60.1696671,
+				"lon": 24.8779045
+			},
+			"tags": {
+				"name:fi": "Pieni-Porsas"
+			}
+		},
+		{
+			"type": "way",
 			"id": 414806407,
 			"center": {
 				"lat": 61.8127659,
@@ -3322,6 +3377,17 @@
 			},
 			"tags": {
 				"name:fi": "Hahtikari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 482415548,
+			"center": {
+				"lat": 60.01531,
+				"lon": 24.3628949
+			},
+			"tags": {
+				"name:fi": "Iso-Musta"
 			}
 		},
 		{
@@ -4862,6 +4928,17 @@
 			},
 			"tags": {
 				"name:fi": "saari Valamo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7064542,
+			"center": {
+				"lat": 60.1016448,
+				"lon": 25.0156248
+			},
+			"tags": {
+				"name:fi": "Kuivasaari"
 			}
 		}
 	]

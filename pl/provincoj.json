@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:04:02Z",
+		"timestamp_osm_base": "2017-03-27T07:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -22,6 +22,15 @@
 			"lon": 114.1849161,
 			"tags": {
 				"name:pl": "Hongkong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25842885,
+			"lat": -35.4883502,
+			"lon": 149.0026942,
+			"tags": {
+				"name:pl": "Australijskie Terytorium Stołeczne"
 			}
 		},
 		{
@@ -337,6 +346,42 @@
 			"lon": 34.7299308,
 			"tags": {
 				"name:pl": "Zatoka Akaba"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951004,
+			"lat": -31.8759835,
+			"lon": 147.2869493,
+			"tags": {
+				"name:pl": "Nowa Południowa Walia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951005,
+			"lat": -25.2303005,
+			"lon": 121.0187246,
+			"tags": {
+				"name:pl": "Australia Zachodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951007,
+			"lat": -30.5343665,
+			"lon": 135.6301212,
+			"tags": {
+				"name:pl": "Australia Południowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951009,
+			"lat": -36.5986096,
+			"lon": 144.6780052,
+			"tags": {
+				"name:pl": "Wiktoria"
 			}
 		},
 		{
@@ -2069,15 +2114,6 @@
 		},
 		{
 			"type": "node",
-			"id": 505039910,
-			"lat": 50.6974516,
-			"lon": 20.7760131,
-			"tags": {
-				"name:pl": "województwo świętokrzyskie"
-			}
-		},
-		{
-			"type": "node",
 			"id": 505043292,
 			"lat": 51.4721678,
 			"lon": 19.3460637,
@@ -3617,6 +3653,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1673514242,
+			"lat": 52.8398531,
+			"lon": 9.075962,
+			"tags": {
+				"name:pl": "Dolna Saksonia"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1721119244,
 			"lat": 41.3787291,
 			"lon": -0.7639373,
@@ -3775,6 +3820,15 @@
 			"lon": 41.4352137,
 			"tags": {
 				"name:pl": "Obwód iwanowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1807621457,
+			"lat": 51.908526,
+			"lon": 11.4939134,
+			"tags": {
+				"name:pl": "Saksonia-Anhalt"
 			}
 		},
 		{
@@ -4081,6 +4135,15 @@
 			"lon": -99.84756,
 			"tags": {
 				"name:pl": "Querétaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2000314677,
+			"lat": 24.1797324,
+			"lon": -13.7667848,
+			"tags": {
+				"name:pl": "Sahara Zachodnia"
 			}
 		},
 		{

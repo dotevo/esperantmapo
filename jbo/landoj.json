@@ -2,10 +2,82 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:34:03Z",
+		"timestamp_osm_base": "2017-03-27T07:30:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 26036352,
+			"lat": 12.7503486,
+			"lon": 122.7312101,
+			"tags": {
+				"name:jbo": "pilipinas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26347360,
+			"lat": 42.6384261,
+			"lon": 12.674297,
+			"tags": {
+				"name:jbo": "italias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847706,
+			"lat": 33.7680065,
+			"lon": 66.2385139,
+			"tags": {
+				"name:jbo": "afyganistan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847709,
+			"lat": 47.2000338,
+			"lon": 13.199959,
+			"tags": {
+				"name:jbo": "ysteraic"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148332300,
+			"lat": 40.0028028,
+			"lon": -4.003104,
+			"tags": {
+				"name:jbo": "sangu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148874198,
+			"lat": 42.5407167,
+			"lon": 1.5732033,
+			"tags": {
+				"name:jbo": "andoras"
+			}
+		},
+		{
+			"type": "node",
+			"id": 208592566,
+			"lat": 45.8133113,
+			"lon": 14.4808369,
+			"tags": {
+				"name:jbo": "sloveni,as"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246422158,
+			"lat": 19.0974031,
+			"lon": -70.3028026,
+			"tags": {
+				"name:jbo": "dominik.ka'ijec"
+			}
+		},
 		{
 			"type": "node",
 			"id": 248120384,
@@ -13,6 +85,51 @@
 			"lon": 172.8344077,
 			"tags": {
 				"name:jbo": "zis. poi cnino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399277,
+			"lat": 40.7696272,
+			"lon": 44.6736646,
+			"tags": {
+				"name:jbo": "xaiastan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399280,
+			"lat": -34.9964963,
+			"lon": -64.9672817,
+			"tags": {
+				"name:jbo": "getygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399285,
+			"lat": 13.1500331,
+			"lon": -59.5250305,
+			"tags": {
+				"name:jbo": "barbados"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399288,
+			"lat": 12.0753083,
+			"lon": -1.6880314,
+			"tags": {
+				"name:jbo": "burkinas fasos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399296,
+			"lat": 24.7736546,
+			"lon": -78.0000547,
+			"tags": {
+				"name:jbo": "ba'am"
 			}
 		},
 		{
@@ -26,6 +143,15 @@
 		},
 		{
 			"type": "node",
+			"id": 249399313,
+			"lat": 23.0131338,
+			"lon": -80.8328748,
+			"tags": {
+				"name:jbo": "kubas"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399347,
 			"lat": 47.1817585,
 			"lon": 19.5060937,
@@ -35,9 +161,18 @@
 		},
 		{
 			"type": "node",
+			"id": 249399360,
+			"lat": -12.2045176,
+			"lon": 44.2832964,
+			"tags": {
+				"name:jbo": "komoros"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399361,
-			"lat": 40.3123959,
-			"lon": 127.399971,
+			"lat": 40.3736611,
+			"lon": 127.0870417,
 			"tags": {
 				"name:jbo": "berti zei .xanguk"
 			}
@@ -45,10 +180,19 @@
 		{
 			"type": "node",
 			"id": 249399362,
-			"lat": 35.3985008,
-			"lon": 127.937111,
+			"lat": 36.5581914,
+			"lon": 127.9408564,
 			"tags": {
 				"name:jbo": "snanu zei .xanguk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399364,
+			"lat": 19.5417212,
+			"lon": -80.5667132,
+			"tags": {
+				"name:jbo": "keiman"
 			}
 		},
 		{
@@ -89,6 +233,42 @@
 		},
 		{
 			"type": "node",
+			"id": 249399429,
+			"lat": 0.8875498,
+			"lon": 6.9648718,
+			"tags": {
+				"name:jbo": "san.tomes.joik.prinsipes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399440,
+			"lat": 39.3763807,
+			"lon": 59.3924609,
+			"tags": {
+				"name:jbo": "turkmenistan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399444,
+			"lat": 10.8677845,
+			"lon": -60.9821067,
+			"tags": {
+				"name:jbo": "trinidad.joik.tobagos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399459,
+			"lat": 16.3471243,
+			"lon": 47.8915271,
+			"tags": {
+				"name:jbo": "djemen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 332779764,
 			"lat": 16.8259793,
 			"lon": -88.7600927,
@@ -98,11 +278,74 @@
 		},
 		{
 			"type": "node",
+			"id": 369137525,
+			"lat": 44.1534121,
+			"lon": 20.55144,
+			"tags": {
+				"name:jbo": "serbias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297198,
+			"lat": 60.5000209,
+			"lon": 9.0999715,
+			"tags": {
+				"name:jbo": "noreg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297207,
+			"lat": 26.1551249,
+			"lon": 50.5344606,
+			"tags": {
+				"name:jbo": "barain"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297217,
+			"lat": 52.5001698,
+			"lon": 5.7480821,
+			"tags": {
+				"name:jbo": "nederland"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297281,
+			"lat": 19.1399952,
+			"lon": -72.3570972,
+			"tags": {
+				"name:jbo": "aitis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297384,
+			"lat": 9.5293472,
+			"lon": 2.2584408,
+			"tags": {
+				"name:jbo": "benin"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424297465,
 			"lat": 10.2735633,
 			"lon": -84.0739102,
 			"tags": {
 				"name:jbo": "kostarikas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297496,
+			"lat": 15.4113138,
+			"lon": -61.3653618,
+			"tags": {
+				"name:jbo": "dominik.ka'ijec"
 			}
 		},
 		{
@@ -143,6 +386,60 @@
 		},
 		{
 			"type": "node",
+			"id": 424297810,
+			"lat": 41.6171214,
+			"lon": 21.7168387,
+			"tags": {
+				"name:jbo": "makedonias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297816,
+			"lat": 16.3700359,
+			"lon": -2.2900239,
+			"tags": {
+				"name:jbo": "malis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297917,
+			"lat": -0.5249624,
+			"lon": 166.9333009,
+			"tags": {
+				"name:jbo": "naurus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297931,
+			"lat": -5.6816069,
+			"lon": 144.2489081,
+			"tags": {
+				"name:jbo": "papuas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297973,
+			"lat": 14.5844444,
+			"lon": 29.4917691,
+			"tags": {
+				"name:jbo": "sudan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298019,
+			"lat": 49.8158683,
+			"lon": 6.1296751,
+			"tags": {
+				"name:jbo": "letsyburg"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424298076,
 			"lat": 15.6134137,
 			"lon": 19.0156172,
@@ -179,6 +476,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424298277,
+			"lat": -4.6574977,
+			"lon": 55.4540146,
+			"tags": {
+				"name:jbo": "secel"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424298311,
 			"lat": 32.9407496,
 			"lon": 52.9471344,
@@ -188,11 +494,92 @@
 		},
 		{
 			"type": "node",
+			"id": 424298326,
+			"lat": 38.9597594,
+			"lon": 34.9249653,
+			"tags": {
+				"name:jbo": "turk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310601,
+			"lat": 41.000028,
+			"lon": 19.9999619,
+			"tags": {
+				"name:jbo": "ckipyris"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310680,
+			"lat": -26.5624806,
+			"lon": 31.3991317,
+			"tags": {
+				"name:jbo": "suazilynd"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310703,
+			"lat": 24.0002488,
+			"lon": 53.9994829,
+			"tags": {
+				"name:jbo": "gunma xrabo nolseltru"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310758,
+			"lat": 17.3462278,
+			"lon": -62.7687277,
+			"tags": {
+				"name:jbo": "seint.kits.joik.nevis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310875,
+			"lat": -11.8775768,
+			"lon": 17.5691241,
+			"tags": {
+				"name:jbo": "angol"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310982,
+			"lat": -3.3634357,
+			"lon": 29.8870575,
+			"tags": {
+				"name:jbo": "burundis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311028,
+			"lat": 27.549511,
+			"lon": 90.5119273,
+			"tags": {
+				"name:jbo": "butyn"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311104,
 			"lat": -31.7613365,
 			"lon": -71.3187697,
 			"tags": {
 				"name:jbo": "tciles"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311244,
+			"lat": 5.5600565,
+			"lon": 150.1982846,
+			"tags": {
+				"name:jbo": "mikronesias"
 			}
 		},
 		{
@@ -215,6 +602,51 @@
 		},
 		{
 			"type": "node",
+			"id": 424311353,
+			"lat": 45.5643442,
+			"lon": 17.0118954,
+			"tags": {
+				"name:jbo": "xrvatskas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311521,
+			"lat": 47.2286086,
+			"lon": 65.2093197,
+			"tags": {
+				"name:jbo": "kazakstan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311573,
+			"lat": 5.7499721,
+			"lon": -9.3658524,
+			"tags": {
+				"name:jbo": "liber"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311641,
+			"lat": 4.7064352,
+			"lon": 73.3287853,
+			"tags": {
+				"name:jbo": "maldives"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311645,
+			"lat": -13.2687204,
+			"lon": 33.9301963,
+			"tags": {
+				"name:jbo": "malyvis"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311658,
 			"lat": -19.302233,
 			"lon": 34.9144977,
@@ -229,6 +661,33 @@
 			"lon": 17.3231107,
 			"tags": {
 				"name:jbo": "namibias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311675,
+			"lat": 17.7356214,
+			"lon": 9.3238432,
+			"tags": {
+				"name:jbo": "nijer"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311679,
+			"lat": -29.0328038,
+			"lon": 167.9483137,
+			"tags": {
+				"name:jbo": "norfuk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311738,
+			"lat": -1.9646631,
+			"lon": 30.0644358,
+			"tags": {
+				"name:jbo": "ruandas"
 			}
 		},
 		{
@@ -251,11 +710,65 @@
 		},
 		{
 			"type": "node",
+			"id": 424311814,
+			"lat": 21.7214683,
+			"lon": -71.6201783,
+			"tags": {
+				"name:jbo": "turks.joik.kaikos.dapl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311827,
+			"lat": 8.7800265,
+			"lon": 1.0199765,
+			"tags": {
+				"name:jbo": "togos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311848,
+			"lat": -19.9160819,
+			"lon": -175.2026424,
+			"tags": {
+				"name:jbo": "tongas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311890,
+			"lat": 8.0018709,
+			"lon": -66.1109318,
+			"tags": {
+				"name:jbo": "benesuel"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311942,
 			"lat": -4.7993356,
 			"lon": 114.5632032,
 			"tags": {
 				"name:jbo": "bidgu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311955,
+			"lat": 6.9518742,
+			"lon": 170.9985095,
+			"tags": {
+				"name:jbo": "marcal.dapl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313277,
+			"lat": 59.6749712,
+			"lon": 14.5208584,
+			"tags": {
+				"name:jbo": "sueriges"
 			}
 		},
 		{
@@ -278,11 +791,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424313466,
+			"lat": -16.5255069,
+			"lon": 168.1069154,
+			"tags": {
+				"name:jbo": "vanuatus"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313582,
 			"lat": 35.000074,
 			"lon": 104.999927,
 			"tags": {
 				"name:jbo": "jugygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313591,
+			"lat": 18.1850507,
+			"lon": -77.3947693,
+			"tags": {
+				"name:jbo": "djamaikas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313675,
+			"lat": 40.3936294,
+			"lon": 47.7872508,
+			"tags": {
+				"name:jbo": "azerbaidjan"
 			}
 		},
 		{
@@ -314,11 +854,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424313760,
+			"lat": 61.0666922,
+			"lon": -107.9917071,
+			"tags": {
+				"name:jbo": "kadnygu'e"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313803,
 			"lat": 49.8167003,
 			"lon": 15.4749544,
 			"tags": {
 				"name:jbo": "tcesk.zei gubyseltru"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313832,
+			"lat": 58.7523778,
+			"lon": 25.3319078,
+			"tags": {
+				"name:jbo": "estis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313853,
+			"lat": 1.613172,
+			"lon": 10.5170357,
+			"tags": {
+				"name:jbo": "guineas. zei brazbani"
 			}
 		},
 		{
@@ -337,6 +904,15 @@
 			"lon": 47.4979476,
 			"tags": {
 				"name:jbo": "ku,uait"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314005,
+			"lat": 16.7417041,
+			"lon": -62.1916844,
+			"tags": {
+				"name:jbo": "monserat"
 			}
 		},
 		{
@@ -368,11 +944,29 @@
 		},
 		{
 			"type": "node",
+			"id": 424314276,
+			"lat": 38.6281733,
+			"lon": 70.8156541,
+			"tags": {
+				"name:jbo": "tadjikistan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424314335,
 			"lat": -6.5247123,
 			"lon": 35.7878438,
 			"tags": {
 				"name:jbo": "tanzanias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314631,
+			"lat": 2.8894434,
+			"lon": -73.783892,
+			"tags": {
+				"name:jbo": "kolombias"
 			}
 		},
 		{
@@ -395,6 +989,33 @@
 		},
 		{
 			"type": "node",
+			"id": 424315291,
+			"lat": 21.0000287,
+			"lon": 57.0036901,
+			"tags": {
+				"name:jbo": "oman"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315584,
+			"lat": -24.7761086,
+			"lon": 134.755,
+			"tags": {
+				"name:jbo": "sralygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315709,
+			"lat": 42.6073975,
+			"lon": 25.4856617,
+			"tags": {
+				"name:jbo": "bulgarias"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424315932,
 			"lat": 4.6125522,
 			"lon": 13.1535811,
@@ -409,6 +1030,24 @@
 			"lon": 29.2675469,
 			"tags": {
 				"name:jbo": "misrygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316022,
+			"lat": 15.9500319,
+			"lon": 37.9999668,
+			"tags": {
+				"name:jbo": "eritreas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316074,
+			"lat": 12.1360374,
+			"lon": -61.6904045,
+			"tags": {
+				"name:jbo": "grenadas"
 			}
 		},
 		{
@@ -431,11 +1070,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424316307,
+			"lat": 20.0171109,
+			"lon": 103.378253,
+			"tags": {
+				"name:jbo": "laus"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424316417,
 			"lat": 47.286747,
 			"lon": 28.5110236,
 			"tags": {
 				"name:jbo": "moldovas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316478,
+			"lat": 17.1750495,
+			"lon": 95.9999652,
+			"tags": {
+				"name:jbo": "mianmar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316493,
+			"lat": 20.2540382,
+			"lon": -9.2399263,
+			"tags": {
+				"name:jbo": "mauritan"
 			}
 		},
 		{
@@ -467,6 +1133,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424317025,
+			"lat": 43.9458623,
+			"lon": 12.458306,
+			"tags": {
+				"name:jbo": "syn.marinos"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424317039,
 			"lat": 8.3676771,
 			"lon": 49.083416,
@@ -476,11 +1151,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424317315,
+			"lat": 33.8439408,
+			"lon": 9.400138,
+			"tags": {
+				"name:jbo": "tunis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317372,
+			"lat": -7.768959,
+			"lon": 178.1167698,
+			"tags": {
+				"name:jbo": "tuvalus"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424317406,
 			"lat": 1.5333554,
 			"lon": 32.2166578,
 			"tags": {
 				"name:jbo": "ugandas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317428,
+			"lat": 41.32373,
+			"lon": 63.9528098,
+			"tags": {
+				"name:jbo": "uzbekistan"
 			}
 		},
 		{
@@ -503,11 +1205,38 @@
 		},
 		{
 			"type": "node",
+			"id": 432424929,
+			"lat": 17.079128,
+			"lon": -61.8222516,
+			"tags": {
+				"name:jbo": "antiguas.joik.barbudas"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432424937,
 			"lat": 24.4768783,
 			"lon": 90.2932426,
 			"tags": {
 				"name:jbo": "begygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424952,
+			"lat": 13.5066394,
+			"lon": 104.869423,
+			"tags": {
+				"name:jbo": "kamputceas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424968,
+			"lat": 55.670249,
+			"lon": 10.3333283,
+			"tags": {
+				"name:jbo": "danmark"
 			}
 		},
 		{
@@ -530,11 +1259,38 @@
 		},
 		{
 			"type": "node",
+			"id": 432425015,
+			"lat": 0.4483283,
+			"lon": -171.6645388,
+			"tags": {
+				"name:jbo": "kiribas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425019,
+			"lat": 56.8666904,
+			"lon": 24.5999717,
+			"tags": {
+				"name:jbo": "latyv"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432425023,
 			"lat": 26.8234472,
 			"lon": 18.1236723,
 			"tags": {
 				"name:jbo": "libgu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425028,
+			"lat": -18.9249604,
+			"lon": 46.4416422,
+			"tags": {
+				"name:jbo": "madagaskar"
 			}
 		},
 		{
@@ -548,11 +1304,38 @@
 		},
 		{
 			"type": "node",
+			"id": 432425040,
+			"lat": 46.8250388,
+			"lon": 103.8499736,
+			"tags": {
+				"name:jbo": "mongolo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432425041,
 			"lat": 31.1728192,
 			"lon": -7.3366043,
 			"tags": {
 				"name:jbo": "morgu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425060,
+			"lat": 52.0977181,
+			"lon": 19.0258159,
+			"tags": {
+				"name:jbo": "polskas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425062,
+			"lat": 25.3336984,
+			"lon": 51.2295295,
+			"tags": {
+				"name:jbo": "katar"
 			}
 		},
 		{
@@ -566,11 +1349,38 @@
 		},
 		{
 			"type": "node",
+			"id": 432425064,
+			"lat": 45.9852129,
+			"lon": 24.6859225,
+			"tags": {
+				"name:jbo": "romanias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425070,
+			"lat": 12.90447,
+			"lon": -61.2765569,
+			"tags": {
+				"name:jbo": "seint.vincent.joik.grenadinz"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432425075,
 			"lat": 14.4750607,
 			"lon": -14.4529612,
 			"tags": {
 				"name:jbo": "senegal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425079,
+			"lat": 48.7411522,
+			"lon": 19.4528646,
+			"tags": {
+				"name:jbo": "slovensk"
 			}
 		},
 		{
@@ -602,6 +1412,33 @@
 		},
 		{
 			"type": "node",
+			"id": 433483517,
+			"lat": 18.1954947,
+			"lon": -63.0750234,
+			"tags": {
+				"name:jbo": "angilys"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483519,
+			"lat": 32.3018217,
+			"lon": -64.7603583,
+			"tags": {
+				"name:jbo": "bermudas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483552,
+			"lat": -19.0536414,
+			"lon": -169.8613411,
+			"tags": {
+				"name:jbo": "niues"
+			}
+		},
+		{
+			"type": "node",
 			"id": 435981993,
 			"lat": -2.9814344,
 			"lon": 23.8222636,
@@ -620,11 +1457,65 @@
 		},
 		{
 			"type": "node",
+			"id": 445970763,
+			"lat": 43.0285558,
+			"lon": 19.291739,
+			"tags": {
+				"name:jbo": "tsrnagoras"
+			}
+		},
+		{
+			"type": "node",
+			"id": 506532878,
+			"lat": -82.1081822,
+			"lon": 34.37824,
+			"tags": {
+				"name:jbo": "ziptu'a"
+			}
+		},
+		{
+			"type": "node",
+			"id": 506535828,
+			"lat": -14.289304,
+			"lon": -170.692511,
+			"tags": {
+				"name:jbo": "mer.samoas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 823750101,
+			"lat": -9.7354344,
+			"lon": 162.8288542,
+			"tags": {
+				"name:jbo": "solomon.dapl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 838090640,
+			"lat": 54.7023545,
+			"lon": -3.2765753,
+			"tags": {
+				"name:jbo": "ritygu'e"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1363947712,
 			"lat": 46.603354,
 			"lon": 1.8883335,
 			"tags": {
 				"name:jbo": "fasygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1388794217,
+			"lat": -25.0657719,
+			"lon": -130.1017823,
+			"tags": {
+				"name:jbo": "pitkern"
 			}
 		},
 		{
@@ -643,6 +1534,24 @@
 			"lon": 8.2319736,
 			"tags": {
 				"name:jbo": "elvetias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1511934680,
+			"lat": 6.097367,
+			"lon": 133.313631,
+			"tags": {
+				"name:jbo": "belaus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1529444079,
+			"lat": -13.7693895,
+			"lon": -172.1200508,
+			"tags": {
+				"name:jbo": "samoas"
 			}
 		},
 		{
@@ -674,11 +1583,56 @@
 		},
 		{
 			"type": "node",
+			"id": 1648342273,
+			"lat": 49.4871968,
+			"lon": 31.2718321,
+			"tags": {
+				"name:jbo": "vurgu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1683325355,
+			"lat": 51.0834196,
+			"lon": 10.4234469,
+			"tags": {
+				"name:jbo": "dotygu'e"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1684793666,
 			"lat": 50.6407351,
 			"lon": 4.66696,
 			"tags": {
 				"name:jbo": "beldjym"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1770467684,
+			"lat": 12.5013629,
+			"lon": -69.9618475,
+			"tags": {
+				"name:jbo": "arubas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1983711862,
+			"lat": 44.3053476,
+			"lon": 17.5961467,
+			"tags": {
+				"name:jbo": "bosnas ertsegovinas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:jbo": "pridnestrovis"
 			}
 		},
 		{
@@ -697,6 +1651,60 @@
 			"lon": 38.6521203,
 			"tags": {
 				"name:jbo": "itiopias"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2377028247,
+			"lat": 40.033265,
+			"lon": -7.8896263,
+			"tags": {
+				"name:jbo": "potygu'e"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3491215388,
+			"lat": -29.6039267,
+			"lon": 28.3350193,
+			"tags": {
+				"name:jbo": "lesotos"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3696525426,
+			"lat": 47.1416307,
+			"lon": 9.5531527,
+			"tags": {
+				"name:jbo": "lixtenctain"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3997635385,
+			"lat": 7.237148,
+			"lon": 80.820923,
+			"tags": {
+				"name:jbo": "srilankas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076524861,
+			"lat": 35.8885993,
+			"lon": 14.4476911,
+			"tags": {
+				"name:jbo": "maltas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4366234392,
+			"lat": 42.5869578,
+			"lon": 20.9021231,
+			"tags": {
+				"name:jbo": "kosovas"
 			}
 		}
 	]

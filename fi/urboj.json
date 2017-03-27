@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-09T08:02:03Z",
+		"timestamp_osm_base": "2017-03-27T07:26:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -657,8 +657,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499352,
+			"lat": 47.0957773,
+			"lon": 37.5499333,
 			"tags": {
 				"name:fi": "Mariupol"
 			}
@@ -908,15 +908,6 @@
 		},
 		{
 			"type": "node",
-			"id": 30969551,
-			"lat": 59.9744647,
-			"lon": 23.4357477,
-			"tags": {
-				"name:fi": "Tammisaari"
-			}
-		},
-		{
-			"type": "node",
 			"id": 30969552,
 			"lat": 62.7999349,
 			"lon": 30.1504004,
@@ -1079,15 +1070,6 @@
 		},
 		{
 			"type": "node",
-			"id": 30969582,
-			"lat": 60.0466389,
-			"lon": 24.0054417,
-			"tags": {
-				"name:fi": "Inkoo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 30969586,
 			"lat": 63,
 			"lon": 22.316667,
@@ -1192,15 +1174,6 @@
 			"lon": 23.9170363,
 			"tags": {
 				"name:fi": "Kannus"
-			}
-		},
-		{
-			"type": "node",
-			"id": 30969629,
-			"lat": 60.0732491,
-			"lon": 23.663234,
-			"tags": {
-				"name:fi": "Karjaa"
 			}
 		},
 		{
@@ -1628,15 +1601,6 @@
 		},
 		{
 			"type": "node",
-			"id": 30969730,
-			"lat": 60.3338298,
-			"lon": 24.3213755,
-			"tags": {
-				"name:fi": "Nummela"
-			}
-		},
-		{
-			"type": "node",
 			"id": 30969731,
 			"lat": 63.5422079,
 			"lon": 29.14101,
@@ -1732,15 +1696,6 @@
 			"lon": 27.8335512,
 			"tags": {
 				"name:fi": "Paltamo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 30969745,
-			"lat": 60.3054487,
-			"lon": 22.2996452,
-			"tags": {
-				"name:fi": "Parainen"
 			}
 		},
 		{
@@ -2583,8 +2538,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8992085,
-			"lon": 12.476757,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:fi": "Rooma"
 			}
@@ -3644,15 +3599,6 @@
 		},
 		{
 			"type": "node",
-			"id": 265607597,
-			"lat": 60.1660125,
-			"lon": 22.7385024,
-			"tags": {
-				"name:fi": "Kemiö"
-			}
-		},
-		{
-			"type": "node",
 			"id": 268459612,
 			"lat": 48.9225224,
 			"lon": 24.7103188,
@@ -4117,15 +4063,6 @@
 			"lon": 96.1344976,
 			"tags": {
 				"name:fi": "Naypyidaw"
-			}
-		},
-		{
-			"type": "node",
-			"id": 326805677,
-			"lat": 60.0293761,
-			"lon": 23.5261949,
-			"tags": {
-				"name:fi": "Raasepori"
 			}
 		},
 		{
@@ -4688,6 +4625,15 @@
 		},
 		{
 			"type": "node",
+			"id": 679031958,
+			"lat": 43.8437724,
+			"lon": 46.7124847,
+			"tags": {
+				"name:fi": "Kizljar"
+			}
+		},
+		{
+			"type": "node",
 			"id": 694264962,
 			"lat": 54.981277,
 			"lon": 33.345932,
@@ -5121,8 +5067,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:fi": "Moskova"
 			}
@@ -5386,6 +5332,15 @@
 			"lon": 35.0275505,
 			"tags": {
 				"name:fi": "Tulkarem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3189643211,
+			"lat": 56.258656,
+			"lon": 62.939163,
+			"tags": {
+				"name:fi": "Dalmatovo"
 			}
 		},
 		{

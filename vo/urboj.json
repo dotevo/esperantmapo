@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:34:03Z",
+		"timestamp_osm_base": "2017-03-27T07:30:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -71,6 +71,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26162465,
+			"lat": 53.902334,
+			"lon": 27.5618791,
+			"tags": {
+				"name:vo": "Minsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26396457,
 			"lat": 23.1379911,
 			"lon": -82.3658562,
@@ -120,7 +129,7 @@
 			"lat": 36.800108,
 			"lon": 10.184794,
 			"tags": {
-				"name:vo": "Tünisän"
+				"name:vo": "Tunis"
 			}
 		},
 		{
@@ -153,8 +162,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499352,
+			"lat": 47.0957773,
+			"lon": 37.5499333,
 			"tags": {
 				"name:vo": "Mariupol"
 			}
@@ -243,8 +252,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8988173,
-			"lon": 12.47311,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:vo": "Roma"
 			}
@@ -386,15 +395,6 @@
 		},
 		{
 			"type": "node",
-			"id": 240109189,
-			"lat": 52.5170365,
-			"lon": 13.3888599,
-			"tags": {
-				"name:vo": "Berlin"
-			}
-		},
-		{
-			"type": "node",
 			"id": 240110419,
 			"lat": 54.4387302,
 			"lon": 12.6821366,
@@ -476,6 +476,15 @@
 		},
 		{
 			"type": "node",
+			"id": 299120862,
+			"lat": 34.022405,
+			"lon": -6.834543,
+			"tags": {
+				"name:vo": "Ribat"
+			}
+		},
+		{
+			"type": "node",
 			"id": 299617915,
 			"lat": 36.775348,
 			"lon": 3.060065,
@@ -512,20 +521,29 @@
 		},
 		{
 			"type": "node",
+			"id": 369469617,
+			"lat": 19.811719,
+			"lon": 105.7745698,
+			"tags": {
+				"name:vo": "Thanh Hoa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 369487094,
+			"lat": 17.4695049,
+			"lon": 106.6177781,
+			"tags": {
+				"name:vo": "Dong Hoi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 415523514,
 			"lat": -24.0028977,
 			"lon": -53.147239,
 			"tags": {
 				"name:vo": "Mariluz"
-			}
-		},
-		{
-			"type": "node",
-			"id": 428339515,
-			"lat": 52.2319237,
-			"lon": 21.0067265,
-			"tags": {
-				"name:vo": "Warszawa"
 			}
 		},
 		{
@@ -540,8 +558,8 @@
 		{
 			"type": "node",
 			"id": 531668011,
-			"lat": 1.2904527,
-			"lon": 103.852038,
+			"lat": 1.2904753,
+			"lon": 103.8520359,
 			"tags": {
 				"name:vo": "Singapurän"
 			}
@@ -584,15 +602,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1601837931,
-			"lat": 50.0874654,
-			"lon": 14.4212535,
-			"tags": {
-				"name:vo": "Praha"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1614277087,
 			"lat": 41.6935247,
 			"lon": 44.8015019,
@@ -630,8 +639,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:vo": "Moskva"
 			}
@@ -688,15 +697,6 @@
 			"lon": 9.4059354,
 			"tags": {
 				"name:vo": "Viborg"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3473474851,
-			"lat": 53.3497645,
-			"lon": -6.2602732,
-			"tags": {
-				"name:vo": "Baile Átha Cliath"
 			}
 		}
 	]

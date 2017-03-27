@@ -2,10 +2,73 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-02-13T08:33:02Z",
+		"timestamp_osm_base": "2017-03-27T07:30:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 26036352,
+			"lat": 12.7503486,
+			"lon": 122.7312101,
+			"tags": {
+				"name:vo": "Filipuäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26347360,
+			"lat": 42.6384261,
+			"lon": 12.674297,
+			"tags": {
+				"name:vo": "Litaliyän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847706,
+			"lat": 33.7680065,
+			"lon": 66.2385139,
+			"tags": {
+				"name:vo": "Lafganistän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847709,
+			"lat": 47.2000338,
+			"lon": 13.199959,
+			"tags": {
+				"name:vo": "Lösterän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148332300,
+			"lat": 40.0028028,
+			"lon": -4.003104,
+			"tags": {
+				"name:vo": "Spanyän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148874198,
+			"lat": 42.5407167,
+			"lon": 1.5732033,
+			"tags": {
+				"name:vo": "Landorän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 208592566,
+			"lat": 45.8133113,
+			"lon": 14.4808369,
+			"tags": {
+				"name:vo": "Sloveniyän"
+			}
+		},
 		{
 			"type": "node",
 			"id": 246422158,
@@ -35,11 +98,38 @@
 		},
 		{
 			"type": "node",
+			"id": 249399280,
+			"lat": -34.9964963,
+			"lon": -64.9672817,
+			"tags": {
+				"name:vo": "Largäntän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399285,
+			"lat": 13.1500331,
+			"lon": -59.5250305,
+			"tags": {
+				"name:vo": "Barbadeän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399288,
 			"lat": 12.0753083,
 			"lon": -1.6880314,
 			"tags": {
 				"name:vo": "Burkinän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399296,
+			"lat": 24.7736546,
+			"lon": -78.0000547,
+			"tags": {
+				"name:vo": "Bahamuäns"
 			}
 		},
 		{
@@ -53,6 +143,15 @@
 		},
 		{
 			"type": "node",
+			"id": 249399313,
+			"lat": 23.0131338,
+			"lon": -80.8328748,
+			"tags": {
+				"name:vo": "Kubeän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399347,
 			"lat": 47.1817585,
 			"lon": 19.5060937,
@@ -62,9 +161,18 @@
 		},
 		{
 			"type": "node",
+			"id": 249399360,
+			"lat": -12.2045176,
+			"lon": 44.2832964,
+			"tags": {
+				"name:vo": "Komoruäns"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399361,
-			"lat": 40.3123959,
-			"lon": 127.399971,
+			"lat": 40.3736611,
+			"lon": 127.0870417,
 			"tags": {
 				"name:vo": "Nolüda-Koreyän"
 			}
@@ -72,8 +180,8 @@
 		{
 			"type": "node",
 			"id": 249399362,
-			"lat": 35.3985008,
-			"lon": 127.937111,
+			"lat": 36.5581914,
+			"lon": 127.9408564,
 			"tags": {
 				"name:vo": "Sulüda-Koreyän"
 			}
@@ -116,11 +224,29 @@
 		},
 		{
 			"type": "node",
+			"id": 249399429,
+			"lat": 0.8875498,
+			"lon": 6.9648718,
+			"tags": {
+				"name:vo": "Saluda-Tomeän e Prinsipeän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249399440,
 			"lat": 39.3763807,
 			"lon": 59.3924609,
 			"tags": {
 				"name:vo": "Turkmenän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399444,
+			"lat": 10.8677845,
+			"lon": -60.9821067,
+			"tags": {
+				"name:vo": "Trinidadeän e Tobageäns"
 			}
 		},
 		{
@@ -139,6 +265,33 @@
 			"lon": -88.7600927,
 			"tags": {
 				"name:vo": "Belisän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 369137525,
+			"lat": 44.1534121,
+			"lon": 20.55144,
+			"tags": {
+				"name:vo": "Särbän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297198,
+			"lat": 60.5000209,
+			"lon": 9.0999715,
+			"tags": {
+				"name:vo": "Norgän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297207,
+			"lat": 26.1551249,
+			"lon": 50.5344606,
+			"tags": {
+				"name:vo": "Bahruäns"
 			}
 		},
 		{
@@ -175,6 +328,15 @@
 			"lon": -84.0739102,
 			"tags": {
 				"name:vo": "Kostarikän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297496,
+			"lat": 15.4113138,
+			"lon": -61.3653618,
+			"tags": {
+				"name:vo": "Dominikeän"
 			}
 		},
 		{
@@ -260,11 +422,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424297917,
+			"lat": -0.5249624,
+			"lon": 166.9333009,
+			"tags": {
+				"name:vo": "Naureän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424297931,
 			"lat": -5.6816069,
 			"lon": 144.2489081,
 			"tags": {
 				"name:vo": "Papuveän Nula-Gineyän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297973,
+			"lat": 14.5844444,
+			"lon": 29.4917691,
+			"tags": {
+				"name:vo": "Sudän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298019,
+			"lat": 49.8158683,
+			"lon": 6.1296751,
+			"tags": {
+				"name:vo": "Luxämburgän"
 			}
 		},
 		{
@@ -323,6 +512,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424298326,
+			"lat": 38.9597594,
+			"lon": 34.9249653,
+			"tags": {
+				"name:vo": "Türkän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424310601,
 			"lat": 41.000028,
 			"lon": 19.9999619,
@@ -350,6 +548,33 @@
 		},
 		{
 			"type": "node",
+			"id": 424310758,
+			"lat": 17.3462278,
+			"lon": -62.7687277,
+			"tags": {
+				"name:vo": "Sankiteän e Neviseän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310875,
+			"lat": -11.8775768,
+			"lon": 17.5691241,
+			"tags": {
+				"name:vo": "Langolän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310982,
+			"lat": -3.3634357,
+			"lon": 29.8870575,
+			"tags": {
+				"name:vo": "Rundiyän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311028,
 			"lat": 27.549511,
 			"lon": 90.5119273,
@@ -364,6 +589,24 @@
 			"lon": -71.3187697,
 			"tags": {
 				"name:vo": "Cilän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311151,
+			"lat": 16.0000552,
+			"lon": -24.0083947,
+			"tags": {
+				"name:vo": "Kabovärduäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311244,
+			"lat": 5.5600565,
+			"lon": 150.1982846,
+			"tags": {
+				"name:vo": "Smala-Seanuäns"
 			}
 		},
 		{
@@ -386,6 +629,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424311353,
+			"lat": 45.5643442,
+			"lon": 17.0118954,
+			"tags": {
+				"name:vo": "Kroasän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311521,
 			"lat": 47.2286086,
 			"lon": 65.2093197,
@@ -400,6 +652,15 @@
 			"lon": -9.3658524,
 			"tags": {
 				"name:vo": "Liberän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311641,
+			"lat": 4.7064352,
+			"lon": 73.3287853,
+			"tags": {
+				"name:vo": "Maldivuäns"
 			}
 		},
 		{
@@ -485,11 +746,47 @@
 		},
 		{
 			"type": "node",
+			"id": 424311890,
+			"lat": 8.0018709,
+			"lon": -66.1109318,
+			"tags": {
+				"name:vo": "Venesolän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424311942,
 			"lat": -4.7993356,
 			"lon": 114.5632032,
 			"tags": {
 				"name:vo": "Lindäna-Seänuäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311955,
+			"lat": 6.9518742,
+			"lon": 170.9985095,
+			"tags": {
+				"name:vo": "Marjaluäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424312026,
+			"lat": 77.6192349,
+			"lon": -42.8125967,
+			"tags": {
+				"name:vo": "Gröneän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313277,
+			"lat": 59.6749712,
+			"lon": 14.5208584,
+			"tags": {
+				"name:vo": "Svedän"
 			}
 		},
 		{
@@ -539,6 +836,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424313591,
+			"lat": 18.1850507,
+			"lon": -77.3947693,
+			"tags": {
+				"name:vo": "Camekeän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313675,
 			"lat": 40.3936294,
 			"lon": 47.7872508,
@@ -575,11 +881,38 @@
 		},
 		{
 			"type": "node",
+			"id": 424313760,
+			"lat": 61.0666922,
+			"lon": -107.9917071,
+			"tags": {
+				"name:vo": "Kanadän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313803,
 			"lat": 49.8167003,
 			"lon": 15.4749544,
 			"tags": {
 				"name:vo": "Tsyegän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313823,
+			"lat": -18.1239696,
+			"lon": 179.0122737,
+			"tags": {
+				"name:vo": "Ficiyuäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313832,
+			"lat": 58.7523778,
+			"lon": 25.3319078,
+			"tags": {
+				"name:vo": "Lestiyän"
 			}
 		},
 		{
@@ -710,6 +1043,24 @@
 		},
 		{
 			"type": "node",
+			"id": 424315584,
+			"lat": -24.7761086,
+			"lon": 134.755,
+			"tags": {
+				"name:vo": "Laustralän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315709,
+			"lat": 42.6073975,
+			"lon": 25.4856617,
+			"tags": {
+				"name:vo": "Bulgarän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424315932,
 			"lat": 4.6125522,
 			"lon": 13.1535811,
@@ -737,6 +1088,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424316074,
+			"lat": 12.1360374,
+			"lon": -61.6904045,
+			"tags": {
+				"name:vo": "Grenadeän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424316205,
 			"lat": 33.0955793,
 			"lon": 44.1749775,
@@ -760,6 +1120,15 @@
 			"lon": 103.378253,
 			"tags": {
 				"name:vo": "Laosän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316319,
+			"lat": 13.8250489,
+			"lon": -60.975036,
+			"tags": {
+				"name:vo": "Sanlusiyän"
 			}
 		},
 		{
@@ -818,6 +1187,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424317025,
+			"lat": 43.9458623,
+			"lon": 12.458306,
+			"tags": {
+				"name:vo": "Sanmarinän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424317039,
 			"lat": 8.3676771,
 			"lon": 49.083416,
@@ -832,6 +1210,15 @@
 			"lon": 9.400138,
 			"tags": {
 				"name:vo": "Tunisän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317372,
+			"lat": -7.768959,
+			"lon": 178.1167698,
+			"tags": {
+				"name:vo": "Tuvaluäns"
 			}
 		},
 		{
@@ -908,6 +1295,24 @@
 		},
 		{
 			"type": "node",
+			"id": 432424968,
+			"lat": 55.670249,
+			"lon": 10.3333283,
+			"tags": {
+				"name:vo": "Danän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424972,
+			"lat": -8.5151979,
+			"lon": 125.8375756,
+			"tags": {
+				"name:vo": "Lofüda-Timoreän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432424981,
 			"lat": 63.2467777,
 			"lon": 25.9209164,
@@ -931,6 +1336,24 @@
 			"lon": 21.9877132,
 			"tags": {
 				"name:vo": "Grikän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425015,
+			"lat": 0.4483283,
+			"lon": -171.6645388,
+			"tags": {
+				"name:vo": "Kiribatuäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425019,
+			"lat": 56.8666904,
+			"lon": 24.5999717,
+			"tags": {
+				"name:vo": "Latviyän"
 			}
 		},
 		{
@@ -962,11 +1385,29 @@
 		},
 		{
 			"type": "node",
+			"id": 432425040,
+			"lat": 46.8250388,
+			"lon": 103.8499736,
+			"tags": {
+				"name:vo": "Mongolän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432425041,
 			"lat": 31.1728192,
 			"lon": -7.3366043,
 			"tags": {
 				"name:vo": "Marokän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425060,
+			"lat": 52.0977181,
+			"lon": 19.0258159,
+			"tags": {
+				"name:vo": "Polän"
 			}
 		},
 		{
@@ -989,11 +1430,38 @@
 		},
 		{
 			"type": "node",
+			"id": 432425064,
+			"lat": 45.9852129,
+			"lon": 24.6859225,
+			"tags": {
+				"name:vo": "Rumän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425070,
+			"lat": 12.90447,
+			"lon": -61.2765569,
+			"tags": {
+				"name:vo": "Saluda-Vinsenteän e Grenadineäns"
+			}
+		},
+		{
+			"type": "node",
 			"id": 432425075,
 			"lat": 14.4750607,
 			"lon": -14.4529612,
 			"tags": {
 				"name:vo": "Senegalän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425079,
+			"lat": 48.7411522,
+			"lon": 19.4528646,
+			"tags": {
+				"name:vo": "Slovakiyän"
 			}
 		},
 		{
@@ -1079,6 +1547,15 @@
 		},
 		{
 			"type": "node",
+			"id": 838090640,
+			"lat": 54.7023545,
+			"lon": -3.2765753,
+			"tags": {
+				"name:vo": "Regän Pebalöl"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1356260631,
 			"lat": 7.8699431,
 			"lon": 29.6667897,
@@ -1115,6 +1592,33 @@
 		},
 		{
 			"type": "node",
+			"id": 1511934680,
+			"lat": 6.097367,
+			"lon": 133.313631,
+			"tags": {
+				"name:vo": "Palauäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1529444079,
+			"lat": -13.7693895,
+			"lon": -172.1200508,
+			"tags": {
+				"name:vo": "Samovuäns"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1602889766,
+			"lat": 54.1936805,
+			"lon": -4.5591148,
+			"tags": {
+				"name:vo": "Mäneän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1640880787,
 			"lat": -18.4554963,
 			"lon": 29.7468414,
@@ -1142,11 +1646,65 @@
 		},
 		{
 			"type": "node",
+			"id": 1648342273,
+			"lat": 49.4871968,
+			"lon": 31.2718321,
+			"tags": {
+				"name:vo": "Lukrayän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1683325355,
+			"lat": 51.0834196,
+			"lon": 10.4234469,
+			"tags": {
+				"name:vo": "Deutän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1684793666,
 			"lat": 50.6407351,
 			"lon": 4.66696,
 			"tags": {
 				"name:vo": "Belgän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1694010854,
+			"lat": 4.4137155,
+			"lon": 114.5653908,
+			"tags": {
+				"name:vo": "Brunän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1696850886,
+			"lat": 42.3476344,
+			"lon": 44.0979465,
+			"tags": {
+				"name:vo": "Sulüda-Losetän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1696874354,
+			"lat": 35.2245313,
+			"lon": 33.6252379,
+			"tags": {
+				"name:vo": "Nolüda-Sipreän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1700777271,
+			"lat": 41.5089324,
+			"lon": 74.724091,
+			"tags": {
+				"name:vo": "Kirgistän"
 			}
 		},
 		{
@@ -1169,6 +1727,24 @@
 		},
 		{
 			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:vo": "Transnistriyän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2110225115,
+			"lat": 31.649741,
+			"lon": 35.162072,
+			"tags": {
+				"name:vo": "Palästinän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2134362766,
 			"lat": 2.3923759,
 			"lon": 112.8471939,
@@ -1187,11 +1763,56 @@
 		},
 		{
 			"type": "node",
+			"id": 2377028247,
+			"lat": 40.033265,
+			"lon": -7.8896263,
+			"tags": {
+				"name:vo": "Portugän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3491215388,
+			"lat": -29.6039267,
+			"lon": 28.3350193,
+			"tags": {
+				"name:vo": "Lesotän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3696525426,
+			"lat": 47.1416307,
+			"lon": 9.5531527,
+			"tags": {
+				"name:vo": "Ligtänstän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3997635385,
 			"lat": 7.237148,
 			"lon": 80.820923,
 			"tags": {
 				"name:vo": "Sri-Lankän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4076524861,
+			"lat": 35.8885993,
+			"lon": 14.4476911,
+			"tags": {
+				"name:vo": "Malteän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4366234392,
+			"lat": 42.5869578,
+			"lon": 20.9021231,
+			"tags": {
+				"name:vo": "Kosovän"
 			}
 		}
 	]
