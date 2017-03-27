@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-13T10:02:02Z",
+		"timestamp_osm_base": "2017-03-27T07:18:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -81,8 +81,8 @@
 		{
 			"type": "node",
 			"id": 4076982798,
-			"lat": -17.0548849,
-			"lon": 42.7246482,
+			"lat": -17.0566133,
+			"lon": 42.7239756,
 			"tags": {
 				"name:eo": "Ĵuan-de-la-Nova Insulo"
 			}
@@ -145,7 +145,7 @@
 			"id": 9884465,
 			"center": {
 				"lat": 16.8497765,
-				"lon": -24.9727136
+				"lon": -24.9727146
 			},
 			"tags": {
 				"name:eo": "São Vicente"
@@ -193,6 +193,17 @@
 			},
 			"tags": {
 				"name:eo": "Jonstonatolo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 174996681,
+			"center": {
+				"lat": -54.4198946,
+				"lon": 3.3595708
+			},
+			"tags": {
+				"name:eo": "Buvet-Insulo"
 			}
 		},
 		{
@@ -567,6 +578,28 @@
 			},
 			"tags": {
 				"name:eo": "Ĵersejo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7112170,
+			"center": {
+				"lat": 14.6367812,
+				"lon": -61.0193324
+			},
+			"tags": {
+				"name:eo": "Martiniko"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7112309,
+			"center": {
+				"lat": 42.1881326,
+				"lon": 9.0500054
+			},
+			"tags": {
+				"name:eo": "Korsiko"
 			}
 		}
 	]

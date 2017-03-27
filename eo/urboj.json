@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-13T10:03:02Z",
+		"timestamp_osm_base": "2017-03-27T07:17:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -76,6 +76,15 @@
 			"lon": 12.5700724,
 			"tags": {
 				"name:eo": "Kopenhago"
+			}
+		},
+		{
+			"type": "node",
+			"id": 13766899,
+			"lat": -33.8548157,
+			"lon": 151.2164539,
+			"tags": {
+				"name:eo": "Sidnejo"
 			}
 		},
 		{
@@ -260,6 +269,15 @@
 		},
 		{
 			"type": "node",
+			"id": 21579127,
+			"lat": -37.8142176,
+			"lon": 144.9631608,
+			"tags": {
+				"name:eo": "Melburno"
+			}
+		},
+		{
+			"type": "node",
 			"id": 21674637,
 			"lat": -35.2975906,
 			"lon": 149.1012676,
@@ -328,6 +346,15 @@
 			"lon": 17.64112,
 			"tags": {
 				"name:eo": "Upsalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25841904,
+			"lat": -32.9272881,
+			"lon": 151.7812534,
+			"tags": {
+				"name:eo": "Novkastelo"
 			}
 		},
 		{
@@ -1025,6 +1052,15 @@
 		},
 		{
 			"type": "node",
+			"id": 29277817,
+			"lat": -31.9527121,
+			"lon": 115.8604796,
+			"tags": {
+				"name:eo": "Perto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 29438069,
 			"lat": 35.3340134,
 			"lon": 25.1328543,
@@ -1647,8 +1683,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8992085,
-			"lon": 12.476757,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:eo": "Romo"
 			}
@@ -2547,8 +2583,8 @@
 		{
 			"type": "node",
 			"id": 242978991,
-			"lat": 54.278515,
-			"lon": 30.9912491,
+			"lat": 54.289463,
+			"lon": 30.9810782,
 			"tags": {
 				"name:eo": "Horki"
 			}
@@ -3609,8 +3645,8 @@
 		{
 			"type": "node",
 			"id": 277491317,
-			"lat": 52.0442118,
-			"lon": 29.2597287,
+			"lat": 52.047562,
+			"lon": 29.2665915,
 			"tags": {
 				"name:eo": "Mazir"
 			}
@@ -3739,6 +3775,15 @@
 			"lon": 10.7598516,
 			"tags": {
 				"name:eo": "Sfakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287411141,
+			"lat": 43.7587545,
+			"lon": 44.0149008,
+			"tags": {
+				"name:eo": "Proĥladnij"
 			}
 		},
 		{
@@ -5534,6 +5579,15 @@
 		},
 		{
 			"type": "node",
+			"id": 679031958,
+			"lat": 43.8437724,
+			"lon": 46.7124847,
+			"tags": {
+				"name:eo": "Kizlar"
+			}
+		},
+		{
+			"type": "node",
 			"id": 703225446,
 			"lat": 5.1535058,
 			"lon": -75.0371423,
@@ -5769,8 +5823,8 @@
 		{
 			"type": "node",
 			"id": 1026705983,
-			"lat": 43.5659318,
-			"lon": 43.5832019,
+			"lat": 43.5644236,
+			"lon": 43.5902937,
 			"tags": {
 				"name:eo": "Ĉegem"
 			}
@@ -5930,9 +5984,18 @@
 		},
 		{
 			"type": "node",
+			"id": 1463122111,
+			"lat": 55.070232,
+			"lon": 57.547676,
+			"tags": {
+				"name:eo": "Minjar"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1487757399,
-			"lat": 31.888834,
-			"lon": 54.3643037,
+			"lat": 31.8882874,
+			"lon": 54.3642876,
 			"tags": {
 				"name:eo": "Jazdo"
 			}
@@ -5989,6 +6052,15 @@
 			"lon": 33.3917703,
 			"tags": {
 				"name:eo": "Krivij-Rih"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1546628274,
+			"lat": -27.4689682,
+			"lon": 153.0234991,
+			"tags": {
+				"name:eo": "Brisbano"
 			}
 		},
 		{
@@ -6115,6 +6187,15 @@
 			"lon": 9.1750718,
 			"tags": {
 				"name:eo": "Konstanco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1639099539,
+			"lat": -12.46044,
+			"lon": 130.8410469,
+			"tags": {
+				"name:eo": "Darvino"
 			}
 		},
 		{
@@ -6264,8 +6345,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7506828,
-			"lon": 37.6174976,
+			"lat": 55.7507178,
+			"lon": 37.6176606,
 			"tags": {
 				"name:eo": "Moskvo"
 			}
@@ -6529,6 +6610,15 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:eo": "Seulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1932181216,
+			"lat": 47.1392862,
+			"lon": 9.5227962,
+			"tags": {
+				"name:eo": "Vaduzo"
 			}
 		},
 		{

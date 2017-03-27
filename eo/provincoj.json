@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-13T10:00:02Z",
+		"timestamp_osm_base": "2017-03-27T07:17:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -94,15 +94,6 @@
 			"lon": 8.2067825,
 			"tags": {
 				"name:eo": "Obvaldo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 240063738,
-			"lat": 53.555079,
-			"lon": 9.997025,
-			"tags": {
-				"name:eo": "Hamburgo"
 			}
 		},
 		{
@@ -435,7 +426,7 @@
 			"lat": -31.8759835,
 			"lon": 147.2869493,
 			"tags": {
-				"name:eo": "Novsudkimrio"
+				"name:eo": "Nova Sud-Kimrujo"
 			}
 		},
 		{
@@ -2649,7 +2640,7 @@
 			"lat": 50.9295798,
 			"lon": 13.4585052,
 			"tags": {
-				"name:eo": "Saksio"
+				"name:eo": "Saksujo"
 			}
 		},
 		{
@@ -2658,7 +2649,7 @@
 			"lat": 48.9467562,
 			"lon": 11.4038717,
 			"tags": {
-				"name:eo": "Bavario"
+				"name:eo": "Bavarujo"
 			}
 		},
 		{
@@ -2694,7 +2685,7 @@
 			"lat": 50.7333163,
 			"lon": 11.0747905,
 			"tags": {
-				"name:eo": "Turingio"
+				"name:eo": "Turingujo"
 			}
 		},
 		{
@@ -3541,6 +3532,15 @@
 			"lon": 6.9805789,
 			"tags": {
 				"name:eo": "Sarlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 565666206,
+			"lat": 48.6296972,
+			"lon": 9.1949534,
+			"tags": {
+				"name:eo": "Baden-Virtembergo"
 			}
 		},
 		{
@@ -5250,7 +5250,7 @@
 			"lat": 52.8398531,
 			"lon": 9.075962,
 			"tags": {
-				"name:eo": "Malsupra Saksio"
+				"name:eo": "Malsupra Saksujo"
 			}
 		},
 		{
@@ -5538,7 +5538,7 @@
 			"lat": 51.908526,
 			"lon": 11.4939134,
 			"tags": {
-				"name:eo": "Saksio-Anhalto"
+				"name:eo": "Saksujo-Anhalto"
 			}
 		},
 		{
@@ -6186,7 +6186,7 @@
 			"lat": 50.6118537,
 			"lon": 9.1909725,
 			"tags": {
-				"name:eo": "Hesio"
+				"name:eo": "Hesujo"
 			}
 		},
 		{
@@ -6312,7 +6312,7 @@
 			"lat": 52.2928116,
 			"lon": -3.73893,
 			"tags": {
-				"name:eo": "Kimrio"
+				"name:eo": "Kimrujo"
 			}
 		},
 		{

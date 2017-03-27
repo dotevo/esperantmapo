@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-13T09:59:02Z",
+		"timestamp_osm_base": "2017-03-27T07:16:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -189,8 +189,8 @@
 		{
 			"type": "node",
 			"id": 249399361,
-			"lat": 40.3123959,
-			"lon": 127.399971,
+			"lat": 40.3736611,
+			"lon": 127.0870417,
 			"tags": {
 				"name:eo": "Nord-Koreujo"
 			}
@@ -198,8 +198,8 @@
 		{
 			"type": "node",
 			"id": 249399362,
-			"lat": 35.7647865,
-			"lon": 127.9642376,
+			"lat": 36.5581914,
+			"lon": 127.9408564,
 			"tags": {
 				"name:eo": "Sud-Koreujo"
 			}

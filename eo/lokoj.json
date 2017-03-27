@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-13T10:01:02Z",
+		"timestamp_osm_base": "2017-03-27T07:18:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -15,9 +15,10 @@
 				"addr:city": "Rotterdam",
 				"addr:country": "NL",
 				"addr:housenumber": "176",
-				"addr:postcode": "3015 BJ",
+				"addr:postcode": "3015BJ",
 				"addr:street": "Nieuwe Binnenweg",
 				"contact:website": "http://www.uea.org",
+				"esperanto": "yes",
 				"language:eo": "yes",
 				"name": "Universala Esperanto Asocio",
 				"office": "ngo",
@@ -57,6 +58,24 @@
 				"name": "Esperantos Bistro",
 				"name:etymology:wikidata": "Q143",
 				"phone": "01704 571116"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2137250406,
+			"lat": 48.8367017,
+			"lon": 10.0921405,
+			"tags": {
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"designation": "Sammlung Esperanto und Plansprachen",
+				"esperanto": "yes",
+				"name": "Deutsche Esperanto-Bibliothek",
+				"name:eo": "Germana Esperanto-Biblioteko",
+				"operator": "Germana Esperanto-Instituto",
+				"source": "D.E.B. e.V",
+				"wikidata": "Q679839",
+				"wikipedia": "de:Deutsche Esperanto-Bibliothek"
 			}
 		},
 		{
@@ -516,6 +535,135 @@
 				"books:language:eo": "yes",
 				"books:language:ja": "yes",
 				"operator": "SOJO"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740025814,
+			"lat": -23.5313584,
+			"lon": -46.5706677,
+			"tags": {
+				"amenity": "school",
+				"esperanto": "yes",
+				"language:eo": "no",
+				"name": "Colégio Esperanto",
+				"name:etymology:wikidata": "Q123"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740065398,
+			"lat": 51.9137073,
+			"lon": 4.4644683,
+			"tags": {
+				"addr:city": "Rotterdam",
+				"addr:housenumber": "176",
+				"addr:postcode": "3015BJ",
+				"addr:street": "Nieuwe Binnenweg",
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"name": "Biblioteko Hector Hodler",
+				"name:en": "Hector Hodler Library",
+				"name:etymology:wikidata": "Q12608",
+				"operator": "Universala Esperanto-Asocio",
+				"wikidata": "Q620999",
+				"wikipedia": "eo:Biblioteko Hector Hodler"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740088555,
+			"lat": 47.1043064,
+			"lon": 6.8262405,
+			"tags": {
+				"addr:city": "La Chaux-de-Fonds",
+				"addr:housenumber": "33",
+				"addr:postcode": "2300",
+				"addr:street": "Rue du Progrès",
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"esperanto": "yes",
+				"name": "Centre de documentation et d'étude sur la langue internationale",
+				"name:eo": "Centro de Dokumentado kaj Esploro pri la Lingvo Internacia",
+				"operator": "Bibliothèque de la Ville",
+				"short_name": "CDELI",
+				"source": "Wikipedia",
+				"start_date": "1967",
+				"website": "http://www.cdeli.org/",
+				"wikidata": "Q2296824",
+				"wikipedia": "fr:Centre de documentation et d'étude sur la langue internationale"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740191428,
+			"lat": 50.8289183,
+			"lon": 3.2647556,
+			"tags": {
+				"addr:city": "Kortrijk",
+				"addr:housenumber": "30",
+				"addr:postcode": "8500",
+				"addr:street": "Leiestraat",
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"esperanto": "yes",
+				"name": "Esperantofonds Cesar Vanbiervliet",
+				"name:eo": "Esperanto-Fondaĵo Cesar Vanbiervliet",
+				"name:etymology:wikidata": "Q670954",
+				"operator": "Openbare Bibliotheek Kortrijk",
+				"website": "http://www.esperanto-kortrijk.info/",
+				"wikidata": "Q2271783",
+				"wikipedia": "nl:Esperantofonds Cesar Vanbiervliet"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740196774,
+			"lat": 52.9429461,
+			"lon": -2.1656437,
+			"tags": {
+				"addr:housename": "Wedgwood Memorial College",
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"esperanto": "yes",
+				"fixme": "confirm position",
+				"name": "Montagu C. Butler Library",
+				"name:eo": "Biblioteko Butler",
+				"name:etymology:wikidata": "Q18449",
+				"operator": "Esperanto Association of Britain",
+				"wikidata": "Q2336196",
+				"wikipedia": "en:Montagu C. Butler Library"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740196775,
+			"lat": 52.942896,
+			"lon": -2.1656329,
+			"tags": {
+				"addr:housename": "Wedgwood Memorial College",
+				"esperanto": "yes",
+				"fixme": "confirm position",
+				"name": "Esperanto Association of Britain",
+				"name:eo": "Esperanto-Asocio de Britio",
+				"office": "ngo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4740236069,
+			"lat": 47.4901964,
+			"lon": 19.0535454,
+			"tags": {
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"fixme": "confirm position",
+				"name": "Fajszi-gyűjtemény",
+				"name:eo": "Kolektaĵo Fajszi",
+				"name:fr": "Collection Fajszi",
+				"operator": "Országos Idegennyelvű Könyvtár",
+				"wikidata": "Q995650",
+				"wikipedia": "hu:Fajszi-gyűjtemény"
 			}
 		},
 		{
@@ -1741,6 +1889,30 @@
 		},
 		{
 			"type": "way",
+			"id": 327119607,
+			"center": {
+				"lat": 48.2093565,
+				"lon": 16.365376
+			},
+			"tags": {
+				"books:language:eo": "yes",
+				"description": "About the Esparento language and its history. (Source: operator website)",
+				"esperanto": "yes",
+				"fee": "yes",
+				"level": "0",
+				"name": "Esperantomuseum",
+				"name:en": "Esperanto Museum and Collection of Planned Languages",
+				"name:eo": "Esperantomuzeo kaj kolekto por planlingvoj",
+				"operator": "Österreichische Nationalbibliothek",
+				"start_date": "1927",
+				"tourism": "museum",
+				"website": "https://www.onb.ac.at/ev/esperanto_museum.htm",
+				"wikidata": "Q686443",
+				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj"
+			}
+		},
+		{
+			"type": "way",
 			"id": 338950577,
 			"center": {
 				"lat": 52.1254965,
@@ -1904,6 +2076,22 @@
 				"name": "Esperantostraat",
 				"name:etymology:wikidata": "Q143",
 				"turn:lanes:backward": "left|through|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 432041019,
+			"center": {
+				"lat": 39.6509552,
+				"lon": 66.955258
+			},
+			"tags": {
+				"books:language:eo": "yes",
+				"building": "yes",
+				"name": "Русский Культурный Центр",
+				"name:en": "International Museum of Peace and Solidarity",
+				"name:eo": "Internacia Muzeo de Paco kaj Solidaro",
+				"tourism": "museum"
 			}
 		},
 		{
