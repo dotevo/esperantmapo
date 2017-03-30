@@ -59,5 +59,11 @@ msgstr "Polski"
 msgid "La finna"
 msgstr "Fiński"
 
+msgid "Informoj"
+msgstr "Informacje"
+
+msgid "Serĉi"
+msgstr "Szukaj"
+
 msgid "Ikonoj_el"
 msgstr "Ikony z"

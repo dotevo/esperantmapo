@@ -31,6 +31,9 @@ L.OverpassFetcher = L.LayerGroup.extend({
 		})
 	},
 	analizi: function(data) {
+		if (data.responseJSON.elements != undefined) {
+			data = data.responseJSON
+		}
 		if (data.elements === undefined) {
 			console.log(data)
 			return
