@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:27:02Z",
+		"timestamp_osm_base": "2017-04-04T05:35:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -297,8 +297,8 @@
 		{
 			"type": "node",
 			"id": 21750062,
-			"lat": 37.8845065,
-			"lon": -4.7793655,
+			"lat": 37.8849779,
+			"lon": -4.7760131,
 			"tags": {
 				"name:pl": "Kordoba"
 			}
@@ -369,8 +369,8 @@
 		{
 			"type": "node",
 			"id": 25503669,
-			"lat": -25.745174,
-			"lon": 28.18707,
+			"lat": -25.7459374,
+			"lon": 28.1879444,
 			"tags": {
 				"name:pl": "Pretoria"
 			}
@@ -4909,15 +4909,6 @@
 			"lon": 34.973373,
 			"tags": {
 				"name:pl": "Torżok"
-			}
-		},
-		{
-			"type": "node",
-			"id": 60410873,
-			"lat": 46.9659167,
-			"lon": 32.0035348,
-			"tags": {
-				"name:pl": "Mikołajów"
 			}
 		},
 		{
@@ -26271,8 +26262,8 @@
 		{
 			"type": "node",
 			"id": 763099410,
-			"lat": 34.75611,
-			"lon": 138.087183,
+			"lat": 34.7562641,
+			"lon": 138.0873547,
 			"tags": {
 				"name:pl": "Kikugawa"
 			}
@@ -33970,15 +33961,6 @@
 			"lon": 141.198502,
 			"tags": {
 				"name:pl": "Tome"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3181550515,
-			"lat": 24.8667795,
-			"lon": 67.0311286,
-			"tags": {
-				"name:pl": "Karaczi"
 			}
 		},
 		{

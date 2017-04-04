@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:26:03Z",
+		"timestamp_osm_base": "2017-04-04T05:37:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2385,8 +2385,8 @@
 		{
 			"type": "node",
 			"id": 60079145,
-			"lat": 59.5414322,
-			"lon": 30.8769783,
+			"lat": 59.5412777,
+			"lon": 30.8773645,
 			"tags": {
 				"name:fi": "Tusina"
 			}

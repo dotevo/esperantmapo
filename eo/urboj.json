@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:17:02Z",
+		"timestamp_osm_base": "2017-04-04T05:32:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -333,8 +333,8 @@
 		{
 			"type": "node",
 			"id": 25503669,
-			"lat": -25.745174,
-			"lon": 28.18707,
+			"lat": -25.7459374,
+			"lon": 28.1879444,
 			"tags": {
 				"name:eo": "Pretorio"
 			}
@@ -1332,8 +1332,8 @@
 		{
 			"type": "node",
 			"id": 32677946,
-			"lat": 29.4489258,
-			"lon": 55.6818435,
+			"lat": 29.4447686,
+			"lon": 55.6712851,
 			"tags": {
 				"name:eo": "Sirĝan"
 			}
@@ -1570,15 +1570,6 @@
 			"lon": 20.4750188,
 			"tags": {
 				"name:eo": "Zelenogradsk"
-			}
-		},
-		{
-			"type": "node",
-			"id": 60410873,
-			"lat": 46.9659167,
-			"lon": 32.0035348,
-			"tags": {
-				"name:eo": "Nikolajevo"
 			}
 		},
 		{
@@ -5805,8 +5796,8 @@
 		{
 			"type": "node",
 			"id": 959199214,
-			"lat": 51.453493,
-			"lon": -2.5973937,
+			"lat": 51.4538022,
+			"lon": -2.5972985,
 			"tags": {
 				"name:eo": "Bristolo"
 			}
@@ -6651,8 +6642,8 @@
 		{
 			"type": "node",
 			"id": 1975648720,
-			"lat": -16.4954329,
-			"lon": -68.1331733,
+			"lat": -16.4956386,
+			"lon": -68.1336346,
 			"tags": {
 				"name:eo": "La-Pazo"
 			}

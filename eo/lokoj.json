@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:18:02Z",
+		"timestamp_osm_base": "2017-04-04T05:33:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -434,15 +434,17 @@
 				"name": "SOJO",
 				"name:eo": "SOJO",
 				"name:etymology:wikidata": "Q11006",
+				"opening_hours": "Tu-Sa 15:00-21:00; PH off",
 				"outdoor_seating": "no",
 				"payment:american_express": "yes",
 				"payment:cash": "yes",
 				"payment:discover_card": "yes",
 				"payment:mastercard": "yes",
 				"payment:visa": "yes",
-				"phone": "+81 3 3922 2030",
+				"phone": "+81 3 3922 2030;+81 36302 1639",
 				"source": "Bing",
-				"wikidata": "Q28804296"
+				"wikidata": "Q28804296",
+				"wikipedia": "eo:SOJO"
 			}
 		},
 		{
@@ -1583,12 +1585,13 @@
 			},
 			"tags": {
 				"esperanto": "yes",
-				"name": "Esperanto Island",
+				"name": "Esperanto Insulo",
+				"name:en": "Esperanto Island",
 				"name:eo": "Esperanto Insulo",
 				"name:etymology:wikidata": "Q143",
 				"name:pt": "Ilha Esperanto",
 				"natural": "coastline",
-				"place": "island",
+				"place": "islet",
 				"source": "ADD",
 				"source:date": "01/07/2002",
 				"wikipedia": "eo:Esperanto_(insulo)"

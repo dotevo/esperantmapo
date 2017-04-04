@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:23:02Z",
+		"timestamp_osm_base": "2017-04-04T05:34:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -54,8 +54,8 @@
 		{
 			"type": "node",
 			"id": 473831430,
-			"lat": 50.9295798,
-			"lon": 13.4585052,
+			"lat": 50.9869412,
+			"lon": 13.3169489,
 			"tags": {
 				"name:io": "Saxonia"
 			}

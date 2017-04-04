@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:29:02Z",
+		"timestamp_osm_base": "2017-04-04T05:37:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1360,6 +1360,8 @@
 				"currency:others": "no",
 				"description": "Kiosk u.a. mit polnischen Lebensmitteln",
 				"dog": "yes",
+				"drink:beer": "retail;bottled",
+				"drink:wine": "retail;bottled",
 				"image": "https://web.archive.org/web/20170121162633/https://d1cuyjsrcm0gby.cloudfront.net/ay3sjwv7cwl3CsCi-xSY8w/thumb-2048.jpg",
 				"indoor": "yes",
 				"language:de": "main",
@@ -3203,7 +3205,7 @@
 				"level": "2",
 				"name": "Orthopädische Gemeinschaftspraxis",
 				"opening_hours": "Mo-Tu,Th 08:00-12:00,14:00-16:00; We,Fr 08:00-12:00; PH off",
-				"operator": "Dirk Nase;Bernhard Schul;Dirk Fennes;Matthias Wiese",
+				"operator": "Peter Koch;Bernhard Schul;Dirk Fennes;Matthias Wiese",
 				"operator:type": "private",
 				"smoking": "no",
 				"start_date": "2007-11",

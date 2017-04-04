@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:29:02Z",
+		"timestamp_osm_base": "2017-04-04T05:37:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -250,6 +250,17 @@
 		},
 		{
 			"type": "way",
+			"id": 205677618,
+			"center": {
+				"lat": 79.9643763,
+				"lon": 50.2005605
+			},
+			"tags": {
+				"name:pl": "Wyspa Jurija Kuczijewa"
+			}
+		},
+		{
+			"type": "way",
 			"id": 239644298,
 			"center": {
 				"lat": 25.1801305,
@@ -462,7 +473,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8245077
+				"lon": 103.8243997
 			},
 			"tags": {
 				"name:pl": "Singapur"
@@ -554,6 +565,17 @@
 			},
 			"tags": {
 				"name:pl": "Pemba"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3263732,
+			"center": {
+				"lat": 35.1291767,
+				"lon": 33.4288766
+			},
+			"tags": {
+				"name:pl": "Cypr"
 			}
 		},
 		{

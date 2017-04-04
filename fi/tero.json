@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:26:03Z",
+		"timestamp_osm_base": "2017-04-04T05:38:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -358,8 +358,8 @@
 			"type": "way",
 			"id": 4581469,
 			"center": {
-				"lat": 60.5075711,
-				"lon": 28.1635367
+				"lat": 60.5075583,
+				"lon": 28.1635007
 			},
 			"tags": {
 				"name:fi": "Oritsaari"
@@ -820,8 +820,8 @@
 			"type": "way",
 			"id": 11895370,
 			"center": {
-				"lat": 61.3807118,
-				"lon": 21.4280851
+				"lat": 61.3804594,
+				"lon": 21.427722
 			},
 			"tags": {
 				"name:fi": "Pirskeri"
@@ -1298,6 +1298,17 @@
 			},
 			"tags": {
 				"name:fi": "Repossaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25595352,
+			"center": {
+				"lat": 60.1701332,
+				"lon": 24.8990534
+			},
+			"tags": {
+				"name:fi": "Hietaniemenkarit"
 			}
 		},
 		{
@@ -2809,6 +2820,17 @@
 		},
 		{
 			"type": "way",
+			"id": 331041743,
+			"center": {
+				"lat": 60.1433789,
+				"lon": 24.8900638
+			},
+			"tags": {
+				"name:fi": "Sisä-Hattu"
+			}
+		},
+		{
+			"type": "way",
 			"id": 334373028,
 			"center": {
 				"lat": 61.6381514,
@@ -3945,7 +3967,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8245077
+				"lon": 103.8243997
 			},
 			"tags": {
 				"name:fi": "Singapore"
@@ -4213,6 +4235,17 @@
 			},
 			"tags": {
 				"name:fi": "Kižin saari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3263732,
+			"center": {
+				"lat": 35.1291767,
+				"lon": 33.4288766
+			},
+			"tags": {
+				"name:fi": "Kypros"
 			}
 		},
 		{

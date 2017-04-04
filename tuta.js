@@ -248,6 +248,9 @@ L.OverpassFetcher = L.LayerGroup.extend({
 		});
 	},
 	analizi: function (data) {
+		if (data.responseJSON != undefined && data.responseJSON.elements != undefined) {
+			data = data.responseJSON;
+		}
 		if (data.elements === undefined) {
 			console.log(data);
 			return;
@@ -359,14 +362,28 @@ function kreiPriskribon(obj) {
 	return r;
 }
 
+function eventoEnListo(e) {
+	mapo.panTo(new L.LatLng($(this).data('loc-lat'), $(this).data('loc-lon')));
+}
+
+function aldoniEnListon(nomo, etikedoj, loc) {
+	var btno = $('<a href="#" class="ui-btn ui-shadow ui-corner-all"' + 'data-loc-lat="' + loc[0] + '" data-loc-lon="' + loc[1] + '" data-filtertext="' + etikedoj + '">' + nomo + '</a>');
+	var teksto = $('<li></li>');
+	teksto.append(btno);
+	$('#serĉlisto').append(teksto);
+	btno.on('click', eventoEnListo);
+}
+
 function manteloj(opt, lingvo) {
 	const landojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/landoj.json',
 		krei: function (objekto) {
+			const nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo lando-etikedo',
-				html: objekto.tags['name:' + lingvo]
+				html: nomo
 			});
+			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.landoj);
 		}
 	});
@@ -374,10 +391,12 @@ function manteloj(opt, lingvo) {
 	const provincojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/provincoj.json',
 		krei: function (objekto) {
+			const nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo provinco-etikedo',
-				html: objekto.tags['name:' + lingvo]
+				html: nomo
 			});
+			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.provincoj);
 		}
 	});
@@ -385,10 +404,12 @@ function manteloj(opt, lingvo) {
 	const urbojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/urboj.json',
 		krei: function (objekto) {
+			const nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo urbo-etikedo',
-				html: objekto.tags['name:' + lingvo]
+				html: nomo
 			});
+			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.urboj);
 		}
 	});
@@ -396,10 +417,12 @@ function manteloj(opt, lingvo) {
 	const teroF = new L.OverpassFetcher({
 		dosiero: lingvo + '/tero.json',
 		krei: function (objekto) {
+			const nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo tero-etikedo',
-				html: objekto.tags['name:' + lingvo]
+				html: nomo
 			});
+			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.tero);
 		}
 	});

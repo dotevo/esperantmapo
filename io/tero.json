@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-03-27T07:24:03Z",
+		"timestamp_osm_base": "2017-04-04T05:35:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -20,10 +20,21 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8245077
+				"lon": 103.8243997
 			},
 			"tags": {
 				"name:io": "Singapur"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3263732,
+			"center": {
+				"lat": 35.1291767,
+				"lon": 33.4288766
+			},
+			"tags": {
+				"name:io": "Chipro"
 			}
 		},
 		{
