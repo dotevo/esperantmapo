@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-04T05:32:02Z",
+		"timestamp_osm_base": "2017-04-13T06:11:01Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -765,8 +765,8 @@
 		{
 			"type": "node",
 			"id": 27547977,
-			"lat": 38.5762757,
-			"lon": 68.786394,
+			"lat": 38.5763119,
+			"lon": 68.7860218,
 			"tags": {
 				"name:eo": "Duŝanbeo"
 			}
@@ -3501,8 +3501,8 @@
 		{
 			"type": "node",
 			"id": 268396336,
-			"lat": 52.3710088,
-			"lon": 4.9001115,
+			"lat": 52.3727598,
+			"lon": 4.8936041,
 			"tags": {
 				"name:eo": "Amsterdamo"
 			}
@@ -3811,6 +3811,15 @@
 			"lon": 47.6424676,
 			"tags": {
 				"name:eo": "Kaspijsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287670803,
+			"lat": 42.8231634,
+			"lon": 47.1286143,
+			"tags": {
+				"name:eo": "Bujnaksko"
 			}
 		},
 		{
@@ -5048,11 +5057,29 @@
 		},
 		{
 			"type": "node",
+			"id": 340962185,
+			"lat": 54.759121,
+			"lon": 61.313198,
+			"tags": {
+				"name:eo": "Jemanĵelinsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 342263289,
-			"lat": 56.332592,
-			"lon": 29.369524,
+			"lat": 56.3350632,
+			"lon": 29.3684565,
 			"tags": {
 				"name:eo": "Pustoŝka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355144185,
+			"lat": 54.889923,
+			"lon": 61.407963,
+			"tags": {
+				"name:eo": "Korkino"
 			}
 		},
 		{
@@ -6057,8 +6084,8 @@
 		{
 			"type": "node",
 			"id": 1551865419,
-			"lat": 45.8131545,
-			"lon": 15.9770298,
+			"lat": 45.813177,
+			"lon": 15.977048,
 			"tags": {
 				"name:eo": "Zagrebo"
 			}
@@ -6606,8 +6633,8 @@
 		{
 			"type": "node",
 			"id": 1932181216,
-			"lat": 47.1392862,
-			"lon": 9.5227962,
+			"lat": 47.139153,
+			"lon": 9.5216214,
 			"tags": {
 				"name:eo": "Vaduzo"
 			}

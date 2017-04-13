@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-04T05:35:02Z",
+		"timestamp_osm_base": "2017-04-13T06:19:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2502,8 +2502,8 @@
 		{
 			"type": "node",
 			"id": 27547977,
-			"lat": 38.5762757,
-			"lon": 68.786394,
+			"lat": 38.5763119,
+			"lon": 68.7860218,
 			"tags": {
 				"name:pl": "Duszanbe"
 			}
@@ -4959,8 +4959,8 @@
 		{
 			"type": "node",
 			"id": 60647966,
-			"lat": 41.7634935,
-			"lon": -72.6830523,
+			"lat": 41.7645491,
+			"lon": -72.6908673,
 			"tags": {
 				"name:pl": "Hartford"
 			}
@@ -5458,15 +5458,6 @@
 			"lon": 33.123833,
 			"tags": {
 				"name:pl": "Ostaszków"
-			}
-		},
-		{
-			"type": "node",
-			"id": 94312904,
-			"lat": 36.3466059,
-			"lon": 43.127008,
-			"tags": {
-				"name:pl": "Mosul"
 			}
 		},
 		{
@@ -7812,8 +7803,8 @@
 		{
 			"type": "node",
 			"id": 234526006,
-			"lat": 35.8150372,
-			"lon": 51.003579,
+			"lat": 35.8122314,
+			"lon": 51.0071517,
 			"tags": {
 				"name:pl": "Karadż"
 			}
@@ -11295,8 +11286,8 @@
 		{
 			"type": "node",
 			"id": 268396336,
-			"lat": 52.3710088,
-			"lon": 4.9001115,
+			"lat": 52.3727598,
+			"lon": 4.8936041,
 			"tags": {
 				"name:pl": "Amsterdam"
 			}
@@ -15398,15 +15389,6 @@
 		},
 		{
 			"type": "node",
-			"id": 337519630,
-			"lat": 50.56801,
-			"lon": 30.1015029,
-			"tags": {
-				"name:pl": "Nemishaieve"
-			}
-		},
-		{
-			"type": "node",
 			"id": 337519781,
 			"lat": 50.5582459,
 			"lon": 26.2623998,
@@ -16281,8 +16263,8 @@
 		{
 			"type": "node",
 			"id": 337551197,
-			"lat": 49.6364646,
-			"lon": 24.9320869,
+			"lat": 49.6363882,
+			"lon": 24.9318616,
 			"tags": {
 				"name:pl": "Pomorzany"
 			}
@@ -19521,8 +19503,8 @@
 		{
 			"type": "node",
 			"id": 337700260,
-			"lat": 44.4318416,
-			"lon": 34.086413,
+			"lat": 44.4341131,
+			"lon": 34.0919813,
 			"tags": {
 				"name:pl": "Korejiz"
 			}
@@ -19530,8 +19512,8 @@
 		{
 			"type": "node",
 			"id": 337700267,
-			"lat": 44.4324718,
-			"lon": 34.1065456,
+			"lat": 44.4356415,
+			"lon": 34.1027932,
 			"tags": {
 				"name:pl": "Haspra"
 			}
@@ -19593,8 +19575,8 @@
 		{
 			"type": "node",
 			"id": 337700352,
-			"lat": 44.3972713,
-			"lon": 33.9558655,
+			"lat": 44.3959988,
+			"lon": 33.9523786,
 			"tags": {
 				"name:pl": "Ponyziwka"
 			}
@@ -19813,6 +19795,15 @@
 			"lon": -12.4728954,
 			"tags": {
 				"name:pl": "Zuwirat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355144185,
+			"lat": 54.889923,
+			"lon": 61.407963,
+			"tags": {
+				"name:pl": "Korkino"
 			}
 		},
 		{
@@ -28944,8 +28935,8 @@
 		{
 			"type": "node",
 			"id": 1551865419,
-			"lat": 45.8131545,
-			"lon": 15.9770298,
+			"lat": 45.813177,
+			"lon": 15.977048,
 			"tags": {
 				"name:pl": "Zagrzeb"
 			}
@@ -31779,8 +31770,8 @@
 		{
 			"type": "node",
 			"id": 1932181216,
-			"lat": 47.1392862,
-			"lon": 9.5227962,
+			"lat": 47.139153,
+			"lon": 9.5216214,
 			"tags": {
 				"name:pl": "Vaduz"
 			}
@@ -34038,8 +34029,8 @@
 		{
 			"type": "node",
 			"id": 3308587742,
-			"lat": 4.2649381,
-			"lon": -75.9339887,
+			"lat": 4.264039,
+			"lon": -75.9343222,
 			"tags": {
 				"name:pl": "Sewilla"
 			}

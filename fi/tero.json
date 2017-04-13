@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-04T05:38:03Z",
+		"timestamp_osm_base": "2017-04-13T06:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -391,8 +391,8 @@
 			"type": "way",
 			"id": 4581716,
 			"center": {
-				"lat": 60.4659311,
-				"lon": 27.8603292
+				"lat": 60.4666446,
+				"lon": 27.8607284
 			},
 			"tags": {
 				"name:fi": "Pitkäpaasi"
@@ -765,8 +765,8 @@
 			"type": "way",
 			"id": 11893588,
 			"center": {
-				"lat": 61.368515,
-				"lon": 21.430775
+				"lat": 61.3684116,
+				"lon": 21.4307004
 			},
 			"tags": {
 				"name:fi": "Etelän Pirskeri"
@@ -821,7 +821,7 @@
 			"id": 11895370,
 			"center": {
 				"lat": 61.3804594,
-				"lon": 21.427722
+				"lon": 21.4277888
 			},
 			"tags": {
 				"name:fi": "Pirskeri"
@@ -1381,8 +1381,8 @@
 			"type": "way",
 			"id": 25707874,
 			"center": {
-				"lat": 60.364125,
-				"lon": 22.56125
+				"lat": 60.3638778,
+				"lon": 22.5609279
 			},
 			"tags": {
 				"name:fi": "Konsaari"
@@ -1502,8 +1502,8 @@
 			"type": "way",
 			"id": 25719134,
 			"center": {
-				"lat": 60.2521151,
-				"lon": 21.8749539
+				"lat": 60.2521475,
+				"lon": 21.8749868
 			},
 			"tags": {
 				"name:fi": "Omenainen"
@@ -1863,6 +1863,17 @@
 		},
 		{
 			"type": "way",
+			"id": 38500940,
+			"center": {
+				"lat": 60.135518,
+				"lon": 25.0020692
+			},
+			"tags": {
+				"name:fi": "Vallisaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 38850513,
 			"center": {
 				"lat": 62.254227,
@@ -2094,17 +2105,6 @@
 		},
 		{
 			"type": "way",
-			"id": 55887466,
-			"center": {
-				"lat": 60.1524791,
-				"lon": 24.9524482
-			},
-			"tags": {
-				"name:fi": "Uunisaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 89889185,
 			"center": {
 				"lat": 62.8593104,
@@ -2228,8 +2228,8 @@
 			"type": "way",
 			"id": 122287842,
 			"center": {
-				"lat": 60.3084378,
-				"lon": 22.990145
+				"lat": 60.3084721,
+				"lon": 22.990236
 			},
 			"tags": {
 				"name:fi": "Mäntysaari"
@@ -2239,8 +2239,8 @@
 			"type": "way",
 			"id": 122287843,
 			"center": {
-				"lat": 60.3122039,
-				"lon": 22.9937911
+				"lat": 60.3122568,
+				"lon": 22.9936592
 			},
 			"tags": {
 				"name:fi": "Papinsaari"
@@ -2250,8 +2250,8 @@
 			"type": "way",
 			"id": 122289471,
 			"center": {
-				"lat": 60.318837,
-				"lon": 22.9988945
+				"lat": 60.318879,
+				"lon": 22.9985905
 			},
 			"tags": {
 				"name:fi": "Petassaari"
@@ -2415,8 +2415,8 @@
 			"type": "way",
 			"id": 146942396,
 			"center": {
-				"lat": 60.572296,
-				"lon": 28.4257036
+				"lat": 60.5722842,
+				"lon": 28.4253762
 			},
 			"tags": {
 				"name:fi": "Kuninkaansaari"
@@ -2602,8 +2602,8 @@
 			"type": "way",
 			"id": 172334346,
 			"center": {
-				"lat": 60.1693346,
-				"lon": 21.7204633
+				"lat": 60.1692819,
+				"lon": 21.7204367
 			},
 			"tags": {
 				"name:fi": "Nauvo"
@@ -3413,6 +3413,28 @@
 			}
 		},
 		{
+			"type": "way",
+			"id": 485542553,
+			"center": {
+				"lat": 60.1513928,
+				"lon": 24.9492127
+			},
+			"tags": {
+				"name:fi": "Liuskasaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 485774884,
+			"center": {
+				"lat": 60.4593404,
+				"lon": 27.8547076
+			},
+			"tags": {
+				"name:fi": "Pitkäpaasi"
+			}
+		},
+		{
 			"type": "relation",
 			"id": 147194,
 			"center": {
@@ -3486,7 +3508,7 @@
 				"lon": 29.9647436
 			},
 			"tags": {
-				"name:fi": "Kilpolansaari"
+				"name:fi": "saari Kilpolansaari"
 			}
 		},
 		{
@@ -4146,7 +4168,7 @@
 				"lon": 29.9004894
 			},
 			"tags": {
-				"name:fi": "Operasaari"
+				"name:fi": "saari Operasaari"
 			}
 		},
 		{
@@ -4157,7 +4179,7 @@
 				"lon": 29.9164807
 			},
 			"tags": {
-				"name:fi": "Pääskyensaari"
+				"name:fi": "saari Pääskyensaari"
 			}
 		},
 		{
@@ -4938,7 +4960,7 @@
 				"lon": 29.9393462
 			},
 			"tags": {
-				"name:fi": "Marjasaari"
+				"name:fi": "saari Marjasaari"
 			}
 		},
 		{

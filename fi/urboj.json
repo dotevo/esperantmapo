@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-04T05:37:03Z",
+		"timestamp_osm_base": "2017-04-13T06:26:07Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -522,8 +522,8 @@
 		{
 			"type": "node",
 			"id": 27547977,
-			"lat": 38.5762757,
-			"lon": 68.786394,
+			"lat": 38.5763119,
+			"lon": 68.7860218,
 			"tags": {
 				"name:fi": "Dušanbe"
 			}
@@ -3519,8 +3519,8 @@
 		{
 			"type": "node",
 			"id": 257838557,
-			"lat": 13.3452447,
-			"lon": 103.8541628,
+			"lat": 13.3617562,
+			"lon": 103.8590321,
 			"tags": {
 				"name:fi": "Siĕm Réab"
 			}
@@ -3793,6 +3793,15 @@
 			"lon": 22.4341691,
 			"tags": {
 				"name:fi": "Lamia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287670803,
+			"lat": 42.8231634,
+			"lon": 47.1286143,
+			"tags": {
+				"name:fi": "Buinaksk"
 			}
 		},
 		{
@@ -4243,6 +4252,15 @@
 			"lon": 39.642561,
 			"tags": {
 				"name:fi": "Sverdlovsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 340962185,
+			"lat": 54.759121,
+			"lon": 61.313198,
+			"tags": {
+				"name:fi": "Jemanželinsk"
 			}
 		},
 		{
