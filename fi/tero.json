@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:27:02Z",
+		"timestamp_osm_base": "2017-05-04T07:43:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -380,8 +380,8 @@
 			"type": "way",
 			"id": 4581666,
 			"center": {
-				"lat": 60.4754324,
-				"lon": 27.868635
+				"lat": 60.4753933,
+				"lon": 27.8682973
 			},
 			"tags": {
 				"name:fi": "Essaari"
@@ -424,8 +424,8 @@
 			"type": "way",
 			"id": 4582411,
 			"center": {
-				"lat": 60.017265,
-				"lon": 28.322025
+				"lat": 60.0163268,
+				"lon": 28.3206799
 			},
 			"tags": {
 				"name:fi": "Kukkouri"
@@ -510,6 +510,17 @@
 		},
 		{
 			"type": "way",
+			"id": 4775818,
+			"center": {
+				"lat": 60.1593557,
+				"lon": 25.0216144
+			},
+			"tags": {
+				"name:fi": "Katinpaasi"
+			}
+		},
+		{
+			"type": "way",
 			"id": 4775819,
 			"center": {
 				"lat": 60.1606973,
@@ -528,6 +539,17 @@
 			},
 			"tags": {
 				"name:fi": "Varisluoto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4775821,
+			"center": {
+				"lat": 60.1629729,
+				"lon": 25.0256299
+			},
+			"tags": {
+				"name:fi": "Varisluodonkari"
 			}
 		},
 		{
@@ -715,6 +737,17 @@
 			},
 			"tags": {
 				"name:fi": "Pikku Niinisaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 8035623,
+			"center": {
+				"lat": 60.1802854,
+				"lon": 24.9104455
+			},
+			"tags": {
+				"name:fi": "Humalluoto"
 			}
 		},
 		{
@@ -1720,17 +1753,6 @@
 		},
 		{
 			"type": "way",
-			"id": 30956019,
-			"center": {
-				"lat": 62.239633,
-				"lon": 25.877636
-			},
-			"tags": {
-				"name:fi": "Varassaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 31086916,
 			"center": {
 				"lat": 61.7131979,
@@ -1804,17 +1826,6 @@
 			},
 			"tags": {
 				"name:fi": "Karhusaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 32006325,
-			"center": {
-				"lat": 65.2061874,
-				"lon": 25.8445808
-			},
-			"tags": {
-				"name:fi": "Tervasaari"
 			}
 		},
 		{
@@ -2094,17 +2105,6 @@
 		},
 		{
 			"type": "way",
-			"id": 53374426,
-			"center": {
-				"lat": 63.0711781,
-				"lon": 25.8522926
-			},
-			"tags": {
-				"name:fi": "Haapasaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 89889185,
 			"center": {
 				"lat": 62.8593104,
@@ -2299,6 +2299,17 @@
 			},
 			"tags": {
 				"name:fi": "Liuskasaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 123033497,
+			"center": {
+				"lat": 60.1530221,
+				"lon": 24.9531375
+			},
+			"tags": {
+				"name:fi": "Pohjoinen Uunisaari"
 			}
 		},
 		{
@@ -3414,6 +3425,17 @@
 		},
 		{
 			"type": "way",
+			"id": 485212162,
+			"center": {
+				"lat": 60.1518175,
+				"lon": 24.951802
+			},
+			"tags": {
+				"name:fi": "Eteläinen Uunisaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 485542553,
 			"center": {
 				"lat": 60.1513928,
@@ -3937,7 +3959,7 @@
 				"lon": 30.0472094
 			},
 			"tags": {
-				"name:fi": "Palosaari"
+				"name:fi": "saari Palosaari"
 			}
 		},
 		{
@@ -3948,7 +3970,7 @@
 				"lon": 30.0255743
 			},
 			"tags": {
-				"name:fi": "Hirvisaari"
+				"name:fi": "saari Hirvisaari"
 			}
 		},
 		{
@@ -4378,6 +4400,17 @@
 			},
 			"tags": {
 				"name:fi": "Baffininsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958587,
+			"center": {
+				"lat": 67.775975,
+				"lon": -76.1442
+			},
+			"tags": {
+				"name:fi": "Prinssi Charlesin saari"
 			}
 		},
 		{
@@ -4994,6 +5027,17 @@
 			},
 			"tags": {
 				"name:fi": "Kuivasaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174452,
+			"center": {
+				"lat": -12.2265831,
+				"lon": 44.3727449
+			},
+			"tags": {
+				"name:fi": "Anjouan"
 			}
 		}
 	]

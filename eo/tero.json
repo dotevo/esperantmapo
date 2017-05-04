@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:14:03Z",
+		"timestamp_osm_base": "2017-05-04T07:28:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": 142.8197834,
 			"tags": {
 				"name:eo": "Hokajdo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 614559432,
-			"lat": 18.8381729,
-			"lon": -73.0200126,
-			"tags": {
-				"name:eo": "Gonavo"
 			}
 		},
 		{
@@ -600,6 +591,72 @@
 			},
 			"tags": {
 				"name:eo": "Korsiko"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7165492,
+			"center": {
+				"lat": 18.831863,
+				"lon": -73.0475309
+			},
+			"tags": {
+				"name:eo": "Gonavo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7168979,
+			"center": {
+				"lat": 49.1212109,
+				"lon": -56.0159605
+			},
+			"tags": {
+				"name:eo": "Novlando"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174336,
+			"center": {
+				"lat": -0.2244808,
+				"lon": 130.779667
+			},
+			"tags": {
+				"name:eo": "Vaigeo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174450,
+			"center": {
+				"lat": -12.3199918,
+				"lon": 43.7465838
+			},
+			"tags": {
+				"name:eo": "Mohéli"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174451,
+			"center": {
+				"lat": -11.6520524,
+				"lon": 43.3732027
+			},
+			"tags": {
+				"name:eo": "Granda Komoro"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174452,
+			"center": {
+				"lat": -12.2265831,
+				"lon": 44.3727449
+			},
+			"tags": {
+				"name:eo": "Anjuano"
 			}
 		}
 	]

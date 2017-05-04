@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:11:01Z",
+		"timestamp_osm_base": "2017-05-04T07:27:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -4076,6 +4076,15 @@
 		},
 		{
 			"type": "node",
+			"id": 310022311,
+			"lat": 43.735584,
+			"lon": 44.653614,
+			"tags": {
+				"name:eo": "Mozdoko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 312230548,
 			"lat": 48.8025557,
 			"lon": 26.0401871,
@@ -4738,6 +4747,15 @@
 			"lon": 23.5646648,
 			"tags": {
 				"name:eo": "Stebniko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 337566618,
+			"lat": 49.2335549,
+			"lon": 31.8827069,
+			"tags": {
+				"name:eo": "Smila"
 			}
 		},
 		{
@@ -6408,8 +6426,8 @@
 		{
 			"type": "node",
 			"id": 1698668366,
-			"lat": 42.1419118,
-			"lon": 24.7498385,
+			"lat": 42.1418541,
+			"lon": 24.7499297,
 			"tags": {
 				"name:eo": "Plovdiv"
 			}
@@ -6633,8 +6651,8 @@
 		{
 			"type": "node",
 			"id": 1932181216,
-			"lat": 47.139153,
-			"lon": 9.5216214,
+			"lat": 47.1392862,
+			"lon": 9.5227962,
 			"tags": {
 				"name:eo": "Vaduzo"
 			}

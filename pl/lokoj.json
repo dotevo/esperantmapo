@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:21:02Z",
+		"timestamp_osm_base": "2017-05-04T07:33:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3100,6 +3100,7 @@
 				"language:ru": "yes",
 				"level": "4",
 				"name": "Novotergum Witten",
+				"office": "therapist",
 				"opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-19:00; PH off",
 				"operator:type": "private",
 				"smoking": "no",
@@ -5958,6 +5959,7 @@
 				"contact:tripadvisor": "10465898",
 				"contact:twitter": "@bibliothek_wit",
 				"contact:website": "http://www.bibliothek-witten.de/",
+				"contact:yelp": "bibliothek-witten-witten",
 				"currency:EUR": "yes",
 				"currency:others": "no",
 				"diaper": "yes",

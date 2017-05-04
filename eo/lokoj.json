@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:14:03Z",
+		"timestamp_osm_base": "2017-05-04T07:28:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -314,6 +314,7 @@
 				"opening_hours": "Tu-We 12:00-17:00; PH off",
 				"phone": "+48 85 741 50 85",
 				"website": "http://www.ksiaznicapodlaska.pl/site/filie/filia14.html",
+				"wikidata": "Q9255002",
 				"wikipedia": "pl:Esperanto-Libraro"
 			}
 		},
@@ -939,6 +940,7 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		},
@@ -1233,6 +1235,7 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		},
@@ -1333,6 +1336,7 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		},
@@ -1477,9 +1481,11 @@
 				"highway": "tertiary",
 				"lanes": "2",
 				"maxspeed": "50",
+				"maxspeed:conditional": "60 @ (23:00-05:00)",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"source:maxspeed": "PL:urban",
 				"surface": "asphalt"
 			}
 		},
@@ -2111,6 +2117,7 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"turn:lanes:forward": "|through;right",
+				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		},

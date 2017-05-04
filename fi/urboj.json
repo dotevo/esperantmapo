@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:26:07Z",
+		"timestamp_osm_base": "2017-05-04T07:35:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -229,6 +229,15 @@
 			"lon": 23.5348663,
 			"tags": {
 				"name:fi": "Elefsina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26576170,
+			"lat": 20.7837523,
+			"lon": 97.0336329,
+			"tags": {
+				"name:fi": "Taunggyi"
 			}
 		},
 		{
@@ -801,8 +810,8 @@
 		{
 			"type": "node",
 			"id": 30969530,
-			"lat": 60.870144,
-			"lon": 26.7018011,
+			"lat": 60.8701956,
+			"lon": 26.7018091,
 			"tags": {
 				"name:fi": "Kouvola"
 			}
@@ -904,6 +913,15 @@
 			"lon": 25.500376,
 			"tags": {
 				"name:fi": "Asikkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969551,
+			"lat": 59.9744647,
+			"lon": 23.4357477,
+			"tags": {
+				"name:fi": "Tammisaari"
 			}
 		},
 		{
@@ -1070,6 +1088,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969582,
+			"lat": 60.0466389,
+			"lon": 24.0054417,
+			"tags": {
+				"name:fi": "Inkoo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969586,
 			"lat": 63,
 			"lon": 22.316667,
@@ -1174,6 +1201,15 @@
 			"lon": 23.9170363,
 			"tags": {
 				"name:fi": "Kannus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969629,
+			"lat": 60.0732491,
+			"lon": 23.663234,
+			"tags": {
+				"name:fi": "Karjaa"
 			}
 		},
 		{
@@ -1696,6 +1732,15 @@
 			"lon": 27.8335512,
 			"tags": {
 				"name:fi": "Paltamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969745,
+			"lat": 60.3054487,
+			"lon": 22.2996452,
+			"tags": {
+				"name:fi": "Parainen"
 			}
 		},
 		{
@@ -3599,6 +3644,15 @@
 		},
 		{
 			"type": "node",
+			"id": 265607597,
+			"lat": 60.1660125,
+			"lon": 22.7385024,
+			"tags": {
+				"name:fi": "Kemiö"
+			}
+		},
+		{
+			"type": "node",
 			"id": 268459612,
 			"lat": 48.9225224,
 			"lon": 24.7103188,
@@ -4058,6 +4112,15 @@
 		},
 		{
 			"type": "node",
+			"id": 310022311,
+			"lat": 43.735584,
+			"lon": 44.653614,
+			"tags": {
+				"name:fi": "Mozdok"
+			}
+		},
+		{
+			"type": "node",
 			"id": 314794893,
 			"lat": 55.6149968,
 			"lon": 40.6708665,
@@ -4072,6 +4135,15 @@
 			"lon": 96.1344976,
 			"tags": {
 				"name:fi": "Naypyidaw"
+			}
+		},
+		{
+			"type": "node",
+			"id": 326805677,
+			"lat": 60.0293761,
+			"lon": 23.5261949,
+			"tags": {
+				"name:fi": "Raasepori"
 			}
 		},
 		{
@@ -4535,6 +4607,15 @@
 		},
 		{
 			"type": "node",
+			"id": 597205381,
+			"lat": 21.1317111,
+			"lon": 94.8623644,
+			"tags": {
+				"name:fi": "Bagan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 602527728,
 			"lat": 35.634023,
 			"lon": 139.575977,
@@ -4720,6 +4801,15 @@
 			"lon": 36.9781174,
 			"tags": {
 				"name:fi": "Solnetsnogorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 941458047,
+			"lat": 40.7643476,
+			"lon": 29.9279311,
+			"tags": {
+				"name:fi": "Nikomedia"
 			}
 		},
 		{
@@ -5103,8 +5193,8 @@
 		{
 			"type": "node",
 			"id": 1698668366,
-			"lat": 42.1419118,
-			"lon": 24.7498385,
+			"lat": 42.1418541,
+			"lon": 24.7499297,
 			"tags": {
 				"name:fi": "Plovdiv"
 			}

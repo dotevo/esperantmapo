@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:19:02Z",
+		"timestamp_osm_base": "2017-05-04T07:30:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3604,6 +3604,15 @@
 			"lon": 133.5075229,
 			"tags": {
 				"name:pl": "Sikoku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1529114740,
+			"lat": 10.726794,
+			"lon": 106.1909011,
+			"tags": {
+				"name:pl": "Prowincja Long An"
 			}
 		},
 		{

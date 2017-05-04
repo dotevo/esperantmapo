@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:10:02Z",
+		"timestamp_osm_base": "2017-05-04T07:26:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -225,8 +225,8 @@
 		{
 			"type": "node",
 			"id": 249399402,
-			"lat": 28.1082107,
-			"lon": 84.0917515,
+			"lat": 28.1083929,
+			"lon": 84.0917139,
 			"tags": {
 				"name:eo": "Nepalo"
 			}

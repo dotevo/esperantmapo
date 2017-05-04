@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-04-13T06:21:02Z",
+		"timestamp_osm_base": "2017-05-04T07:34:41Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": 142.8197834,
 			"tags": {
 				"name:pl": "Hokkaido"
-			}
-		},
-		{
-			"type": "node",
-			"id": 614559432,
-			"lat": 18.8381729,
-			"lon": -73.0200126,
-			"tags": {
-				"name:pl": "Gonâve"
 			}
 		},
 		{
@@ -106,6 +97,15 @@
 			}
 		},
 		{
+			"type": "node",
+			"id": 4684285334,
+			"lat": 27.0636462,
+			"lon": 56.461471,
+			"tags": {
+				"name:pl": "Ormuz"
+			}
+		},
+		{
 			"type": "way",
 			"id": 2956897,
 			"center": {
@@ -136,6 +136,17 @@
 			},
 			"tags": {
 				"name:pl": "Alderney"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4530416,
+			"center": {
+				"lat": 46.2708839,
+				"lon": 31.7768301
+			},
+			"tags": {
+				"name:pl": "Kosa Tendrowska"
 			}
 		},
 		{
@@ -547,6 +558,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2717326,
+			"center": {
+				"lat": -49.3558515,
+				"lon": -74.9189356
+			},
+			"tags": {
+				"name:pl": "Wellington"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2906044,
 			"center": {
 				"lat": 33.5608481,
@@ -620,6 +642,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Robinsona Crusoe"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958587,
+			"center": {
+				"lat": 67.775975,
+				"lon": -76.1442
+			},
+			"tags": {
+				"name:pl": "Wyspa Księcia Karola"
 			}
 		},
 		{
@@ -747,7 +780,7 @@
 			"type": "relation",
 			"id": 6045382,
 			"center": {
-				"lat": 55.8239415,
+				"lat": 55.8240515,
 				"lon": -5.111715
 			},
 			"tags": {
@@ -906,6 +939,72 @@
 			},
 			"tags": {
 				"name:pl": "Korsyka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7165492,
+			"center": {
+				"lat": 18.831863,
+				"lon": -73.0475309
+			},
+			"tags": {
+				"name:pl": "Gonâve"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7168979,
+			"center": {
+				"lat": 49.1212109,
+				"lon": -56.0159605
+			},
+			"tags": {
+				"name:pl": "Nowa Fundlandia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7173836,
+			"center": {
+				"lat": -1.5344118,
+				"lon": 127.7803608
+			},
+			"tags": {
+				"name:pl": "Obi"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174450,
+			"center": {
+				"lat": -12.3199918,
+				"lon": 43.7465838
+			},
+			"tags": {
+				"name:pl": "Moheli"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174451,
+			"center": {
+				"lat": -11.6520524,
+				"lon": 43.3732027
+			},
+			"tags": {
+				"name:pl": "Wielki Komor"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7174452,
+			"center": {
+				"lat": -12.2265831,
+				"lon": 44.3727449
+			},
+			"tags": {
+				"name:pl": "Anjouan"
 			}
 		}
 	]
