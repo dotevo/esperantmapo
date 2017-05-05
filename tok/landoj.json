@@ -1,0 +1,46 @@
+{
+	"version": 0.6,
+	"generator": "Overpass API",
+	"osm3s": {
+		"timestamp_osm_base": "2017-05-05T06:18:29Z",
+		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+	},
+	"elements": [
+		{
+			"type": "node",
+			"id": 424313277,
+			"lat": 59.6749712,
+			"lon": 14.5208584,
+			"tags": {
+				"name:tok": "ma Wensa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425060,
+			"lat": 52.0977181,
+			"lon": 19.0258159,
+			"tags": {
+				"name:tok": "ma Posuka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1648342273,
+			"lat": 49.4871968,
+			"lon": 31.2718321,
+			"tags": {
+				"name:tok": "ma Ukawina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1684793666,
+			"lat": 50.6407351,
+			"lon": 4.66696,
+			"tags": {
+				"name:tok": "ma Pesije"
+			}
+		}
+	]
+}
