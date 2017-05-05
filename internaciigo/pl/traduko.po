@@ -53,6 +53,9 @@ msgstr "Loban"
 msgid "Volapuko"
 msgstr "Valpük"
 
+msgid "Tokipono"
+msgstr "Toki Pona"
+
 msgid "La pola"
 msgstr "Polski"
 

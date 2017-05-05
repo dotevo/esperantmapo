@@ -53,6 +53,9 @@ msgstr "Loĵbano"
 msgid "Volapuko"
 msgstr "Volapuko"
 
+msgid "Tokipono"
+msgstr "Tokipono"
+
 msgid "La pola"
 msgstr "La pola"
 
