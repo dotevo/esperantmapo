@@ -2,10 +2,613 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-05T06:18:29Z",
+		"timestamp_osm_base": "2017-05-08T05:39:51Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 26036352,
+			"lat": 12.7503486,
+			"lon": 122.7312101,
+			"tags": {
+				"name:tok": "ma Pilipina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26347360,
+			"lat": 42.6384261,
+			"lon": 12.674297,
+			"tags": {
+				"name:tok": "ma Italija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847706,
+			"lat": 33.7680065,
+			"lon": 66.2385139,
+			"tags": {
+				"name:tok": "ma Akanisan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26847709,
+			"lat": 47.2000338,
+			"lon": 13.199959,
+			"tags": {
+				"name:tok": "ma Esalasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148332300,
+			"lat": 40.0028028,
+			"lon": -4.003104,
+			"tags": {
+				"name:tok": "ma Epanja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 148874198,
+			"lat": 42.5407167,
+			"lon": 1.5732033,
+			"tags": {
+				"name:tok": "ma Antola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 208592566,
+			"lat": 45.8133113,
+			"lon": 14.4808369,
+			"tags": {
+				"name:tok": "ma Lowensina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 246422158,
+			"lat": 19.0974031,
+			"lon": -70.3028026,
+			"tags": {
+				"name:tok": "ma Tominika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248120384,
+			"lat": -41.5000831,
+			"lon": 172.8344077,
+			"tags": {
+				"name:tok": "ma Nusilan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399277,
+			"lat": 40.7696272,
+			"lon": 44.6736646,
+			"tags": {
+				"name:tok": "ma Aja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399280,
+			"lat": -34.9964963,
+			"lon": -64.9672817,
+			"tags": {
+				"name:tok": "ma Alensina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399285,
+			"lat": 13.1500331,
+			"lon": -59.5250305,
+			"tags": {
+				"name:tok": "ma Papeto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399288,
+			"lat": 12.0753083,
+			"lon": -1.6880314,
+			"tags": {
+				"name:tok": "ma Pukinapaso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399296,
+			"lat": 24.7736546,
+			"lon": -78.0000547,
+			"tags": {
+				"name:tok": "ma Pawama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399300,
+			"lat": 53.4250605,
+			"lon": 27.6971358,
+			"tags": {
+				"name:tok": "ma Pelalusi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399313,
+			"lat": 23.0131338,
+			"lon": -80.8328748,
+			"tags": {
+				"name:tok": "ma Kupa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399347,
+			"lat": 47.1817585,
+			"lon": 19.5060937,
+			"tags": {
+				"name:tok": "ma Mosijo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399360,
+			"lat": -12.2045176,
+			"lon": 44.2832964,
+			"tags": {
+				"name:tok": "ma Komo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399361,
+			"lat": 40.3736611,
+			"lon": 127.0870417,
+			"tags": {
+				"name:tok": "ma Soson"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399362,
+			"lat": 36.5581914,
+			"lon": 127.9408564,
+			"tags": {
+				"name:tok": "ma Anku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399394,
+			"lat": 4.5693754,
+			"lon": 102.2656823,
+			"tags": {
+				"name:tok": "ma Malasija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399406,
+			"lat": -6.8699697,
+			"lon": -75.0458515,
+			"tags": {
+				"name:tok": "ma Pelu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399419,
+			"lat": 25.6242618,
+			"lon": 42.3528328,
+			"tags": {
+				"name:tok": "ma Sawusi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249399459,
+			"lat": 16.3471243,
+			"lon": 47.8915271,
+			"tags": {
+				"name:tok": "ma Jamanija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 369137525,
+			"lat": 44.1534121,
+			"lon": 20.55144,
+			"tags": {
+				"name:tok": "ma Sopisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297198,
+			"lat": 60.5000209,
+			"lon": 9.0999715,
+			"tags": {
+				"name:tok": "ma Nosiki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297207,
+			"lat": 26.1551249,
+			"lon": 50.5344606,
+			"tags": {
+				"name:tok": "ma Palani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297217,
+			"lat": 52.5001698,
+			"lon": 5.7480821,
+			"tags": {
+				"name:tok": "ma Netelan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297281,
+			"lat": 19.1399952,
+			"lon": -72.3570972,
+			"tags": {
+				"name:tok": "ma Awisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297384,
+			"lat": 9.5293472,
+			"lon": 2.2584408,
+			"tags": {
+				"name:tok": "ma Penen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297465,
+			"lat": 10.2735633,
+			"lon": -84.0739102,
+			"tags": {
+				"name:tok": "ma Kosalika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297579,
+			"lat": 13.470062,
+			"lon": -15.4900464,
+			"tags": {
+				"name:tok": "ma Kanpija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297586,
+			"lat": 10.7226226,
+			"lon": -10.7083587,
+			"tags": {
+				"name:tok": "ma Kine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297609,
+			"lat": 12.100035,
+			"lon": -14.9000214,
+			"tags": {
+				"name:tok": "ma Kinepisa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297629,
+			"lat": 15.0610686,
+			"lon": -84.5978534,
+			"tags": {
+				"name:tok": "ma Ontula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297647,
+			"lat": 30.8760272,
+			"lon": 35.0015196,
+			"tags": {
+				"name:tok": "ma Isale"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297742,
+			"lat": 33.8750629,
+			"lon": 35.843409,
+			"tags": {
+				"name:tok": "ma Lunpan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297773,
+			"lat": 55.3500003,
+			"lon": 23.7499997,
+			"tags": {
+				"name:tok": "ma Lijatuwa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297810,
+			"lat": 41.6171214,
+			"lon": 21.7168387,
+			"tags": {
+				"name:tok": "ma Maketonija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297816,
+			"lat": 16.3700359,
+			"lon": -2.2900239,
+			"tags": {
+				"name:tok": "ma Mali"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297931,
+			"lat": -5.6816069,
+			"lon": 144.2489081,
+			"tags": {
+				"name:tok": "ma Papuwanijukini"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424297973,
+			"lat": 14.5844444,
+			"lon": 29.4917691,
+			"tags": {
+				"name:tok": "ma Sutan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298019,
+			"lat": 49.8158683,
+			"lon": 6.1296751,
+			"tags": {
+				"name:tok": "ma Lusepu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298076,
+			"lat": 15.6134137,
+			"lon": 19.0156172,
+			"tags": {
+				"name:tok": "ma Sate"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298150,
+			"lat": 13.2904027,
+			"lon": 108.4265113,
+			"tags": {
+				"name:tok": "ma Wije"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298167,
+			"lat": -28.8166236,
+			"lon": 24.991639,
+			"tags": {
+				"name:tok": "ma Setapika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298227,
+			"lat": -1.3397668,
+			"lon": -79.3666965,
+			"tags": {
+				"name:tok": "ma Ekato"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298311,
+			"lat": 32.9407496,
+			"lon": 52.9471344,
+			"tags": {
+				"name:tok": "ma Ilan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424298326,
+			"lat": 38.9597594,
+			"lon": 34.9249653,
+			"tags": {
+				"name:tok": "ma Tuki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310601,
+			"lat": 41.000028,
+			"lon": 19.9999619,
+			"tags": {
+				"name:tok": "ma Sipe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310680,
+			"lat": -26.5624806,
+			"lon": 31.3991317,
+			"tags": {
+				"name:tok": "ma Sawasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424310875,
+			"lat": -11.8775768,
+			"lon": 17.5691241,
+			"tags": {
+				"name:tok": "ma Ankola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311104,
+			"lat": -31.7613365,
+			"lon": -71.3187697,
+			"tags": {
+				"name:tok": "ma Sile"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311252,
+			"lat": -0.8999695,
+			"lon": 11.6899699,
+			"tags": {
+				"name:tok": "ma Kapon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311353,
+			"lat": 45.5643442,
+			"lon": 17.0118954,
+			"tags": {
+				"name:tok": "ma Lowasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311573,
+			"lat": 5.7499721,
+			"lon": -9.3658524,
+			"tags": {
+				"name:tok": "ma Lapewija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311645,
+			"lat": -13.2687204,
+			"lon": 33.9301963,
+			"tags": {
+				"name:tok": "ma Malawi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311658,
+			"lat": -19.302233,
+			"lon": 34.9144977,
+			"tags": {
+				"name:tok": "ma Mosanpi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311662,
+			"lat": -23.2335499,
+			"lon": 17.3231107,
+			"tags": {
+				"name:tok": "ma Namipija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311675,
+			"lat": 17.7356214,
+			"lon": 9.3238432,
+			"tags": {
+				"name:tok": "ma Nise"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311738,
+			"lat": -1.9646631,
+			"lon": 30.0644358,
+			"tags": {
+				"name:tok": "ma Luwanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311806,
+			"lat": 34.6401861,
+			"lon": 39.0494106,
+			"tags": {
+				"name:tok": "ma Sulija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311827,
+			"lat": 8.7800265,
+			"lon": 1.0199765,
+			"tags": {
+				"name:tok": "ma Toko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311848,
+			"lat": -19.9160819,
+			"lon": -175.2026424,
+			"tags": {
+				"name:tok": "ma Tona"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311890,
+			"lat": 8.0018709,
+			"lon": -66.1109318,
+			"tags": {
+				"name:tok": "ma Penesuwela"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311942,
+			"lat": -4.7993356,
+			"lon": 114.5632032,
+			"tags": {
+				"name:tok": "ma Intonesija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424312026,
+			"lat": 77.6192349,
+			"lon": -42.8125967,
+			"tags": {
+				"name:tok": "ma Kalalinuna"
+			}
+		},
 		{
 			"type": "node",
 			"id": 424313277,
@@ -13,6 +616,510 @@
 			"lon": 14.5208584,
 			"tags": {
 				"name:tok": "ma Wensa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313406,
+			"lat": 34.9823018,
+			"lon": 33.1451285,
+			"tags": {
+				"name:tok": "ma Kiposi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313451,
+			"lat": 36.5748441,
+			"lon": 139.2394179,
+			"tags": {
+				"name:tok": "ma Nijon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313466,
+			"lat": -16.5255069,
+			"lon": 168.1069154,
+			"tags": {
+				"name:tok": "ma Wanuwatu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313582,
+			"lat": 35.000074,
+			"lon": 104.999927,
+			"tags": {
+				"name:tok": "ma Sonko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313591,
+			"lat": 18.1850507,
+			"lon": -77.3947693,
+			"tags": {
+				"name:tok": "ma Sameka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313734,
+			"lat": -10.3333333,
+			"lon": -53.2,
+			"tags": {
+				"name:tok": "ma Pasila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313751,
+			"lat": -23.1681782,
+			"lon": 24.5928742,
+			"tags": {
+				"name:tok": "ma Posuwana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313760,
+			"lat": 61.0666922,
+			"lon": -107.9917071,
+			"tags": {
+				"name:tok": "ma Kanata"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313803,
+			"lat": 49.8167003,
+			"lon": 15.4749544,
+			"tags": {
+				"name:tok": "ma Seki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313823,
+			"lat": -18.1239696,
+			"lon": 179.0122737,
+			"tags": {
+				"name:tok": "ma Pisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313832,
+			"lat": 58.7523778,
+			"lon": 25.3319078,
+			"tags": {
+				"name:tok": "ma Esi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313836,
+			"lat": 8.0300284,
+			"lon": -1.0800271,
+			"tags": {
+				"name:tok": "ma Kana"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313853,
+			"lat": 1.613172,
+			"lon": 10.5170357,
+			"tags": {
+				"name:tok": "ma Kinejekatolija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313903,
+			"lat": 1.4419683,
+			"lon": 38.4313975,
+			"tags": {
+				"name:tok": "ma Kenja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424313936,
+			"lat": 29.2733964,
+			"lon": 47.4979476,
+			"tags": {
+				"name:tok": "ma Kuwasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314088,
+			"lat": 30.3308401,
+			"lon": 71.247499,
+			"tags": {
+				"name:tok": "ma Pakisan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314123,
+			"lat": 8.6400349,
+			"lon": -11.8400269,
+			"tags": {
+				"name:tok": "ma Sijelalijon"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314145,
+			"lat": 22.3511148,
+			"lon": 78.6677428,
+			"tags": {
+				"name:tok": "ma Palata"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314335,
+			"lat": -6.5247123,
+			"lon": 35.7878438,
+			"tags": {
+				"name:tok": "ma Tansanija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314691,
+			"lat": 7.9897371,
+			"lon": -5.5679458,
+			"tags": {
+				"name:tok": "ma Kosiwa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314784,
+			"lat": 64.9841821,
+			"lon": -18.1059013,
+			"tags": {
+				"name:tok": "ma Isilan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424314830,
+			"lat": 64.6863136,
+			"lon": 97.7453061,
+			"tags": {
+				"name:tok": "ma Losi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315291,
+			"lat": 21.0000287,
+			"lon": 57.0036901,
+			"tags": {
+				"name:tok": "ma Uman"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315584,
+			"lat": -24.7761086,
+			"lon": 134.755,
+			"tags": {
+				"name:tok": "ma Oselija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315709,
+			"lat": 42.6073975,
+			"lon": 25.4856617,
+			"tags": {
+				"name:tok": "ma Pokasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424315932,
+			"lat": 4.6125522,
+			"lon": 13.1535811,
+			"tags": {
+				"name:tok": "ma Kamelun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316018,
+			"lat": 26.2540493,
+			"lon": 29.2675469,
+			"tags": {
+				"name:tok": "ma Masu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316022,
+			"lat": 15.9500319,
+			"lon": 37.9999668,
+			"tags": {
+				"name:tok": "ma Eliteja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316074,
+			"lat": 12.1360374,
+			"lon": -61.6904045,
+			"tags": {
+				"name:tok": "ma Kenata"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316205,
+			"lat": 33.0955793,
+			"lon": 44.1749775,
+			"tags": {
+				"name:tok": "ma Ilakija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316216,
+			"lat": 31.1667049,
+			"lon": 36.941628,
+			"tags": {
+				"name:tok": "ma Utun"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316417,
+			"lat": 47.286747,
+			"lon": 28.5110236,
+			"tags": {
+				"name:tok": "ma Motowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316478,
+			"lat": 17.1750495,
+			"lon": 95.9999652,
+			"tags": {
+				"name:tok": "ma Mijama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316493,
+			"lat": 20.2540382,
+			"lon": -9.2399263,
+			"tags": {
+				"name:tok": "ma Mulitanija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316663,
+			"lat": 9.6000359,
+			"lon": 7.9999721,
+			"tags": {
+				"name:tok": "ma Naselija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424316758,
+			"lat": 8.3096067,
+			"lon": -81.3066246,
+			"tags": {
+				"name:tok": "ma Panama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317025,
+			"lat": 43.9458623,
+			"lon": 12.458306,
+			"tags": {
+				"name:tok": "ma Samalino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317039,
+			"lat": 8.3676771,
+			"lon": 49.083416,
+			"tags": {
+				"name:tok": "ma Somalija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317315,
+			"lat": 33.8439408,
+			"lon": 9.400138,
+			"tags": {
+				"name:tok": "ma Tunisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317372,
+			"lat": -7.768959,
+			"lon": 178.1167698,
+			"tags": {
+				"name:tok": "ma Tuwalu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317406,
+			"lat": 1.5333554,
+			"lon": 32.2166578,
+			"tags": {
+				"name:tok": "ma Ukanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424317935,
+			"lat": 39.7837304,
+			"lon": -100.4458825,
+			"tags": {
+				"name:tok": "ma Mewika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424926,
+			"lat": 28.0000272,
+			"lon": 2.9999825,
+			"tags": {
+				"name:tok": "ma Sasali"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424937,
+			"lat": 24.4768783,
+			"lon": 90.2932426,
+			"tags": {
+				"name:tok": "ma Panla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424952,
+			"lat": 13.5066394,
+			"lon": 104.869423,
+			"tags": {
+				"name:tok": "ma Kanpusi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424956,
+			"lat": 7.0323598,
+			"lon": 19.9981227,
+			"tags": {
+				"name:tok": "ma Santapiken"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424968,
+			"lat": 55.670249,
+			"lon": 10.3333283,
+			"tags": {
+				"name:tok": "ma Tansi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424981,
+			"lat": 63.2467777,
+			"lon": 25.9209164,
+			"tags": {
+				"name:tok": "ma Sumi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424985,
+			"lat": 41.6809707,
+			"lon": 44.0287382,
+			"tags": {
+				"name:tok": "ma Katelo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432424989,
+			"lat": 38.9953683,
+			"lon": 21.9877132,
+			"tags": {
+				"name:tok": "ma Elena"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425015,
+			"lat": 0.4483283,
+			"lon": -171.6645388,
+			"tags": {
+				"name:tok": "ma Kilipasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425019,
+			"lat": 56.8666904,
+			"lon": 24.5999717,
+			"tags": {
+				"name:tok": "ma Lawi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425023,
+			"lat": 26.8234472,
+			"lon": 18.1236723,
+			"tags": {
+				"name:tok": "ma Lipija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425028,
+			"lat": -18.9249604,
+			"lon": 46.4416422,
+			"tags": {
+				"name:tok": "ma Malakasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425036,
+			"lat": 22.5000485,
+			"lon": -100.0000375,
+			"tags": {
+				"name:tok": "ma Mesiko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425041,
+			"lat": 31.1728192,
+			"lon": -7.3366043,
+			"tags": {
+				"name:tok": "ma Malipe"
 			}
 		},
 		{
@@ -26,6 +1133,141 @@
 		},
 		{
 			"type": "node",
+			"id": 432425064,
+			"lat": 45.9852129,
+			"lon": 24.6859225,
+			"tags": {
+				"name:tok": "ma Lomani"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425075,
+			"lat": 14.4750607,
+			"lon": -14.4529612,
+			"tags": {
+				"name:tok": "ma Seneka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425079,
+			"lat": 48.7411522,
+			"lon": 19.4528646,
+			"tags": {
+				"name:tok": "ma Lowenki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425116,
+			"lat": -32.8755548,
+			"lon": -56.0201525,
+			"tags": {
+				"name:tok": "ma Ulukawi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 432425123,
+			"lat": -14.5186239,
+			"lon": 27.5599164,
+			"tags": {
+				"name:tok": "ma Sanpija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 433483519,
+			"lat": 32.3018217,
+			"lon": -64.7603583,
+			"tags": {
+				"name:tok": "ma Pemuta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 437146363,
+			"lat": 14.8971921,
+			"lon": 100.83273,
+			"tags": {
+				"name:tok": "ma Tawi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 838090640,
+			"lat": 54.7023545,
+			"lon": -3.2765753,
+			"tags": {
+				"name:tok": "ma Juke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1363947712,
+			"lat": 46.603354,
+			"lon": 1.8883335,
+			"tags": {
+				"name:tok": "ma Kanse"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1420871007,
+			"lat": 52.865196,
+			"lon": -7.9794599,
+			"tags": {
+				"name:tok": "ma Alan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1504546320,
+			"lat": 46.7985624,
+			"lon": 8.2319736,
+			"tags": {
+				"name:tok": "ma Suwasi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1529444079,
+			"lat": -13.7693895,
+			"lon": -172.1200508,
+			"tags": {
+				"name:tok": "ma Samowa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1640880787,
+			"lat": -18.4554963,
+			"lon": 29.7468414,
+			"tags": {
+				"name:tok": "ma Sinpapuwe"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1644732479,
+			"lat": 15.6356088,
+			"lon": -89.8988087,
+			"tags": {
+				"name:tok": "ma Katemala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1644764586,
+			"lat": -23.3165935,
+			"lon": -58.1693445,
+			"tags": {
+				"name:tok": "ma Palakawi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1648342273,
 			"lat": 49.4871968,
 			"lon": 31.2718321,
@@ -35,11 +1277,83 @@
 		},
 		{
 			"type": "node",
+			"id": 1683325355,
+			"lat": 51.0834196,
+			"lon": 10.4234469,
+			"tags": {
+				"name:tok": "ma Tosi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1684793666,
 			"lat": 50.6407351,
 			"lon": 4.66696,
 			"tags": {
 				"name:tok": "ma Pesije"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1708980402,
+			"lat": -20.2759451,
+			"lon": 57.5703566,
+			"tags": {
+				"name:tok": "ma Mowisi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2134362766,
+			"lat": 2.3923759,
+			"lon": 112.8471939,
+			"tags": {
+				"name:tok": "ma Malasija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2163914205,
+			"lat": 10.2116702,
+			"lon": 38.6521203,
+			"tags": {
+				"name:tok": "ma Isijopija"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2377028247,
+			"lat": 40.033265,
+			"lon": -7.8896263,
+			"tags": {
+				"name:tok": "ma Potuke"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3491215388,
+			"lat": -29.6039267,
+			"lon": 28.3350193,
+			"tags": {
+				"name:tok": "ma Lesoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3696525426,
+			"lat": 47.1416307,
+			"lon": 9.5531527,
+			"tags": {
+				"name:tok": "ma Lisensan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3997635385,
+			"lat": 7.237148,
+			"lon": 80.820923,
+			"tags": {
+				"name:tok": "ma Lanka"
 			}
 		}
 	]
