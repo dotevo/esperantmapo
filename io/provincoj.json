@@ -2,10 +2,19 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:30:41Z",
+		"timestamp_osm_base": "2017-05-10T11:45:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 316949921,
+			"lat": 21.2160437,
+			"lon": -157.975203,
+			"tags": {
+				"name:io": "Havayi"
+			}
+		},
 		{
 			"type": "node",
 			"id": 424297956,
@@ -103,6 +112,15 @@
 			"lon": 9.1949534,
 			"tags": {
 				"name:io": "Badenia-Wurtemberg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 602512999,
+			"lat": 41.8523094,
+			"lon": 1.5745043,
+			"tags": {
+				"name:io": "Katalunia"
 			}
 		},
 		{
@@ -220,6 +238,15 @@
 			"lon": -4.0422099,
 			"tags": {
 				"name:io": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3513471346,
+			"lat": 42.9911816,
+			"lon": -2.5543023,
+			"tags": {
+				"name:io": "Baskia"
 			}
 		},
 		{

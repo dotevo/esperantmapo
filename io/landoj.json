@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:30:41Z",
+		"timestamp_osm_base": "2017-05-10T11:45:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1407,7 +1407,7 @@
 			"lat": 41.6809707,
 			"lon": 44.0287382,
 			"tags": {
-				"name:io": "Georgia"
+				"name:io": "Gruzia"
 			}
 		},
 		{

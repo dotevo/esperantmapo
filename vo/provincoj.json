@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T06:39:42Z",
+		"timestamp_osm_base": "2017-05-10T11:44:22Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -139,6 +139,15 @@
 			"lon": 9.1949534,
 			"tags": {
 				"name:vo": "Badän-Vürtän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 602512999,
+			"lat": 41.8523094,
+			"lon": 1.5745043,
+			"tags": {
+				"name:vo": "Katalonän"
 			}
 		},
 		{

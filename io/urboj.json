@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:30:41Z",
+		"timestamp_osm_base": "2017-05-10T11:45:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -423,8 +423,8 @@
 		{
 			"type": "node",
 			"id": 240025182,
-			"lat": 47.3685586,
-			"lon": 8.5404434,
+			"lat": 47.3723957,
+			"lon": 8.5423216,
 			"tags": {
 				"name:io": "Zürich"
 			}
@@ -522,8 +522,8 @@
 		{
 			"type": "node",
 			"id": 257363453,
-			"lat": 35.8404121,
-			"lon": 128.5586643,
+			"lat": 35.8494916,
+			"lon": 128.5599518,
 			"tags": {
 				"name:io": "Daegu"
 			}

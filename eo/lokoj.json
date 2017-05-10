@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:28:41Z",
+		"timestamp_osm_base": "2017-05-10T11:42:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1354,6 +1354,7 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"source:maxspeed": "PL:zone:30",
 				"surface": "asphalt"
 			}
 		},
@@ -1464,9 +1465,12 @@
 			"tags": {
 				"highway": "tertiary",
 				"lanes": "2",
+				"maxspeed": "50",
+				"maxspeed:conditional": "60 @ (23:00-05:00)",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"source:maxspeed": "PL:urban",
 				"surface": "asphalt"
 			}
 		},

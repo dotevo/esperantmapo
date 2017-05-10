@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:34:41Z",
+		"timestamp_osm_base": "2017-05-10T11:48:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -173,6 +173,17 @@
 		},
 		{
 			"type": "way",
+			"id": 10228601,
+			"center": {
+				"lat": 40.4941388,
+				"lon": 19.2786111
+			},
+			"tags": {
+				"name:pl": "Sazan"
+			}
+		},
+		{
+			"type": "way",
 			"id": 11520932,
 			"center": {
 				"lat": -33.7690133,
@@ -279,6 +290,17 @@
 			},
 			"tags": {
 				"name:pl": "Przyjaźni Polsko-Pakistańskiej"
+			}
+		},
+		{
+			"type": "way",
+			"id": 279649736,
+			"center": {
+				"lat": 79.5773765,
+				"lon": 76.8372092
+			},
+			"tags": {
+				"name:pl": "Wyspa Wize"
 			}
 		},
 		{
@@ -437,6 +459,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1188484,
+			"center": {
+				"lat": 73.07443,
+				"lon": -93.007125
+			},
+			"tags": {
+				"name:pl": "Wyspa Somerset"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1281377,
 			"center": {
 				"lat": 75.135627,
@@ -470,6 +503,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 1656491,
+			"center": {
+				"lat": 75.6213272,
+				"lon": -111.50825
+			},
+			"tags": {
+				"name:pl": "Wyspa Melville’a"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1656492,
+			"center": {
+				"lat": 79.6215982,
+				"lon": -76.4963434
+			},
+			"tags": {
+				"name:pl": "Wyspa Ellesmere’a"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1656494,
 			"center": {
 				"lat": 76.6866965,
@@ -499,6 +554,105 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Rossa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1866564,
+			"center": {
+				"lat": 71.1867128,
+				"lon": 0
+			},
+			"tags": {
+				"name:pl": "Wyspa Wrangla"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867769,
+			"center": {
+				"lat": 74.3137451,
+				"lon": 112.4878867
+			},
+			"tags": {
+				"name:pl": "Wyspa Biegiczewa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867826,
+			"center": {
+				"lat": 73.2377957,
+				"lon": 70.8119094
+			},
+			"tags": {
+				"name:pl": "Wyspa Biała"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867828,
+			"center": {
+				"lat": 73.5445259,
+				"lon": 141.6927927
+			},
+			"tags": {
+				"name:pl": "Wielka Wyspa Lachowska"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867829,
+			"center": {
+				"lat": 75.4187251,
+				"lon": 141.1663554
+			},
+			"tags": {
+				"name:pl": "Kotielnyj"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867831,
+			"center": {
+				"lat": 75.1580266,
+				"lon": 148.5398644
+			},
+			"tags": {
+				"name:pl": "Nowa Syberia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1903511,
+			"center": {
+				"lat": -21.2355711,
+				"lon": 165.5143555
+			},
+			"tags": {
+				"name:pl": "Nowa Kaledonia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2130352,
+			"center": {
+				"lat": -8.4553708,
+				"lon": 115.0715555
+			},
+			"tags": {
+				"name:pl": "Bali"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2141062,
+			"center": {
+				"lat": 72.8922549,
+				"lon": 79.091835
+			},
+			"tags": {
+				"name:pl": "Wyspa Sibiriakowa"
 			}
 		},
 		{
@@ -558,6 +712,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2700704,
+			"center": {
+				"lat": 80.9166707,
+				"lon": 63.9397553
+			},
+			"tags": {
+				"name:pl": "Wyspa Grahama Bella"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2717326,
 			"center": {
 				"lat": -49.3558515,
@@ -591,6 +756,39 @@
 		},
 		{
 			"type": "relation",
+			"id": 3067603,
+			"center": {
+				"lat": 35.51113,
+				"lon": 12.5757642
+			},
+			"tags": {
+				"name:pl": "Lampedusa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3241667,
+			"center": {
+				"lat": 81.774103,
+				"lon": 58.6051449
+			},
+			"tags": {
+				"name:pl": "Wyspa Rudolfa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3259001,
+			"center": {
+				"lat": 42.7902419,
+				"lon": 10.2732903
+			},
+			"tags": {
+				"name:pl": "Elba"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3263732,
 			"center": {
 				"lat": 35.1291767,
@@ -602,6 +800,39 @@
 		},
 		{
 			"type": "relation",
+			"id": 3503908,
+			"center": {
+				"lat": 81.1308542,
+				"lon": 90.8949009
+			},
+			"tags": {
+				"name:pl": "Wyspa Szmidta"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3507459,
+			"center": {
+				"lat": 80.6363471,
+				"lon": 94.7763639
+			},
+			"tags": {
+				"name:pl": "Komsomolec"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3521369,
+			"center": {
+				"lat": 79.8742032,
+				"lon": 92.430761
+			},
+			"tags": {
+				"name:pl": "Pionier"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3538209,
 			"center": {
 				"lat": -27.1259837,
@@ -609,6 +840,28 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Wielkanocna"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3542196,
+			"center": {
+				"lat": 79.4686232,
+				"lon": 96.5057918
+			},
+			"tags": {
+				"name:pl": "Wyspa Rewolucji Październikowej"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3557184,
+			"center": {
+				"lat": 78.6744524,
+				"lon": 102.4252488
+			},
+			"tags": {
+				"name:pl": "Bolszewik"
 			}
 		},
 		{
@@ -646,6 +899,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 3958537,
+			"center": {
+				"lat": 72.6158293,
+				"lon": -99.5101621
+			},
+			"tags": {
+				"name:pl": "Wyspa Księcia Walii"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958580,
+			"center": {
+				"lat": 69.1793252,
+				"lon": -97.351005
+			},
+			"tags": {
+				"name:pl": "Wyspa Króla Williama"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3958587,
 			"center": {
 				"lat": 67.775975,
@@ -664,6 +939,28 @@
 			},
 			"tags": {
 				"name:pl": "Sachalin"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4096900,
+			"center": {
+				"lat": -11.5761081,
+				"lon": 130.3307956
+			},
+			"tags": {
+				"name:pl": "Wyspa Bathursta"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4096902,
+			"center": {
+				"lat": -11.5521899,
+				"lon": 130.9533105
+			},
+			"tags": {
+				"name:pl": "Wyspa Melville’a"
 			}
 		},
 		{
@@ -712,6 +1009,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 5345940,
+			"center": {
+				"lat": 72.8194529,
+				"lon": -120.648331
+			},
+			"tags": {
+				"name:pl": "Wyspa Banksa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5389949,
+			"center": {
+				"lat": 73.3111957,
+				"lon": -105.7280453
+			},
+			"tags": {
+				"name:pl": "Wyspa Stefanssona"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 5856703,
 			"center": {
 				"lat": 79.8589087,
@@ -719,6 +1038,17 @@
 			},
 			"tags": {
 				"name:pl": "Ziemia Północno-Wschodnia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5857216,
+			"center": {
+				"lat": 70.91936,
+				"lon": -109.9853601
+			},
+			"tags": {
+				"name:pl": "Wyspa Wiktorii"
 			}
 		},
 		{
@@ -1005,6 +1335,61 @@
 			},
 			"tags": {
 				"name:pl": "Anjouan"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219477,
+			"center": {
+				"lat": -8.5099872,
+				"lon": 121.4085702
+			},
+			"tags": {
+				"name:pl": "Flores"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219492,
+			"center": {
+				"lat": -8.5945205,
+				"lon": 117.9539064
+			},
+			"tags": {
+				"name:pl": "Sumbawa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219605,
+			"center": {
+				"lat": 23.5982976,
+				"lon": 121.0202966
+			},
+			"tags": {
+				"name:pl": "Tajwan"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7220452,
+			"center": {
+				"lat": -10.6871578,
+				"lon": 123.1231346
+			},
+			"tags": {
+				"name:pl": "Roti"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7220474,
+			"center": {
+				"lat": -1.3990852,
+				"lon": 123.1723754
+			},
+			"tags": {
+				"name:pl": "Peleng"
 			}
 		}
 	]

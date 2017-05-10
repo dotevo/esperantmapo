@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:26:41Z",
+		"timestamp_osm_base": "2017-05-10T11:41:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1971,8 +1971,8 @@
 		{
 			"type": "node",
 			"id": 313870420,
-			"lat": 47.3719943,
-			"lon": 8.5415277,
+			"lat": 47.3723144,
+			"lon": 8.5423238,
 			"tags": {
 				"name:eo": "Zuriko"
 			}
@@ -6789,7 +6789,7 @@
 			"lat": 42.9911816,
 			"lon": -2.5543023,
 			"tags": {
-				"name:eo": "Eŭska Aŭtonoma Komunumo"
+				"name:eo": "Euskio"
 			}
 		},
 		{
@@ -6938,6 +6938,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4289951000,
+			"lat": 52.4254143,
+			"lon": 6.4610611,
+			"tags": {
+				"name:eo": "Overijssel"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4289951023,
 			"lat": 52.9067922,
 			"lon": 6.6368423,
@@ -6952,6 +6961,15 @@
 			"lon": 5.777043,
 			"tags": {
 				"name:eo": "Frislando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4289960494,
+			"lat": 53.3439871,
+			"lon": 6.7651259,
+			"tags": {
+				"name:eo": "Groningen"
 			}
 		},
 		{

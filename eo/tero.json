@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:28:41Z",
+		"timestamp_osm_base": "2017-05-10T11:43:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -144,6 +144,17 @@
 		},
 		{
 			"type": "way",
+			"id": 10228601,
+			"center": {
+				"lat": 40.4941388,
+				"lon": 19.2786111
+			},
+			"tags": {
+				"name:eo": "Insulo Sazano"
+			}
+		},
+		{
+			"type": "way",
 			"id": 11520932,
 			"center": {
 				"lat": -33.7690133,
@@ -221,6 +232,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1656492,
+			"center": {
+				"lat": 79.6215982,
+				"lon": -76.4963434
+			},
+			"tags": {
+				"name:eo": "Insulo Ellesmere"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
@@ -239,6 +261,50 @@
 			},
 			"tags": {
 				"name:eo": "Insulo Ross"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1866564,
+			"center": {
+				"lat": 71.1867128,
+				"lon": 0
+			},
+			"tags": {
+				"name:eo": "Vrangela Insulo de Siberio"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867829,
+			"center": {
+				"lat": 75.4187251,
+				"lon": 141.1663554
+			},
+			"tags": {
+				"name:eo": "Kotelnij"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2130352,
+			"center": {
+				"lat": -8.4553708,
+				"lon": 115.0715555
+			},
+			"tags": {
+				"name:eo": "Balio"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2283489,
+			"center": {
+				"lat": 63.3622161,
+				"lon": -170.267015
+			},
+			"tags": {
+				"name:eo": "Insulo Sankta Laŭrenco"
 			}
 		},
 		{
@@ -320,6 +386,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3067603,
+			"center": {
+				"lat": 35.51113,
+				"lon": 12.5757642
+			},
+			"tags": {
+				"name:eo": "Lampedusa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3218318,
 			"center": {
 				"lat": 15.190978,
@@ -327,6 +404,28 @@
 			},
 			"tags": {
 				"name:eo": "Saipano"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3241667,
+			"center": {
+				"lat": 81.774103,
+				"lon": 58.6051449
+			},
+			"tags": {
+				"name:eo": "Rudolf-insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3259001,
+			"center": {
+				"lat": 42.7902419,
+				"lon": 10.2732903
+			},
+			"tags": {
+				"name:eo": "Elbo"
 			}
 		},
 		{
@@ -360,6 +459,28 @@
 			},
 			"tags": {
 				"name:eo": "Bafina Insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958580,
+			"center": {
+				"lat": 69.1793252,
+				"lon": -97.351005
+			},
+			"tags": {
+				"name:eo": "Insulo Reĝo Vilhelmo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4094778,
+			"center": {
+				"lat": 19.1604051,
+				"lon": 109.8273403
+			},
+			"tags": {
+				"name:eo": "Insulo Hajnano"
 			}
 		},
 		{
@@ -404,6 +525,39 @@
 			},
 			"tags": {
 				"name:eo": "Gotlando"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5219730,
+			"center": {
+				"lat": 21.6908677,
+				"lon": -82.8664006
+			},
+			"tags": {
+				"name:eo": "Insulo de la Junularo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5345940,
+			"center": {
+				"lat": 72.8194529,
+				"lon": -120.648331
+			},
+			"tags": {
+				"name:eo": "Banks-insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5857216,
+			"center": {
+				"lat": 70.91936,
+				"lon": -109.9853601
+			},
+			"tags": {
+				"name:eo": "Viktoria Insulo"
 			}
 		},
 		{
@@ -573,6 +727,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 6995280,
+			"center": {
+				"lat": 16.4499969,
+				"lon": 121.1394284
+			},
+			"tags": {
+				"name:eo": "Luzono"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 7112170,
 			"center": {
 				"lat": 14.6367812,
@@ -657,6 +822,50 @@
 			},
 			"tags": {
 				"name:eo": "Anjuano"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219477,
+			"center": {
+				"lat": -8.5099872,
+				"lon": 121.4085702
+			},
+			"tags": {
+				"name:eo": "Floreso"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219484,
+			"center": {
+				"lat": -9.7959655,
+				"lon": 119.8871427
+			},
+			"tags": {
+				"name:eo": "Sumbo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219492,
+			"center": {
+				"lat": -8.5945205,
+				"lon": 117.9539064
+			},
+			"tags": {
+				"name:eo": "Sumbavo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219495,
+			"center": {
+				"lat": -8.5831281,
+				"lon": 116.2731542
+			},
+			"tags": {
+				"name:eo": "Lomboko"
 			}
 		}
 	]

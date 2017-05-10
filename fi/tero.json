@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-04T07:43:41Z",
+		"timestamp_osm_base": "2017-05-10T11:53:23Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -759,6 +759,17 @@
 			},
 			"tags": {
 				"name:fi": "São Vicente"
+			}
+		},
+		{
+			"type": "way",
+			"id": 10228601,
+			"center": {
+				"lat": 40.4941388,
+				"lon": 19.2786111
+			},
+			"tags": {
+				"name:fi": "Sazan"
 			}
 		},
 		{
@@ -2710,6 +2721,17 @@
 		},
 		{
 			"type": "way",
+			"id": 279649736,
+			"center": {
+				"lat": 79.5773765,
+				"lon": 76.8372092
+			},
+			"tags": {
+				"name:fi": "Vize"
+			}
+		},
+		{
+			"type": "way",
 			"id": 298540982,
 			"center": {
 				"lat": 60.1394851,
@@ -3469,6 +3491,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 376677,
+			"center": {
+				"lat": 60.2459236,
+				"lon": -1.3765687
+			},
+			"tags": {
+				"name:fi": "Mainland"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 400992,
 			"center": {
 				"lat": 59.5713933,
@@ -3509,6 +3542,17 @@
 			},
 			"tags": {
 				"name:fi": "Huippuvuoret"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1188484,
+			"center": {
+				"lat": 73.07443,
+				"lon": -93.007125
+			},
+			"tags": {
+				"name:fi": "Somersetinsaari"
 			}
 		},
 		{
@@ -3931,6 +3975,39 @@
 		},
 		{
 			"type": "relation",
+			"id": 1656491,
+			"center": {
+				"lat": 75.6213272,
+				"lon": -111.50825
+			},
+			"tags": {
+				"name:fi": "Melvillensaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1656492,
+			"center": {
+				"lat": 79.6215982,
+				"lon": -76.4963434
+			},
+			"tags": {
+				"name:fi": "Ellesmerensaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1656494,
+			"center": {
+				"lat": 76.6866965,
+				"lon": -119.1602012
+			},
+			"tags": {
+				"name:fi": "Prinssi Patrickin saari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1688550,
 			"center": {
 				"lat": 61.0197305,
@@ -4019,6 +4096,50 @@
 		},
 		{
 			"type": "relation",
+			"id": 1866564,
+			"center": {
+				"lat": 71.1867128,
+				"lon": 0
+			},
+			"tags": {
+				"name:fi": "Wrangelinsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867829,
+			"center": {
+				"lat": 75.4187251,
+				"lon": 141.1663554
+			},
+			"tags": {
+				"name:fi": "Kotelnyi"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1867831,
+			"center": {
+				"lat": 75.1580266,
+				"lon": 148.5398644
+			},
+			"tags": {
+				"name:fi": "Uusi-Siperia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1903511,
+			"center": {
+				"lat": -21.2355711,
+				"lon": 165.5143555
+			},
+			"tags": {
+				"name:fi": "Grande Terre"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1978271,
 			"center": {
 				"lat": 60.7209984,
@@ -4085,6 +4206,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 2130352,
+			"center": {
+				"lat": -8.4553708,
+				"lon": 115.0715555
+			},
+			"tags": {
+				"name:fi": "Bali"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2141062,
+			"center": {
+				"lat": 72.8922549,
+				"lon": 79.091835
+			},
+			"tags": {
+				"name:fi": "Sibirjakovinsaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2177440,
 			"center": {
 				"lat": 65.0639176,
@@ -4103,6 +4246,17 @@
 			},
 			"tags": {
 				"name:fi": "Iso-Diomede"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2283489,
+			"center": {
+				"lat": 63.3622161,
+				"lon": -170.267015
+			},
+			"tags": {
+				"name:fi": "Saint Lawrencen saari"
 			}
 		},
 		{
@@ -4239,6 +4393,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3067603,
+			"center": {
+				"lat": 35.51113,
+				"lon": 12.5757642
+			},
+			"tags": {
+				"name:fi": "Lampedusa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3083559,
 			"center": {
 				"lat": 61.026921,
@@ -4279,6 +4444,17 @@
 			},
 			"tags": {
 				"name:fi": "Kižin saari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3259001,
+			"center": {
+				"lat": 42.7902419,
+				"lon": 10.2732903
+			},
+			"tags": {
+				"name:fi": "Elba"
 			}
 		},
 		{
@@ -4371,6 +4547,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 3507459,
+			"center": {
+				"lat": 80.6363471,
+				"lon": 94.7763639
+			},
+			"tags": {
+				"name:fi": "Komsomolets"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3542196,
+			"center": {
+				"lat": 79.4686232,
+				"lon": 96.5057918
+			},
+			"tags": {
+				"name:fi": "Lokakuun vallankumouksen saari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3580622,
 			"center": {
 				"lat": 61.1575936,
@@ -4400,6 +4598,28 @@
 			},
 			"tags": {
 				"name:fi": "Baffininsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958537,
+			"center": {
+				"lat": 72.6158293,
+				"lon": -99.5101621
+			},
+			"tags": {
+				"name:fi": "Walesin prinssin saari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3958580,
+			"center": {
+				"lat": 69.1793252,
+				"lon": -97.351005
+			},
+			"tags": {
+				"name:fi": "Kuningas Williamin saari"
 			}
 		},
 		{
@@ -4580,6 +4800,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 4096902,
+			"center": {
+				"lat": -11.5521899,
+				"lon": 130.9533105
+			},
+			"tags": {
+				"name:fi": "Melvillensaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 4108148,
 			"center": {
 				"lat": 61.355149,
@@ -4620,6 +4851,28 @@
 			},
 			"tags": {
 				"name:fi": "Grand Cayman"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5345940,
+			"center": {
+				"lat": 72.8194529,
+				"lon": -120.648331
+			},
+			"tags": {
+				"name:fi": "Banksinsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5389949,
+			"center": {
+				"lat": 73.3111957,
+				"lon": -105.7280453
+			},
+			"tags": {
+				"name:fi": "Stefanssoninsaari"
 			}
 		},
 		{
@@ -4877,6 +5130,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 5857216,
+			"center": {
+				"lat": 70.91936,
+				"lon": -109.9853601
+			},
+			"tags": {
+				"name:fi": "Victoriansaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 6038068,
 			"center": {
 				"lat": 54.3153877,
@@ -5038,6 +5302,50 @@
 			},
 			"tags": {
 				"name:fi": "Anjouan"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219477,
+			"center": {
+				"lat": -8.5099872,
+				"lon": 121.4085702
+			},
+			"tags": {
+				"name:fi": "Flores"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219492,
+			"center": {
+				"lat": -8.5945205,
+				"lon": 117.9539064
+			},
+			"tags": {
+				"name:fi": "Sumbawa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219605,
+			"center": {
+				"lat": 23.5982976,
+				"lon": 121.0202966
+			},
+			"tags": {
+				"name:fi": "Taiwan"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7220480,
+			"center": {
+				"lat": -5.0299791,
+				"lon": 122.5174083
+			},
+			"tags": {
+				"name:fi": "Muna"
 			}
 		}
 	]
