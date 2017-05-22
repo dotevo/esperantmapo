@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:53:23Z",
+		"timestamp_osm_base": "2017-05-22T05:47:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -754,7 +754,7 @@
 			"type": "way",
 			"id": 9884465,
 			"center": {
-				"lat": 16.8497765,
+				"lat": 16.8496081,
 				"lon": -24.9727146
 			},
 			"tags": {
@@ -1650,17 +1650,6 @@
 			},
 			"tags": {
 				"name:fi": "Jussaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 26256267,
-			"center": {
-				"lat": 61.377375,
-				"lon": 29.16475
-			},
-			"tags": {
-				"name:fi": "Suurisaari"
 			}
 		},
 		{
@@ -3568,10 +3557,21 @@
 		},
 		{
 			"type": "relation",
+			"id": 1438905,
+			"center": {
+				"lat": -46.9867157,
+				"lon": 167.8382416
+			},
+			"tags": {
+				"name:fi": "Stewartinsaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1543694,
 			"center": {
 				"lat": 61.1830048,
-				"lon": 29.9647436
+				"lon": 29.964686
 			},
 			"tags": {
 				"name:fi": "saari Kilpolansaari"
@@ -3696,6 +3696,17 @@
 			},
 			"tags": {
 				"name:fi": "Uusi Hollanti"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1576208,
+			"center": {
+				"lat": 59.9239288,
+				"lon": 30.2759241
+			},
+			"tags": {
+				"name:fi": "Kalasaari"
 			}
 		},
 		{
@@ -4088,7 +4099,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8243997
+				"lon": 103.8244956
 			},
 			"tags": {
 				"name:fi": "Singapore"
@@ -4448,6 +4459,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 3182527,
+			"center": {
+				"lat": -51.7965833,
+				"lon": -58.7253051
+			},
+			"tags": {
+				"name:fi": "Itä-Falkland"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3182529,
+			"center": {
+				"lat": -51.7978468,
+				"lon": -60.1357651
+			},
+			"tags": {
+				"name:fi": "Länsi-Falkland"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3259001,
 			"center": {
 				"lat": 42.7902419,
@@ -4631,6 +4664,17 @@
 			},
 			"tags": {
 				"name:fi": "Prinssi Charlesin saari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3986157,
+			"center": {
+				"lat": -43.5867549,
+				"lon": 170.3710061
+			},
+			"tags": {
+				"name:fi": "Eteläsaari"
 			}
 		},
 		{
@@ -5247,6 +5291,28 @@
 			},
 			"tags": {
 				"name:fi": "Bassas da India"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6571744,
+			"center": {
+				"lat": -38.0035706,
+				"lon": 175.5967644
+			},
+			"tags": {
+				"name:fi": "Pohjoissaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6847723,
+			"center": {
+				"lat": 40.0615436,
+				"lon": 8.9798483
+			},
+			"tags": {
+				"name:fi": "Sardinia"
 			}
 		},
 		{

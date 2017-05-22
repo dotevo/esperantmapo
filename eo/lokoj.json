@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:42:23Z",
+		"timestamp_osm_base": "2017-05-22T05:56:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -959,7 +959,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"old_name": "Niecała",
 				"oneway": "yes",
-				"source:maxspeed": "PL:zone30"
+				"source:maxspeed": "PL:zone30",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -989,7 +990,8 @@
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
 				"name:etymology:wikidata": "Q11758",
 				"old_name": "Niecała",
-				"source:maxspeed": "PL:zone30"
+				"source:maxspeed": "PL:zone30",
+				"surface": "asphalt"
 			}
 		},
 		{

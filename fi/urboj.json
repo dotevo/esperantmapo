@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:51:23Z",
+		"timestamp_osm_base": "2017-05-22T05:47:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -756,8 +756,8 @@
 		{
 			"type": "node",
 			"id": 30969521,
-			"lat": 62.6000152,
-			"lon": 29.7666591,
+			"lat": 62.6008163,
+			"lon": 29.7605356,
 			"tags": {
 				"name:fi": "Joensuu"
 			}
@@ -1917,8 +1917,8 @@
 		{
 			"type": "node",
 			"id": 30969778,
-			"lat": 61.1968302,
-			"lon": 27.6806426,
+			"lat": 61.198266,
+			"lon": 27.6815422,
 			"tags": {
 				"name:fi": "Savitaipale"
 			}
@@ -2128,6 +2128,15 @@
 			"lon": 24.320558,
 			"tags": {
 				"name:fi": "Vihti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969830,
+			"lat": 61.2101279,
+			"lon": 23.7677914,
+			"tags": {
+				"name:fi": "Viiala"
 			}
 		},
 		{
@@ -3501,8 +3510,8 @@
 		{
 			"type": "node",
 			"id": 256361874,
-			"lat": 54.7586344,
-			"lon": 38.8817279,
+			"lat": 54.7585694,
+			"lon": 38.8818137,
 			"tags": {
 				"name:fi": "Zaraisk"
 			}
@@ -5076,7 +5085,7 @@
 		{
 			"type": "node",
 			"id": 1635651356,
-			"lat": 50.8465565,
+			"lat": 50.8465573,
 			"lon": 4.351697,
 			"tags": {
 				"name:fi": "Bryssel"
@@ -5211,8 +5220,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6977211,
-			"lon": 23.3225964,
+			"lat": 42.6978151,
+			"lon": 23.3221574,
 			"tags": {
 				"name:fi": "Sofia"
 			}

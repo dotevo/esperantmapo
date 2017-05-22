@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:45:23Z",
+		"timestamp_osm_base": "2017-05-22T05:46:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -810,7 +810,7 @@
 		{
 			"type": "node",
 			"id": 1635651356,
-			"lat": 50.8465565,
+			"lat": 50.8465573,
 			"lon": 4.351697,
 			"tags": {
 				"name:io": "Bruxel"
@@ -855,8 +855,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6977211,
-			"lon": 23.3225964,
+			"lat": 42.6978151,
+			"lon": 23.3221574,
 			"tags": {
 				"name:io": "Sofiya"
 			}

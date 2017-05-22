@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:48:23Z",
+		"timestamp_osm_base": "2017-05-22T05:44:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -164,7 +164,7 @@
 			"type": "way",
 			"id": 9884465,
 			"center": {
-				"lat": 16.8497765,
+				"lat": 16.8496081,
 				"lon": -24.9727146
 			},
 			"tags": {
@@ -228,6 +228,50 @@
 		},
 		{
 			"type": "way",
+			"id": 25537290,
+			"center": {
+				"lat": 55.6519864,
+				"lon": 27.0959896
+			},
+			"tags": {
+				"name:pl": "wyspa Długa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25537296,
+			"center": {
+				"lat": 55.6551758,
+				"lon": 27.0900323
+			},
+			"tags": {
+				"name:pl": "wyspa Wysoka"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25537315,
+			"center": {
+				"lat": 55.6621399,
+				"lon": 26.913336
+			},
+			"tags": {
+				"name:pl": "wyspa Krzyżowa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25537458,
+			"center": {
+				"lat": 55.6947325,
+				"lon": 27.0100381
+			},
+			"tags": {
+				"name:pl": "wyspa Szowa"
+			}
+		},
+		{
+			"type": "way",
 			"id": 27923209,
 			"center": {
 				"lat": 83.6621503,
@@ -268,6 +312,17 @@
 			},
 			"tags": {
 				"name:pl": "Naga Wyspa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 188546159,
+			"center": {
+				"lat": -53.0781361,
+				"lon": 73.5639085
+			},
+			"tags": {
+				"name:pl": "Wyspa Heard"
 			}
 		},
 		{
@@ -337,6 +392,28 @@
 			}
 		},
 		{
+			"type": "way",
+			"id": 494492641,
+			"center": {
+				"lat": 55.8137633,
+				"lon": 27.0590119
+			},
+			"tags": {
+				"name:pl": "wyspa Wielka"
+			}
+		},
+		{
+			"type": "way",
+			"id": 494492642,
+			"center": {
+				"lat": 55.816185,
+				"lon": 27.0546249
+			},
+			"tags": {
+				"name:pl": "wyspa Mała"
+			}
+		},
+		{
 			"type": "relation",
 			"id": 147194,
 			"center": {
@@ -351,8 +428,8 @@
 			"type": "relation",
 			"id": 156166,
 			"center": {
-				"lat": -7.941034,
-				"lon": -14.3577053
+				"lat": -7.9415,
+				"lon": -14.3578511
 			},
 			"tags": {
 				"name:pl": "Wyspa Wniebowstąpienia"
@@ -459,6 +536,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 910860,
+			"center": {
+				"lat": -54.814749,
+				"lon": -64.2767338
+			},
+			"tags": {
+				"name:pl": "Wyspa Stanów"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1188484,
 			"center": {
 				"lat": 73.07443,
@@ -488,6 +576,17 @@
 			},
 			"tags": {
 				"name:pl": "Rugia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1438905,
+			"center": {
+				"lat": -46.9867157,
+				"lon": 167.8382416
+			},
+			"tags": {
+				"name:pl": "Wyspa Stewart"
 			}
 		},
 		{
@@ -539,7 +638,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3404921,
-				"lon": 103.8243997
+				"lon": 103.8244956
 			},
 			"tags": {
 				"name:pl": "Singapur"
@@ -624,6 +723,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 1869738,
+			"center": {
+				"lat": 75.1166462,
+				"lon": 61.3834292
+			},
+			"tags": {
+				"name:pl": "Wyspa Północna"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1869739,
+			"center": {
+				"lat": 71.9832928,
+				"lon": 54.5237901
+			},
+			"tags": {
+				"name:pl": "Wyspa Południowa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1903511,
 			"center": {
 				"lat": -21.2355711,
@@ -653,6 +774,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Sibiriakowa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2177440,
+			"center": {
+				"lat": 65.0639176,
+				"lon": 35.6907035
+			},
+			"tags": {
+				"name:pl": "Wyspa Sołowiecka"
 			}
 		},
 		{
@@ -767,6 +899,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 3182527,
+			"center": {
+				"lat": -51.7965833,
+				"lon": -58.7253051
+			},
+			"tags": {
+				"name:pl": "Falkland Wschodni"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3182529,
+			"center": {
+				"lat": -51.7978468,
+				"lon": -60.1357651
+			},
+			"tags": {
+				"name:pl": "Falkland Zachodni"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3241667,
 			"center": {
 				"lat": 81.774103,
@@ -877,6 +1031,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3764161,
+			"center": {
+				"lat": 12.1609891,
+				"lon": 123.6086533
+			},
+			"tags": {
+				"name:pl": "Masbate"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3791269,
 			"center": {
 				"lat": 53.9907623,
@@ -928,6 +1093,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Księcia Karola"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3986157,
+			"center": {
+				"lat": -43.5867549,
+				"lon": 170.3710061
+			},
+			"tags": {
+				"name:pl": "Wyspa Południowa"
 			}
 		},
 		{
@@ -1005,6 +1181,17 @@
 			},
 			"tags": {
 				"name:pl": "Gotlandia"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5283385,
+			"center": {
+				"lat": 55.6985525,
+				"lon": 27.0313339
+			},
+			"tags": {
+				"name:pl": "wyspa Czajczyn"
 			}
 		},
 		{
@@ -1240,6 +1427,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 6571744,
+			"center": {
+				"lat": -38.0035706,
+				"lon": 175.5967644
+			},
+			"tags": {
+				"name:pl": "Wyspa Północna"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 6803636,
 			"center": {
 				"lat": 39.6134222,
@@ -1247,6 +1445,17 @@
 			},
 			"tags": {
 				"name:pl": "Majorka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6847723,
+			"center": {
+				"lat": 40.0615436,
+				"lon": 8.9798483
+			},
+			"tags": {
+				"name:pl": "Sardynia"
 			}
 		},
 		{

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-10T11:41:23Z",
+		"timestamp_osm_base": "2017-05-22T05:55:54Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1836,8 +1836,8 @@
 		{
 			"type": "node",
 			"id": 119310785,
-			"lat": 55.4850083,
-			"lon": 28.7685276,
+			"lat": 55.485449,
+			"lon": 28.7682004,
 			"tags": {
 				"name:eo": "Polack"
 			}
@@ -2654,6 +2654,42 @@
 		},
 		{
 			"type": "node",
+			"id": 244076913,
+			"lat": 32.9181597,
+			"lon": 117.3678101,
+			"tags": {
+				"name:eo": "Bengbu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244077464,
+			"lat": 31.6270906,
+			"lon": 117.8847158,
+			"tags": {
+				"name:eo": "Chaohu Urbo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244078987,
+			"lat": 31.0855894,
+			"lon": 118.2000683,
+			"tags": {
+				"name:eo": "Fanchang Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244080421,
+			"lat": 33.3205095,
+			"lon": 117.3091682,
+			"tags": {
+				"name:eo": "Guzhen Graflando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 244080443,
 			"lat": 23.1387267,
 			"lon": 113.319321,
@@ -2668,6 +2704,24 @@
 			"lon": 111.6730788,
 			"tags": {
 				"name:eo": "Hoĥoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081289,
+			"lat": 31.669966,
+			"lon": 118.502048,
+			"tags": {
+				"name:eo": "Maanŝan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081476,
+			"lat": 30.9150329,
+			"lon": 118.3288821,
+			"tags": {
+				"name:eo": "Nanling Graflado"
 			}
 		},
 		{
@@ -2699,11 +2753,74 @@
 		},
 		{
 			"type": "node",
+			"id": 244082212,
+			"lat": 31.3536127,
+			"lon": 118.427635,
+			"tags": {
+				"name:eo": "Vuĥu"
+			}
+		},
+		{
+			"type": "node",
 			"id": 244082766,
 			"lat": 40.2916528,
 			"lon": 97.0448526,
 			"tags": {
 				"name:eo": "Jumen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083225,
+			"lat": 32.945992,
+			"lon": 117.3621199,
+			"tags": {
+				"name:eo": "Bengshan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083228,
+			"lat": 32.9672034,
+			"lon": 117.353831,
+			"tags": {
+				"name:eo": "Huaishang Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083236,
+			"lat": 32.9318356,
+			"lon": 117.336544,
+			"tags": {
+				"name:eo": "Yuhui Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083251,
+			"lat": 31.7020193,
+			"lon": 118.5058733,
+			"tags": {
+				"name:eo": "Huashan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083257,
+			"lat": 31.3422958,
+			"lon": 118.3797326,
+			"tags": {
+				"name:eo": "Jinghu Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083594,
+			"lat": 32.9448624,
+			"lon": 117.3881282,
+			"tags": {
+				"name:eo": "Longzihu Distrikto"
 			}
 		},
 		{
@@ -3168,8 +3285,8 @@
 		{
 			"type": "node",
 			"id": 256361874,
-			"lat": 54.7586344,
-			"lon": 38.8817279,
+			"lat": 54.7585694,
+			"lon": 38.8818137,
 			"tags": {
 				"name:eo": "Zarajsk"
 			}
@@ -3478,6 +3595,15 @@
 			"lon": -159.7708145,
 			"tags": {
 				"name:eo": "Avaruo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 267121995,
+			"lat": 31.8228094,
+			"lon": 117.2218033,
+			"tags": {
+				"name:eo": "Hefejo"
 			}
 		},
 		{
@@ -6210,7 +6336,7 @@
 		{
 			"type": "node",
 			"id": 1635651356,
-			"lat": 50.8465565,
+			"lat": 50.8465573,
 			"lon": 4.351697,
 			"tags": {
 				"name:eo": "Bruselo"
@@ -6462,8 +6588,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6977211,
-			"lon": 23.3225964,
+			"lat": 42.6978151,
+			"lon": 23.3221574,
 			"tags": {
 				"name:eo": "Sofio"
 			}
@@ -6713,6 +6839,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2003143522,
+			"lat": 31.5648877,
+			"lon": 118.8435896,
+			"tags": {
+				"name:eo": "Bowang Distrikto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2095029787,
 			"lat": 55.322518,
 			"lon": 38.6816824,
@@ -6785,6 +6920,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2518589521,
+			"lat": 32.9729703,
+			"lon": 117.1994547,
+			"tags": {
+				"name:eo": "Huaiyuan Graflando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2616628792,
 			"lat": 51.30905,
 			"lon": 39.2160054,
@@ -6803,6 +6947,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2671392424,
+			"lat": 31.7442532,
+			"lon": 118.3481305,
+			"tags": {
+				"name:eo": "He Graflando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2702400314,
 			"lat": 28.6517178,
 			"lon": 77.2219388,
@@ -6817,6 +6970,33 @@
 			"lon": 29.7484282,
 			"tags": {
 				"name:eo": "Svetlahorsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3013751478,
+			"lat": 31.8528732,
+			"lon": 117.2552439,
+			"tags": {
+				"name:eo": "Shushan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3013754120,
+			"lat": 31.7955295,
+			"lon": 117.3052493,
+			"tags": {
+				"name:eo": "Baohe Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3013754950,
+			"lat": 31.8601612,
+			"lon": 117.3037396,
+			"tags": {
+				"name:eo": "Yaohai Distrikto"
 			}
 		},
 		{
@@ -6866,11 +7046,128 @@
 		},
 		{
 			"type": "node",
+			"id": 3578183534,
+			"lat": 31.8805098,
+			"lon": 117.2592534,
+			"tags": {
+				"name:eo": "Luyang Distrikto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3673183717,
 			"lat": 50.5111168,
 			"lon": 30.7900482,
 			"tags": {
 				"name:eo": "Brovari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3727888638,
+			"lat": 33.1290757,
+			"lon": 117.8759223,
+			"tags": {
+				"name:eo": "Wuhe Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3728599725,
+			"lat": 31.7371931,
+			"lon": 118.095999,
+			"tags": {
+				"name:eo": "Hanshan Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3728599726,
+			"lat": 31.5722883,
+			"lon": 118.4928233,
+			"tags": {
+				"name:eo": "Dangtu Graflanto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3728599727,
+			"lat": 31.1367282,
+			"lon": 118.5705302,
+			"tags": {
+				"name:eo": "Wuhu Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3728619137,
+			"lat": 31.8900729,
+			"lon": 117.4636063,
+			"tags": {
+				"name:eo": "Feidong Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3771328057,
+			"lat": 31.3005066,
+			"lon": 117.9142088,
+			"tags": {
+				"name:eo": "Wuwei Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3799390398,
+			"lat": 31.6842096,
+			"lon": 118.4933555,
+			"tags": {
+				"name:eo": "Yushan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3824013267,
+			"lat": 31.2218919,
+			"lon": 118.262715,
+			"tags": {
+				"name:eo": "Sanshan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3824013480,
+			"lat": 31.3155852,
+			"lon": 118.3674047,
+			"tags": {
+				"name:eo": "Yijiang Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3882986980,
+			"lat": 31.7090349,
+			"lon": 117.152533,
+			"tags": {
+				"name:eo": "Feixi Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3882987751,
+			"lat": 31.2580989,
+			"lon": 117.2817459,
+			"tags": {
+				"name:eo": "Lujiang Graflando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3896048030,
+			"lat": 32.482035,
+			"lon": 117.160669,
+			"tags": {
+				"name:eo": "Changfeng Graflando"
 			}
 		},
 		{
@@ -6925,6 +7222,15 @@
 			"lon": 39.0277188,
 			"tags": {
 				"name:eo": "Luĥovici"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4866202678,
+			"lat": 31.3718147,
+			"lon": 118.3860456,
+			"tags": {
+				"name:eo": "Jiujiang Distrikto"
 			}
 		}
 	]
