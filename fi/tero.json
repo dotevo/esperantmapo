@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:47:54Z",
+		"timestamp_osm_base": "2017-05-29T06:47:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -103,15 +103,6 @@
 			"lon": 26.2038775,
 			"tags": {
 				"name:fi": "Kivisalo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 470479943,
-			"lat": 60.1722212,
-			"lon": 25.3389154,
-			"tags": {
-				"name:fi": "Kaunissaari"
 			}
 		},
 		{
@@ -1056,6 +1047,17 @@
 			},
 			"tags": {
 				"name:fi": "Suurisaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23903893,
+			"center": {
+				"lat": 59.9793554,
+				"lon": 23.9487792
+			},
+			"tags": {
+				"name:fi": "Elisaari"
 			}
 		},
 		{
@@ -3249,6 +3251,17 @@
 		},
 		{
 			"type": "way",
+			"id": 366724274,
+			"center": {
+				"lat": 63.9402366,
+				"lon": 23.2958908
+			},
+			"tags": {
+				"name:fi": "Pirskeri"
+			}
+		},
+		{
+			"type": "way",
 			"id": 387600522,
 			"center": {
 				"lat": 60.133526,
@@ -3557,6 +3570,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1390077,
+			"center": {
+				"lat": 43.7954048,
+				"lon": 146.752262
+			},
+			"tags": {
+				"name:fi": "Shikotan"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1438905,
 			"center": {
 				"lat": -46.9867157,
@@ -3717,7 +3741,7 @@
 				"lon": 29.7194691
 			},
 			"tags": {
-				"name:fi": "saari Retusaari"
+				"name:fi": "Retusaari"
 			}
 		},
 		{
@@ -4195,6 +4219,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2103185,
+			"center": {
+				"lat": 44.990448,
+				"lon": 147.8760041
+			},
+			"tags": {
+				"name:fi": "Iturup"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2108497,
 			"center": {
 				"lat": 61.6808082,
@@ -4279,6 +4314,17 @@
 			},
 			"tags": {
 				"name:fi": "San Andrés (saari)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2409701,
+			"center": {
+				"lat": 44.0847169,
+				"lon": 145.9892046
+			},
+			"tags": {
+				"name:fi": "Kunašir"
 			}
 		},
 		{
@@ -4679,13 +4725,24 @@
 		},
 		{
 			"type": "relation",
+			"id": 3987424,
+			"center": {
+				"lat": 50.1591908,
+				"lon": 143.187038
+			},
+			"tags": {
+				"name:fi": "Sahalin"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3997000,
 			"center": {
 				"lat": 61.4071972,
 				"lon": 31.1113641
 			},
 			"tags": {
-				"name:fi": "Bajonnoinsaari"
+				"name:fi": "Bajonnoinsaaret"
 			}
 		},
 		{
@@ -5148,6 +5205,17 @@
 			},
 			"tags": {
 				"name:fi": "saari Ruissaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5546660,
+			"center": {
+				"lat": 46.2950366,
+				"lon": -60.6703937
+			},
+			"tags": {
+				"name:fi": "Cape Bretonin saari"
 			}
 		},
 		{

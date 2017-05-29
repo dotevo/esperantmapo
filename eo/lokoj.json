@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:56:54Z",
+		"timestamp_osm_base": "2017-05-29T05:14:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2067,19 +2067,6 @@
 		},
 		{
 			"type": "way",
-			"id": 400422170,
-			"center": {
-				"lat": 44.2027156,
-				"lon": 3.6511967
-			},
-			"tags": {
-				"building": "house",
-				"esperanto": "yes",
-				"name": "Le Fromental"
-			}
-		},
-		{
-			"type": "way",
 			"id": 402824900,
 			"center": {
 				"lat": 53.2080924,
@@ -2148,6 +2135,20 @@
 				"operator:eo": "Japana Esperanto-Instituto",
 				"wikidata": "Q11390421",
 				"wikipedia": "ja:八ヶ岳エスペラント館"
+			}
+		},
+		{
+			"type": "way",
+			"id": 495680354,
+			"center": {
+				"lat": 44.202732,
+				"lon": 3.6512347
+			},
+			"tags": {
+				"building": "yes",
+				"esperanto": "yes",
+				"name": "Le Fromental",
+				"source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017"
 			}
 		}
 	]

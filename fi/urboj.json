@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:47:54Z",
+		"timestamp_osm_base": "2017-05-29T06:46:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2744,6 +2744,15 @@
 		},
 		{
 			"type": "node",
+			"id": 139558964,
+			"lat": 39.8939174,
+			"lon": 22.189257,
+			"tags": {
+				"name:fi": "Elassóna"
+			}
+		},
+		{
+			"type": "node",
 			"id": 143564891,
 			"lat": 55.8892847,
 			"lon": 37.4449896,
@@ -4392,8 +4401,8 @@
 		{
 			"type": "node",
 			"id": 358015168,
-			"lat": 35.1491083,
-			"lon": 126.8634645,
+			"lat": 35.1601443,
+			"lon": 126.8513006,
 			"tags": {
 				"name:fi": "Gwangju"
 			}

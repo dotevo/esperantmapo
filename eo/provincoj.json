@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:55:54Z",
+		"timestamp_osm_base": "2017-05-29T05:12:35Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -4270,6 +4270,15 @@
 			"lon": 29.0019542,
 			"tags": {
 				"name:eo": "Provinco Nova Valo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 767967877,
+			"lat": 24.1698921,
+			"lon": 24.8766349,
+			"tags": {
+				"name:eo": "Libia Dezerto"
 			}
 		},
 		{

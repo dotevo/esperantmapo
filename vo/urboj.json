@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:55:54Z",
+		"timestamp_osm_base": "2017-05-29T06:48:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -513,8 +513,8 @@
 		{
 			"type": "node",
 			"id": 358015168,
-			"lat": 35.1491083,
-			"lon": 126.8634645,
+			"lat": 35.1601443,
+			"lon": 126.8513006,
 			"tags": {
 				"name:vo": "Gwangju"
 			}

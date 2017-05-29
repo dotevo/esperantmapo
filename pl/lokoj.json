@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:44:54Z",
+		"timestamp_osm_base": "2017-05-29T06:20:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1127,13 +1127,12 @@
 			"lon": 23.8229279,
 			"tags": {
 				"board_type": "nature",
-				"information": "board",
 				"language:en": "yes",
 				"language:pl": "yes",
 				"name": "Puszcza Białowieska",
 				"name:be": "Белавежская пушча",
-				"name:sv": "Bialowiezaskogen",
-				"tourism": "information"
+				"name:lv": "Belovežas gārša",
+				"name:sv": "Bialowiezaskogen"
 			}
 		},
 		{
@@ -5835,6 +5834,24 @@
 				"operator": "Ruhr-Standort-Informationssystem",
 				"operator:abbr": "RuSIS",
 				"ref": "5011"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4785700143,
+			"lat": 52.2436006,
+			"lon": 20.1075555,
+			"tags": {
+				"addr:city": "Rybno",
+				"addr:postcode": "96-514",
+				"addr:street": "Wyszogrodzka",
+				"amenity": "atm",
+				"currency:PLN": "yes",
+				"language:de": "yes",
+				"language:en": "yes",
+				"language:pl": "main",
+				"name": "Bank Spółdzielczy",
+				"opening_hours": "24/7"
 			}
 		},
 		{

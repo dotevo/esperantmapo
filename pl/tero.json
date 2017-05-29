@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:44:54Z",
+		"timestamp_osm_base": "2017-05-29T06:36:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -569,6 +569,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1390077,
+			"center": {
+				"lat": 43.7954048,
+				"lon": 146.752262
+			},
+			"tags": {
+				"name:pl": "Szykotan"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1434381,
 			"center": {
 				"lat": 54.4529603,
@@ -756,6 +767,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2103185,
+			"center": {
+				"lat": 44.990448,
+				"lon": 147.8760041
+			},
+			"tags": {
+				"name:pl": "Iturup"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2130352,
 			"center": {
 				"lat": -8.4553708,
@@ -789,6 +811,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2246025,
+			"center": {
+				"lat": 50.3838992,
+				"lon": 155.6852424
+			},
+			"tags": {
+				"name:pl": "Paramuszyr"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
@@ -818,6 +851,17 @@
 			},
 			"tags": {
 				"name:pl": "San Andrés (wyspa)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2409701,
+			"center": {
+				"lat": 44.0847169,
+				"lon": 145.9892046
+			},
+			"tags": {
+				"name:pl": "Kunaszyr"
 			}
 		},
 		{
@@ -862,6 +906,17 @@
 			},
 			"tags": {
 				"name:pl": "Wellington"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2795087,
+			"center": {
+				"lat": 50.7486327,
+				"lon": 156.3435452
+			},
+			"tags": {
+				"name:pl": "Szumszu"
 			}
 		},
 		{
@@ -1218,6 +1273,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 5546660,
+			"center": {
+				"lat": 46.2950366,
+				"lon": -60.6703937
+			},
+			"tags": {
+				"name:pl": "Cape Breton"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 5856703,
 			"center": {
 				"lat": 79.8589087,
@@ -1401,6 +1467,17 @@
 			},
 			"tags": {
 				"name:pl": "Czirpoi"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6261264,
+			"center": {
+				"lat": 48.0802243,
+				"lon": 153.2215587
+			},
+			"tags": {
+				"name:pl": "Matua"
 			}
 		},
 		{

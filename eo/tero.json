@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:56:54Z",
+		"timestamp_osm_base": "2017-05-29T05:14:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -228,6 +228,17 @@
 			},
 			"tags": {
 				"name:eo": "Insulo Estados"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1390077,
+			"center": {
+				"lat": 43.7954048,
+				"lon": 146.752262
+			},
+			"tags": {
+				"name:eo": "Ŝikotano"
 			}
 		},
 		{
@@ -518,6 +529,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3987424,
+			"center": {
+				"lat": 50.1591908,
+				"lon": 143.187038
+			},
+			"tags": {
+				"name:eo": "Saĥaleno"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 4094778,
 			"center": {
 				"lat": 19.1604051,
@@ -591,6 +613,17 @@
 			},
 			"tags": {
 				"name:eo": "Banks-insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 5546660,
+			"center": {
+				"lat": 46.2950366,
+				"lon": -60.6703937
+			},
+			"tags": {
+				"name:eo": "Insulo de Breton-Kabo"
 			}
 		},
 		{

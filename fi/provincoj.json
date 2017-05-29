@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:47:54Z",
+		"timestamp_osm_base": "2017-05-29T06:46:34Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -247,6 +247,15 @@
 			"lon": 33.7498787,
 			"tags": {
 				"name:fi": "Pultavan alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 767967877,
+			"lat": 24.1698921,
+			"lon": 24.8766349,
+			"tags": {
+				"name:fi": "Libyan aavikko"
 			}
 		},
 		{

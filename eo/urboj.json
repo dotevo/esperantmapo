@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-22T05:55:54Z",
+		"timestamp_osm_base": "2017-05-29T05:13:35Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -103,15 +103,6 @@
 			"lon": 77.2159562,
 			"tags": {
 				"name:eo": "Nov-Delhio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 16174445,
-			"lat": 18.5203062,
-			"lon": 73.8543185,
-			"tags": {
-				"name:eo": "Puneo"
 			}
 		},
 		{
@@ -1529,6 +1520,15 @@
 		},
 		{
 			"type": "node",
+			"id": 58918710,
+			"lat": 34.430195,
+			"lon": 70.460128,
+			"tags": {
+				"name:eo": "Ĝalalabado"
+			}
+		},
+		{
+			"type": "node",
 			"id": 58950371,
 			"lat": -0.2201641,
 			"lon": -78.5123274,
@@ -2664,8 +2664,8 @@
 		{
 			"type": "node",
 			"id": 244077464,
-			"lat": 31.6270906,
-			"lon": 117.8847158,
+			"lat": 31.627503,
+			"lon": 117.8842395,
 			"tags": {
 				"name:eo": "Chaohu Urbo"
 			}
@@ -5283,8 +5283,8 @@
 		{
 			"type": "node",
 			"id": 358015168,
-			"lat": 35.1491083,
-			"lon": 126.8634645,
+			"lat": 35.1601443,
+			"lon": 126.8513006,
 			"tags": {
 				"name:eo": "Gŭangĝu"
 			}
