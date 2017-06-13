@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:47:34Z",
+		"timestamp_osm_base": "2017-06-13T12:52:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": 63.4425995,
 			"tags": {
 				"name:fi": "Rodrigues"
-			}
-		},
-		{
-			"type": "node",
-			"id": 309758850,
-			"lat": 63.9420329,
-			"lon": 23.2043801,
-			"tags": {
-				"name:fi": "Poroluoto"
 			}
 		},
 		{
@@ -464,6 +455,17 @@
 			},
 			"tags": {
 				"name:fi": "Eteläinen Pukkisaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4711034,
+			"center": {
+				"lat": 60.1860189,
+				"lon": 24.8613549
+			},
+			"tags": {
+				"name:fi": "Kuusisaari"
 			}
 		},
 		{
@@ -1014,6 +1016,17 @@
 			},
 			"tags": {
 				"name:fi": "Annansaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23123452,
+			"center": {
+				"lat": 60.2850155,
+				"lon": 24.3756136
+			},
+			"tags": {
+				"name:fi": "Palosaari"
 			}
 		},
 		{
@@ -1718,6 +1731,17 @@
 			},
 			"tags": {
 				"name:fi": "Itä-Villinki"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27458477,
+			"center": {
+				"lat": 64.0665795,
+				"lon": 23.5399642
+			},
+			"tags": {
+				"name:fi": "Ruohokari"
 			}
 		},
 		{
@@ -2503,17 +2527,6 @@
 		},
 		{
 			"type": "way",
-			"id": 161794451,
-			"center": {
-				"lat": 60.0933489,
-				"lon": 19.9148152
-			},
-			"tags": {
-				"name:fi": "Manner-Ahvenanmaa"
-			}
-		},
-		{
-			"type": "way",
 			"id": 167030656,
 			"center": {
 				"lat": 61.5747855,
@@ -3247,17 +3260,6 @@
 			},
 			"tags": {
 				"name:fi": "Papinkari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 366724274,
-			"center": {
-				"lat": 63.9402366,
-				"lon": 23.2958908
-			},
-			"tags": {
-				"name:fi": "Pirskeri"
 			}
 		},
 		{
@@ -5480,6 +5482,39 @@
 			},
 			"tags": {
 				"name:fi": "Muna"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7300084,
+			"center": {
+				"lat": 60.2440611,
+				"lon": 19.9515583
+			},
+			"tags": {
+				"name:fi": "Manner-Ahvenanmaa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7326293,
+			"center": {
+				"lat": 63.9401802,
+				"lon": 23.2958583
+			},
+			"tags": {
+				"name:fi": "Pirskeri"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7326294,
+			"center": {
+				"lat": 63.9459435,
+				"lon": 23.2057513
+			},
+			"tags": {
+				"name:fi": "Poroluoto"
 			}
 		}
 	]

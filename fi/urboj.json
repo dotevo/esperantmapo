@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:46:34Z",
+		"timestamp_osm_base": "2017-06-13T12:52:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -216,8 +216,8 @@
 		{
 			"type": "node",
 			"id": 26396457,
-			"lat": 23.1379911,
-			"lon": -82.3658562,
+			"lat": 23.138028,
+			"lon": -82.3658671,
 			"tags": {
 				"name:fi": "Havanna"
 			}
@@ -657,8 +657,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.710663,
-			"lon": 38.277855,
+			"lat": 46.7113378,
+			"lon": 38.2743177,
 			"tags": {
 				"name:fi": "Jeisk"
 			}
@@ -1386,8 +1386,8 @@
 		{
 			"type": "node",
 			"id": 30969683,
-			"lat": 65.9647019,
-			"lon": 29.1867006,
+			"lat": 65.9645637,
+			"lon": 29.1883283,
 			"tags": {
 				"name:fi": "Kuusamo"
 			}
@@ -1629,8 +1629,8 @@
 		{
 			"type": "node",
 			"id": 30969730,
-			"lat": 60.3338298,
-			"lon": 24.3213755,
+			"lat": 60.3339227,
+			"lon": 24.3210423,
 			"tags": {
 				"name:fi": "Nummela"
 			}
@@ -2313,8 +2313,8 @@
 		{
 			"type": "node",
 			"id": 34181150,
-			"lat": 44.5610248,
-			"lon": 38.0767599,
+			"lat": 44.5609447,
+			"lon": 38.0766832,
 			"tags": {
 				"name:fi": "Gelendžik"
 			}
@@ -2511,8 +2511,8 @@
 		{
 			"type": "node",
 			"id": 62221032,
-			"lat": 38.2462033,
-			"lon": 21.7352492,
+			"lat": 38.2462854,
+			"lon": 21.735056,
 			"tags": {
 				"name:fi": "Patras"
 			}
@@ -3501,7 +3501,7 @@
 		{
 			"type": "node",
 			"id": 256361872,
-			"lat": 54.479279,
+			"lat": 54.4792708,
 			"lon": 37.693329,
 			"tags": {
 				"name:fi": "Jasnogorsk"
@@ -4653,8 +4653,8 @@
 		{
 			"type": "node",
 			"id": 621890744,
-			"lat": 35.661089,
-			"lon": 139.473429,
+			"lat": 35.6611119,
+			"lon": 139.4734451,
 			"tags": {
 				"name:fi": "Fuchū"
 			}
@@ -5229,8 +5229,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6978151,
-			"lon": 23.3221574,
+			"lat": 42.6978634,
+			"lon": 23.3221789,
 			"tags": {
 				"name:fi": "Sofia"
 			}
@@ -5494,6 +5494,15 @@
 			"lon": 39.0277188,
 			"tags": {
 				"name:fi": "Luhovitsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4889030845,
+			"lat": 60.3339398,
+			"lon": 24.3210301,
+			"tags": {
+				"name:fi": "Nummela"
 			}
 		}
 	]

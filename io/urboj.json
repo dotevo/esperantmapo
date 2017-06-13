@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T05:22:35Z",
+		"timestamp_osm_base": "2017-06-13T14:02:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -108,8 +108,8 @@
 		{
 			"type": "node",
 			"id": 26396457,
-			"lat": 23.1379911,
-			"lon": -82.3658562,
+			"lat": 23.138028,
+			"lon": -82.3658671,
 			"tags": {
 				"name:io": "Havana"
 			}
@@ -855,8 +855,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6978151,
-			"lon": 23.3221574,
+			"lat": 42.6978634,
+			"lon": 23.3221789,
 			"tags": {
 				"name:io": "Sofiya"
 			}

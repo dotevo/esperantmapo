@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:17:34Z",
+		"timestamp_osm_base": "2017-06-13T13:09:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3163,6 +3163,15 @@
 			"lon": 46.8631952,
 			"tags": {
 				"name:pl": "Obwód saratowski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869609085,
+			"lat": 42.9920711,
+			"lon": 44.2636348,
+			"tags": {
+				"name:pl": "Osetia Północna"
 			}
 		},
 		{

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:46:34Z",
+		"timestamp_osm_base": "2017-06-13T13:00:21Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -265,6 +265,15 @@
 			"lon": 39.0021095,
 			"tags": {
 				"name:fi": "Jaroslavlin alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 869609085,
+			"lat": 42.9920711,
+			"lon": 44.2636348,
+			"tags": {
+				"name:fi": "Pohjois-Ossetia-Alania"
 			}
 		},
 		{

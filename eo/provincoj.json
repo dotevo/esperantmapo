@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T05:12:35Z",
+		"timestamp_osm_base": "2017-06-13T12:42:21Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -6633,8 +6633,8 @@
 		{
 			"type": "node",
 			"id": 2923223357,
-			"lat": 13.5303638,
-			"lon": -85.6569759,
+			"lat": 13.1099246,
+			"lon": -86.0012844,
 			"tags": {
 				"name:eo": "Ĥinotegao"
 			}

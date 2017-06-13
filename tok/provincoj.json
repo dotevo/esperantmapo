@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:55:33Z",
+		"timestamp_osm_base": "2017-06-13T13:13:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -39,7 +39,7 @@
 			"lat": 34.395342,
 			"lon": -111.7632755,
 			"tags": {
-				"name:tok": "ma Elisona"
+				"name:tok": "ma Ewisona"
 			}
 		},
 		{

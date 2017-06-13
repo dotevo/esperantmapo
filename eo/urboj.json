@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T05:13:35Z",
+		"timestamp_osm_base": "2017-06-13T12:42:21Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -103,6 +103,15 @@
 			"lon": 77.2159562,
 			"tags": {
 				"name:eo": "Nov-Delhio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 16174445,
+			"lat": 18.5203062,
+			"lon": 73.8543185,
+			"tags": {
+				"name:eo": "Puneo"
 			}
 		},
 		{
@@ -278,15 +287,6 @@
 		},
 		{
 			"type": "node",
-			"id": 21716195,
-			"lat": 34.5260131,
-			"lon": 69.1776476,
-			"tags": {
-				"name:eo": "Kabulo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 21993086,
 			"lat": 53.6288297,
 			"lon": 11.4148038,
@@ -441,8 +441,8 @@
 		{
 			"type": "node",
 			"id": 26396457,
-			"lat": 23.1379911,
-			"lon": -82.3658562,
+			"lat": 23.138028,
+			"lon": -82.3658671,
 			"tags": {
 				"name:eo": "Havano"
 			}
@@ -1098,8 +1098,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.710663,
-			"lon": 38.277855,
+			"lat": 46.7113378,
+			"lon": 38.2743177,
 			"tags": {
 				"name:eo": "Jejsko"
 			}
@@ -1368,8 +1368,8 @@
 		{
 			"type": "node",
 			"id": 34181150,
-			"lat": 44.5610248,
-			"lon": 38.0767599,
+			"lat": 44.5609447,
+			"lon": 38.0766832,
 			"tags": {
 				"name:eo": "Gelendĵik"
 			}
@@ -2250,8 +2250,8 @@
 		{
 			"type": "node",
 			"id": 195594311,
-			"lat": -3.1319515,
-			"lon": -59.9864062,
+			"lat": -3.1316333,
+			"lon": -59.9825041,
 			"tags": {
 				"name:eo": "Manaŭo"
 			}
@@ -2380,15 +2380,6 @@
 			"lon": 147.1599504,
 			"tags": {
 				"name:eo": "Port-Moresbo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 238927834,
-			"lat": 15.2984622,
-			"lon": -61.3875049,
-			"tags": {
-				"name:eo": "Roseo"
 			}
 		},
 		{
@@ -2655,8 +2646,8 @@
 		{
 			"type": "node",
 			"id": 244076913,
-			"lat": 32.9181597,
-			"lon": 117.3678101,
+			"lat": 32.9176422,
+			"lon": 117.3825673,
 			"tags": {
 				"name:eo": "Bengbu"
 			}
@@ -3078,10 +3069,10 @@
 		{
 			"type": "node",
 			"id": 253814474,
-			"lat": 45.613029,
-			"lon": 38.95089,
+			"lat": 45.6123531,
+			"lon": 38.9504299,
 			"tags": {
-				"name:eo": "Timaŝovsk"
+				"name:eo": "Timaŝevsk"
 			}
 		},
 		{
@@ -3267,7 +3258,7 @@
 		{
 			"type": "node",
 			"id": 256361872,
-			"lat": 54.479279,
+			"lat": 54.4792708,
 			"lon": 37.693329,
 			"tags": {
 				"name:eo": "Jasnogorsk"
@@ -5670,8 +5661,8 @@
 		{
 			"type": "node",
 			"id": 621890744,
-			"lat": 35.661089,
-			"lon": 139.473429,
+			"lat": 35.6611119,
+			"lon": 139.4734451,
 			"tags": {
 				"name:eo": "Fuĉu"
 			}
@@ -6588,8 +6579,8 @@
 		{
 			"type": "node",
 			"id": 1700083447,
-			"lat": 42.6978151,
-			"lon": 23.3221574,
+			"lat": 42.6978634,
+			"lon": 23.3221789,
 			"tags": {
 				"name:eo": "Sofio"
 			}

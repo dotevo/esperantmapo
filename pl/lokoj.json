@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-05-29T06:20:34Z",
+		"timestamp_osm_base": "2017-06-13T13:03:20Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -5979,7 +5979,7 @@
 				"contact:yelp": "bibliothek-witten-witten",
 				"currency:EUR": "yes",
 				"currency:others": "no",
-				"diaper": "yes",
+				"diaper": "room",
 				"dog": "no",
 				"drink:coffee": "served",
 				"fair_trade": "yes",
@@ -5990,6 +5990,7 @@
 				"internet_access:fee": "no",
 				"internet_access:operator": "Freifunk",
 				"internet_access:operator:wikidata": "Q2363543",
+				"internet_access:start_date": "2016",
 				"logo": "File:Logo Bibliothek Witten.jpg",
 				"name": "Zentralbibliothek Witten",
 				"name:ar": "مكتبة عامة فيتن",
