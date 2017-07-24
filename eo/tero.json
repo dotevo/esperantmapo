@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T12:50:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -146,8 +146,8 @@
 			"type": "way",
 			"id": 10228601,
 			"center": {
-				"lat": 40.4941388,
-				"lon": 19.2786111
+				"lat": 40.4940743,
+				"lon": 19.2787795
 			},
 			"tags": {
 				"name:eo": "Insulo Sazano"
@@ -278,7 +278,7 @@
 			"type": "relation",
 			"id": 1769123,
 			"center": {
-				"lat": 1.3404921,
+				"lat": 1.3408483,
 				"lon": 103.8244956
 			},
 			"tags": {
@@ -696,7 +696,7 @@
 			"type": "relation",
 			"id": 6047801,
 			"center": {
-				"lat": 55.6784829,
+				"lat": 55.6785071,
 				"lon": -1.8166608
 			},
 			"tags": {
@@ -883,7 +883,7 @@
 			"type": "relation",
 			"id": 7174336,
 			"center": {
-				"lat": -0.2244808,
+				"lat": -0.2240394,
 				"lon": 130.779667
 			},
 			"tags": {
@@ -960,7 +960,7 @@
 			"type": "relation",
 			"id": 7219495,
 			"center": {
-				"lat": -8.5831281,
+				"lat": -8.5832076,
 				"lon": 116.2731542
 			},
 			"tags": {

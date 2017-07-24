@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T12:51:21Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -344,6 +344,35 @@
 		},
 		{
 			"type": "node",
+			"id": 3997091093,
+			"lat": 44.1033654,
+			"lon": 13.0682373,
+			"tags": {
+				"description:en": "Wreck of on a man-made platform called \"Republic of Rose Island\"",
+				"description:eo": "Mikronacio sur artefarita platformo fondita de Giorgio ROSA, eksplodigita de Itala marpolico je 13-a de februaro 1969.",
+				"description:it": "Relitto della piattaforma artificiale denominata Isola delle Rose",
+				"esperanto": "yes",
+				"historic": "wreck",
+				"name": "Insulo de la Rozoj",
+				"name:eo": "Insulo de la Rozoj",
+				"name:hr": "Ružin otok",
+				"name:it": "Isola delle Rose",
+				"name:zh": "玫瑰島共和國",
+				"official_name": "Esperantista Respubliko de la Insulo de la Rozoj",
+				"official_name:eo": "Esperantista Respubliko de la Insulo de la Rozoj",
+				"official_name:it": "Repubblica Esperantista dell'Isola delle Rose",
+				"seamark:name": "Insulo de la Rozoj",
+				"seamark:type": "wreck",
+				"seamark:wreck:category": "non-dangerous",
+				"wikidata": "Q1044668",
+				"wikipedia": "eo:Insulo_de_la_Rozoj",
+				"wreck:date:sunk": "1969-02-26",
+				"wreck:depth": "8m",
+				"wreck:width": "20m"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4475332349,
 			"lat": -22.9097188,
 			"lon": -43.5649077,
@@ -488,7 +517,7 @@
 				"historic": "memorial",
 				"inscription:eo": "Je la memoro de la internacia kunlaboro por la paco | okaze de la 51-a universala kongreso de esperanto",
 				"inscription:hu": "A Békéért folyó nemzetközi egyittmunkálkodás emlékére | Az 51. Eszperanto Világkongresszus alkalmával",
-				"memorial:type": "plaque",
+				"memorial": "plaque",
 				"name": "Eszperanto Park",
 				"name:eo": "Esperanto Parko",
 				"name:hu": "Eszperanto Park",
@@ -947,11 +976,13 @@
 			"type": "way",
 			"id": 25526036,
 			"center": {
-				"lat": 50.0634642,
-				"lon": 19.9459175
+				"lat": 50.0634164,
+				"lon": 19.945417
 			},
 			"tags": {
-				"highway": "residential",
+				"construction": "residential",
+				"construction:end_date": "2017-08-30",
+				"highway": "construction",
 				"maxspeed": "30",
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
@@ -997,15 +1028,16 @@
 			"type": "way",
 			"id": 27036239,
 			"center": {
-				"lat": 51.0873745,
-				"lon": 17.0384527
+				"lat": 51.0875631,
+				"lon": 17.0388577
 			},
 			"tags": {
 				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Plac Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"source:maxspeed": "PL:zone30"
+				"source:maxspeed": "PL:zone30",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1518,7 +1550,8 @@
 			"tags": {
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1564,8 +1597,8 @@
 			"type": "way",
 			"id": 181408683,
 			"center": {
-				"lat": 44.3199491,
-				"lon": 3.3826962
+				"lat": 44.3199553,
+				"lon": 3.3827198
 			},
 			"tags": {
 				"building": "yes",
@@ -1967,7 +2000,7 @@
 			"type": "way",
 			"id": 352505641,
 			"center": {
-				"lat": 51.0873797,
+				"lat": 51.0873798,
 				"lon": 17.0381858
 			},
 			"tags": {
@@ -2148,6 +2181,58 @@
 				"esperanto": "yes",
 				"name": "Le Fromental",
 				"source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017"
+			}
+		},
+		{
+			"type": "way",
+			"id": 504384450,
+			"center": {
+				"lat": 51.0872241,
+				"lon": 17.0383679
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Plac Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"source:maxspeed": "PL:zone30",
+				"surface": "sett"
+			}
+		},
+		{
+			"type": "way",
+			"id": 505052765,
+			"center": {
+				"lat": 40.3414514,
+				"lon": -1.1038448
+			},
+			"tags": {
+				"alt_name": "Plaza del Esperanto",
+				"area": "yes",
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"name": "Glorieta del Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"surface": "paved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 509547120,
+			"center": {
+				"lat": 50.0634931,
+				"lon": 19.9462719
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Doktora Ludwika Zamenhofa",
+				"name:be": "вуліца Доктара Людвіка Заменгофа",
+				"name:etymology:wikidata": "Q11758",
+				"old_name": "Niecała",
+				"oneway": "yes",
+				"source:maxspeed": "PL:zone30",
+				"surface": "asphalt"
 			}
 		}
 	]

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T13:03:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -142,7 +142,7 @@
 			"type": "way",
 			"id": 4215872,
 			"center": {
-				"lat": 53.9630992,
+				"lat": 53.9631413,
 				"lon": 14.7314242
 			},
 			"tags": {
@@ -186,8 +186,8 @@
 			"type": "way",
 			"id": 10228601,
 			"center": {
-				"lat": 40.4941388,
-				"lon": 19.2786111
+				"lat": 40.4940743,
+				"lon": 19.2787795
 			},
 			"tags": {
 				"name:pl": "Sazan"
@@ -235,50 +235,6 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Niedźwiedzia"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25537290,
-			"center": {
-				"lat": 55.6519864,
-				"lon": 27.0959896
-			},
-			"tags": {
-				"name:pl": "wyspa Długa"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25537296,
-			"center": {
-				"lat": 55.6551758,
-				"lon": 27.0900323
-			},
-			"tags": {
-				"name:pl": "wyspa Wysoka"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25537315,
-			"center": {
-				"lat": 55.6621399,
-				"lon": 26.913336
-			},
-			"tags": {
-				"name:pl": "wyspa Krzyżowa"
-			}
-		},
-		{
-			"type": "way",
-			"id": 25537458,
-			"center": {
-				"lat": 55.6947325,
-				"lon": 27.0100381
-			},
-			"tags": {
-				"name:pl": "wyspa Szowa"
 			}
 		},
 		{
@@ -403,28 +359,6 @@
 			}
 		},
 		{
-			"type": "way",
-			"id": 494492641,
-			"center": {
-				"lat": 55.8137633,
-				"lon": 27.0590119
-			},
-			"tags": {
-				"name:pl": "wyspa Wielka"
-			}
-		},
-		{
-			"type": "way",
-			"id": 494492642,
-			"center": {
-				"lat": 55.816185,
-				"lon": 27.0546249
-			},
-			"tags": {
-				"name:pl": "wyspa Mała"
-			}
-		},
-		{
 			"type": "relation",
 			"id": 147194,
 			"center": {
@@ -528,7 +462,7 @@
 			"id": 861780,
 			"center": {
 				"lat": 34.8366121,
-				"lon": 24.0845405
+				"lon": 24.0844715
 			},
 			"tags": {
 				"name:pl": "Gawdos"
@@ -538,8 +472,8 @@
 			"type": "relation",
 			"id": 898904,
 			"center": {
-				"lat": 34.8734485,
-				"lon": 24.0759126
+				"lat": 34.8733206,
+				"lon": 24.0755639
 			},
 			"tags": {
 				"name:pl": "Prasonisi"
@@ -659,7 +593,7 @@
 			"type": "relation",
 			"id": 1769123,
 			"center": {
-				"lat": 1.3404921,
+				"lat": 1.3408483,
 				"lon": 103.8244956
 			},
 			"tags": {
@@ -1055,8 +989,8 @@
 			"type": "relation",
 			"id": 3538209,
 			"center": {
-				"lat": -27.1259837,
-				"lon": -109.3386817
+				"lat": -27.1259619,
+				"lon": -109.3387201
 			},
 			"tags": {
 				"name:pl": "Wyspa Wielkanocna"
@@ -1100,7 +1034,7 @@
 			"id": 3764161,
 			"center": {
 				"lat": 12.1609891,
-				"lon": 123.6086533
+				"lon": 123.6085874
 			},
 			"tags": {
 				"name:pl": "Masbate"
@@ -1440,7 +1374,7 @@
 			"type": "relation",
 			"id": 6047801,
 			"center": {
-				"lat": 55.6784829,
+				"lat": 55.6785071,
 				"lon": -1.8166608
 			},
 			"tags": {
@@ -1507,7 +1441,7 @@
 			"id": 6388640,
 			"center": {
 				"lat": 53.9129949,
-				"lon": 14.5118359
+				"lon": 14.5118432
 			},
 			"tags": {
 				"name:pl": "Wolin"
@@ -1581,6 +1515,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 7117041,
+			"center": {
+				"lat": 18.1155651,
+				"lon": -77.2759447
+			},
+			"tags": {
+				"name:pl": "Jamajka"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 7165492,
 			"center": {
 				"lat": 18.831863,
@@ -1606,7 +1551,7 @@
 			"id": 7173836,
 			"center": {
 				"lat": -1.5344118,
-				"lon": 127.7803608
+				"lon": 127.7803888
 			},
 			"tags": {
 				"name:pl": "Obi"
@@ -1643,6 +1588,17 @@
 			},
 			"tags": {
 				"name:pl": "Anjouan"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7215792,
+			"center": {
+				"lat": 60.3879905,
+				"lon": -64.6300987
+			},
+			"tags": {
+				"name:pl": "Killiniq Island"
 			}
 		},
 		{
@@ -1698,6 +1654,17 @@
 			},
 			"tags": {
 				"name:pl": "Peleng"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7361306,
+			"center": {
+				"lat": 34.7469983,
+				"lon": 11.2198705
+			},
+			"tags": {
+				"name:pl": "Szarki"
 			}
 		}
 	]

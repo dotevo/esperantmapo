@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T12:42:21Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -692,6 +692,15 @@
 		},
 		{
 			"type": "node",
+			"id": 27432369,
+			"lat": 63.8256568,
+			"lon": 20.2630745,
+			"tags": {
+				"name:eo": "Umeå"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27490597,
 			"lat": 59.938732,
 			"lon": 30.316229,
@@ -765,8 +774,8 @@
 		{
 			"type": "node",
 			"id": 27547986,
-			"lat": 47.9184676,
-			"lon": 106.9177016,
+			"lat": 47.9053494,
+			"lon": 106.9212913,
 			"tags": {
 				"name:eo": "Ulaanbaataro"
 			}
@@ -1098,8 +1107,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.7113378,
-			"lon": 38.2743177,
+			"lat": 46.7110877,
+			"lon": 38.2747683,
 			"tags": {
 				"name:eo": "Jejsko"
 			}
@@ -1264,6 +1273,24 @@
 			"lon": 30.9401454,
 			"tags": {
 				"name:eo": "Kafr aŝ-Ŝejĥ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31626656,
+			"lat": 52.357408,
+			"lon": 16.5166799,
+			"tags": {
+				"name:eo": "Buk (regiono Wielkopolskie)"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31697213,
+			"lat": 52.1361337,
+			"lon": 21.2343995,
+			"tags": {
+				"name:eo": "Józefów (distrikto Otwocki)"
 			}
 		},
 		{
@@ -1611,8 +1638,8 @@
 		{
 			"type": "node",
 			"id": 61785451,
-			"lat": 40.7305991,
-			"lon": -73.9865812,
+			"lat": 40.7306458,
+			"lon": -73.9866136,
 			"tags": {
 				"name:eo": "Novjorko"
 			}
@@ -1665,8 +1692,8 @@
 		{
 			"type": "node",
 			"id": 70990193,
-			"lat": 42.3488992,
-			"lon": 13.3981375,
+			"lat": 42.348903,
+			"lon": 13.3981527,
 			"tags": {
 				"name:eo": "La-Aglo"
 			}
@@ -1687,6 +1714,15 @@
 			"lon": 105.85247,
 			"tags": {
 				"name:eo": "Hanojo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 81008084,
+			"lat": 37.442156,
+			"lon": -122.1634472,
+			"tags": {
+				"name:eo": "Palo Alto"
 			}
 		},
 		{
@@ -1836,8 +1872,8 @@
 		{
 			"type": "node",
 			"id": 119310785,
-			"lat": 55.485449,
-			"lon": 28.7682004,
+			"lat": 55.4854656,
+			"lon": 28.7682339,
 			"tags": {
 				"name:eo": "Polack"
 			}
@@ -2762,60 +2798,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244083225,
-			"lat": 32.945992,
-			"lon": 117.3621199,
-			"tags": {
-				"name:eo": "Bengshan Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 244083228,
-			"lat": 32.9672034,
-			"lon": 117.353831,
-			"tags": {
-				"name:eo": "Huaishang Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 244083236,
-			"lat": 32.9318356,
-			"lon": 117.336544,
-			"tags": {
-				"name:eo": "Yuhui Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 244083251,
-			"lat": 31.7020193,
-			"lon": 118.5058733,
-			"tags": {
-				"name:eo": "Huashan Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 244083257,
-			"lat": 31.3422958,
-			"lon": 118.3797326,
-			"tags": {
-				"name:eo": "Jinghu Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 244083594,
-			"lat": 32.9448624,
-			"lon": 117.3881282,
-			"tags": {
-				"name:eo": "Longzihu Distrikto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 245385393,
 			"lat": 41.4769621,
 			"lon": 69.5915399,
@@ -3528,8 +3510,8 @@
 		{
 			"type": "node",
 			"id": 265057614,
-			"lat": 50.9133081,
-			"lon": 34.7947025,
+			"lat": 50.9070007,
+			"lon": 34.798386,
 			"tags": {
 				"name:eo": "Sumio"
 			}
@@ -4311,8 +4293,8 @@
 		{
 			"type": "node",
 			"id": 313557783,
-			"lat": -30.033,
-			"lon": -51.2305,
+			"lat": -30.0324999,
+			"lon": -51.2303767,
 			"tags": {
 				"name:eo": "Porto-Alegro"
 			}
@@ -5282,6 +5264,15 @@
 		},
 		{
 			"type": "node",
+			"id": 358980632,
+			"lat": 50.4681134,
+			"lon": 19.6573591,
+			"tags": {
+				"name:eo": "Pilica (regiono Śląskie)"
+			}
+		},
+		{
+			"type": "node",
 			"id": 359535254,
 			"lat": 55.8051388,
 			"lon": 37.9505325,
@@ -5584,6 +5575,15 @@
 			"lon": 41.4721354,
 			"tags": {
 				"name:eo": "Oĉamĉira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 528078976,
+			"lat": 50.5978504,
+			"lon": 19.1615184,
+			"tags": {
+				"name:eo": "Koziegłowy (regiono Śląskie)"
 			}
 		},
 		{
@@ -6272,15 +6272,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1600720972,
-			"lat": 19.2334875,
-			"lon": 73.1182464,
-			"tags": {
-				"name:eo": "Kaljan-Dombivali"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1601837931,
 			"lat": 50.0874654,
 			"lon": 14.4212535,
@@ -6731,6 +6722,24 @@
 		},
 		{
 			"type": "node",
+			"id": 1854936827,
+			"lat": 50.6145952,
+			"lon": 20.7510406,
+			"tags": {
+				"name:eo": "Chmielnik (regiono Świętokrzyskie)"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1854937210,
+			"lat": 52.4299538,
+			"lon": 21.4361082,
+			"tags": {
+				"name:eo": "Tłuszcz (distrikto Wołomiński)"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1882099475,
 			"lat": 41.0096334,
 			"lon": 28.9651646,
@@ -6965,33 +6974,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3013751478,
-			"lat": 31.8528732,
-			"lon": 117.2552439,
-			"tags": {
-				"name:eo": "Shushan Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3013754120,
-			"lat": 31.7955295,
-			"lon": 117.3052493,
-			"tags": {
-				"name:eo": "Baohe Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3013754950,
-			"lat": 31.8601612,
-			"lon": 117.3037396,
-			"tags": {
-				"name:eo": "Yaohai Distrikto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3019559323,
 			"lat": 40.223173,
 			"lon": 69.2583902,
@@ -7033,15 +7015,6 @@
 			"lon": 114.0545327,
 			"tags": {
 				"name:eo": "Ŝenĵeno"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3578183534,
-			"lat": 31.8805098,
-			"lon": 117.2592534,
-			"tags": {
-				"name:eo": "Luyang Distrikto"
 			}
 		},
 		{
@@ -7109,29 +7082,11 @@
 		},
 		{
 			"type": "node",
-			"id": 3799390398,
-			"lat": 31.6842096,
-			"lon": 118.4933555,
-			"tags": {
-				"name:eo": "Yushan Distrikto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3824013267,
 			"lat": 31.2218919,
 			"lon": 118.262715,
 			"tags": {
 				"name:eo": "Sanshan Distrikto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3824013480,
-			"lat": 31.3155852,
-			"lon": 118.3674047,
-			"tags": {
-				"name:eo": "Yijiang Distrikto"
 			}
 		},
 		{
@@ -7217,11 +7172,11 @@
 		},
 		{
 			"type": "node",
-			"id": 4866202678,
-			"lat": 31.3718147,
-			"lon": 118.3860456,
+			"id": 4950552057,
+			"lat": 15.2991923,
+			"lon": -61.3872868,
 			"tags": {
-				"name:eo": "Jiujiang Distrikto"
+				"name:eo": "Roseo"
 			}
 		}
 	]

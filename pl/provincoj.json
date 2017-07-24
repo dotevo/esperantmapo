@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T13:09:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1512,8 +1512,8 @@
 		{
 			"type": "node",
 			"id": 473831430,
-			"lat": 51.052642,
-			"lon": 13.3455497,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
 			"tags": {
 				"name:pl": "Saksonia"
 			}
@@ -1755,8 +1755,8 @@
 		{
 			"type": "node",
 			"id": 486075807,
-			"lat": 33.458327,
-			"lon": 48.6564612,
+			"lat": 33.4902495,
+			"lon": 48.3956441,
 			"tags": {
 				"name:pl": "Lorestan"
 			}
@@ -4175,15 +4175,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2035767441,
-			"lat": 34.8566552,
-			"lon": 138.4855544,
-			"tags": {
-				"name:pl": "Shizuoka"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2049929146,
 			"lat": -35.1494368,
 			"lon": 150.7085321,
@@ -4990,15 +4981,6 @@
 			"lon": 2.7937371,
 			"tags": {
 				"name:pl": "Nord-Pas-de-Calais"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4343334447,
-			"lat": 35.9263502,
-			"lon": 136.6068127,
-			"tags": {
-				"name:pl": "Prefektura Fukui"
 			}
 		},
 		{

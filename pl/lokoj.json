@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T13:03:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -448,8 +448,8 @@
 		{
 			"type": "node",
 			"id": 419159300,
-			"lat": 51.4285922,
-			"lon": 7.1129801,
+			"lat": 51.4286052,
+			"lon": 7.1129744,
 			"tags": {
 				"alt_name": "Schleuse Vogelsang Horster Mühle",
 				"contact:website": "http://www.rusis.de/",
@@ -5022,8 +5022,8 @@
 		{
 			"type": "node",
 			"id": 4369891289,
-			"lat": 51.4456837,
-			"lon": 7.3450747,
+			"lat": 51.445687,
+			"lon": 7.3451337,
 			"tags": {
 				"addr:city": "Witten",
 				"addr:country": "DE",
@@ -6013,6 +6013,7 @@
 				"service:3dprint": "yes",
 				"service:computer": "yes",
 				"service:copy": "yes",
+				"service:gaming": "yes",
 				"service:print": "yes",
 				"smoking": "no",
 				"start_date": "2016-06-22",
@@ -6021,7 +6022,8 @@
 				"wheelchair": "yes",
 				"wikidata": "Q856473",
 				"wikimedia_commons": "Category:Bibliothek Witten (Husemannstraße 12)",
-				"wikipedia": "de:Bibliothek Witten"
+				"wikipedia": "de:Bibliothek Witten",
+				"year_of_construction": "2014..2016"
 			}
 		}
 	]

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T13:00:21Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -144,8 +144,8 @@
 		{
 			"type": "node",
 			"id": 473831430,
-			"lat": 51.052642,
-			"lon": 13.3455497,
+			"lat": 50.9295798,
+			"lon": 13.4585052,
 			"tags": {
 				"name:fi": "Saksi"
 			}
@@ -535,15 +535,6 @@
 			"lon": 2.7937371,
 			"tags": {
 				"name:fi": "Nord-Pas-de-Calais"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4575686020,
-			"lat": 40.6333004,
-			"lon": 20.082904,
-			"tags": {
-				"name:fi": "Beratin maakunta"
 			}
 		}
 	]

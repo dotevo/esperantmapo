@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T14:02:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -171,8 +171,8 @@
 		{
 			"type": "node",
 			"id": 27547986,
-			"lat": 47.9184676,
-			"lon": 106.9177016,
+			"lat": 47.9053494,
+			"lon": 106.9212913,
 			"tags": {
 				"name:io": "Ulan Bator"
 			}
@@ -913,6 +913,15 @@
 			"lon": 90.3788136,
 			"tags": {
 				"name:io": "Dhaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4950552057,
+			"lat": 15.2991923,
+			"lon": -61.3872868,
+			"tags": {
+				"name:io": "Roseau"
 			}
 		}
 	]

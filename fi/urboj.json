@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-06-13T12:52:20Z",
+		"timestamp_osm_base": "2017-07-24T04:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -540,8 +540,8 @@
 		{
 			"type": "node",
 			"id": 27547986,
-			"lat": 47.9184676,
-			"lon": 106.9177016,
+			"lat": 47.9053494,
+			"lon": 106.9212913,
 			"tags": {
 				"name:fi": "Ulaanbaatar"
 			}
@@ -657,8 +657,8 @@
 		{
 			"type": "node",
 			"id": 29866526,
-			"lat": 46.7113378,
-			"lon": 38.2743177,
+			"lat": 46.7110877,
+			"lon": 38.2747683,
 			"tags": {
 				"name:fi": "Jeisk"
 			}
@@ -917,6 +917,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969548,
+			"lat": 60.6486437,
+			"lon": 22.5828886,
+			"tags": {
+				"name:fi": "Aura"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969551,
 			"lat": 59.9744647,
 			"lon": 23.4357477,
@@ -936,8 +945,8 @@
 		{
 			"type": "node",
 			"id": 30969553,
-			"lat": 61.1335128,
-			"lon": 22.1331075,
+			"lat": 61.1300795,
+			"lon": 22.1283458,
 			"tags": {
 				"name:fi": "Eura"
 			}
@@ -945,8 +954,8 @@
 		{
 			"type": "node",
 			"id": 30969555,
-			"lat": 60.8167634,
-			"lon": 23.6329178,
+			"lat": 60.8155736,
+			"lon": 23.629833,
 			"tags": {
 				"name:fi": "Forssa"
 			}
@@ -1628,15 +1637,6 @@
 		},
 		{
 			"type": "node",
-			"id": 30969730,
-			"lat": 60.3339227,
-			"lon": 24.3210423,
-			"tags": {
-				"name:fi": "Nummela"
-			}
-		},
-		{
-			"type": "node",
 			"id": 30969731,
 			"lat": 63.5422079,
 			"lon": 29.14101,
@@ -2276,15 +2276,6 @@
 		},
 		{
 			"type": "node",
-			"id": 33779515,
-			"lat": 69.0110992,
-			"lon": 23.0368311,
-			"tags": {
-				"name:fi": "Koutokeino"
-			}
-		},
-		{
-			"type": "node",
 			"id": 34002096,
 			"lat": 67.8550724,
 			"lon": 20.2255482,
@@ -2421,8 +2412,8 @@
 		{
 			"type": "node",
 			"id": 57549546,
-			"lat": 39.6382927,
-			"lon": 22.4159499,
+			"lat": 39.6383092,
+			"lon": 22.4160706,
 			"tags": {
 				"name:fi": "Larissa"
 			}
@@ -2511,8 +2502,8 @@
 		{
 			"type": "node",
 			"id": 62221032,
-			"lat": 38.2462854,
-			"lon": 21.735056,
+			"lat": 38.246242,
+			"lon": 21.7350847,
 			"tags": {
 				"name:fi": "Patras"
 			}
@@ -2758,6 +2749,15 @@
 			"lon": 37.4449896,
 			"tags": {
 				"name:fi": "Himki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 146570870,
+			"lat": 50.7450733,
+			"lon": 25.320078,
+			"tags": {
+				"name:fi": "Lutsk"
 			}
 		},
 		{
@@ -3325,6 +3325,24 @@
 			"lon": 29.8730838,
 			"tags": {
 				"name:fi": "Kaarlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 251223522,
+			"lat": 49.4196404,
+			"lon": 26.9793793,
+			"tags": {
+				"name:fi": "Hmelnytskyi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 252098339,
+			"lat": 50.2598298,
+			"lon": 28.6692345,
+			"tags": {
+				"name:fi": "Žytomyr"
 			}
 		},
 		{
@@ -5499,10 +5517,28 @@
 		{
 			"type": "node",
 			"id": 4889030845,
-			"lat": 60.3339398,
-			"lon": 24.3210301,
+			"lat": 60.3339805,
+			"lon": 24.3208686,
 			"tags": {
 				"name:fi": "Nummela"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4950552057,
+			"lat": 15.2991923,
+			"lon": -61.3872868,
+			"tags": {
+				"name:fi": "Roseau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4966130398,
+			"lat": 61.3441735,
+			"lon": 22.9094429,
+			"tags": {
+				"name:fi": "Vammala"
 			}
 		}
 	]
