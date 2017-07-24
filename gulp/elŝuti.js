@@ -8,7 +8,8 @@ const request = require('request')
 const fs = require('fs')
 const argv = require('yargs').argv
 
-const servilo = 'http://overpass-api.de/api/interpreter?data='
+//const servilo = 'http://overpass-api.de/api/interpreter?data='
+const servilo = 'http://overpass.osm.rambler.ru/cgi/interpreter?data='
 
 let lingvo = 'eo'
 
@@ -19,7 +20,7 @@ function provincoj() {
 	return '[out:json];node["name:' + lingvo + '"][place~"state|region"];out center;'
 }
 function urboj() {
-	return '[out:json];node["name:' + lingvo + '"][place~"city|town"];out center;'
+	return '[out:json];node["name:' + lingvo + '"][place~"city|town|suburb"];out center;'
 }
 function tero() {
 	return '[out:json];(' +
@@ -79,6 +80,8 @@ function skribiAlDosiero(path, contents, cb) {
 	})
 }
 
+const templimo = 1000;
+
 gulp.task('lingvo', function(done) {
 	if (argv.lingvo != null) {
 		lingvo = argv.lingvo
@@ -96,7 +99,7 @@ gulp.task('elŝuti:landoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
-	}).pipe(wait(5000))
+	}).pipe(wait(templimo))
 }))
 
 gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
@@ -108,7 +111,7 @@ gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
-	}).pipe(wait(5000))
+	}).pipe(wait(templimo))
 }))
 
 gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
@@ -120,7 +123,7 @@ gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
-	}).pipe(wait(5000))
+	}).pipe(wait(templimo))
 }))
 
 gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
@@ -132,7 +135,7 @@ gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
-	}).pipe(wait(5000))
+	}).pipe(wait(templimo))
 }))
 
 gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
@@ -144,5 +147,5 @@ gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
-	}).pipe(wait(5000))
+	}).pipe(wait(templimo))
 }))

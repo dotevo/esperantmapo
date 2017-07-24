@@ -1,6 +1,15 @@
 #!/bin/bash
-npm run gulp elŝuti -- --lingvo=vo
-npm run gulp elŝuti -- --lingvo=pl
-npm run gulp elŝuti -- --lingvo=eo
-npm run gulp elŝuti -- --lingvo=jbo
-npm run gulp elŝuti -- --lingvo=io
+array=(vo pl eo jbo io fi tok)
+for i in "${array[@]}"
+do
+  npm run gulp elŝuti:landoj -- --lingvo=$i
+  sleep 10
+  npm run gulp elŝuti:provincoj -- --lingvo=$i
+  sleep 10
+  npm run gulp elŝuti:urboj -- --lingvo=$i
+  sleep 10
+  npm run gulp elŝuti:lokoj -- --lingvo=$i
+  sleep 10
+  npm run gulp elŝuti:tero -- --lingvo=$i
+  sleep 10
+done
