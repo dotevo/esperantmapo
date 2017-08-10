@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -116,11 +116,164 @@
 		},
 		{
 			"type": "node",
+			"id": 25197582,
+			"lat": 60.1860958,
+			"lon": 24.8614584,
+			"tags": {
+				"name:fi": "Kuusisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25197832,
+			"lat": 60.1794989,
+			"lon": 24.8513685,
+			"tags": {
+				"name:fi": "Lehtisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238252,
+			"lat": 60.2117279,
+			"lon": 24.9033992,
+			"tags": {
+				"name:fi": "Kivihaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238287,
+			"lat": 60.1940859,
+			"lon": 24.9191674,
+			"tags": {
+				"name:fi": "Laakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238343,
+			"lat": 60.2116151,
+			"lon": 24.8910918,
+			"tags": {
+				"name:fi": "Etelä-Haaga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238701,
+			"lat": 60.1593692,
+			"lon": 24.8753044,
+			"tags": {
+				"name:fi": "Lauttasaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238705,
+			"lat": 60.162925,
+			"lon": 24.9114974,
+			"tags": {
+				"name:fi": "Ruoholahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238963,
+			"lat": 60.1675639,
+			"lon": 24.9136565,
+			"tags": {
+				"name:fi": "Lapinlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238965,
+			"lat": 60.1570639,
+			"lon": 24.9116552,
+			"tags": {
+				"name:fi": "Jätkäsaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238969,
+			"lat": 60.1612371,
+			"lon": 24.9365046,
+			"tags": {
+				"name:fi": "Punavuori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25238971,
+			"lat": 60.1560404,
+			"lon": 24.9310983,
+			"tags": {
+				"name:fi": "Munkkisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25240202,
+			"lat": 60.21967,
+			"lon": 24.8141415,
+			"tags": {
+				"name:fi": "Leppävaara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25240211,
+			"lat": 60.2256743,
+			"lon": 24.8908598,
+			"tags": {
+				"name:fi": "Pohjois-Haaga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25240213,
+			"lat": 60.2436076,
+			"lon": 24.8832893,
+			"tags": {
+				"name:fi": "Kannelmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25240388,
+			"lat": 60.202954,
+			"lon": 24.8941396,
+			"tags": {
+				"name:fi": "Pikku Huopalahti"
+			}
+		},
+		{
+			"type": "node",
 			"id": 25248662,
 			"lat": 39.9059631,
 			"lon": 116.391248,
 			"tags": {
 				"name:fi": "Peking"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25269626,
+			"lat": 60.2199616,
+			"lon": 24.8751167,
+			"tags": {
+				"name:fi": "Pitäjänmäen yritysalue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25305192,
+			"lat": 60.2286886,
+			"lon": 24.8578493,
+			"tags": {
+				"name:fi": "Reimarla"
 			}
 		},
 		{
@@ -134,11 +287,47 @@
 		},
 		{
 			"type": "node",
+			"id": 25389463,
+			"lat": 60.1669752,
+			"lon": 24.9681511,
+			"tags": {
+				"name:fi": "Katajanokka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25389464,
+			"lat": 60.1728702,
+			"lon": 24.9547326,
+			"tags": {
+				"name:fi": "Kruununhaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25417668,
+			"lat": 60.4637095,
+			"lon": 22.293054,
+			"tags": {
+				"name:fi": "Ylioppilaskylä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 25417670,
 			"lat": 60.4061996,
 			"lon": 22.3685677,
 			"tags": {
 				"name:fi": "Kaarina"
+			}
+		},
+		{
+			"type": "node",
+			"id": 25426008,
+			"lat": 60.4457649,
+			"lon": 22.294073,
+			"tags": {
+				"name:fi": "Kupittaa"
 			}
 		},
 		{
@@ -197,6 +386,24 @@
 		},
 		{
 			"type": "node",
+			"id": 26109652,
+			"lat": 60.4210462,
+			"lon": 22.3031888,
+			"tags": {
+				"name:fi": "Koivula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26110240,
+			"lat": 60.4263921,
+			"lon": 22.2233,
+			"tags": {
+				"name:fi": "Lauttaranta"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26150422,
 			"lat": 50.4501071,
 			"lon": 30.5240501,
@@ -215,11 +422,29 @@
 		},
 		{
 			"type": "node",
+			"id": 26268396,
+			"lat": 60.4505404,
+			"lon": 22.2305737,
+			"tags": {
+				"name:fi": "Iso-Heikkilä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26396457,
 			"lat": 23.138028,
 			"lon": -82.3658671,
 			"tags": {
 				"name:fi": "Havanna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26396884,
+			"lat": 60.2429712,
+			"lon": 24.7599211,
+			"tags": {
+				"name:fi": "Laaksolahti"
 			}
 		},
 		{
@@ -242,11 +467,65 @@
 		},
 		{
 			"type": "node",
+			"id": 26706729,
+			"lat": 60.4461925,
+			"lon": 22.3561818,
+			"tags": {
+				"name:fi": "Varissuo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26707967,
 			"lat": 56.9493977,
 			"lon": 24.1051846,
 			"tags": {
 				"name:fi": "Riika"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26736836,
+			"lat": 60.4219798,
+			"lon": 22.2887862,
+			"tags": {
+				"name:fi": "Ilpoinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26736837,
+			"lat": 60.4266648,
+			"lon": 22.2995023,
+			"tags": {
+				"name:fi": "Peltola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26736838,
+			"lat": 60.4369342,
+			"lon": 22.2699605,
+			"tags": {
+				"name:fi": "Mäntymäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26851727,
+			"lat": 63.1102425,
+			"lon": 21.594568,
+			"tags": {
+				"name:fi": "Palosaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26858500,
+			"lat": 63.0905848,
+			"lon": 21.5705411,
+			"tags": {
+				"name:fi": "Vaskiluoto"
 			}
 		},
 		{
@@ -647,6 +926,24 @@
 		},
 		{
 			"type": "node",
+			"id": 29760905,
+			"lat": 60.2973151,
+			"lon": 24.9513748,
+			"tags": {
+				"name:fi": "Virkamies"
+			}
+		},
+		{
+			"type": "node",
+			"id": 29775128,
+			"lat": 59.3249529,
+			"lon": 18.0706429,
+			"tags": {
+				"name:fi": "Vanhakaupunki"
+			}
+		},
+		{
+			"type": "node",
 			"id": 29787492,
 			"lat": 59.4372155,
 			"lon": 24.7453688,
@@ -908,6 +1205,24 @@
 		},
 		{
 			"type": "node",
+			"id": 30969545,
+			"lat": 64.8833332,
+			"lon": 28.9166589,
+			"tags": {
+				"name:fi": "Ämmänsaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969546,
+			"lat": 60.6861934,
+			"lon": 26.8124995,
+			"tags": {
+				"name:fi": "Anjala"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969547,
 			"lat": 61.2160602,
 			"lon": 25.500376,
@@ -1106,11 +1421,29 @@
 		},
 		{
 			"type": "node",
+			"id": 30969584,
+			"lat": 60.699706,
+			"lon": 26.8520664,
+			"tags": {
+				"name:fi": "Inkeroinen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969586,
 			"lat": 63,
 			"lon": 22.316667,
 			"tags": {
 				"name:fi": "Isokyrö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969590,
+			"lat": 62.5000001,
+			"lon": 22.7499928,
+			"tags": {
+				"name:fi": "Jalasjärvi"
 			}
 		},
 		{
@@ -1138,6 +1471,15 @@
 			"lon": 24.6692633,
 			"tags": {
 				"name:fi": "Janakkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969599,
+			"lat": 60.5514226,
+			"lon": 24.9678903,
+			"tags": {
+				"name:fi": "Jokela"
 			}
 		},
 		{
@@ -1192,6 +1534,24 @@
 			"lon": 28.4801127,
 			"tags": {
 				"name:fi": "Kaavi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969615,
+			"lat": 61.8176581,
+			"lon": 25.2379888,
+			"tags": {
+				"name:fi": "Kaipola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969621,
+			"lat": 61.0923297,
+			"lon": 24.1363201,
+			"tags": {
+				"name:fi": "Iittala"
 			}
 		},
 		{
@@ -1286,6 +1646,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969647,
+			"lat": 60.5321636,
+			"lon": 25.1052279,
+			"tags": {
+				"name:fi": "Kellokoski"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969651,
 			"lat": 66.7161179,
 			"lon": 27.4333534,
@@ -1327,6 +1696,15 @@
 			"lon": 26.619693,
 			"tags": {
 				"name:fi": "Kiuruvesi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969665,
+			"lat": 60.383333,
+			"lon": 24.75,
+			"tags": {
+				"name:fi": "Klaukkala"
 			}
 		},
 		{
@@ -1403,6 +1781,33 @@
 		},
 		{
 			"type": "node",
+			"id": 30969684,
+			"lat": 60.9069347,
+			"lon": 26.6241933,
+			"tags": {
+				"name:fi": "Kuusankoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969685,
+			"lat": 61.5360385,
+			"lon": 21.6716375,
+			"tags": {
+				"name:fi": "Kyläsaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969687,
+			"lat": 61.6667519,
+			"lon": 23.1831866,
+			"tags": {
+				"name:fi": "Kyröskoski"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969688,
 			"lat": 62.9761064,
 			"lon": 22.0122155,
@@ -1439,6 +1844,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969693,
+			"lat": 62.2521309,
+			"lon": 21.5209201,
+			"tags": {
+				"name:fi": "Lapväärtti"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969694,
 			"lat": 62.9702783,
 			"lon": 23.0068628,
@@ -1453,6 +1867,15 @@
 			"lon": 25.95,
 			"tags": {
 				"name:fi": "Laukaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969696,
+			"lat": 62.6585865,
+			"lon": 29.7962961,
+			"tags": {
+				"name:fi": "Lehmo"
 			}
 		},
 		{
@@ -1489,6 +1912,15 @@
 			"lon": 22.4554559,
 			"tags": {
 				"name:fi": "Lieto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969704,
+			"lat": 62.2631219,
+			"lon": 26.200397,
+			"tags": {
+				"name:fi": "Lievestuore"
 			}
 		},
 		{
@@ -1574,6 +2006,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969716,
+			"lat": 65.2131141,
+			"lon": 25.3048826,
+			"tags": {
+				"name:fi": "Martinniemi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969717,
 			"lat": 60.566667,
 			"lon": 22.1,
@@ -1601,6 +2042,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969721,
+			"lat": 60.7689175,
+			"lon": 26.7921954,
+			"tags": {
+				"name:fi": "Myllykoski"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969723,
 			"lat": 60.4688687,
 			"lon": 22.0291149,
@@ -1615,6 +2065,15 @@
 			"lon": 21.336676,
 			"tags": {
 				"name:fi": "Närpiö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969726,
+			"lat": 60.95,
+			"lon": 25.933333,
+			"tags": {
+				"name:fi": "Nastola"
 			}
 		},
 		{
@@ -1736,6 +2195,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969744,
+			"lat": 63.3201326,
+			"lon": 30.1523748,
+			"tags": {
+				"name:fi": "Pankakoski"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969745,
 			"lat": 60.3054487,
 			"lon": 22.2996452,
@@ -1763,11 +2231,29 @@
 		},
 		{
 			"type": "node",
+			"id": 30969749,
+			"lat": 64.7000027,
+			"lon": 24.5833258,
+			"tags": {
+				"name:fi": "Pattijoki"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969750,
 			"lat": 66.7747332,
 			"lon": 23.9676822,
 			"tags": {
 				"name:fi": "Pello"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969751,
+			"lat": 60.2049924,
+			"lon": 23.1234667,
+			"tags": {
+				"name:fi": "Perniö"
 			}
 		},
 		{
@@ -1795,6 +2281,15 @@
 			"lon": 25.5754689,
 			"tags": {
 				"name:fi": "Pihtipudas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969756,
+			"lat": 60.4297323,
+			"lon": 22.5088593,
+			"tags": {
+				"name:fi": "Piikkiö"
 			}
 		},
 		{
@@ -1889,6 +2384,24 @@
 		},
 		{
 			"type": "node",
+			"id": 30969773,
+			"lat": 66.5201026,
+			"lon": 25.7729301,
+			"tags": {
+				"name:fi": "Saarenkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969774,
+			"lat": 63.299887,
+			"lon": 23.1573335,
+			"tags": {
+				"name:fi": "Kortesjärvi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969775,
 			"lat": 61.0506941,
 			"lon": 22.333669,
@@ -1943,6 +2456,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969782,
+			"lat": 60.4941133,
+			"lon": 26.7110929,
+			"tags": {
+				"name:fi": "Siltakylä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969783,
 			"lat": 67.4189716,
 			"lon": 26.5902179,
@@ -1966,6 +2488,15 @@
 			"lon": 28.3878316,
 			"tags": {
 				"name:fi": "Sotkamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969787,
+			"lat": 62.5659891,
+			"lon": 25.8546717,
+			"tags": {
+				"name:fi": "Suolahti"
 			}
 		},
 		{
@@ -2011,6 +2542,15 @@
 			"lon": 21.7393192,
 			"tags": {
 				"name:fi": "Teuva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969794,
+			"lat": 62.389702,
+			"lon": 25.6458923,
+			"tags": {
+				"name:fi": "Tikkakoski"
 			}
 		},
 		{
@@ -2087,6 +2627,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969815,
+			"lat": 60.4108534,
+			"lon": 26.2510937,
+			"tags": {
+				"name:fi": "Valko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969817,
 			"lat": 61.3396213,
 			"lon": 22.9139772,
@@ -2123,6 +2672,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969826,
+			"lat": 62.3662309,
+			"lon": 25.899981,
+			"tags": {
+				"name:fi": "Vihtavuori"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969828,
 			"lat": 60.4168803,
 			"lon": 24.320558,
@@ -2150,6 +2708,24 @@
 		},
 		{
 			"type": "node",
+			"id": 30969834,
+			"lat": 62.0168263,
+			"lon": 24.51556,
+			"tags": {
+				"name:fi": "Vilppula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969837,
+			"lat": 60.2000053,
+			"lon": 24.00001,
+			"tags": {
+				"name:fi": "Virkkala"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969839,
 			"lat": 62.2402483,
 			"lon": 23.7725594,
@@ -2159,11 +2735,47 @@
 		},
 		{
 			"type": "node",
+			"id": 30969842,
+			"lat": 65.6843073,
+			"lon": 24.6717043,
+			"tags": {
+				"name:fi": "Hepola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969844,
+			"lat": 61.2500021,
+			"lon": 26.0666714,
+			"tags": {
+				"name:fi": "Heinolan kirkonkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969846,
+			"lat": 61.2839792,
+			"lon": 22.6938146,
+			"tags": {
+				"name:fi": "Äetsä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969854,
 			"lat": 61.6877956,
 			"lon": 27.2726569,
 			"tags": {
 				"name:fi": "Mikkeli"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969869,
+			"lat": 62.6114311,
+			"lon": 29.5513797,
+			"tags": {
+				"name:fi": "Ylämylly"
 			}
 		},
 		{
@@ -2191,6 +2803,15 @@
 			"lon": 23.5969495,
 			"tags": {
 				"name:fi": "Ylöjärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 30969880,
+			"lat": 60.2694497,
+			"lon": 24.124983,
+			"tags": {
+				"name:fi": "Ventelä"
 			}
 		},
 		{
@@ -2231,11 +2852,92 @@
 		},
 		{
 			"type": "node",
+			"id": 31523080,
+			"lat": 60.9376662,
+			"lon": 26.8037057,
+			"tags": {
+				"name:fi": "Valkeala"
+			}
+		},
+		{
+			"type": "node",
 			"id": 32013127,
 			"lat": 39.0194741,
 			"lon": 125.753388,
 			"tags": {
 				"name:fi": "Pjongjang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426212,
+			"lat": 60.431626,
+			"lon": 22.255878,
+			"tags": {
+				"name:fi": "Vähäheikkilä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426213,
+			"lat": 60.4369253,
+			"lon": 22.2414069,
+			"tags": {
+				"name:fi": "Itäranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426215,
+			"lat": 60.4404921,
+			"lon": 22.2852788,
+			"tags": {
+				"name:fi": "Kurjenmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426227,
+			"lat": 60.3957944,
+			"lon": 22.2698051,
+			"tags": {
+				"name:fi": "Papinsaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426232,
+			"lat": 60.404482,
+			"lon": 22.1859863,
+			"tags": {
+				"name:fi": "Illoinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426236,
+			"lat": 60.4058918,
+			"lon": 22.255195,
+			"tags": {
+				"name:fi": "Kaistarniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426242,
+			"lat": 60.4284552,
+			"lon": 22.1507758,
+			"tags": {
+				"name:fi": "Ruissalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 32426246,
+			"lat": 60.4520119,
+			"lon": 22.1805378,
+			"tags": {
+				"name:fi": "Artukainen"
 			}
 		},
 		{
@@ -2258,6 +2960,24 @@
 		},
 		{
 			"type": "node",
+			"id": 32830576,
+			"lat": 64.1459667,
+			"lon": 28.2696599,
+			"tags": {
+				"name:fi": "Vuokatti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 33141239,
+			"lat": 60.4010656,
+			"lon": 25.6809853,
+			"tags": {
+				"name:fi": "Tarmola"
+			}
+		},
+		{
+			"type": "node",
 			"id": 33622904,
 			"lat": 46.2017559,
 			"lon": 6.1466014,
@@ -2272,6 +2992,15 @@
 			"lon": 25.7046425,
 			"tags": {
 				"name:fi": "Luhanka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 33625953,
+			"lat": 62.0168002,
+			"lon": 25.5611984,
+			"tags": {
+				"name:fi": "Korpilahti"
 			}
 		},
 		{
@@ -2366,6 +3095,15 @@
 		},
 		{
 			"type": "node",
+			"id": 36671672,
+			"lat": 60.3898168,
+			"lon": 25.6498872,
+			"tags": {
+				"name:fi": "Näsi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 38461549,
 			"lat": 67.135243,
 			"lon": 20.6604843,
@@ -2380,6 +3118,42 @@
 			"lon": 37.8013407,
 			"tags": {
 				"name:fi": "Donetsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 49739358,
+			"lat": 60.3585219,
+			"lon": 25.0407507,
+			"tags": {
+				"name:fi": "Vierumäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 49739789,
+			"lat": 60.3451541,
+			"lon": 25.0608167,
+			"tags": {
+				"name:fi": "Kulomäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 51329829,
+			"lat": 60.2014567,
+			"lon": 25.061163,
+			"tags": {
+				"name:fi": "Roihuvuori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 51331601,
+			"lat": 60.1853879,
+			"lon": 25.0096847,
+			"tags": {
+				"name:fi": "Kulosaari"
 			}
 		},
 		{
@@ -2447,6 +3221,15 @@
 		},
 		{
 			"type": "node",
+			"id": 60128004,
+			"lat": 60.1524761,
+			"lon": 25.049372,
+			"tags": {
+				"name:fi": "Santahamina"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60251543,
 			"lat": 61.7872702,
 			"lon": 28.3712945,
@@ -2461,6 +3244,15 @@
 			"lon": 34.973373,
 			"tags": {
 				"name:fi": "Toržok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 60421201,
+			"lat": 59.4373438,
+			"lon": 24.7452048,
+			"tags": {
+				"name:fi": "Tallinnan vanhakaupunki"
 			}
 		},
 		{
@@ -2492,11 +3284,29 @@
 		},
 		{
 			"type": "node",
+			"id": 60574895,
+			"lat": 60.1703735,
+			"lon": 24.728761,
+			"tags": {
+				"name:fi": "Olari"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60696063,
 			"lat": 59.346325,
 			"lon": 31.244207,
 			"tags": {
 				"name:fi": "Ljuban"
+			}
+		},
+		{
+			"type": "node",
+			"id": 61713206,
+			"lat": 60.2693777,
+			"lon": 25.1942843,
+			"tags": {
+				"name:fi": "Landbo"
 			}
 		},
 		{
@@ -2600,6 +3410,24 @@
 		},
 		{
 			"type": "node",
+			"id": 80216095,
+			"lat": 63.0747313,
+			"lon": 21.6533556,
+			"tags": {
+				"name:fi": "Suvilahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 80219253,
+			"lat": 63.0846117,
+			"lon": 21.6672855,
+			"tags": {
+				"name:fi": "Strömberg Park"
+			}
+		},
+		{
+			"type": "node",
 			"id": 82452220,
 			"lat": 56.3355543,
 			"lon": 36.7352147,
@@ -2654,11 +3482,164 @@
 		},
 		{
 			"type": "node",
+			"id": 87702897,
+			"lat": 60.2510434,
+			"lon": 25.2234058,
+			"tags": {
+				"name:fi": "Karhusaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 87748962,
+			"lat": 60.2525878,
+			"lon": 24.888068,
+			"tags": {
+				"name:fi": "Hakuninmaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 88507104,
+			"lat": 63.116476,
+			"lon": 21.5982037,
+			"tags": {
+				"name:fi": "Viikinlohko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 88507115,
+			"lat": 63.1255793,
+			"lon": 21.5993389,
+			"tags": {
+				"name:fi": "Isolahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 88507118,
+			"lat": 63.0334362,
+			"lon": 21.5478356,
+			"tags": {
+				"name:fi": "Sundom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 90408391,
+			"lat": 63.101501,
+			"lon": 21.6546498,
+			"tags": {
+				"name:fi": "Asevelikylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 90408394,
+			"lat": 63.0793934,
+			"lon": 21.7304349,
+			"tags": {
+				"name:fi": "Kråklund"
+			}
+		},
+		{
+			"type": "node",
+			"id": 90408395,
+			"lat": 63.0831815,
+			"lon": 21.6963816,
+			"tags": {
+				"name:fi": "Melaniemi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 90495941,
 			"lat": 55.0951738,
 			"lon": 36.611913,
 			"tags": {
 				"name:fi": "Obninsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 90653587,
+			"lat": 60.2442434,
+			"lon": 24.8979551,
+			"tags": {
+				"name:fi": "Maununneva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91310357,
+			"lat": 60.283019,
+			"lon": 25.0064817,
+			"tags": {
+				"name:fi": "Suutarila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91310588,
+			"lat": 60.2747497,
+			"lon": 24.9888187,
+			"tags": {
+				"name:fi": "Siltamäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91311430,
+			"lat": 60.2762098,
+			"lon": 25.025881,
+			"tags": {
+				"name:fi": "Tapulikaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91311619,
+			"lat": 60.2677825,
+			"lon": 25.0226194,
+			"tags": {
+				"name:fi": "Tapanila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91312326,
+			"lat": 60.2586389,
+			"lon": 24.9906648,
+			"tags": {
+				"name:fi": "Tapaninvainio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91313305,
+			"lat": 60.2540482,
+			"lon": 25.0046591,
+			"tags": {
+				"name:fi": "Ylä-Malmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91313977,
+			"lat": 60.2494741,
+			"lon": 25.0145389,
+			"tags": {
+				"name:fi": "Ala-Malmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 91314475,
+			"lat": 60.2457251,
+			"lon": 25.0324041,
+			"tags": {
+				"name:fi": "Sepänmäki"
 			}
 		},
 		{
@@ -2677,6 +3658,51 @@
 			"lon": 26.1027202,
 			"tags": {
 				"name:fi": "Bukarest"
+			}
+		},
+		{
+			"type": "node",
+			"id": 98697750,
+			"lat": 60.2591712,
+			"lon": 25.0784439,
+			"tags": {
+				"name:fi": "Jakomäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 98698575,
+			"lat": 60.2516499,
+			"lon": 25.0954132,
+			"tags": {
+				"name:fi": "Rajakylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 98699851,
+			"lat": 60.2387857,
+			"lon": 25.0800495,
+			"tags": {
+				"name:fi": "Kontula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 98701101,
+			"lat": 60.2311159,
+			"lon": 25.0694924,
+			"tags": {
+				"name:fi": "Kurkimäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 98701328,
+			"lat": 60.2356754,
+			"lon": 25.0608235,
+			"tags": {
+				"name:fi": "Kivikko"
 			}
 		},
 		{
@@ -2852,6 +3878,123 @@
 		},
 		{
 			"type": "node",
+			"id": 171802833,
+			"lat": 60.4897448,
+			"lon": 22.2616184,
+			"tags": {
+				"name:fi": "Runosmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 173058854,
+			"lat": 60.3875137,
+			"lon": 25.7015933,
+			"tags": {
+				"name:fi": "Kevätkumpu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 173091834,
+			"lat": 60.3820477,
+			"lon": 25.6117924,
+			"tags": {
+				"name:fi": "Eestinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 175550772,
+			"lat": 60.2216089,
+			"lon": 24.940277,
+			"tags": {
+				"name:fi": "Metsälä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 175552385,
+			"lat": 60.2294429,
+			"lon": 24.9635828,
+			"tags": {
+				"name:fi": "Oulunkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 175559036,
+			"lat": 60.225892,
+			"lon": 25.0222642,
+			"tags": {
+				"name:fi": "Viikki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 175562860,
+			"lat": 60.1630005,
+			"lon": 25.0741542,
+			"tags": {
+				"name:fi": "Jollas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 175573456,
+			"lat": 60.1732049,
+			"lon": 25.0449197,
+			"tags": {
+				"name:fi": "Laajasalo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 185534926,
+			"lat": 60.2680993,
+			"lon": 24.7977579,
+			"tags": {
+				"name:fi": "Hämeenkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 185539553,
+			"lat": 60.262485,
+			"lon": 24.8054901,
+			"tags": {
+				"name:fi": "Pähkinärinne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 186731843,
+			"lat": 60.3485969,
+			"lon": 25.0894451,
+			"tags": {
+				"name:fi": "Metsola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 189200896,
+			"lat": 61.4852976,
+			"lon": 23.8441555,
+			"tags": {
+				"name:fi": "Messukylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 189205577,
+			"lat": 60.2526696,
+			"lon": 24.7808883,
+			"tags": {
+				"name:fi": "Linnainen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 191644503,
 			"lat": 42.97554,
 			"lon": 47.49612,
@@ -2960,6 +4103,15 @@
 		},
 		{
 			"type": "node",
+			"id": 191888317,
+			"lat": 55.7452784,
+			"lon": 38.0155193,
+			"tags": {
+				"name:fi": "Železnodorožnyi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 191913805,
 			"lat": 55.5972801,
 			"lon": 38.1199863,
@@ -3005,11 +4157,128 @@
 		},
 		{
 			"type": "node",
+			"id": 207675480,
+			"lat": 63.8461043,
+			"lon": 23.123887,
+			"tags": {
+				"name:fi": "Hollihaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 207675483,
+			"lat": 63.8484838,
+			"lon": 23.1058627,
+			"tags": {
+				"name:fi": "Tullimäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 207676893,
+			"lat": 63.8390909,
+			"lon": 23.1172094,
+			"tags": {
+				"name:fi": "Mäntykangas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 207883822,
+			"lat": 63.8326284,
+			"lon": 23.1302282,
+			"tags": {
+				"name:fi": "Kosila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 211359329,
+			"lat": 63.8322771,
+			"lon": 23.1492706,
+			"tags": {
+				"name:fi": "Mottinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 211359335,
+			"lat": 63.8274971,
+			"lon": 23.1398978,
+			"tags": {
+				"name:fi": "Tervaholma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 211359341,
+			"lat": 63.8265579,
+			"lon": 23.1268137,
+			"tags": {
+				"name:fi": "Kirkonmäki"
+			}
+		},
+		{
+			"type": "node",
 			"id": 211503865,
 			"lat": 60.068558,
 			"lon": 30.394814,
 			"tags": {
 				"name:fi": "Pukrankylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 214019011,
+			"lat": 63.8457301,
+			"lon": 23.1420662,
+			"tags": {
+				"name:fi": "Hakalahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 214020369,
+			"lat": 63.8564715,
+			"lon": 23.1326725,
+			"tags": {
+				"name:fi": "Halkokari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 215074569,
+			"lat": 60.363428,
+			"lon": 25.6404757,
+			"tags": {
+				"name:fi": "Hamari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 215076772,
+			"lat": 60.3926148,
+			"lon": 25.6381291,
+			"tags": {
+				"name:fi": "Katajamäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 215081393,
+			"lat": 60.3855267,
+			"lon": 25.6320591,
+			"tags": {
+				"name:fi": "Peippola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 215082232,
+			"lat": 60.3687037,
+			"lon": 25.6256882,
+			"tags": {
+				"name:fi": "Lehtimäki"
 			}
 		},
 		{
@@ -3041,11 +4310,38 @@
 		},
 		{
 			"type": "node",
+			"id": 226444155,
+			"lat": 60.2141157,
+			"lon": 24.9791849,
+			"tags": {
+				"name:fi": "Vanhakaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 226454829,
+			"lat": 60.2612811,
+			"lon": 24.8521688,
+			"tags": {
+				"name:fi": "Myyrmäki"
+			}
+		},
+		{
+			"type": "node",
 			"id": 226881400,
 			"lat": 23.5997857,
 			"lon": 58.5451305,
 			"tags": {
 				"name:fi": "Masqat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 234771526,
+			"lat": 60.5053851,
+			"lon": 25.0819336,
+			"tags": {
+				"name:fi": "Nummenkylä"
 			}
 		},
 		{
@@ -3140,6 +4436,24 @@
 		},
 		{
 			"type": "node",
+			"id": 243478372,
+			"lat": 60.0080953,
+			"lon": 30.6845984,
+			"tags": {
+				"name:fi": "Myllyoja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243478561,
+			"lat": 60.0377604,
+			"lon": 30.6423107,
+			"tags": {
+				"name:fi": "Rääpyvä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 243480022,
 			"lat": 60.1591625,
 			"lon": 30.5252704,
@@ -3149,11 +4463,38 @@
 		},
 		{
 			"type": "node",
+			"id": 243639531,
+			"lat": 63.8274913,
+			"lon": 23.106253,
+			"tags": {
+				"name:fi": "Mesilä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243639533,
+			"lat": 63.8277563,
+			"lon": 23.0776187,
+			"tags": {
+				"name:fi": "Koivuhaka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 243682125,
 			"lat": 47.7848912,
 			"lon": 18.9705776,
 			"tags": {
 				"name:fi": "Visegrád"
+			}
+		},
+		{
+			"type": "node",
+			"id": 243762120,
+			"lat": 60.021385,
+			"lon": 30.293926,
+			"tags": {
+				"name:fi": "Kolomäki"
 			}
 		},
 		{
@@ -3177,10 +4518,19 @@
 		{
 			"type": "node",
 			"id": 244081999,
-			"lat": 43.8058709,
-			"lon": 87.6064713,
+			"lat": 43.7959127,
+			"lon": 87.6140244,
 			"tags": {
 				"name:fi": "Ürümqi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244215106,
+			"lat": 60.0008462,
+			"lon": 30.1397969,
+			"tags": {
+				"name:fi": "Olkina"
 			}
 		},
 		{
@@ -3239,6 +4589,33 @@
 		},
 		{
 			"type": "node",
+			"id": 247009276,
+			"lat": 63.1328716,
+			"lon": 21.7599303,
+			"tags": {
+				"name:fi": "Stormossen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247009293,
+			"lat": 63.1607611,
+			"lon": 21.8340636,
+			"tags": {
+				"name:fi": "Koivulahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247019360,
+			"lat": 63.1252527,
+			"lon": 21.6774532,
+			"tags": {
+				"name:fi": "Böle"
+			}
+		},
+		{
+			"type": "node",
 			"id": 247216329,
 			"lat": 62.0820094,
 			"lon": 32.345856,
@@ -3248,11 +4625,47 @@
 		},
 		{
 			"type": "node",
+			"id": 247673086,
+			"lat": 63.0947966,
+			"lon": 21.6394044,
+			"tags": {
+				"name:fi": "Klemettilä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 247993510,
+			"lat": 60.0576791,
+			"lon": 23.2991277,
+			"tags": {
+				"name:fi": "Tenhola, Raasepori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248032699,
+			"lat": 64.9971864,
+			"lon": 25.4551414,
+			"tags": {
+				"name:fi": "Limingantulli"
+			}
+		},
+		{
+			"type": "node",
 			"id": 248268280,
 			"lat": 59.9615811,
 			"lon": 29.4166768,
 			"tags": {
 				"name:fi": "Lepäsi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248356709,
+			"lat": 60.1652034,
+			"lon": 24.6160213,
+			"tags": {
+				"name:fi": "Saunalahti"
 			}
 		},
 		{
@@ -3293,6 +4706,24 @@
 		},
 		{
 			"type": "node",
+			"id": 248567949,
+			"lat": 60.3151856,
+			"lon": 25.5088041,
+			"tags": {
+				"name:fi": "Kilpilahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 248568251,
+			"lat": 60.3479805,
+			"lon": 25.4765342,
+			"tags": {
+				"name:fi": "Kulloo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 249423791,
 			"lat": 60.102423,
 			"lon": 19.94126,
@@ -3329,11 +4760,47 @@
 		},
 		{
 			"type": "node",
+			"id": 249853239,
+			"lat": 59.9479752,
+			"lon": 30.4156069,
+			"tags": {
+				"name:fi": "Suuri-Ohta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 249867247,
+			"lat": 59.9323354,
+			"lon": 30.4051558,
+			"tags": {
+				"name:fi": "Pieni-Ohta"
+			}
+		},
+		{
+			"type": "node",
 			"id": 251223522,
 			"lat": 49.4196404,
 			"lon": 26.9793793,
 			"tags": {
 				"name:fi": "Hmelnytskyi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 251717319,
+			"lat": 63.8336188,
+			"lon": 23.0708148,
+			"tags": {
+				"name:fi": "Jänismaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 251717320,
+			"lat": 63.835053,
+			"lon": 23.0914646,
+			"tags": {
+				"name:fi": "Patamäki"
 			}
 		},
 		{
@@ -3410,6 +4877,15 @@
 		},
 		{
 			"type": "node",
+			"id": 253733501,
+			"lat": 60.2054659,
+			"lon": 24.6333343,
+			"tags": {
+				"name:fi": "Mikkelä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 253874196,
 			"lat": 48.5674507,
 			"lon": 39.2912928,
@@ -3428,6 +4904,15 @@
 		},
 		{
 			"type": "node",
+			"id": 253912267,
+			"lat": 63.8380147,
+			"lon": 23.0543731,
+			"tags": {
+				"name:fi": "Ykspihlaja"
+			}
+		},
+		{
+			"type": "node",
 			"id": 254467298,
 			"lat": 42.4916507,
 			"lon": 78.3900779,
@@ -3437,11 +4922,47 @@
 		},
 		{
 			"type": "node",
+			"id": 255829293,
+			"lat": 22.2816696,
+			"lon": 114.1867504,
+			"tags": {
+				"name:fi": "Causeway Bay"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256123450,
+			"lat": 63.8242434,
+			"lon": 23.1206498,
+			"tags": {
+				"name:fi": "Tarharanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256123451,
+			"lat": 63.8197538,
+			"lon": 23.1295781,
+			"tags": {
+				"name:fi": "Isokylä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256361817,
 			"lat": 55.5069136,
 			"lon": 37.5673544,
 			"tags": {
 				"name:fi": "Štšerbinka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 256361818,
+			"lat": 55.366426,
+			"lon": 37.52242,
+			"tags": {
+				"name:fi": "Klimovsk"
 			}
 		},
 		{
@@ -3545,6 +5066,15 @@
 		},
 		{
 			"type": "node",
+			"id": 256361875,
+			"lat": 54.8030364,
+			"lon": 38.2739462,
+			"tags": {
+				"name:fi": "Ožerelje"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256361887,
 			"lat": 55.7184467,
 			"lon": 38.2228192,
@@ -3572,6 +5102,15 @@
 		},
 		{
 			"type": "node",
+			"id": 256748124,
+			"lat": 61.0696851,
+			"lon": 24.6799914,
+			"tags": {
+				"name:fi": "Eteläinen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256991275,
 			"lat": 13.0998526,
 			"lon": 103.1966659,
@@ -3591,8 +5130,8 @@
 		{
 			"type": "node",
 			"id": 257363455,
-			"lat": 36.3326329,
-			"lon": 127.3845762,
+			"lat": 36.3496963,
+			"lon": 127.384902,
 			"tags": {
 				"name:fi": "Daejeon"
 			}
@@ -3604,6 +5143,15 @@
 			"lon": 103.8590321,
 			"tags": {
 				"name:fi": "Siĕm Réab"
+			}
+		},
+		{
+			"type": "node",
+			"id": 257844681,
+			"lat": 60.4913395,
+			"lon": 25.0139197,
+			"tags": {
+				"name:fi": "V"
 			}
 		},
 		{
@@ -3626,6 +5174,15 @@
 		},
 		{
 			"type": "node",
+			"id": 259058775,
+			"lat": 61.516118,
+			"lon": 23.6691395,
+			"tags": {
+				"name:fi": "Lielahti"
+			}
+		},
+		{
+			"type": "node",
 			"id": 259862730,
 			"lat": 53.811798,
 			"lon": 36.137001,
@@ -3635,11 +5192,47 @@
 		},
 		{
 			"type": "node",
+			"id": 260110312,
+			"lat": 60.3989042,
+			"lon": 25.0190889,
+			"tags": {
+				"name:fi": "Hyrylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 260110420,
+			"lat": 60.3853167,
+			"lon": 24.9831658,
+			"tags": {
+				"name:fi": "Lahela"
+			}
+		},
+		{
+			"type": "node",
 			"id": 261076253,
 			"lat": 47.2036761,
 			"lon": 27.7987286,
 			"tags": {
 				"name:fi": "Ungheni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 262499757,
+			"lat": 60.4668811,
+			"lon": 22.2920062,
+			"tags": {
+				"name:fi": "Koroinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 264270474,
+			"lat": 63.8312594,
+			"lon": 23.0607696,
+			"tags": {
+				"name:fi": "Nuolipuro"
 			}
 		},
 		{
@@ -3685,6 +5278,51 @@
 			"lon": 22.7385024,
 			"tags": {
 				"name:fi": "Kemiö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265610368,
+			"lat": 60.4293112,
+			"lon": 22.3221566,
+			"tags": {
+				"name:fi": "Skanssi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265785467,
+			"lat": 60.2453263,
+			"lon": 24.9597377,
+			"tags": {
+				"name:fi": "Itä-Pakila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 265965881,
+			"lat": 60.2117283,
+			"lon": 24.636544,
+			"tags": {
+				"name:fi": "Muurala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 266770784,
+			"lat": 63.8252985,
+			"lon": 23.1892235,
+			"tags": {
+				"name:fi": "Kaustari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 266770844,
+			"lat": 63.8396456,
+			"lon": 23.1808427,
+			"tags": {
+				"name:fi": "Lappilanmäki"
 			}
 		},
 		{
@@ -3797,6 +5435,15 @@
 		},
 		{
 			"type": "node",
+			"id": 274859213,
+			"lat": 60.1966243,
+			"lon": 24.9709346,
+			"tags": {
+				"name:fi": "Hermanni"
+			}
+		},
+		{
+			"type": "node",
 			"id": 276627958,
 			"lat": 64.5216684,
 			"lon": 34.7625835,
@@ -3815,11 +5462,101 @@
 		},
 		{
 			"type": "node",
+			"id": 276638800,
+			"lat": 60.2289721,
+			"lon": 24.7446226,
+			"tags": {
+				"name:fi": "Viherkallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276638801,
+			"lat": 60.2289375,
+			"lon": 24.7354239,
+			"tags": {
+				"name:fi": "Viherlaakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276639842,
+			"lat": 60.2291544,
+			"lon": 24.7645053,
+			"tags": {
+				"name:fi": "Karakallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276639844,
+			"lat": 60.2377416,
+			"lon": 24.7683542,
+			"tags": {
+				"name:fi": "Rastaala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276639847,
+			"lat": 60.2317419,
+			"lon": 24.7803201,
+			"tags": {
+				"name:fi": "Rastaspuisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 277694582,
+			"lat": 61.5640754,
+			"lon": 21.5294005,
+			"tags": {
+				"name:fi": "Yyteri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278470233,
+			"lat": 31.7643601,
+			"lon": 35.1750449,
+			"tags": {
+				"name:fi": "Kirjat HaJovel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278471086,
+			"lat": 32.0443395,
+			"lon": 34.7509908,
+			"tags": {
+				"name:fi": "Jaffa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 278473852,
 			"lat": 32.9281747,
 			"lon": 35.0756366,
 			"tags": {
 				"name:fi": "Akko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278476009,
+			"lat": 31.750559,
+			"lon": 35.2197245,
+			"tags": {
+				"name:fi": "Talpiot"
+			}
+		},
+		{
+			"type": "node",
+			"id": 278477134,
+			"lat": 31.7916556,
+			"lon": 35.2036799,
+			"tags": {
+				"name:fi": "Romema"
 			}
 		},
 		{
@@ -3838,6 +5575,15 @@
 			"lon": 12.4466991,
 			"tags": {
 				"name:fi": "San Marino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 282170483,
+			"lat": 58.494457,
+			"lon": 31.298346,
+			"tags": {
+				"name:fi": "Rurikinlinna"
 			}
 		},
 		{
@@ -3887,6 +5633,42 @@
 		},
 		{
 			"type": "node",
+			"id": 287054268,
+			"lat": 60.1271589,
+			"lon": 24.4101632,
+			"tags": {
+				"name:fi": "Ravalls"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287054331,
+			"lat": 60.1292108,
+			"lon": 24.4516194,
+			"tags": {
+				"name:fi": "Kyrkvalla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287054454,
+			"lat": 60.1366053,
+			"lon": 24.4497311,
+			"tags": {
+				"name:fi": "Gesterby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 287054506,
+			"lat": 60.1290399,
+			"lon": 24.469043,
+			"tags": {
+				"name:fi": "Jolkby"
+			}
+		},
+		{
+			"type": "node",
 			"id": 287670803,
 			"lat": 42.8231634,
 			"lon": 47.1286143,
@@ -3896,11 +5678,29 @@
 		},
 		{
 			"type": "node",
+			"id": 288829688,
+			"lat": 60.3477795,
+			"lon": 25.1126212,
+			"tags": {
+				"name:fi": "Jokivarsi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 289346590,
 			"lat": 33.8959203,
 			"lon": 35.47843,
 			"tags": {
 				"name:fi": "Beirut"
+			}
+		},
+		{
+			"type": "node",
+			"id": 290437298,
+			"lat": 60.3296926,
+			"lon": 25.1416471,
+			"tags": {
+				"name:fi": "Koivula"
 			}
 		},
 		{
@@ -3932,11 +5732,29 @@
 		},
 		{
 			"type": "node",
+			"id": 292605476,
+			"lat": 60.3608994,
+			"lon": 25.0934277,
+			"tags": {
+				"name:fi": "Leppäkorpi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 293546203,
 			"lat": 32.2204986,
 			"lon": 35.2568883,
 			"tags": {
 				"name:fi": "Sikkem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 293609691,
+			"lat": 60.2579684,
+			"lon": 25.0601041,
+			"tags": {
+				"name:fi": "Tattarisuo"
 			}
 		},
 		{
@@ -3959,11 +5777,65 @@
 		},
 		{
 			"type": "node",
+			"id": 294006220,
+			"lat": 60.2581789,
+			"lon": 24.7659515,
+			"tags": {
+				"name:fi": "Jupperi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 294107164,
 			"lat": 34.0123846,
 			"lon": 71.5787458,
 			"tags": {
 				"name:fi": "Peshāwar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294134269,
+			"lat": 60.3294982,
+			"lon": 25.0825125,
+			"tags": {
+				"name:fi": "Rekola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294134272,
+			"lat": 60.3262536,
+			"lon": 25.1034705,
+			"tags": {
+				"name:fi": "Päiväkumpu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294134275,
+			"lat": 60.3428163,
+			"lon": 25.0830356,
+			"tags": {
+				"name:fi": "Matari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294134278,
+			"lat": 60.3408344,
+			"lon": 25.0981369,
+			"tags": {
+				"name:fi": "Mikkola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 294439765,
+			"lat": 61.4858255,
+			"lon": 23.9313052,
+			"tags": {
+				"name:fi": "Holvasti"
 			}
 		},
 		{
@@ -3977,11 +5849,83 @@
 		},
 		{
 			"type": "node",
+			"id": 297226761,
+			"lat": 61.5255624,
+			"lon": 23.9424175,
+			"tags": {
+				"name:fi": "Olkahinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297588970,
+			"lat": 60.2725765,
+			"lon": 25.0480816,
+			"tags": {
+				"name:fi": "Puistola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297589956,
+			"lat": 60.2643764,
+			"lon": 25.0929014,
+			"tags": {
+				"name:fi": "Vaarala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297590113,
+			"lat": 60.2675853,
+			"lon": 25.061563,
+			"tags": {
+				"name:fi": "Suurmetsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297590348,
+			"lat": 60.2722087,
+			"lon": 25.0796835,
+			"tags": {
+				"name:fi": "Heikinlaakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298112284,
+			"lat": 60.1135023,
+			"lon": 24.4385103,
+			"tags": {
+				"name:fi": "Bro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298112299,
+			"lat": 60.1183857,
+			"lon": 24.458145,
+			"tags": {
+				"name:fi": "Heikkilä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 298352406,
 			"lat": 44.4618046,
 			"lon": 39.741048,
 			"tags": {
 				"name:fi": "Apšeronsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 298437821,
+			"lat": 61.5415179,
+			"lon": 23.9280528,
+			"tags": {
+				"name:fi": "Nurmi"
 			}
 		},
 		{
@@ -4139,6 +6083,15 @@
 		},
 		{
 			"type": "node",
+			"id": 309923615,
+			"lat": 60.1966975,
+			"lon": 24.6780202,
+			"tags": {
+				"name:fi": "Suna"
+			}
+		},
+		{
+			"type": "node",
 			"id": 309965794,
 			"lat": 61.5717807,
 			"lon": 31.4744211,
@@ -4157,6 +6110,24 @@
 		},
 		{
 			"type": "node",
+			"id": 311752305,
+			"lat": 60.3567536,
+			"lon": 25.1374618,
+			"tags": {
+				"name:fi": "Pohjois-Nikinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 313273613,
+			"lat": 60.1787735,
+			"lon": 24.9615173,
+			"tags": {
+				"name:fi": "Merihaka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 314794893,
 			"lat": 55.6149968,
 			"lon": 40.6708665,
@@ -4171,6 +6142,33 @@
 			"lon": 96.1344976,
 			"tags": {
 				"name:fi": "Naypyidaw"
+			}
+		},
+		{
+			"type": "node",
+			"id": 324455519,
+			"lat": 60.2617872,
+			"lon": 24.9537091,
+			"tags": {
+				"name:fi": "Torpparinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 324455524,
+			"lat": 60.245247,
+			"lon": 24.9896936,
+			"tags": {
+				"name:fi": "Pukinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 324614597,
+			"lat": 60.4745852,
+			"lon": 22.2322109,
+			"tags": {
+				"name:fi": "Teräsrautela"
 			}
 		},
 		{
@@ -4261,6 +6259,15 @@
 			"lon": 35.0669568,
 			"tags": {
 				"name:fi": "As Samu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 332794849,
+			"lat": 31.8748922,
+			"lon": 35.2187739,
+			"tags": {
+				"name:fi": "Kfar Akab"
 			}
 		},
 		{
@@ -4364,6 +6371,60 @@
 		},
 		{
 			"type": "node",
+			"id": 338703640,
+			"lat": 60.2934511,
+			"lon": 24.9471985,
+			"tags": {
+				"name:fi": "Pakkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 339855823,
+			"lat": 60.2924836,
+			"lon": 25.0377936,
+			"tags": {
+				"name:fi": "Tikkurila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 340107890,
+			"lat": 60.1652138,
+			"lon": 24.9472225,
+			"tags": {
+				"name:fi": "Kaartinkaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 340108809,
+			"lat": 60.1781579,
+			"lon": 24.9497427,
+			"tags": {
+				"name:fi": "Siltasaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 340109115,
+			"lat": 60.1961671,
+			"lon": 24.9567103,
+			"tags": {
+				"name:fi": "Vallila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 340109336,
+			"lat": 60.189728,
+			"lon": 24.9441203,
+			"tags": {
+				"name:fi": "Alppiharju"
+			}
+		},
+		{
+			"type": "node",
 			"id": 340962185,
 			"lat": 54.759121,
 			"lon": 61.313198,
@@ -4373,11 +6434,92 @@
 		},
 		{
 			"type": "node",
+			"id": 341737213,
+			"lat": 60.310722,
+			"lon": 25.0045513,
+			"tags": {
+				"name:fi": "Ruskeasanta"
+			}
+		},
+		{
+			"type": "node",
 			"id": 347359894,
 			"lat": 61.808434,
 			"lon": 36.536045,
 			"tags": {
 				"name:fi": "Puudosi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 349831178,
+			"lat": 60.2798683,
+			"lon": 24.8135413,
+			"tags": {
+				"name:fi": "Petikko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355027779,
+			"lat": 60.2408169,
+			"lon": 25.0969058,
+			"tags": {
+				"name:fi": "Vesala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355187978,
+			"lat": 60.2991228,
+			"lon": 25.0550736,
+			"tags": {
+				"name:fi": "Jokiniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355188501,
+			"lat": 60.2955127,
+			"lon": 25.0849156,
+			"tags": {
+				"name:fi": "Hakkila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355188722,
+			"lat": 60.3056198,
+			"lon": 25.0424916,
+			"tags": {
+				"name:fi": "Hiekkaharju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355188889,
+			"lat": 60.3109294,
+			"lon": 25.0309152,
+			"tags": {
+				"name:fi": "Simonkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355189180,
+			"lat": 60.2949885,
+			"lon": 25.0260122,
+			"tags": {
+				"name:fi": "Viertola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 355189754,
+			"lat": 60.283139,
+			"lon": 25.0604141,
+			"tags": {
+				"name:fi": "Kuninkaala"
 			}
 		},
 		{
@@ -4409,6 +6551,15 @@
 		},
 		{
 			"type": "node",
+			"id": 356483112,
+			"lat": 59.8025488,
+			"lon": 30.624371,
+			"tags": {
+				"name:fi": "Valittula"
+			}
+		},
+		{
+			"type": "node",
 			"id": 358015143,
 			"lat": 35.1799528,
 			"lon": 129.0752365,
@@ -4423,6 +6574,15 @@
 			"lon": 126.8513006,
 			"tags": {
 				"name:fi": "Gwangju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 358516630,
+			"lat": 61.4908654,
+			"lon": 23.8631338,
+			"tags": {
+				"name:fi": "Pappila"
 			}
 		},
 		{
@@ -4454,6 +6614,15 @@
 		},
 		{
 			"type": "node",
+			"id": 361440127,
+			"lat": 60.2492911,
+			"lon": 24.806439,
+			"tags": {
+				"name:fi": "Hämevaara"
+			}
+		},
+		{
+			"type": "node",
 			"id": 373930564,
 			"lat": 59.940431,
 			"lon": 31.0336955,
@@ -4472,11 +6641,56 @@
 		},
 		{
 			"type": "node",
+			"id": 386025915,
+			"lat": 61.4779305,
+			"lon": 23.9173521,
+			"tags": {
+				"name:fi": "Vehmainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 387545498,
+			"lat": 63.6743143,
+			"lon": 22.7041422,
+			"tags": {
+				"name:fi": "Keskusta"
+			}
+		},
+		{
+			"type": "node",
 			"id": 389681534,
 			"lat": 42.585344,
 			"lon": 43.4427287,
 			"tags": {
 				"name:fi": "Oni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 390305543,
+			"lat": 31.7782872,
+			"lon": 35.2319526,
+			"tags": {
+				"name:fi": "Vanhakaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 392032052,
+			"lat": 60.1945085,
+			"lon": 24.7706761,
+			"tags": {
+				"name:fi": "Mankkaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 393192589,
+			"lat": 63.8516908,
+			"lon": 23.1499664,
+			"tags": {
+				"name:fi": "Charlibacka"
 			}
 		},
 		{
@@ -4504,6 +6718,42 @@
 			"lon": 129.252024,
 			"tags": {
 				"name:fi": "Ulsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 415343200,
+			"lat": 60.2378381,
+			"lon": 25.1154173,
+			"tags": {
+				"name:fi": "Mellunmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 417703956,
+			"lat": 63.8511894,
+			"lon": 23.1654864,
+			"tags": {
+				"name:fi": "Rytimäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 420517795,
+			"lat": 60.3879208,
+			"lon": 25.6781958,
+			"tags": {
+				"name:fi": "Joonaanmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 420518950,
+			"lat": 60.3895204,
+			"lon": 25.6070062,
+			"tags": {
+				"name:fi": "Kuninkaanportti"
 			}
 		},
 		{
@@ -4553,6 +6803,15 @@
 		},
 		{
 			"type": "node",
+			"id": 430019408,
+			"lat": 63.7469966,
+			"lon": 23.0005581,
+			"tags": {
+				"name:fi": "Bråtö"
+			}
+		},
+		{
+			"type": "node",
 			"id": 431636549,
 			"lat": 31.707212,
 			"lon": 35.2044436,
@@ -4580,6 +6839,204 @@
 		},
 		{
 			"type": "node",
+			"id": 437179667,
+			"lat": 60.2832682,
+			"lon": 24.983612,
+			"tags": {
+				"name:fi": "Helsingin pitäjän kirkonkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441159831,
+			"lat": 60.2055374,
+			"lon": 25.15423,
+			"tags": {
+				"name:fi": "Aurinkolahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441159835,
+			"lat": 60.2008092,
+			"lon": 25.1383954,
+			"tags": {
+				"name:fi": "Kallahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441159838,
+			"lat": 60.2184972,
+			"lon": 25.1657586,
+			"tags": {
+				"name:fi": "Niinisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 441383690,
+			"lat": 61.7290069,
+			"lon": 24.7921264,
+			"tags": {
+				"name:fi": "Länkipohja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 444942628,
+			"lat": 60.3221507,
+			"lon": 25.0665279,
+			"tags": {
+				"name:fi": "Rautkallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445525035,
+			"lat": 60.2030437,
+			"lon": 25.0860953,
+			"tags": {
+				"name:fi": "Marjaniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445769023,
+			"lat": 60.1820681,
+			"lon": 25.05399,
+			"tags": {
+				"name:fi": "Yliskylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445778253,
+			"lat": 60.1713147,
+			"lon": 24.7662039,
+			"tags": {
+				"name:fi": "Niittykumpu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445791869,
+			"lat": 60.2280119,
+			"lon": 24.7109132,
+			"tags": {
+				"name:fi": "Lippajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445799475,
+			"lat": 60.1891304,
+			"lon": 24.7275966,
+			"tags": {
+				"name:fi": "Henttaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445802786,
+			"lat": 60.1747619,
+			"lon": 24.7597004,
+			"tags": {
+				"name:fi": "Olarinluoma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 445811138,
+			"lat": 60.2459898,
+			"lon": 25.1142433,
+			"tags": {
+				"name:fi": "Länsimäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 446037345,
+			"lat": 60.2785121,
+			"lon": 25.1056848,
+			"tags": {
+				"name:fi": "Hakunila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 447359547,
+			"lat": 60.1892378,
+			"lon": 25.0295841,
+			"tags": {
+				"name:fi": "Herttoniemenranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 450216620,
+			"lat": 60.109749,
+			"lon": 30.254259,
+			"tags": {
+				"name:fi": "Haapakangas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 452599686,
+			"lat": 60.2929589,
+			"lon": 24.9618068,
+			"tags": {
+				"name:fi": "Vantaanportti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 452600245,
+			"lat": 60.2810803,
+			"lon": 24.9639027,
+			"tags": {
+				"name:fi": "Kartanonkoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 454149282,
+			"lat": 60.1965136,
+			"lon": 25.1199163,
+			"tags": {
+				"name:fi": "Ramsinranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 457718394,
+			"lat": 63.8296384,
+			"lon": 23.0395136,
+			"tags": {
+				"name:fi": "Lahdenperä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 457844943,
+			"lat": 60.1647169,
+			"lon": 25.016789,
+			"tags": {
+				"name:fi": "Kruunuvuorenranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 468177701,
+			"lat": 60.3671513,
+			"lon": 24.9799015,
+			"tags": {
+				"name:fi": "Ruotsinkylä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 472114145,
 			"lat": 14.6417889,
 			"lon": -90.5132239,
@@ -4594,6 +7051,33 @@
 			"lon": 34.4607415,
 			"tags": {
 				"name:fi": "Aaza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 506519254,
+			"lat": 60.2966485,
+			"lon": 24.6968163,
+			"tags": {
+				"name:fi": "Röylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 506519894,
+			"lat": 60.2843976,
+			"lon": 24.6772469,
+			"tags": {
+				"name:fi": "Pakankylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 520695908,
+			"lat": 31.7257259,
+			"lon": 35.2212813,
+			"tags": {
+				"name:fi": "Homat Shmuel"
 			}
 		},
 		{
@@ -4625,6 +7109,15 @@
 		},
 		{
 			"type": "node",
+			"id": 534744417,
+			"lat": 60.3292328,
+			"lon": 25.0515899,
+			"tags": {
+				"name:fi": "Asola"
+			}
+		},
+		{
+			"type": "node",
 			"id": 544060405,
 			"lat": 29.3797091,
 			"lon": 47.9735629,
@@ -4643,6 +7136,42 @@
 		},
 		{
 			"type": "node",
+			"id": 571675003,
+			"lat": 60.3488797,
+			"lon": 24.8673247,
+			"tags": {
+				"name:fi": "Seutula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 573399982,
+			"lat": 60.320425,
+			"lon": 24.8811241,
+			"tags": {
+				"name:fi": "Koivupää"
+			}
+		},
+		{
+			"type": "node",
+			"id": 574722470,
+			"lat": 60.1542365,
+			"lon": 24.57,
+			"tags": {
+				"name:fi": "Sundsberg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 575964424,
+			"lat": 65.8528742,
+			"lon": 24.1063507,
+			"tags": {
+				"name:fi": "Mattila"
+			}
+		},
+		{
+			"type": "node",
 			"id": 597205381,
 			"lat": 21.1317111,
 			"lon": 94.8623644,
@@ -4652,11 +7181,56 @@
 		},
 		{
 			"type": "node",
+			"id": 597843092,
+			"lat": 61.4508848,
+			"lon": 21.8935009,
+			"tags": {
+				"name:fi": "Mynsteri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 598216932,
+			"lat": 61.4558179,
+			"lon": 21.8361825,
+			"tags": {
+				"name:fi": "Mikkola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 601193006,
+			"lat": 60.3297806,
+			"lon": 24.7636643,
+			"tags": {
+				"name:fi": "Vestra"
+			}
+		},
+		{
+			"type": "node",
 			"id": 602527728,
 			"lat": 35.634023,
 			"lon": 139.575977,
 			"tags": {
 				"name:fi": "Komae"
+			}
+		},
+		{
+			"type": "node",
+			"id": 615138213,
+			"lat": 60.2056897,
+			"lon": 24.7112642,
+			"tags": {
+				"name:fi": "Ymmersta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 618800549,
+			"lat": 60.4559835,
+			"lon": 22.3140353,
+			"tags": {
+				"name:fi": "Nummi"
 			}
 		},
 		{
@@ -4751,6 +7325,42 @@
 		},
 		{
 			"type": "node",
+			"id": 649108714,
+			"lat": 60.3383561,
+			"lon": 25.1050054,
+			"tags": {
+				"name:fi": "Maarukanmetsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 672263850,
+			"lat": 60.2115694,
+			"lon": 25.1627992,
+			"tags": {
+				"name:fi": "Nordsjön kartano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 672368932,
+			"lat": 60.1896645,
+			"lon": 25.1417005,
+			"tags": {
+				"name:fi": "Kallahdenniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 673773964,
+			"lat": 60.1786958,
+			"lon": 24.9514926,
+			"tags": {
+				"name:fi": "Hakaniemi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 676672956,
 			"lat": 35.3396115,
 			"lon": 33.3194082,
@@ -4778,6 +7388,24 @@
 		},
 		{
 			"type": "node",
+			"id": 698352035,
+			"lat": 60.3055689,
+			"lon": 25.1198975,
+			"tags": {
+				"name:fi": "Kuninkaanmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 707958902,
+			"lat": 60.3910502,
+			"lon": 25.6432771,
+			"tags": {
+				"name:fi": "Tattarimalmi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 729610410,
 			"lat": 43.652058,
 			"lon": 51.157997,
@@ -4792,6 +7420,15 @@
 			"lon": 34.7905787,
 			"tags": {
 				"name:fi": "Beer Sheva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 740407434,
+			"lat": 60.297193,
+			"lon": 24.9725155,
+			"tags": {
+				"name:fi": "Veromies"
 			}
 		},
 		{
@@ -4814,11 +7451,29 @@
 		},
 		{
 			"type": "node",
+			"id": 845061553,
+			"lat": 60.3231208,
+			"lon": 25.1408295,
+			"tags": {
+				"name:fi": "Viirilä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 864954797,
 			"lat": 63.214438,
 			"lon": 24.4196234,
 			"tags": {
 				"name:fi": "Perho"
+			}
+		},
+		{
+			"type": "node",
+			"id": 881060371,
+			"lat": 60.2364663,
+			"lon": 24.5361481,
+			"tags": {
+				"name:fi": "Ämmässuo"
 			}
 		},
 		{
@@ -4832,6 +7487,15 @@
 		},
 		{
 			"type": "node",
+			"id": 895730222,
+			"lat": 60.898361,
+			"lon": 29.139288,
+			"tags": {
+				"name:fi": "Kuukauppi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 922694649,
 			"lat": 56.1854031,
 			"lon": 36.9781174,
@@ -4841,11 +7505,29 @@
 		},
 		{
 			"type": "node",
+			"id": 928309099,
+			"lat": 60.3289617,
+			"lon": 25.0139946,
+			"tags": {
+				"name:fi": "Ilola"
+			}
+		},
+		{
+			"type": "node",
 			"id": 941458047,
 			"lat": 40.7643476,
 			"lon": 29.9279311,
 			"tags": {
 				"name:fi": "Nikomedia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 942638670,
+			"lat": 31.7311395,
+			"lon": 35.1867748,
+			"tags": {
+				"name:fi": "Gilo"
 			}
 		},
 		{
@@ -4895,11 +7577,74 @@
 		},
 		{
 			"type": "node",
+			"id": 1048811766,
+			"lat": 60.2847435,
+			"lon": 24.8716275,
+			"tags": {
+				"name:fi": "Vantaanlaakso"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1054320920,
 			"lat": 35.70248,
 			"lon": 139.350065,
 			"tags": {
 				"name:fi": "Akishima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1078627937,
+			"lat": 60.3332062,
+			"lon": 24.8088566,
+			"tags": {
+				"name:fi": "Keimola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1078627941,
+			"lat": 60.3028703,
+			"lon": 24.8598863,
+			"tags": {
+				"name:fi": "Piispankylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1078627942,
+			"lat": 60.2946496,
+			"lon": 24.8422846,
+			"tags": {
+				"name:fi": "Myllymäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1078632312,
+			"lat": 60.3048349,
+			"lon": 24.8982929,
+			"tags": {
+				"name:fi": "Viinikkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1083952149,
+			"lat": 60.3261142,
+			"lon": 24.8675272,
+			"tags": {
+				"name:fi": "Lapinkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1085321303,
+			"lat": 60.3115939,
+			"lon": 24.6218822,
+			"tags": {
+				"name:fi": "Velskola"
 			}
 		},
 		{
@@ -4922,11 +7667,164 @@
 		},
 		{
 			"type": "node",
+			"id": 1116763561,
+			"lat": 61.4938809,
+			"lon": 23.726347,
+			"tags": {
+				"name:fi": "Pyynikki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1131075817,
+			"lat": 59.9583414,
+			"lon": 30.4857251,
+			"tags": {
+				"name:fi": "Ruutmylly"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1144550744,
+			"lat": 60.3363011,
+			"lon": 25.5887877,
+			"tags": {
+				"name:fi": "Tolkkinen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1147314253,
 			"lat": 25.0375167,
 			"lon": 121.5637,
 			"tags": {
 				"name:fi": "Taipei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1156171901,
+			"lat": 61.4883249,
+			"lon": 21.6946018,
+			"tags": {
+				"name:fi": "Pietniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1156207995,
+			"lat": 61.4738487,
+			"lon": 21.727417,
+			"tags": {
+				"name:fi": "Paratiisinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1156212399,
+			"lat": 61.4803603,
+			"lon": 21.7723508,
+			"tags": {
+				"name:fi": "Tiilinummi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1156230257,
+			"lat": 61.4875908,
+			"lon": 21.7319535,
+			"tags": {
+				"name:fi": "Vähärauma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1159071454,
+			"lat": 61.5262009,
+			"lon": 21.8069179,
+			"tags": {
+				"name:fi": "Hyvelä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1159108856,
+			"lat": 61.4944939,
+			"lon": 21.7865172,
+			"tags": {
+				"name:fi": "Kirjurinluoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1159108871,
+			"lat": 61.4948969,
+			"lon": 21.759972,
+			"tags": {
+				"name:fi": "Hevosluoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1159108880,
+			"lat": 61.5041428,
+			"lon": 21.7528933,
+			"tags": {
+				"name:fi": "Kvistiluoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1159156553,
+			"lat": 61.4850544,
+			"lon": 21.8564549,
+			"tags": {
+				"name:fi": "Kalaholma"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1163192274,
+			"lat": 61.4714849,
+			"lon": 21.8358617,
+			"tags": {
+				"name:fi": "Vanha-Koivisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1163265670,
+			"lat": 61.4608216,
+			"lon": 21.8270402,
+			"tags": {
+				"name:fi": "Impola"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1164834238,
+			"lat": 61.4774993,
+			"lon": 21.8085978,
+			"tags": {
+				"name:fi": "Kuninkaanhaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1169791921,
+			"lat": 61.5216054,
+			"lon": 21.6598089,
+			"tags": {
+				"name:fi": "Uusiniitty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1170467962,
+			"lat": 61.5541695,
+			"lon": 21.5959127,
+			"tags": {
+				"name:fi": "Rieskala"
 			}
 		},
 		{
@@ -4940,11 +7838,128 @@
 		},
 		{
 			"type": "node",
+			"id": 1192874887,
+			"lat": 60.3006578,
+			"lon": 24.9986693,
+			"tags": {
+				"name:fi": "Koivuhaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1194549258,
+			"lat": 60.2589523,
+			"lon": 25.2348183,
+			"tags": {
+				"name:fi": "Sipoonranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1194549405,
+			"lat": 60.2436241,
+			"lon": 25.2015583,
+			"tags": {
+				"name:fi": "Talosaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1205703604,
+			"lat": 59.9867375,
+			"lon": 30.2778126,
+			"tags": {
+				"name:fi": "Mantere"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1205703605,
+			"lat": 60.0466394,
+			"lon": 30.2987766,
+			"tags": {
+				"name:fi": "Suvala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1205703613,
+			"lat": 59.9865226,
+			"lon": 30.2442847,
+			"tags": {
+				"name:fi": "Kivinenä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1205703615,
+			"lat": 60.0037057,
+			"lon": 30.284344,
+			"tags": {
+				"name:fi": "Kolomäen lentokenttä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1239595133,
+			"lat": 60.4484343,
+			"lon": 22.1541867,
+			"tags": {
+				"name:fi": "Pansio"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1242998122,
 			"lat": 8.9714493,
 			"lon": -79.5341802,
 			"tags": {
 				"name:fi": "Panamá"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1263172563,
+			"lat": 60.2204472,
+			"lon": 25.1398372,
+			"tags": {
+				"name:fi": "Keski-Vuosaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1266499192,
+			"lat": 60.2203051,
+			"lon": 24.6151126,
+			"tags": {
+				"name:fi": "Gumböle"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1266499196,
+			"lat": 60.2676442,
+			"lon": 24.6953878,
+			"tags": {
+				"name:fi": "Bodom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1305277899,
+			"lat": 60.2601502,
+			"lon": 25.068567,
+			"tags": {
+				"name:fi": "Alppikylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1323450834,
+			"lat": 60.1457064,
+			"lon": 24.9888603,
+			"tags": {
+				"name:fi": "Suomenlinna"
 			}
 		},
 		{
@@ -4967,11 +7982,65 @@
 		},
 		{
 			"type": "node",
+			"id": 1345316375,
+			"lat": 60.2388889,
+			"lon": 24.9908178,
+			"tags": {
+				"name:fi": "Savela"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1367397053,
+			"lat": 59.9004471,
+			"lon": 29.8141532,
+			"tags": {
+				"name:fi": "Tyrö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1370698738,
+			"lat": 59.9911386,
+			"lon": 30.1673669,
+			"tags": {
+				"name:fi": "Lahti eli Lahdenkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1371967413,
+			"lat": 62.6355688,
+			"lon": 23.8218596,
+			"tags": {
+				"name:fi": "Töysä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1372024636,
 			"lat": 62.5862041,
 			"lon": 23.6185286,
 			"tags": {
 				"name:fi": "Alavus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1372069388,
+			"lat": 59.9794576,
+			"lon": 30.5083406,
+			"tags": {
+				"name:fi": "Orskoi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1372144308,
+			"lat": 59.700535,
+			"lon": 30.125256,
+			"tags": {
+				"name:fi": "Tuutari"
 			}
 		},
 		{
@@ -4985,11 +8054,137 @@
 		},
 		{
 			"type": "node",
+			"id": 1373214450,
+			"lat": 60.0278936,
+			"lon": 29.9922555,
+			"tags": {
+				"name:fi": "Kauppila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1373849292,
+			"lat": 62.6163424,
+			"lon": 23.6078254,
+			"tags": {
+				"name:fi": "Alavuden asemanseutu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1375275624,
+			"lat": 60.0121678,
+			"lon": 30.2563391,
+			"tags": {
+				"name:fi": "Pitkajarvi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1376026523,
 			"lat": 60.1211791,
 			"lon": 30.1637647,
 			"tags": {
 				"name:fi": "Raavski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1376356019,
+			"lat": 60.1707783,
+			"lon": 24.9473293,
+			"tags": {
+				"name:fi": "Kluuvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1379495137,
+			"lat": 60.1568425,
+			"lon": 24.9567212,
+			"tags": {
+				"name:fi": "Kaivopuisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1379539171,
+			"lat": 60.1587146,
+			"lon": 24.949404,
+			"tags": {
+				"name:fi": "Ullanlinna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1380527485,
+			"lat": 60.2951404,
+			"lon": 24.7859739,
+			"tags": {
+				"name:fi": "Koivurinne"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1385680065,
+			"lat": 60.1740311,
+			"lon": 24.9223027,
+			"tags": {
+				"name:fi": "Etu-Töölö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1390677576,
+			"lat": 60.2545308,
+			"lon": 24.9357391,
+			"tags": {
+				"name:fi": "Paloheinä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1393950463,
+			"lat": 60.1261158,
+			"lon": 24.4831764,
+			"tags": {
+				"name:fi": "Laajakallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1396118276,
+			"lat": 60.2595204,
+			"lon": 24.7439363,
+			"tags": {
+				"name:fi": "Vanhakartano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1399533977,
+			"lat": 60.2223276,
+			"lon": 24.87614,
+			"tags": {
+				"name:fi": "Valimo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1416914046,
+			"lat": 60.2665324,
+			"lon": 24.9996204,
+			"tags": {
+				"name:fi": "Töyrynummi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1417094864,
+			"lat": 62.7767142,
+			"lon": 22.8667634,
+			"tags": {
+				"name:fi": "Kivistö"
 			}
 		},
 		{
@@ -5008,6 +8203,51 @@
 			"lon": -7.1005662,
 			"tags": {
 				"name:fi": "Olivenza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1507039097,
+			"lat": 60.7532455,
+			"lon": 28.6514639,
+			"tags": {
+				"name:fi": "Tienhaara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1511904460,
+			"lat": 60.2555485,
+			"lon": 25.1391936,
+			"tags": {
+				"name:fi": "Länsisalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513036373,
+			"lat": 60.2435384,
+			"lon": 24.9269126,
+			"tags": {
+				"name:fi": "Länsi-Pakila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513563476,
+			"lat": 60.2312835,
+			"lon": 24.9331223,
+			"tags": {
+				"name:fi": "Maunula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1513653539,
+			"lat": 60.1685348,
+			"lon": 24.9304942,
+			"tags": {
+				"name:fi": "Kamppi"
 			}
 		},
 		{
@@ -5039,6 +8279,69 @@
 		},
 		{
 			"type": "node",
+			"id": 1514211550,
+			"lat": 60.2605512,
+			"lon": 25.2099985,
+			"tags": {
+				"name:fi": "Östersundom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1517196293,
+			"lat": 60.1853441,
+			"lon": 24.9167329,
+			"tags": {
+				"name:fi": "Taka-Töölö"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1519383554,
+			"lat": 60.1913479,
+			"lon": 24.9026643,
+			"tags": {
+				"name:fi": "Meilahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1520521845,
+			"lat": 60.2048026,
+			"lon": 24.9056207,
+			"tags": {
+				"name:fi": "Ruskeasuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1529213465,
+			"lat": 60.1839816,
+			"lon": 24.9524515,
+			"tags": {
+				"name:fi": "Kallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1573207104,
+			"lat": 60.2618939,
+			"lon": 24.7221783,
+			"tags": {
+				"name:fi": "Koskelo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1584045541,
+			"lat": 60.3019792,
+			"lon": 25.1130839,
+			"tags": {
+				"name:fi": "Kolohonka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1589807663,
 			"lat": 59.4974632,
 			"lon": 34.6618291,
@@ -5053,6 +8356,159 @@
 			"lon": 132.4518156,
 			"tags": {
 				"name:fi": "Hiroshima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601323441,
+			"lat": 60.306416,
+			"lon": 22.2795234,
+			"tags": {
+				"name:fi": "Raivio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534811,
+			"lat": 60.3181382,
+			"lon": 22.308795,
+			"tags": {
+				"name:fi": "Norrbynranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534818,
+			"lat": 60.3218477,
+			"lon": 22.3240792,
+			"tags": {
+				"name:fi": "Valoniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534829,
+			"lat": 60.309428,
+			"lon": 22.3165681,
+			"tags": {
+				"name:fi": "Söderby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534839,
+			"lat": 60.3070675,
+			"lon": 22.2641766,
+			"tags": {
+				"name:fi": "Finbynlaakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534841,
+			"lat": 60.3180141,
+			"lon": 22.2875204,
+			"tags": {
+				"name:fi": "Vepo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534844,
+			"lat": 60.3155837,
+			"lon": 22.3264558,
+			"tags": {
+				"name:fi": "Norrbynharju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534846,
+			"lat": 60.3135443,
+			"lon": 22.3273662,
+			"tags": {
+				"name:fi": "Österby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534863,
+			"lat": 60.3126538,
+			"lon": 22.2920376,
+			"tags": {
+				"name:fi": "Bläsnäs"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534871,
+			"lat": 60.3085629,
+			"lon": 22.332147,
+			"tags": {
+				"name:fi": "Isoniitty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534890,
+			"lat": 60.3082657,
+			"lon": 22.2928828,
+			"tags": {
+				"name:fi": "Parsby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534921,
+			"lat": 60.306321,
+			"lon": 22.3161999,
+			"tags": {
+				"name:fi": "Koivuhaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534928,
+			"lat": 60.3129425,
+			"lon": 22.3112722,
+			"tags": {
+				"name:fi": "Norrby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534951,
+			"lat": 60.3012637,
+			"lon": 22.272599,
+			"tags": {
+				"name:fi": "Jussinniitty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601534966,
+			"lat": 60.3153528,
+			"lon": 22.3380549,
+			"tags": {
+				"name:fi": "Lehtiniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601535004,
+			"lat": 60.3114558,
+			"lon": 22.2783694,
+			"tags": {
+				"name:fi": "Finby"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1601837874,
+			"lat": 50.0874027,
+			"lon": 14.4069171,
+			"tags": {
+				"name:fi": "Pieni puoli"
 			}
 		},
 		{
@@ -5111,11 +8567,74 @@
 		},
 		{
 			"type": "node",
+			"id": 1631457408,
+			"lat": 63.0253325,
+			"lon": 21.7623812,
+			"tags": {
+				"name:fi": "Vikbyn teollisuusalue"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1635651356,
 			"lat": 50.8465573,
 			"lon": 4.351697,
 			"tags": {
 				"name:fi": "Bryssel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1637490086,
+			"lat": 60.3042497,
+			"lon": 22.2730657,
+			"tags": {
+				"name:fi": "Pappilanpelto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1644054743,
+			"lat": 60.2738213,
+			"lon": 24.6582425,
+			"tags": {
+				"name:fi": "Kunnarla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1644123289,
+			"lat": 60.2279547,
+			"lon": 24.6226813,
+			"tags": {
+				"name:fi": "Karhusuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1647222299,
+			"lat": 60.240352,
+			"lon": 24.8285809,
+			"tags": {
+				"name:fi": "Uusmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1651298400,
+			"lat": 60.3208599,
+			"lon": 24.910996,
+			"tags": {
+				"name:fi": "Viinikanmetsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1651299473,
+			"lat": 60.3372767,
+			"lon": 24.9260904,
+			"tags": {
+				"name:fi": "Kiila"
 			}
 		},
 		{
@@ -5129,11 +8648,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1668137013,
+			"lat": 63.1283876,
+			"lon": 21.7349579,
+			"tags": {
+				"name:fi": "Lintuvuori"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1668137014,
 			"lat": 63.1247621,
 			"lon": 21.6941345,
 			"tags": {
 				"name:fi": "Mustasaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1668137017,
+			"lat": 63.1127991,
+			"lon": 21.6876121,
+			"tags": {
+				"name:fi": "Sepänkylä"
 			}
 		},
 		{
@@ -5174,11 +8711,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1679094386,
+			"lat": 60.0440002,
+			"lon": 29.9886394,
+			"tags": {
+				"name:fi": "Koronnenä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1681538643,
 			"lat": 54.6478265,
 			"lon": 21.0719431,
 			"tags": {
 				"name:fi": "Gvardeisk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1682850206,
+			"lat": 60.1948612,
+			"lon": 24.2866671,
+			"tags": {
+				"name:fi": "Raivio"
 			}
 		},
 		{
@@ -5282,6 +8837,51 @@
 		},
 		{
 			"type": "node",
+			"id": 1726690761,
+			"lat": 60.2778078,
+			"lon": 25.0836008,
+			"tags": {
+				"name:fi": "Porttipuisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1738244719,
+			"lat": 60.346265,
+			"lon": 24.6541673,
+			"tags": {
+				"name:fi": "Lakisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1738249403,
+			"lat": 60.302031,
+			"lon": 24.7633818,
+			"tags": {
+				"name:fi": "Odilampi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1740263526,
+			"lat": 60.244024,
+			"lon": 25.1574065,
+			"tags": {
+				"name:fi": "Salmenkallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1744492242,
+			"lat": 60.2654622,
+			"lon": 24.89297,
+			"tags": {
+				"name:fi": "Kuninkaantammi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1751567591,
 			"lat": 43.6158817,
 			"lon": 25.3509536,
@@ -5300,11 +8900,38 @@
 		},
 		{
 			"type": "node",
+			"id": 1785071247,
+			"lat": 60.1700544,
+			"lon": 29.1111228,
+			"tags": {
+				"name:fi": "Paukkunen"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1790048269,
 			"lat": 43.7311424,
 			"lon": 7.4197576,
 			"tags": {
 				"name:fi": "Monaco"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1791916414,
+			"lat": 60.2908398,
+			"lon": 24.8663396,
+			"tags": {
+				"name:fi": "Vantaankoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1793576161,
+			"lat": 60.2174287,
+			"lon": 24.9861146,
+			"tags": {
+				"name:fi": "Viikinranta"
 			}
 		},
 		{
@@ -5381,6 +9008,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1846846237,
+			"lat": 60.2765313,
+			"lon": 24.9702444,
+			"tags": {
+				"name:fi": "Tammisto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1858199523,
 			"lat": 60.979276,
 			"lon": 32.9749376,
@@ -5395,6 +9031,42 @@
 			"lon": 30.691231,
 			"tags": {
 				"name:fi": "Sortavala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1870464186,
+			"lat": 60.1871138,
+			"lon": 24.7414776,
+			"tags": {
+				"name:fi": "Suurpelto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1874724622,
+			"lat": 60.1585921,
+			"lon": 24.7120948,
+			"tags": {
+				"name:fi": "Finnoo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1874731257,
+			"lat": 60.1645925,
+			"lon": 24.695228,
+			"tags": {
+				"name:fi": "Eestinmalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1874743571,
+			"lat": 60.1688171,
+			"lon": 24.6766368,
+			"tags": {
+				"name:fi": "Eestinlaakso"
 			}
 		},
 		{
@@ -5417,11 +9089,29 @@
 		},
 		{
 			"type": "node",
+			"id": 1933310757,
+			"lat": 60.2806391,
+			"lon": 25.0705849,
+			"tags": {
+				"name:fi": "Kuusikko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1944059487,
 			"lat": 45.0534751,
 			"lon": 9.6947461,
 			"tags": {
 				"name:fi": "Piacenza"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1947277523,
+			"lat": 60.4634774,
+			"lon": 22.220627,
+			"tags": {
+				"name:fi": "Suikkila"
 			}
 		},
 		{
@@ -5435,11 +9125,110 @@
 		},
 		{
 			"type": "node",
+			"id": 1961133278,
+			"lat": 60.221273,
+			"lon": 24.6674294,
+			"tags": {
+				"name:fi": "Bemböle"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1977814873,
+			"lat": 60.019907,
+			"lon": 22.5071562,
+			"tags": {
+				"name:fi": "Taalintehdas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1989429754,
+			"lat": 61.4987608,
+			"lon": 23.8590188,
+			"tags": {
+				"name:fi": "Takahuhti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2014579192,
+			"lat": 60.1355362,
+			"lon": 24.5112484,
+			"tags": {
+				"name:fi": "Jorvas"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2057429868,
+			"lat": 59.8122388,
+			"lon": 22.9076501,
+			"tags": {
+				"name:fi": "Ulkosatama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2058188892,
+			"lat": 59.8415359,
+			"lon": 22.941253,
+			"tags": {
+				"name:fi": "Hangonkylä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2078883019,
 			"lat": 64.5873013,
 			"lon": 30.5969076,
 			"tags": {
 				"name:fi": "Kostamus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2080243822,
+			"lat": 64.5722605,
+			"lon": 30.5670648,
+			"tags": {
+				"name:fi": "Kontokki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2081525606,
+			"lat": 31.7496635,
+			"lon": 35.2337721,
+			"tags": {
+				"name:fi": "Itä-Talpiot"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2081525617,
+			"lat": 31.7865608,
+			"lon": 35.2208052,
+			"tags": {
+				"name:fi": "Mea Shearim"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2081525620,
+			"lat": 31.7831454,
+			"lon": 35.2123968,
+			"tags": {
+				"name:fi": "Nahlaot"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2081525621,
+			"lat": 31.7693712,
+			"lon": 35.2024424,
+			"tags": {
+				"name:fi": "Najot"
 			}
 		},
 		{
@@ -5453,11 +9242,101 @@
 		},
 		{
 			"type": "node",
+			"id": 2148766184,
+			"lat": 60.2558109,
+			"lon": 24.8457935,
+			"tags": {
+				"name:fi": "Honkasuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2192156773,
+			"lat": 60.1830893,
+			"lon": 24.7467268,
+			"tags": {
+				"name:fi": "Kokinkylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2192156774,
+			"lat": 60.1766753,
+			"lon": 24.770018,
+			"tags": {
+				"name:fi": "Tontunmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2250991558,
+			"lat": 60.174675,
+			"lon": 30.161411,
+			"tags": {
+				"name:fi": "Alosaari"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2251092237,
 			"lat": 56.9562093,
 			"lon": 8.6848749,
 			"tags": {
 				"name:fi": "Thistedin kunta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269151969,
+			"lat": 56.4355428,
+			"lon": 10.0425957,
+			"tags": {
+				"name:fi": "Randers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269312030,
+			"lat": 56.4800019,
+			"lon": 10.0891444,
+			"tags": {
+				"name:fi": "Randers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2273414614,
+			"lat": 60.3246547,
+			"lon": 24.714193,
+			"tags": {
+				"name:fi": "Lahnus"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2273414615,
+			"lat": 60.3159174,
+			"lon": 24.6971835,
+			"tags": {
+				"name:fi": "Luukki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2275522067,
+			"lat": 60.2261278,
+			"lon": 24.8163552,
+			"tags": {
+				"name:fi": "Vallikallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2286658095,
+			"lat": 36.4428311,
+			"lon": 28.2265569,
+			"tags": {
+				"name:fi": "Rodoksen vanhakaupunki"
 			}
 		},
 		{
@@ -5471,11 +9350,308 @@
 		},
 		{
 			"type": "node",
+			"id": 2293765706,
+			"lat": 60.1181756,
+			"lon": 24.4248784,
+			"tags": {
+				"name:fi": "Abrasinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2293765707,
+			"lat": 60.1186032,
+			"lon": 24.4418515,
+			"tags": {
+				"name:fi": "Munkinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2293767141,
+			"lat": 60.122366,
+			"lon": 24.429685,
+			"tags": {
+				"name:fi": "Finnsbacka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2312866874,
+			"lat": 60.2951936,
+			"lon": 25.1177469,
+			"tags": {
+				"name:fi": "Itä-Hakkila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2312866891,
+			"lat": 60.2863995,
+			"lon": 25.1400425,
+			"tags": {
+				"name:fi": "Sotunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2332943482,
+			"lat": 60.2248787,
+			"lon": 24.6504332,
+			"tags": {
+				"name:fi": "Miilukorpi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2332943496,
+			"lat": 60.238825,
+			"lon": 24.6561232,
+			"tags": {
+				"name:fi": "Oittaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2355288132,
+			"lat": 60.2939279,
+			"lon": 24.5580965,
+			"tags": {
+				"name:fi": "Solvalla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2387989727,
+			"lat": 61.6125289,
+			"lon": 21.4453963,
+			"tags": {
+				"name:fi": "Reposaari"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2418943009,
 			"lat": 32.3111468,
 			"lon": 35.0275505,
 			"tags": {
 				"name:fi": "Tulkarem"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2447596143,
+			"lat": 60.115216,
+			"lon": 24.4750478,
+			"tags": {
+				"name:fi": "Tolsa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2450433021,
+			"lat": 60.3509059,
+			"lon": 25.0756043,
+			"tags": {
+				"name:fi": "Korso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2483287778,
+			"lat": 63.0624061,
+			"lon": 21.7712232,
+			"tags": {
+				"name:fi": "Laajametsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2493504552,
+			"lat": 60.136056,
+			"lon": 24.4296851,
+			"tags": {
+				"name:fi": "Neidonkallio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2521290685,
+			"lat": 60.0517609,
+			"lon": 29.9759835,
+			"tags": {
+				"name:fi": "Kangaskylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2521296606,
+			"lat": 60.069801,
+			"lon": 29.975151,
+			"tags": {
+				"name:fi": "Seppälä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2659550093,
+			"lat": 60.215241,
+			"lon": 24.8362862,
+			"tags": {
+				"name:fi": "Vermo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2661120916,
+			"lat": 63.1320328,
+			"lon": 21.652788,
+			"tags": {
+				"name:fi": "Länsiniitty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2686636621,
+			"lat": 61.0221269,
+			"lon": 25.1575102,
+			"tags": {
+				"name:fi": "Hämeenkoski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2710941647,
+			"lat": 31.7787219,
+			"lon": 35.2455676,
+			"tags": {
+				"name:fi": "Öljymäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2957449649,
+			"lat": 63.0444415,
+			"lon": 21.5635426,
+			"tags": {
+				"name:fi": "Yttersundom"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3007149089,
+			"lat": 60.6437506,
+			"lon": 24.8541102,
+			"tags": {
+				"name:fi": "Sahanmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933237,
+			"lat": 60.7254639,
+			"lon": 28.737268,
+			"tags": {
+				"name:fi": "Pikiruukki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933238,
+			"lat": 60.7280581,
+			"lon": 28.6970045,
+			"tags": {
+				"name:fi": "Sorvali"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933239,
+			"lat": 60.7178006,
+			"lon": 28.7609156,
+			"tags": {
+				"name:fi": "Papula"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933243,
+			"lat": 60.7210284,
+			"lon": 28.7093347,
+			"tags": {
+				"name:fi": "Neitsytniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933245,
+			"lat": 60.7291319,
+			"lon": 28.7155544,
+			"tags": {
+				"name:fi": "Saunalahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933246,
+			"lat": 60.7123171,
+			"lon": 28.7351068,
+			"tags": {
+				"name:fi": "Vanhakaupunki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3024933247,
+			"lat": 60.7301293,
+			"lon": 28.7975867,
+			"tags": {
+				"name:fi": "Tammisuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3062550080,
+			"lat": 60.6271302,
+			"lon": 24.8213287,
+			"tags": {
+				"name:fi": "Talvisilta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3066351572,
+			"lat": 60.1852947,
+			"lon": 24.9801875,
+			"tags": {
+				"name:fi": "Kalasatama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3066772773,
+			"lat": 60.1842356,
+			"lon": 25.0769141,
+			"tags": {
+				"name:fi": "Vartiosaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3072424510,
+			"lat": 60.1838848,
+			"lon": 24.9644087,
+			"tags": {
+				"name:fi": "Sörnäinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3150218423,
+			"lat": 60.2275598,
+			"lon": 24.8661958,
+			"tags": {
+				"name:fi": "Marttila"
 			}
 		},
 		{
@@ -5489,11 +9665,56 @@
 		},
 		{
 			"type": "node",
+			"id": 3208403924,
+			"lat": 60.3190412,
+			"lon": 24.8304272,
+			"tags": {
+				"name:fi": "Keimolanmäki"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3320526612,
 			"lat": -6.1664908,
 			"lon": 39.2074312,
 			"tags": {
 				"name:fi": "Sansibar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3382670132,
+			"lat": 61.5986438,
+			"lon": 21.7214654,
+			"tags": {
+				"name:fi": "Kellahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3426554366,
+			"lat": 61.5066092,
+			"lon": 21.6512599,
+			"tags": {
+				"name:fi": "Paarnoori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3476375687,
+			"lat": 63.1235218,
+			"lon": 21.6589927,
+			"tags": {
+				"name:fi": "Koskisuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3476381110,
+			"lat": 63.0542244,
+			"lon": 21.5690968,
+			"tags": {
+				"name:fi": "Björsinkallio"
 			}
 		},
 		{
@@ -5507,11 +9728,488 @@
 		},
 		{
 			"type": "node",
+			"id": 3612992405,
+			"lat": 60.3051898,
+			"lon": 24.9581922,
+			"tags": {
+				"name:fi": "Aviapolis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3636462036,
+			"lat": 60.1647295,
+			"lon": 24.6515523,
+			"tags": {
+				"name:fi": "Kattilalaakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3708002230,
+			"lat": 60.3127967,
+			"lon": 24.9663225,
+			"tags": {
+				"name:fi": "Lentokenttä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3709047497,
+			"lat": 60.2875568,
+			"lon": 24.9628911,
+			"tags": {
+				"name:fi": "Veromäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3730728134,
+			"lat": 60.2507611,
+			"lon": 25.0085738,
+			"tags": {
+				"name:fi": "Malmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3731402896,
+			"lat": 60.245654,
+			"lon": 25.0507917,
+			"tags": {
+				"name:fi": "Tattariharju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3731407755,
+			"lat": 60.2540099,
+			"lon": 25.0394506,
+			"tags": {
+				"name:fi": "Malmin lentokenttä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733106400,
+			"lat": 60.2041722,
+			"lon": 24.5938739,
+			"tags": {
+				"name:fi": "Mynttilä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733143208,
+			"lat": 60.2491029,
+			"lon": 24.5320092,
+			"tags": {
+				"name:fi": "Kolmperä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733165403,
+			"lat": 60.198382,
+			"lon": 24.5792183,
+			"tags": {
+				"name:fi": "Espoonkartano"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733177899,
+			"lat": 60.1879796,
+			"lon": 24.5653824,
+			"tags": {
+				"name:fi": "Mankki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733181901,
+			"lat": 60.2768182,
+			"lon": 24.5142687,
+			"tags": {
+				"name:fi": "Siikajärvi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733195671,
+			"lat": 60.2966743,
+			"lon": 24.5626272,
+			"tags": {
+				"name:fi": "Nuuksio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3733198775,
+			"lat": 60.234996,
+			"lon": 24.6028456,
+			"tags": {
+				"name:fi": "Nupuri"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3734448050,
+			"lat": 60.2713667,
+			"lon": 25.202134,
+			"tags": {
+				"name:fi": "Ultuna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3734566248,
+			"lat": 60.2661613,
+			"lon": 25.1163595,
+			"tags": {
+				"name:fi": "Ojanko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3734661754,
+			"lat": 60.2574373,
+			"lon": 25.2528679,
+			"tags": {
+				"name:fi": "Majvik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3820795650,
+			"lat": 60.2450581,
+			"lon": 24.7685458,
+			"tags": {
+				"name:fi": "Veini"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3837059029,
+			"lat": 60.4834446,
+			"lon": 22.2415344,
+			"tags": {
+				"name:fi": "Nättinummi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3854079580,
+			"lat": 60.1883906,
+			"lon": 24.9527031,
+			"tags": {
+				"name:fi": "Harju"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3854093772,
+			"lat": 60.1913174,
+			"lon": 24.9384406,
+			"tags": {
+				"name:fi": "Alppila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3854099357,
+			"lat": 60.1857447,
+			"lon": 24.9551967,
+			"tags": {
+				"name:fi": "Torkkelinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3856320480,
+			"lat": 60.185969,
+			"lon": 24.9640802,
+			"tags": {
+				"name:fi": "Vilhonvuori"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3856552571,
+			"lat": 60.1839127,
+			"lon": 24.9449489,
+			"tags": {
+				"name:fi": "Linjat"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3857003063,
+			"lat": 60.1919943,
+			"lon": 24.9691385,
+			"tags": {
+				"name:fi": "Hermanninmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3857037457,
+			"lat": 60.2004842,
+			"lon": 24.9052839,
+			"tags": {
+				"name:fi": "Vanha Ruskeasuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3858930211,
+			"lat": 60.1956453,
+			"lon": 24.8732589,
+			"tags": {
+				"name:fi": "Vanha Munkkiniemi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3858943050,
+			"lat": 60.213257,
+			"lon": 24.9211202,
+			"tags": {
+				"name:fi": "Pohjois-Pasila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3867099918,
+			"lat": 60.2249071,
+			"lon": 24.9885888,
+			"tags": {
+				"name:fi": "Viikinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3867106289,
+			"lat": 60.227848,
+			"lon": 25.0195093,
+			"tags": {
+				"name:fi": "Viikin tiedepuisto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3882472606,
+			"lat": 60.1703674,
+			"lon": 24.6328263,
+			"tags": {
+				"name:fi": "Tillinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3902108931,
+			"lat": 60.1784777,
+			"lon": 24.6030221,
+			"tags": {
+				"name:fi": "Kurttila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3991773612,
+			"lat": 63.9467956,
+			"lon": 24.9248388,
+			"tags": {
+				"name:fi": "Ojalanperä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4032119041,
+			"lat": 64.1181318,
+			"lon": 29.5792636,
+			"tags": {
+				"name:fi": "Kalevala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4062051342,
+			"lat": 60.2876509,
+			"lon": 24.7247496,
+			"tags": {
+				"name:fi": "Perusmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4065427589,
+			"lat": 60.2197182,
+			"lon": 24.6321226,
+			"tags": {
+				"name:fi": "Hirvisuo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4081721107,
+			"lat": 60.6507327,
+			"lon": 23.1335063,
+			"tags": {
+				"name:fi": "Koski Tl"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4218958946,
+			"lat": 60.1574541,
+			"lon": 24.5514938,
+			"tags": {
+				"name:fi": "Kartanonranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4258305891,
+			"lat": 60.1497881,
+			"lon": 24.6558968,
+			"tags": {
+				"name:fi": "Espoonlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4258310823,
+			"lat": 60.1478764,
+			"lon": 24.6829451,
+			"tags": {
+				"name:fi": "Kaitaa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4349675041,
+			"lat": 60.387817,
+			"lon": 25.7138801,
+			"tags": {
+				"name:fi": "Kevätlaakso"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4349675042,
+			"lat": 60.3867037,
+			"lon": 25.7125068,
+			"tags": {
+				"name:fi": "Kevätlaaksonpuro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4406657888,
+			"lat": 60.0816108,
+			"lon": 23.640098,
+			"tags": {
+				"name:fi": "Pinjainen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4411517339,
+			"lat": 60.1528857,
+			"lon": 24.606341,
+			"tags": {
+				"name:fi": "Sarvvik"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4412982882,
+			"lat": 60.2012401,
+			"lon": 24.9296597,
+			"tags": {
+				"name:fi": "Keski-Pasila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4412982883,
+			"lat": 60.197873,
+			"lon": 24.9322653,
+			"tags": {
+				"name:fi": "Pasila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4414700333,
+			"lat": 60.1617475,
+			"lon": 25.0479678,
+			"tags": {
+				"name:fi": "Hevossalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4414717516,
+			"lat": 60.176342,
+			"lon": 25.0312241,
+			"tags": {
+				"name:fi": "Tullisaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4551252286,
+			"lat": 60.1731823,
+			"lon": 24.9464005,
+			"tags": {
+				"name:fi": "Kaisaniemi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4559181618,
 			"lat": 54.9655573,
 			"lon": 39.0277188,
 			"tags": {
 				"name:fi": "Luhovitsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4663006675,
+			"lat": 60.3396997,
+			"lon": 25.1376836,
+			"tags": {
+				"name:fi": "Nikinmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4665349702,
+			"lat": 60.3346464,
+			"lon": 25.1092386,
+			"tags": {
+				"name:fi": "Myras"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4726415807,
+			"lat": 60.2083483,
+			"lon": 25.1435537,
+			"tags": {
+				"name:fi": "Vuosaari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4863745848,
+			"lat": 60.5449261,
+			"lon": 22.3113877,
+			"tags": {
+				"name:fi": "Yli-Maaria"
 			}
 		},
 		{
@@ -5534,11 +10232,56 @@
 		},
 		{
 			"type": "node",
+			"id": 4955631423,
+			"lat": 60.3238508,
+			"lon": 25.0564202,
+			"tags": {
+				"name:fi": "Koivukylä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4955632189,
+			"lat": 60.3251231,
+			"lon": 25.0389174,
+			"tags": {
+				"name:fi": "Leinelä"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4966130398,
 			"lat": 61.3441735,
 			"lon": 22.9094429,
 			"tags": {
 				"name:fi": "Vammala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4972126732,
+			"lat": 63.8502766,
+			"lon": 23.1140582,
+			"tags": {
+				"name:fi": "Pikiruukki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4972137606,
+			"lat": 63.8406163,
+			"lon": 23.104968,
+			"tags": {
+				"name:fi": "Kiviniitty"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4983362764,
+			"lat": 63.8404494,
+			"lon": 23.1621758,
+			"tags": {
+				"name:fi": "Torkinmäki"
 			}
 		}
 	]

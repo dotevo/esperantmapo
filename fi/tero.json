@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T06:02:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -296,6 +296,28 @@
 		},
 		{
 			"type": "way",
+			"id": 4580982,
+			"center": {
+				"lat": 60.6579392,
+				"lon": 28.5210638
+			},
+			"tags": {
+				"name:fi": "Tervasaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4581018,
+			"center": {
+				"lat": 60.6480601,
+				"lon": 28.4908752
+			},
+			"tags": {
+				"name:fi": "Koivusaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 4581040,
 			"center": {
 				"lat": 60.6380028,
@@ -314,6 +336,28 @@
 			},
 			"tags": {
 				"name:fi": "Mäntysaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4581078,
+			"center": {
+				"lat": 60.6177905,
+				"lon": 28.4367407
+			},
+			"tags": {
+				"name:fi": "Melansaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 4581135,
+			"center": {
+				"lat": 60.6116293,
+				"lon": 28.6445851
+			},
+			"tags": {
+				"name:fi": "Pitkäsaari"
 			}
 		},
 		{
@@ -1825,6 +1869,17 @@
 		},
 		{
 			"type": "way",
+			"id": 28284534,
+			"center": {
+				"lat": 60.4652896,
+				"lon": 26.7660753
+			},
+			"tags": {
+				"name:fi": "Hevossaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 28656034,
 			"center": {
 				"lat": 65.9611187,
@@ -2232,6 +2287,17 @@
 		},
 		{
 			"type": "way",
+			"id": 95812822,
+			"center": {
+				"lat": 60.6560968,
+				"lon": 28.5972291
+			},
+			"tags": {
+				"name:fi": "Turkinsaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 97026782,
 			"center": {
 				"lat": 60.366875,
@@ -2250,6 +2316,17 @@
 			},
 			"tags": {
 				"name:fi": "Viinakupu"
+			}
+		},
+		{
+			"type": "way",
+			"id": 109901459,
+			"center": {
+				"lat": 60.6312663,
+				"lon": 28.5287239
+			},
+			"tags": {
+				"name:fi": "Suonionsaari"
 			}
 		},
 		{
@@ -2492,6 +2569,17 @@
 			},
 			"tags": {
 				"name:fi": "Vasikkasaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 127998515,
+			"center": {
+				"lat": 60.6510811,
+				"lon": 28.5520091
+			},
+			"tags": {
+				"name:fi": "Hietasaari"
 			}
 		},
 		{
@@ -3860,6 +3948,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1617868,
+			"center": {
+				"lat": 60.7306076,
+				"lon": 28.6934239
+			},
+			"tags": {
+				"name:fi": "Sorvali"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1654641,
 			"center": {
 				"lat": 61.2963272,
@@ -4278,6 +4377,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 1978281,
+			"center": {
+				"lat": 60.7433546,
+				"lon": 28.6933869
+			},
+			"tags": {
+				"name:fi": "Liitsaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 1978282,
 			"center": {
 				"lat": 60.7269618,
@@ -4300,6 +4410,28 @@
 		},
 		{
 			"type": "relation",
+			"id": 2004881,
+			"center": {
+				"lat": 60.6530607,
+				"lon": 28.5239609
+			},
+			"tags": {
+				"name:fi": "Kattilansaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2012132,
+			"center": {
+				"lat": 60.6379058,
+				"lon": 28.5426042
+			},
+			"tags": {
+				"name:fi": "Esisaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2012213,
 			"center": {
 				"lat": 60.5056477,
@@ -4307,6 +4439,50 @@
 			},
 			"tags": {
 				"name:fi": "Koiluoto"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2020140,
+			"center": {
+				"lat": 60.60966,
+				"lon": 28.616576
+			},
+			"tags": {
+				"name:fi": "Pukinsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2020143,
+			"center": {
+				"lat": 60.6663293,
+				"lon": 28.5878337
+			},
+			"tags": {
+				"name:fi": "Piispansaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2032363,
+			"center": {
+				"lat": 60.6796949,
+				"lon": 28.6135827
+			},
+			"tags": {
+				"name:fi": "Porkansaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2034405,
+			"center": {
+				"lat": 60.6643305,
+				"lon": 28.5617586
+			},
+			"tags": {
+				"name:fi": "Hapenensaari"
 			}
 		},
 		{
@@ -4346,7 +4522,7 @@
 			"type": "relation",
 			"id": 2130352,
 			"center": {
-				"lat": -8.4553708,
+				"lat": -8.4553641,
 				"lon": 115.0715555
 			},
 			"tags": {
@@ -4380,7 +4556,7 @@
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
-				"lon": -169.0590542
+				"lon": -169.0588196
 			},
 			"tags": {
 				"name:fi": "Iso-Diomede"
@@ -5495,17 +5671,6 @@
 			},
 			"tags": {
 				"name:fi": "Anjouan"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 7219477,
-			"center": {
-				"lat": -8.5099872,
-				"lon": 121.4085702
-			},
-			"tags": {
-				"name:fi": "Flores"
 			}
 		},
 		{

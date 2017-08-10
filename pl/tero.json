@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -85,6 +85,15 @@
 			"lon": 24.8005407,
 			"tags": {
 				"name:pl": "Kreta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3701930878,
+			"lat": 53.8600122,
+			"lon": 23.0976306,
+			"tags": {
+				"name:pl": "Studena"
 			}
 		},
 		{
@@ -725,7 +734,7 @@
 			"type": "relation",
 			"id": 2130352,
 			"center": {
-				"lat": -8.4553708,
+				"lat": -8.4553641,
 				"lon": 115.0715555
 			},
 			"tags": {
@@ -770,7 +779,7 @@
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
-				"lon": -169.0590542
+				"lon": -169.0588196
 			},
 			"tags": {
 				"name:pl": "Wyspa Ratmanowa"
@@ -1526,6 +1535,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 7117066,
+			"center": {
+				"lat": 18.2214311,
+				"lon": -66.4306222
+			},
+			"tags": {
+				"name:pl": "Portoryko"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 7165492,
 			"center": {
 				"lat": 18.831863,
@@ -1599,17 +1619,6 @@
 			},
 			"tags": {
 				"name:pl": "Killiniq Island"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 7219477,
-			"center": {
-				"lat": -8.5099872,
-				"lon": 121.4085702
-			},
-			"tags": {
-				"name:pl": "Flores"
 			}
 		},
 		{

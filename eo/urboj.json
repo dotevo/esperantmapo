@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1934,15 +1934,6 @@
 		},
 		{
 			"type": "node",
-			"id": 132731678,
-			"lat": 15.7143063,
-			"lon": 106.4127399,
-			"tags": {
-				"name:eo": "Salavan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 143564891,
 			"lat": 55.8892847,
 			"lon": 37.4449896,
@@ -2227,6 +2218,15 @@
 			"lon": 38.9790038,
 			"tags": {
 				"name:eo": "Oreĥovo-Zujevo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 191888317,
+			"lat": 55.7452784,
+			"lon": 38.0155193,
+			"tags": {
+				"name:eo": "Ĵeleznodoroĵnij"
 			}
 		},
 		{
@@ -2694,7 +2694,7 @@
 			"lat": 31.627503,
 			"lon": 117.8842395,
 			"tags": {
-				"name:eo": "Chaohu Urbo"
+				"name:eo": "Chaohu"
 			}
 		},
 		{
@@ -2772,8 +2772,8 @@
 		{
 			"type": "node",
 			"id": 244081999,
-			"lat": 43.8058709,
-			"lon": 87.6064713,
+			"lat": 43.7959127,
+			"lon": 87.6140244,
 			"tags": {
 				"name:eo": "Urumĉio"
 			}
@@ -2794,6 +2794,60 @@
 			"lon": 97.0448526,
 			"tags": {
 				"name:eo": "Jumen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083225,
+			"lat": 32.945992,
+			"lon": 117.3621199,
+			"tags": {
+				"name:eo": "Bengshan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083228,
+			"lat": 32.9672034,
+			"lon": 117.353831,
+			"tags": {
+				"name:eo": "Huaishang Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083236,
+			"lat": 32.9318356,
+			"lon": 117.336544,
+			"tags": {
+				"name:eo": "Yuhui Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083251,
+			"lat": 31.7020193,
+			"lon": 118.5058733,
+			"tags": {
+				"name:eo": "Huashan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083257,
+			"lat": 31.3422958,
+			"lon": 118.3797326,
+			"tags": {
+				"name:eo": "Jinghu"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083594,
+			"lat": 32.9448624,
+			"lon": 117.3881282,
+			"tags": {
+				"name:eo": "Longzihu Distrikto"
 			}
 		},
 		{
@@ -2821,6 +2875,15 @@
 			"lon": 66.9758026,
 			"tags": {
 				"name:eo": "Samarkando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 245554685,
+			"lat": 40.3768911,
+			"lon": 71.7875888,
+			"tags": {
+				"name:eo": "Fergana"
 			}
 		},
 		{
@@ -3158,6 +3221,15 @@
 		},
 		{
 			"type": "node",
+			"id": 256361818,
+			"lat": 55.366426,
+			"lon": 37.52242,
+			"tags": {
+				"name:eo": "Klimovsk"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256361843,
 			"lat": 55.5709361,
 			"lon": 38.2282099,
@@ -3266,6 +3338,15 @@
 		},
 		{
 			"type": "node",
+			"id": 256361875,
+			"lat": 54.8030364,
+			"lon": 38.2739462,
+			"tags": {
+				"name:eo": "Oĵerelje"
+			}
+		},
+		{
+			"type": "node",
 			"id": 256361887,
 			"lat": 55.7184467,
 			"lon": 38.2228192,
@@ -3366,8 +3447,8 @@
 		{
 			"type": "node",
 			"id": 257363455,
-			"lat": 36.3326329,
-			"lon": 127.3845762,
+			"lat": 36.3496963,
+			"lon": 127.384902,
 			"tags": {
 				"name:eo": "Deĝon"
 			}
@@ -3388,6 +3469,42 @@
 			"lon": 37.9084815,
 			"tags": {
 				"name:eo": "Litkarino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259449231,
+			"lat": 55.83753,
+			"lon": 37.944553,
+			"tags": {
+				"name:eo": "Peĥra-Pokrovskoje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259449240,
+			"lat": 55.8369533,
+			"lon": 37.9559726,
+			"tags": {
+				"name:eo": "Peĥra-Nikolskoje"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259449241,
+			"lat": 55.831953,
+			"lon": 37.93194,
+			"tags": {
+				"name:eo": "Lukino"
+			}
+		},
+		{
+			"type": "node",
+			"id": 259856931,
+			"lat": 55.8409543,
+			"lon": 37.9705545,
+			"tags": {
+				"name:eo": "Gorbovo"
 			}
 		},
 		{
@@ -3622,6 +3739,15 @@
 			"lon": 25.8496537,
 			"tags": {
 				"name:eo": "Varaŝ"
+			}
+		},
+		{
+			"type": "node",
+			"id": 269735612,
+			"lat": 40.3927446,
+			"lon": 28.7962239,
+			"tags": {
+				"name:eo": "Zeytinbağı"
 			}
 		},
 		{
@@ -4027,6 +4153,15 @@
 			"lon": 56.0762788,
 			"tags": {
 				"name:eo": "Ĉernuŝka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297896667,
+			"lat": 50.0842845,
+			"lon": 14.4178391,
+			"tags": {
+				"name:eo": "Malnova Urbo"
 			}
 		},
 		{
@@ -4770,8 +4905,8 @@
 		{
 			"type": "node",
 			"id": 337533363,
-			"lat": 50.1276642,
-			"lon": 25.2490036,
+			"lat": 50.1277966,
+			"lon": 25.2489607,
 			"tags": {
 				"name:eo": "Radiviliv"
 			}
@@ -4779,8 +4914,8 @@
 		{
 			"type": "node",
 			"id": 337535126,
-			"lat": 50.0763242,
-			"lon": 29.9214275,
+			"lat": 50.0799307,
+			"lon": 29.9162821,
 			"tags": {
 				"name:eo": "Fastiv"
 			}
@@ -5589,8 +5724,8 @@
 		{
 			"type": "node",
 			"id": 530544342,
-			"lat": 48.1535383,
-			"lon": 17.1096711,
+			"lat": 48.1516916,
+			"lon": 17.1093063,
 			"tags": {
 				"name:eo": "Bratislavo"
 			}
@@ -5733,8 +5868,8 @@
 		{
 			"type": "node",
 			"id": 671806634,
-			"lat": 4.5980478,
-			"lon": -74.0760867,
+			"lat": 4.5980772,
+			"lon": -74.0761028,
 			"tags": {
 				"name:eo": "Bogoto"
 			}
@@ -6066,8 +6201,8 @@
 		{
 			"type": "node",
 			"id": 1153145528,
-			"lat": 53.1539638,
-			"lon": 24.4489454,
+			"lat": 53.1546393,
+			"lon": 24.4487523,
 			"tags": {
 				"name:eo": "Vaŭkavisk"
 			}
@@ -6843,7 +6978,7 @@
 			"lat": 31.5648877,
 			"lon": 118.8435896,
 			"tags": {
-				"name:eo": "Bowang Distrikto"
+				"name:eo": "Bowang"
 			}
 		},
 		{
@@ -6862,6 +6997,15 @@
 			"lon": 139.150229,
 			"tags": {
 				"name:eo": "Odaŭara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2115184116,
+			"lat": 35.455837,
+			"lon": 139.493798,
+			"tags": {
+				"name:eo": "Kvartalo Seja"
 			}
 		},
 		{
@@ -6889,6 +7033,24 @@
 			"lon": 1.215829,
 			"tags": {
 				"name:eo": "Lomeo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269151969,
+			"lat": 56.4355428,
+			"lon": 10.0425957,
+			"tags": {
+				"name:eo": "Randers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269312030,
+			"lat": 56.4800019,
+			"lon": 10.0891444,
+			"tags": {
+				"name:eo": "Randers"
 			}
 		},
 		{
@@ -6974,6 +7136,33 @@
 		},
 		{
 			"type": "node",
+			"id": 3013751478,
+			"lat": 31.8528732,
+			"lon": 117.2552439,
+			"tags": {
+				"name:eo": "Shushan Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3013754120,
+			"lat": 31.7955295,
+			"lon": 117.3052493,
+			"tags": {
+				"name:eo": "Baohe Distrikto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3013754950,
+			"lat": 31.8601612,
+			"lon": 117.3037396,
+			"tags": {
+				"name:eo": "Yaohai Distrikto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3019559323,
 			"lat": 40.223173,
 			"lon": 69.2583902,
@@ -6988,6 +7177,15 @@
 			"lon": 33.7878122,
 			"tags": {
 				"name:eo": "Lilongvo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3110847195,
+			"lat": 24.4291378,
+			"lon": 54.618116,
+			"tags": {
+				"name:eo": "Masdaro"
 			}
 		},
 		{
@@ -7019,6 +7217,15 @@
 		},
 		{
 			"type": "node",
+			"id": 3578183534,
+			"lat": 31.8805508,
+			"lon": 117.2592373,
+			"tags": {
+				"name:eo": "Luyang Distrikto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3673183717,
 			"lat": 50.5111168,
 			"lon": 30.7900482,
@@ -7041,7 +7248,7 @@
 			"lat": 31.7371931,
 			"lon": 118.095999,
 			"tags": {
-				"name:eo": "Hanshan Graflando"
+				"name:eo": "Hanshan"
 			}
 		},
 		{
@@ -7050,7 +7257,7 @@
 			"lat": 31.5722883,
 			"lon": 118.4928233,
 			"tags": {
-				"name:eo": "Dangtu Graflanto"
+				"name:eo": "Dangtu"
 			}
 		},
 		{
@@ -7059,7 +7266,7 @@
 			"lat": 31.1367282,
 			"lon": 118.5705302,
 			"tags": {
-				"name:eo": "Wuhu Graflando"
+				"name:eo": "Wuhu"
 			}
 		},
 		{
@@ -7077,7 +7284,16 @@
 			"lat": 31.3005066,
 			"lon": 117.9142088,
 			"tags": {
-				"name:eo": "Wuwei Graflando"
+				"name:eo": "Wuwei"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3799390398,
+			"lat": 31.6842096,
+			"lon": 118.4933555,
+			"tags": {
+				"name:eo": "Yushan"
 			}
 		},
 		{
@@ -7086,7 +7302,16 @@
 			"lat": 31.2218919,
 			"lon": 118.262715,
 			"tags": {
-				"name:eo": "Sanshan Distrikto"
+				"name:eo": "Sanshan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3824013480,
+			"lat": 31.3155852,
+			"lon": 118.3674047,
+			"tags": {
+				"name:eo": "Yijiang"
 			}
 		},
 		{
@@ -7168,6 +7393,15 @@
 			"lon": 39.0277188,
 			"tags": {
 				"name:eo": "Luĥovici"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4866202678,
+			"lat": 31.3718147,
+			"lon": 118.3860456,
+			"tags": {
+				"name:eo": "Jiujiang"
 			}
 		},
 		{

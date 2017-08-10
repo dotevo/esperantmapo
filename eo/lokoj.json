@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -811,8 +811,8 @@
 			"type": "way",
 			"id": 6628153,
 			"center": {
-				"lat": 52.5127288,
-				"lon": 4.6704072
+				"lat": 52.5127341,
+				"lon": 4.6704199
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -876,8 +876,8 @@
 			"type": "way",
 			"id": 6862249,
 			"center": {
-				"lat": 52.006968,
-				"lon": 6.0285077
+				"lat": 52.0069581,
+				"lon": 6.0285365
 			},
 			"tags": {
 				"highway": "residential",
@@ -954,7 +954,8 @@
 				"highway": "unclassified",
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -987,6 +988,7 @@
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
 				"name:etymology:wikidata": "Q11758",
+				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"oneway": "yes",
 				"source:maxspeed": "PL:zone30",
@@ -1019,6 +1021,7 @@
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
 				"name:etymology:wikidata": "Q11758",
+				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
@@ -1369,6 +1372,7 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
@@ -2141,6 +2145,7 @@
 				"lanes:forward": "2",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt",
 				"turn:lanes:forward": "|through;right",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
@@ -2229,6 +2234,7 @@
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
 				"name:etymology:wikidata": "Q11758",
+				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"oneway": "yes",
 				"source:maxspeed": "PL:zone30",

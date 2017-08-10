@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -551,6 +551,28 @@
 				"operator": "Ruhr-Standort-Informationssystem",
 				"operator:abbr": "RuSIS",
 				"ref": "4931"
+			}
+		},
+		{
+			"type": "node",
+			"id": 452409476,
+			"lat": 54.3816181,
+			"lon": 18.6110949,
+			"tags": {
+				"addr": "Wajdeloty 22, 80-437 Gdańsk",
+				"addr:city": "Gdańsk",
+				"addr:housenumber": "22",
+				"addr:street": "Wajdeloty",
+				"amenity": "cafe",
+				"cuisine": "vegan",
+				"email": "fu.kontakt@gmail.com",
+				"facebook": "https://facebook.com/fukafe1",
+				"language:pl": "yes",
+				"name": "Fukafe",
+				"opening_hours": "Tu-Su 12:00-21:00",
+				"outdoor_seating": "no",
+				"phone": "+48 537 169 321",
+				"website": "http://www.fukafe.pl"
 			}
 		},
 		{
@@ -1132,6 +1154,7 @@
 				"name": "Puszcza Białowieska",
 				"name:be": "Белавежская пушча",
 				"name:lv": "Belovežas gārša",
+				"name:pl": "Puszcza Białowieska",
 				"name:sv": "Bialowiezaskogen"
 			}
 		},

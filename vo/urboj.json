@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-07-24T04:24:02Z",
+		"timestamp_osm_base": "2017-08-09T05:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -688,6 +688,24 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:vo": "Söul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269151969,
+			"lat": 56.4355428,
+			"lon": 10.0425957,
+			"tags": {
+				"name:vo": "Randers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269312030,
+			"lat": 56.4800019,
+			"lon": 10.0891444,
+			"tags": {
+				"name:vo": "Randers"
 			}
 		},
 		{
