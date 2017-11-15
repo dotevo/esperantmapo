@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T06:02:02Z",
+		"timestamp_osm_base": "2017-11-15T14:05:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -432,7 +432,7 @@
 		{
 			"type": "node",
 			"id": 424298311,
-			"lat": 32.9407496,
+			"lat": 32.9407495,
 			"lon": 52.9471344,
 			"tags": {
 				"name:tok": "ma Ilan"

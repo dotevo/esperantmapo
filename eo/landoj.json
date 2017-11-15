@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -540,7 +540,7 @@
 		{
 			"type": "node",
 			"id": 424298311,
-			"lat": 32.9407496,
+			"lat": 32.9407495,
 			"lon": 52.9471344,
 			"tags": {
 				"name:eo": "Irano"
@@ -661,15 +661,6 @@
 			"lon": 11.6899699,
 			"tags": {
 				"name:eo": "Gabono"
-			}
-		},
-		{
-			"type": "node",
-			"id": 424311328,
-			"lat": 4.8417097,
-			"lon": -58.6416891,
-			"tags": {
-				"name:eo": "Gujano"
 			}
 		},
 		{
@@ -1665,8 +1656,8 @@
 		{
 			"type": "node",
 			"id": 445970763,
-			"lat": 43.0285558,
-			"lon": 19.291739,
+			"lat": 42.7728491,
+			"lon": 19.2408586,
 			"tags": {
 				"name:eo": "Montenegro"
 			}

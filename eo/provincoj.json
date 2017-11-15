@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1971,8 +1971,8 @@
 		{
 			"type": "node",
 			"id": 313870420,
-			"lat": 47.3723144,
-			"lon": 8.5423238,
+			"lat": 47.4133024,
+			"lon": 8.656394,
 			"tags": {
 				"name:eo": "Zuriko"
 			}
@@ -2502,8 +2502,8 @@
 		{
 			"type": "node",
 			"id": 415522239,
-			"lat": -15.9323875,
-			"lon": -50.1387087,
+			"lat": -15.9323662,
+			"lon": -50.1392928,
 			"tags": {
 				"name:eo": "Gojaso"
 			}
@@ -6524,15 +6524,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2914855219,
-			"lat": 37.042257,
-			"lon": 43.0953954,
-			"tags": {
-				"name:eo": "Dahuka gubernio"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2914855222,
 			"lat": 32.4511703,
 			"lon": 43.8196617,
@@ -6853,6 +6844,15 @@
 			"lon": 2.7247515,
 			"tags": {
 				"name:eo": "Nordo-Kaleza Markolo kaj Pikardio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4121045753,
+			"lat": 39.8592968,
+			"lon": 46.7572816,
+			"tags": {
+				"name:eo": "Montara Karabaĥo"
 			}
 		},
 		{

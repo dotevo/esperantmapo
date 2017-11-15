@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -36,8 +36,8 @@
 		{
 			"type": "node",
 			"id": 16173236,
-			"lat": 28.6138967,
-			"lon": 77.2159562,
+			"lat": 28.6141793,
+			"lon": 77.2022662,
 			"tags": {
 				"name:io": "Nova-Delhi"
 			}
@@ -127,7 +127,7 @@
 			"type": "node",
 			"id": 27048978,
 			"lat": 54.6554783,
-			"lon": 19.9110348,
+			"lon": 19.9110563,
 			"tags": {
 				"name:io": "Baltiysk"
 			}
@@ -162,8 +162,8 @@
 		{
 			"type": "node",
 			"id": 27547977,
-			"lat": 38.5763119,
-			"lon": 68.7860218,
+			"lat": 38.5762709,
+			"lon": 68.7863573,
 			"tags": {
 				"name:io": "Dushanbe"
 			}
@@ -171,8 +171,8 @@
 		{
 			"type": "node",
 			"id": 27547986,
-			"lat": 47.9053494,
-			"lon": 106.9212913,
+			"lat": 47.9184676,
+			"lon": 106.9177016,
 			"tags": {
 				"name:io": "Ulan Bator"
 			}
@@ -296,9 +296,18 @@
 		},
 		{
 			"type": "node",
+			"id": 60410873,
+			"lat": 46.9659167,
+			"lon": 32.0035348,
+			"tags": {
+				"name:io": "Mykolaiv"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60571493,
-			"lat": 44.8178787,
-			"lon": 20.4568089,
+			"lat": 44.8178131,
+			"lon": 20.4568974,
 			"tags": {
 				"name:io": "Belgrade"
 			}
@@ -450,8 +459,8 @@
 		{
 			"type": "node",
 			"id": 244080443,
-			"lat": 23.1387267,
-			"lon": 113.319321,
+			"lat": 23.1301964,
+			"lon": 113.2592945,
 			"tags": {
 				"name:io": "Guangzhou"
 			}
@@ -477,8 +486,8 @@
 		{
 			"type": "node",
 			"id": 246842649,
-			"lat": 46.7774872,
-			"lon": -56.1767706,
+			"lat": 46.7775497,
+			"lon": -56.1768672,
 			"tags": {
 				"name:io": "St Pierre"
 			}

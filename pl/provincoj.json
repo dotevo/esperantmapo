@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1719,7 +1719,7 @@
 		{
 			"type": "node",
 			"id": 481109416,
-			"lat": 32.2452687,
+			"lat": 32.2452686,
 			"lon": 55.105172,
 			"tags": {
 				"name:pl": "Jazd"
@@ -3275,15 +3275,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1237030144,
-			"lat": -11.9999702,
-			"lon": -76.8332244,
-			"tags": {
-				"name:pl": "Prowincja Lima"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610245,
 			"lat": 48.8360858,
 			"lon": 6.1999334,
@@ -4202,6 +4193,105 @@
 		},
 		{
 			"type": "node",
+			"id": 2173193655,
+			"lat": 44.0649929,
+			"lon": 143.9600858,
+			"tags": {
+				"name:pl": "Podprefektura Ohōtsuku"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193657,
+			"lat": 43.894604,
+			"lon": 142.578031,
+			"tags": {
+				"name:pl": "Podprefektura Kamikawa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193701,
+			"lat": 42.8914755,
+			"lon": 143.3507332,
+			"tags": {
+				"name:pl": "Podprefektura Tokachi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193713,
+			"lat": 45.052288,
+			"lon": 141.901722,
+			"tags": {
+				"name:pl": "Podprefektura Soya"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193731,
+			"lat": 42.9171937,
+			"lon": 140.6061215,
+			"tags": {
+				"name:pl": "Podprefektura Shiribeshi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193734,
+			"lat": 42.462534,
+			"lon": 142.647079,
+			"tags": {
+				"name:pl": "Podprefektura Hidaka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193746,
+			"lat": 42.2466757,
+			"lon": 139.9454098,
+			"tags": {
+				"name:pl": "Podprefektura Hiyama"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193752,
+			"lat": 42.0397681,
+			"lon": 140.4943296,
+			"tags": {
+				"name:pl": "Podprefektura Oshima"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193755,
+			"lat": 44.3428802,
+			"lon": 141.7032744,
+			"tags": {
+				"name:pl": "Podprefektura Rumoi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193761,
+			"lat": 43.2161612,
+			"lon": 141.4303012,
+			"tags": {
+				"name:pl": "Podprefektura Ishikari"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2173193784,
+			"lat": 42.6420014,
+			"lon": 141.433505,
+			"tags": {
+				"name:pl": "Podprefektura Iburi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2222491869,
 			"lat": 17.2658129,
 			"lon": 18.3695288,
@@ -4760,18 +4850,9 @@
 		},
 		{
 			"type": "node",
-			"id": 2914855219,
-			"lat": 37.042257,
-			"lon": 43.0953954,
-			"tags": {
-				"name:pl": "Dahuk"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2914855220,
-			"lat": 36.5349312,
-			"lon": 44.2534471,
+			"lat": 36.1911881,
+			"lon": 44.0094761,
 			"tags": {
 				"name:pl": "Irbil"
 			}
@@ -4922,6 +5003,24 @@
 		},
 		{
 			"type": "node",
+			"id": 3237394561,
+			"lat": 43.2356774,
+			"lon": 144.3831008,
+			"tags": {
+				"name:pl": "Podprefektura Kushiro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3237396070,
+			"lat": 43.5531752,
+			"lon": 145.0188749,
+			"tags": {
+				"name:pl": "Podprefektura Nemuro"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3513471346,
 			"lat": 42.9911816,
 			"lon": -2.5543023,
@@ -4967,6 +5066,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4121045753,
+			"lat": 39.8592968,
+			"lon": 46.7572816,
+			"tags": {
+				"name:pl": "Górski Karabach"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4189263789,
 			"lat": 49.653721,
 			"lon": 2.5339474,
@@ -5008,15 +5116,6 @@
 			"lon": 133.7037385,
 			"tags": {
 				"name:pl": "Prefektura Okayama"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4351351157,
-			"lat": 26.5707754,
-			"lon": 128.0255901,
-			"tags": {
-				"name:pl": "Prefektura Okinawa"
 			}
 		},
 		{

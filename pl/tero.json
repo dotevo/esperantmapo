@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -31,15 +31,6 @@
 			"lon": 63.4425995,
 			"tags": {
 				"name:pl": "Rodrigues"
-			}
-		},
-		{
-			"type": "node",
-			"id": 585171934,
-			"lat": 43.4519831,
-			"lon": 142.8197834,
-			"tags": {
-				"name:pl": "Hokkaido"
 			}
 		},
 		{
@@ -195,22 +186,11 @@
 			"type": "way",
 			"id": 10228601,
 			"center": {
-				"lat": 40.4940743,
-				"lon": 19.2787795
+				"lat": 40.4940742,
+				"lon": 19.2787794
 			},
 			"tags": {
 				"name:pl": "Sazan"
-			}
-		},
-		{
-			"type": "way",
-			"id": 11520932,
-			"center": {
-				"lat": -33.7690133,
-				"lon": -80.7963611
-			},
-			"tags": {
-				"name:pl": "Alejandro Selkirk"
 			}
 		},
 		{
@@ -248,13 +228,13 @@
 		},
 		{
 			"type": "way",
-			"id": 27923209,
+			"id": 30964965,
 			"center": {
-				"lat": 83.6621503,
-				"lon": -30.6164979
+				"lat": 54.1715657,
+				"lon": 21.6727025
 			},
 			"tags": {
-				"name:pl": "Wyspa Kaffeklubben"
+				"name:pl": "Upałty"
 			}
 		},
 		{
@@ -266,6 +246,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Ernsta Thälmanna"
+			}
+		},
+		{
+			"type": "way",
+			"id": 131896329,
+			"center": {
+				"lat": 54.3719832,
+				"lon": 18.6543378
+			},
+			"tags": {
+				"name:pl": "Ostrów"
 			}
 		},
 		{
@@ -492,11 +483,22 @@
 			"type": "relation",
 			"id": 910860,
 			"center": {
-				"lat": -54.814749,
+				"lat": -54.8147931,
 				"lon": -64.2767338
 			},
 			"tags": {
 				"name:pl": "Wyspa Stanów"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1124190,
+			"center": {
+				"lat": 78.3110968,
+				"lon": 16.0709216
+			},
+			"tags": {
+				"name:pl": "Spitsbergen"
 			}
 		},
 		{
@@ -603,7 +605,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3408483,
-				"lon": 103.8244956
+				"lon": 103.8246336
 			},
 			"tags": {
 				"name:pl": "Singapur"
@@ -734,8 +736,8 @@
 			"type": "relation",
 			"id": 2130352,
 			"center": {
-				"lat": -8.4553641,
-				"lon": 115.0715555
+				"lat": -8.4560102,
+				"lon": 115.071516
 			},
 			"tags": {
 				"name:pl": "Bali"
@@ -779,7 +781,7 @@
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
-				"lon": -169.0588196
+				"lon": -169.0590079
 			},
 			"tags": {
 				"name:pl": "Wyspa Ratmanowa"
@@ -882,6 +884,17 @@
 			},
 			"tags": {
 				"name:pl": "Sikoku"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2968182,
+			"center": {
+				"lat": -61.1679115,
+				"lon": -55.0634659
+			},
+			"tags": {
+				"name:pl": "Wyspa Słoniowa"
 			}
 		},
 		{
@@ -1172,6 +1185,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 4805378,
+			"center": {
+				"lat": 51.3934165,
+				"lon": -68.7367939
+			},
+			"tags": {
+				"name:pl": "René-Levasseur"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 4868269,
 			"center": {
 				"lat": -15.9656679,
@@ -1295,7 +1319,7 @@
 			"type": "relation",
 			"id": 6045346,
 			"center": {
-				"lat": 53.2856346,
+				"lat": 53.2855566,
 				"lon": -4.6250822
 			},
 			"tags": {
@@ -1317,7 +1341,7 @@
 			"type": "relation",
 			"id": 6045382,
 			"center": {
-				"lat": 55.8240515,
+				"lat": 55.8241072,
 				"lon": -5.111715
 			},
 			"tags": {
@@ -1350,7 +1374,7 @@
 			"type": "relation",
 			"id": 6046465,
 			"center": {
-				"lat": 56.4805378,
+				"lat": 56.4805362,
 				"lon": -6.226382
 			},
 			"tags": {
@@ -1361,8 +1385,8 @@
 			"type": "relation",
 			"id": 6046479,
 			"center": {
-				"lat": 51.5276297,
-				"lon": 0.5727734
+				"lat": 51.527637,
+				"lon": 0.5727627
 			},
 			"tags": {
 				"name:pl": "Canvey Island"
@@ -1537,7 +1561,7 @@
 			"type": "relation",
 			"id": 7117066,
 			"center": {
-				"lat": 18.2214311,
+				"lat": 18.2214242,
 				"lon": -66.4306222
 			},
 			"tags": {
@@ -1612,6 +1636,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 7212523,
+			"center": {
+				"lat": -54.435355,
+				"lon": -36.9065911
+			},
+			"tags": {
+				"name:pl": "Georgia Południowa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 7215792,
 			"center": {
 				"lat": 60.3879905,
@@ -1619,6 +1654,17 @@
 			},
 			"tags": {
 				"name:pl": "Killiniq Island"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7219477,
+			"center": {
+				"lat": -8.5099872,
+				"lon": 121.4085702
+			},
+			"tags": {
+				"name:pl": "Flores"
 			}
 		},
 		{
@@ -1674,6 +1720,39 @@
 			},
 			"tags": {
 				"name:pl": "Szarki"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7504090,
+			"center": {
+				"lat": -33.7692263,
+				"lon": -80.7962304
+			},
+			"tags": {
+				"name:pl": "Alejandro Selkirk"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7663501,
+			"center": {
+				"lat": -0.1429959,
+				"lon": 100.6455262
+			},
+			"tags": {
+				"name:pl": "Sumatra"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7663548,
+			"center": {
+				"lat": -7.3281353,
+				"lon": 109.9075536
+			},
+			"tags": {
+				"name:pl": "Jawa"
 			}
 		}
 	]

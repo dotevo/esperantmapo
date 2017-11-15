@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -31,15 +31,6 @@
 			"lon": 63.4425995,
 			"tags": {
 				"name:eo": "Rodriges"
-			}
-		},
-		{
-			"type": "node",
-			"id": 585171934,
-			"lat": 43.4519831,
-			"lon": 142.8197834,
-			"tags": {
-				"name:eo": "Hokajdo"
 			}
 		},
 		{
@@ -125,7 +116,7 @@
 			"id": 4605565,
 			"center": {
 				"lat": 70.9931958,
-				"lon": -8.502675
+				"lon": -8.5028502
 			},
 			"tags": {
 				"name:eo": "Janmajeno"
@@ -146,22 +137,11 @@
 			"type": "way",
 			"id": 10228601,
 			"center": {
-				"lat": 40.4940743,
-				"lon": 19.2787795
+				"lat": 40.4940742,
+				"lon": 19.2787794
 			},
 			"tags": {
 				"name:eo": "Insulo Sazano"
-			}
-		},
-		{
-			"type": "way",
-			"id": 11520932,
-			"center": {
-				"lat": -33.7690133,
-				"lon": -80.7963611
-			},
-			"tags": {
-				"name:eo": "Insulo Alejandro Selkirk"
 			}
 		},
 		{
@@ -223,7 +203,7 @@
 			"type": "relation",
 			"id": 910860,
 			"center": {
-				"lat": -54.814749,
+				"lat": -54.8147931,
 				"lon": -64.2767338
 			},
 			"tags": {
@@ -279,7 +259,7 @@
 			"id": 1769123,
 			"center": {
 				"lat": 1.3408483,
-				"lon": 103.8244956
+				"lon": 103.8246336
 			},
 			"tags": {
 				"name:eo": "Singapuro"
@@ -322,8 +302,8 @@
 			"type": "relation",
 			"id": 2130352,
 			"center": {
-				"lat": -8.4553641,
-				"lon": 115.0715555
+				"lat": -8.4560102,
+				"lon": 115.071516
 			},
 			"tags": {
 				"name:eo": "Balio"
@@ -488,7 +468,7 @@
 			"id": 3790219,
 			"center": {
 				"lat": 54.4467612,
-				"lon": 13.0189806
+				"lon": 13.0189888
 			},
 			"tags": {
 				"name:eo": "Bock"
@@ -925,6 +905,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 7219477,
+			"center": {
+				"lat": -8.5099872,
+				"lon": 121.4085702
+			},
+			"tags": {
+				"name:eo": "Floreso"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 7219484,
 			"center": {
 				"lat": -9.7959655,
@@ -954,6 +945,17 @@
 			},
 			"tags": {
 				"name:eo": "Lomboko"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7504090,
+			"center": {
+				"lat": -33.7692263,
+				"lon": -80.7962304
+			},
+			"tags": {
+				"name:eo": "Insulo Alejandro Selkirk"
 			}
 		}
 	]

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -216,8 +216,8 @@
 		{
 			"type": "node",
 			"id": 60571493,
-			"lat": 44.8178787,
-			"lon": 20.4568089,
+			"lat": 44.8178131,
+			"lon": 20.4568974,
 			"tags": {
 				"name:vo": "Beograd"
 			}
@@ -400,15 +400,6 @@
 			"lon": 12.6821366,
 			"tags": {
 				"name:vo": "Zingst"
-			}
-		},
-		{
-			"type": "node",
-			"id": 240120582,
-			"lat": 49.014068,
-			"lon": 8.404437,
-			"tags": {
-				"name:vo": "Karlsruhe"
 			}
 		},
 		{

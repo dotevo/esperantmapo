@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API",
 	"osm3s": {
-		"timestamp_osm_base": "2017-08-09T05:45:02Z",
+		"timestamp_osm_base": "2017-11-15T12:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -25,6 +25,23 @@
 				"subject:wikidata": "Q143",
 				"wikidata": "Q12565",
 				"wikipedia": "nl:Universala Esperanto-Asocio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1242413589,
+			"lat": 59.3436427,
+			"lon": 18.0655291,
+			"tags": {
+				"amenity": "restaurant",
+				"cuisine": "fine_dining",
+				"esperanto": "yes",
+				"name": "Esperanto",
+				"opening_hours": "Mo-Tu off; We-Sa 19:00-01:00; Su off",
+				"phone": "+46-8-6962323",
+				"website": "http://www.esperantorestaurant.se/",
+				"wikidata": "Q10489150",
+				"wikipedia": "sv:Esperanto (restaurang)"
 			}
 		},
 		{
@@ -57,7 +74,7 @@
 				"cuisine": "international",
 				"name": "Esperantos Bistro",
 				"name:etymology:wikidata": "Q143",
-				"phone": "01704 571116"
+				"phone": "+44 1704 571116"
 			}
 		},
 		{
@@ -71,6 +88,7 @@
 				"designation": "Sammlung Esperanto und Plansprachen",
 				"esperanto": "yes",
 				"name": "Deutsche Esperanto-Bibliothek",
+				"name:de": "Deutsche Esperanto-Bibliothek",
 				"name:eo": "Germana Esperanto-Biblioteko",
 				"operator": "Germana Esperanto-Instituto",
 				"source": "D.E.B. e.V",
@@ -84,24 +102,20 @@
 			"lat": -25.4305709,
 			"lon": -49.2683965,
 			"tags": {
-				"addr:city": "Curitiba",
-				"addr:country": "BR",
-				"addr:housenumber": "441",
-				"addr:postcode": "80020-310",
-				"addr:street": "Rua XV de Novembro",
-				"addr:suburb": "Centro",
+				"addr:floor": "10",
 				"amenity": "social_centre",
+				"contact:facebook": "https://www.facebook.com/esperantoparana/",
+				"contact:phone": "+55 41 9943 6121",
+				"contact:website": "http://www.esperantoparana.com.br/",
 				"esperanto": "yes",
-				"facebook": "https://www.facebook.com/esperantoparana/",
+				"indoor": "yes",
 				"language:eo": "yes",
 				"level": "10",
 				"name": "Associação de Esperanto do Paraná",
 				"name:eo": "Paranaa Esperanto-Asocio",
-				"phone": "+55 41 9943 6121",
-				"room": "yes",
+				"room": "office",
 				"short_name": "PEA",
-				"training": "language",
-				"website": "http://www.esperantoparana.com.br/"
+				"training": "language"
 			}
 		},
 		{
@@ -194,6 +208,18 @@
 		},
 		{
 			"type": "node",
+			"id": 3112228325,
+			"lat": 35.0104927,
+			"lon": 135.784947,
+			"tags": {
+				"craft": "photographer",
+				"esperanto": "yes",
+				"name": "ESPERANTO kokoro Kyoto Okazaki Studio",
+				"source": "survey"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3235646025,
 			"lat": -22.9010312,
 			"lon": -43.1813068,
@@ -253,13 +279,13 @@
 		{
 			"type": "node",
 			"id": 3644336006,
-			"lat": 53.1323413,
-			"lon": 23.1583916,
+			"lat": 53.1323292,
+			"lon": 23.1583883,
 			"tags": {
 				"amenity": "restaurant",
-				"building": "yes",
 				"contact:facebook": "https://www.facebook.com/pages/Esperanto-Cafe/105654522829301",
 				"email": "kawiarnia@esperanto-cafe.pl",
+				"esperanto": "yes",
 				"height": "0.5",
 				"language:eo": "yes",
 				"name": "Esperanto Cafe",
@@ -365,7 +391,7 @@
 				"seamark:type": "wreck",
 				"seamark:wreck:category": "non-dangerous",
 				"wikidata": "Q1044668",
-				"wikipedia": "eo:Insulo_de_la_Rozoj",
+				"wikipedia": "eo:Insulo de la Rozoj",
 				"wreck:date:sunk": "1969-02-26",
 				"wreck:depth": "8m",
 				"wreck:width": "20m"
@@ -411,8 +437,8 @@
 		{
 			"type": "node",
 			"id": 4561065891,
-			"lat": 53.1347633,
-			"lon": 23.1610495,
+			"lat": 53.1347879,
+			"lon": 23.1610769,
 			"tags": {
 				"commemorates:wikidata": "Q11758",
 				"esperanto": "yes",
@@ -608,19 +634,20 @@
 			"lon": 6.8262405,
 			"tags": {
 				"addr:city": "La Chaux-de-Fonds",
+				"addr:country": "CH",
 				"addr:housenumber": "33",
-				"addr:postcode": "2300",
+				"addr:postcode": "2303",
 				"addr:street": "Rue du Progrès",
 				"amenity": "library",
 				"books:language:eo": "yes",
+				"contact:website": "http://www.cdeli.org/",
 				"esperanto": "yes",
 				"name": "Centre de documentation et d'étude sur la langue internationale",
 				"name:eo": "Centro de Dokumentado kaj Esploro pri la Lingvo Internacia",
-				"operator": "Bibliothèque de la Ville",
+				"operator": "Bibliothèque de la ville",
 				"short_name": "CDELI",
 				"source": "Wikipedia",
 				"start_date": "1967",
-				"website": "http://www.cdeli.org/",
 				"wikidata": "Q2296824",
 				"wikipedia": "fr:Centre de documentation et d'étude sur la langue internationale"
 			}
@@ -695,6 +722,60 @@
 				"operator": "Országos Idegennyelvű Könyvtár",
 				"wikidata": "Q995650",
 				"wikipedia": "hu:Fajszi-gyűjtemény"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5183882224,
+			"lat": 37.6093007,
+			"lon": 138.8427601,
+			"tags": {
+				"esperanto": "yes",
+				"historic": "monument",
+				"website": "https://web.archive.org/web/20140223202451/http://www.jei.or.jp/foto/foto_zeo.htm"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5184049979,
+			"lat": 32.8002383,
+			"lon": 130.6930807,
+			"tags": {
+				"esperanto": "yes",
+				"fixme": "confirm position",
+				"historic": "tomb",
+				"name": "鶴野之家の墓",
+				"tomb": "tombstone"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5184082584,
+			"lat": 35.0123686,
+			"lon": 135.5824872,
+			"tags": {
+				"esperanto": "yes",
+				"fixme": "confirm position",
+				"historic": "monument",
+				"inscription": "Unu Dio, Unu Mondo, Unu Interlingvo",
+				"religion": "oomoto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5202208717,
+			"lat": 51.6954988,
+			"lon": 10.4179336,
+			"tags": {
+				"addr:city": "Sieber",
+				"addr:housenumber": "49",
+				"addr:postcode": "37412",
+				"addr:street": "An der Sieber",
+				"esperanto": "yes",
+				"name": "Hotel Zum Pass",
+				"phone": "+49 4955 85332",
+				"stars": "3",
+				"tourism": "hotel"
 			}
 		},
 		{
@@ -975,28 +1056,6 @@
 		},
 		{
 			"type": "way",
-			"id": 25526036,
-			"center": {
-				"lat": 50.0634164,
-				"lon": 19.945417
-			},
-			"tags": {
-				"construction": "residential",
-				"construction:end_date": "2017-08-30",
-				"highway": "construction",
-				"maxspeed": "30",
-				"name": "Doktora Ludwika Zamenhofa",
-				"name:be": "вуліца Доктара Людвіка Заменгофа",
-				"name:etymology:wikidata": "Q11758",
-				"name:pl": "Doktora Ludwika Zamenhofa",
-				"old_name": "Niecała",
-				"oneway": "yes",
-				"source:maxspeed": "PL:zone30",
-				"surface": "asphalt"
-			}
-		},
-		{
-			"type": "way",
 			"id": 26254052,
 			"center": {
 				"lat": 51.0718302,
@@ -1071,7 +1130,8 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
-				"source:maxspeed": "PL:urban"
+				"source:maxspeed": "PL:urban",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1091,8 +1151,8 @@
 			"type": "way",
 			"id": 31132876,
 			"center": {
-				"lat": 50.8428723,
-				"lon": 16.4623845
+				"lat": 50.842878,
+				"lon": 16.4624133
 			},
 			"tags": {
 				"highway": "primary",
@@ -1101,8 +1161,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1125,8 +1184,8 @@
 			"type": "way",
 			"id": 32944359,
 			"center": {
-				"lat": -25.4194641,
-				"lon": -49.2615871
+				"lat": -25.4195068,
+				"lon": -49.2616052
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -1166,6 +1225,22 @@
 		},
 		{
 			"type": "way",
+			"id": 40736056,
+			"center": {
+				"lat": -1.4057363,
+				"lon": -48.4458613
+			},
+			"tags": {
+				"esperanto": "yes",
+				"foot": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"sidewalk": "both",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 40943104,
 			"center": {
 				"lat": -22.9168093,
@@ -1182,8 +1257,8 @@
 			"type": "way",
 			"id": 45485713,
 			"center": {
-				"lat": 50.8431059,
-				"lon": 16.4638979
+				"lat": 50.8430897,
+				"lon": 16.4639066
 			},
 			"tags": {
 				"highway": "primary",
@@ -1192,8 +1267,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1210,8 +1284,24 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 47483556,
+			"center": {
+				"lat": -5.1023135,
+				"lon": -42.797301
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "2",
+				"name": "Rua Esperanto",
+				"oneway": "no",
+				"source": "Yahoo Imagery",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1290,6 +1380,37 @@
 		},
 		{
 			"type": "way",
+			"id": 99809666,
+			"center": {
+				"lat": -15.244086,
+				"lon": -40.2440559
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Travessa Esperanto",
+				"source": "own gps survey",
+				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 99809680,
+			"center": {
+				"lat": -15.2438339,
+				"lon": -40.2441812
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Avenida Esperanto",
+				"oneway": "yes",
+				"source": "own gps survey",
+				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
 			"id": 105145789,
 			"center": {
 				"lat": 51.7302121,
@@ -1348,10 +1469,23 @@
 		},
 		{
 			"type": "way",
+			"id": 129089440,
+			"center": {
+				"lat": -23.2939092,
+				"lon": -51.2207411
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Avenida Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 130922344,
 			"center": {
-				"lat": -3.7083322,
-				"lon": -40.3345099
+				"lat": -3.7083331,
+				"lon": -40.3345147
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -1375,6 +1509,34 @@
 				"surface": "asphalt",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 142260007,
+			"center": {
+				"lat": -22.9333359,
+				"lon": -47.0502971
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 147430477,
+			"center": {
+				"lat": -15.2419345,
+				"lon": -40.2406038
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Avenida Esperanto",
+				"source": "own gps survey",
+				"surface": "paving_stones"
 			}
 		},
 		{
@@ -1532,6 +1694,32 @@
 		},
 		{
 			"type": "way",
+			"id": 166176760,
+			"center": {
+				"lat": -22.9113896,
+				"lon": -43.5550887
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 166275545,
+			"center": {
+				"lat": -22.8786195,
+				"lon": -43.5325057
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Lidja Zamenhof"
+			}
+		},
+		{
+			"type": "way",
 			"id": 166392909,
 			"center": {
 				"lat": 50.8686301,
@@ -1546,6 +1734,20 @@
 		},
 		{
 			"type": "way",
+			"id": 168814951,
+			"center": {
+				"lat": 47.5299469,
+				"lon": -0.5987675
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "tertiary",
+				"name": "Avenue Espéranto",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+			}
+		},
+		{
+			"type": "way",
 			"id": 173992946,
 			"center": {
 				"lat": 52.1217388,
@@ -1556,6 +1758,20 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 175820839,
+			"center": {
+				"lat": -23.5102218,
+				"lon": -47.4426127
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"oneway": "no"
 			}
 		},
 		{
@@ -1613,6 +1829,22 @@
 		},
 		{
 			"type": "way",
+			"id": 188434585,
+			"center": {
+				"lat": -19.2259445,
+				"lon": -45.0084324
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Rua Esperanto",
+				"oneway": "no",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 199955092,
 			"center": {
 				"lat": 52.1034901,
@@ -1622,6 +1854,36 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 201235451,
+			"center": {
+				"lat": 36.7308396,
+				"lon": -3.9638048
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "1",
+				"name": "Avenida Esperanto",
+				"oneway": "yes",
+				"surface": "paved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 207076519,
+			"center": {
+				"lat": -29.6017518,
+				"lon": -51.3690639
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Travessa Esperanto",
+				"source": "Bing"
 			}
 		},
 		{
@@ -1642,7 +1904,8 @@
 				"place": "islet",
 				"source": "ADD",
 				"source:date": "01/07/2002",
-				"wikipedia": "eo:Esperanto_(insulo)"
+				"wikidata": "Q3845350",
+				"wikipedia": "eo:Esperanto (insulo)"
 			}
 		},
 		{
@@ -1670,10 +1933,23 @@
 		},
 		{
 			"type": "way",
+			"id": 253336352,
+			"center": {
+				"lat": -21.5434772,
+				"lon": -49.8625442
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Avenida Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 255885282,
 			"center": {
-				"lat": 50.8432918,
-				"lon": 16.4654708
+				"lat": 50.8427771,
+				"lon": 16.4626236
 			},
 			"tags": {
 				"highway": "primary",
@@ -1682,8 +1958,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1700,8 +1975,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1747,8 +2021,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1765,8 +2038,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1785,8 +2057,7 @@
 				"oneway": "yes",
 				"placement": "middle_of:2",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"turn:lanes": "left|through|right"
 			}
 		},
@@ -1804,8 +2075,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1824,8 +2094,7 @@
 				"oneway": "yes",
 				"placement": "middle_of:2",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"turn:lanes": "left|through"
 			}
 		},
@@ -1845,8 +2114,7 @@
 				"oneway": "yes",
 				"placement": "middle_of:2",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"turn:lanes": "left|through"
 			}
 		},
@@ -1854,8 +2122,8 @@
 			"type": "way",
 			"id": 285875496,
 			"center": {
-				"lat": 50.8441556,
-				"lon": 16.4696349
+				"lat": 50.8441572,
+				"lon": 16.4695715
 			},
 			"tags": {
 				"highway": "primary",
@@ -1865,8 +2133,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"turn:lanes": "left;through|right"
 			}
 		},
@@ -1874,8 +2141,8 @@
 			"type": "way",
 			"id": 285875497,
 			"center": {
-				"lat": 50.8439112,
-				"lon": 16.467545
+				"lat": 50.8442591,
+				"lon": 16.4696883
 			},
 			"tags": {
 				"highway": "primary",
@@ -1884,22 +2151,35 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
 			"type": "way",
 			"id": 290280654,
 			"center": {
-				"lat": -25.4182952,
-				"lon": -49.2609606
+				"lat": -25.4183502,
+				"lon": -49.2609628
 			},
 			"tags": {
 				"highway": "residential",
 				"name": "Rua Doutor Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 312271506,
+			"center": {
+				"lat": -21.1187567,
+				"lon": -42.9501558
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"source": "IBGE"
 			}
 		},
 		{
@@ -1916,8 +2196,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1934,8 +2213,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -1960,6 +2238,20 @@
 				"website": "https://www.onb.ac.at/ev/esperanto_museum.htm",
 				"wikidata": "Q686443",
 				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj"
+			}
+		},
+		{
+			"type": "way",
+			"id": 338430387,
+			"center": {
+				"lat": -23.1948483,
+				"lon": -46.8751007
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -2031,6 +2323,20 @@
 		},
 		{
 			"type": "way",
+			"id": 365218502,
+			"center": {
+				"lat": -12.9974852,
+				"lon": -38.5229836
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 382216177,
 			"center": {
 				"lat": 50.8424703,
@@ -2043,8 +2349,7 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
@@ -2061,16 +2366,15 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
 			"type": "way",
 			"id": 385840604,
 			"center": {
-				"lat": 50.8425773,
-				"lon": 16.4613196
+				"lat": 50.8425713,
+				"lon": 16.4613101
 			},
 			"tags": {
 				"highway": "primary",
@@ -2079,16 +2383,15 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		},
 		{
 			"type": "way",
 			"id": 385840605,
 			"center": {
-				"lat": 50.8425825,
-				"lon": 16.4606725
+				"lat": 50.8425862,
+				"lon": 16.4606522
 			},
 			"tags": {
 				"highway": "primary",
@@ -2097,8 +2400,20 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 września 2012 r",
-				"source:maxaxleload:url": "http://dziennikustaw.gov.pl/du/2012/1061/D2012000106101.pdf"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 401227456,
+			"center": {
+				"lat": -12.9057228,
+				"lon": -39.1923532
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Travessa Esperanto"
 			}
 		},
 		{
@@ -2146,9 +2461,22 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt",
-				"turn:lanes:forward": "|through;right",
+				"turn:lanes:forward": "left|through;right",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 443120820,
+			"center": {
+				"lat": -22.9116735,
+				"lon": -43.55503
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Travessa Esperanto"
 			}
 		},
 		{
@@ -2225,8 +2553,8 @@
 			"type": "way",
 			"id": 509547120,
 			"center": {
-				"lat": 50.0634931,
-				"lon": 19.9462719
+				"lat": 50.0634642,
+				"lon": 19.9459175
 			},
 			"tags": {
 				"highway": "residential",
@@ -2239,6 +2567,59 @@
 				"oneway": "yes",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 534404034,
+			"center": {
+				"lat": 34.9974359,
+				"lon": 135.7542838
+			},
+			"tags": {
+				"building": "yes",
+				"color": "green",
+				"email": "esperantokaikan@yahoo.co.jp",
+				"esperanto": "yes",
+				"name": "エスペラント会館",
+				"name:eo": "Esperanto-Domo",
+				"name:ja_rm": "Esperanto-Kaikan",
+				"tourism": "hotel",
+				"website": "http://ha3.seikyou.ne.jp/home/setuko/esperanto.html",
+				"wikidata": "Q42306289"
+			}
+		},
+		{
+			"type": "way",
+			"id": 534963035,
+			"center": {
+				"lat": 50.8430325,
+				"lon": 16.4638716
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 534963036,
+			"center": {
+				"lat": 50.8435395,
+				"lon": 16.4666964
+			},
+			"tags": {
+				"highway": "primary",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
 			}
 		}
 	]
