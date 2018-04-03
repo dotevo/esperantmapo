@@ -1,16 +1,16 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
 		{
 			"type": "node",
 			"id": 249399423,
-			"lat": -15.9688384,
-			"lon": -5.6990718,
+			"lat": -15.9694573,
+			"lon": -5.7129442,
 			"tags": {
 				"name:pl": "Wyspa Świętej Heleny"
 			}
@@ -131,7 +131,7 @@
 			"type": "way",
 			"id": 3404730,
 			"center": {
-				"lat": 49.7169888,
+				"lat": 49.7170108,
 				"lon": -2.1967546
 			},
 			"tags": {
@@ -208,7 +208,7 @@
 			"type": "way",
 			"id": 20747781,
 			"center": {
-				"lat": 65.7547642,
+				"lat": 65.7546497,
 				"lon": -168.9252054
 			},
 			"tags": {
@@ -235,6 +235,17 @@
 			},
 			"tags": {
 				"name:pl": "Upałty"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37356202,
+			"center": {
+				"lat": 43.0833078,
+				"lon": -79.0701488
+			},
+			"tags": {
+				"name:pl": "Księżycowa Wyspa"
 			}
 		},
 		{
@@ -294,6 +305,17 @@
 		},
 		{
 			"type": "way",
+			"id": 191502696,
+			"center": {
+				"lat": 32.6276898,
+				"lon": 129.7383031
+			},
+			"tags": {
+				"name:pl": "Hashima"
+			}
+		},
+		{
+			"type": "way",
 			"id": 205677618,
 			"center": {
 				"lat": 79.9643763,
@@ -329,8 +351,8 @@
 			"type": "way",
 			"id": 329304454,
 			"center": {
-				"lat": 53.4872409,
-				"lon": 14.620862
+				"lat": 53.48724,
+				"lon": 14.6208483
 			},
 			"tags": {
 				"name:pl": "Dębina"
@@ -345,17 +367,6 @@
 			},
 			"tags": {
 				"name:pl": "Ostrów Brdowski"
-			}
-		},
-		{
-			"type": "way",
-			"id": 348272092,
-			"center": {
-				"lat": 46.5982683,
-				"lon": 31.410833
-			},
-			"tags": {
-				"name:pl": "wyspa Berezań"
 			}
 		},
 		{
@@ -418,7 +429,7 @@
 			"id": 453129,
 			"center": {
 				"lat": 35.3084529,
-				"lon": 24.9169288
+				"lon": 24.9168204
 			},
 			"tags": {
 				"name:pl": "Kreta"
@@ -461,8 +472,8 @@
 			"type": "relation",
 			"id": 861780,
 			"center": {
-				"lat": 34.8366121,
-				"lon": 24.0844715
+				"lat": 34.8366912,
+				"lon": 24.084496
 			},
 			"tags": {
 				"name:pl": "Gawdos"
@@ -726,7 +737,7 @@
 			"id": 2103185,
 			"center": {
 				"lat": 44.990448,
-				"lon": 147.8760041
+				"lon": 147.8760765
 			},
 			"tags": {
 				"name:pl": "Iturup"
@@ -747,8 +758,8 @@
 			"type": "relation",
 			"id": 2141062,
 			"center": {
-				"lat": 72.8922549,
-				"lon": 79.091835
+				"lat": 72.8921459,
+				"lon": 79.0924408
 			},
 			"tags": {
 				"name:pl": "Wyspa Sibiriakowa"
@@ -781,7 +792,7 @@
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
-				"lon": -169.0590079
+				"lon": -169.0589327
 			},
 			"tags": {
 				"name:pl": "Wyspa Ratmanowa"
@@ -835,7 +846,7 @@
 			"type": "relation",
 			"id": 2433450,
 			"center": {
-				"lat": 54.6831727,
+				"lat": 54.6829128,
 				"lon": 167.7697893
 			},
 			"tags": {
@@ -917,6 +928,17 @@
 			},
 			"tags": {
 				"name:pl": "Lampedusa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3134562,
+			"center": {
+				"lat": -54.6318119,
+				"lon": 158.8625822
+			},
+			"tags": {
+				"name:pl": "Wyspa Macquarie"
 			}
 		},
 		{
@@ -1044,7 +1066,7 @@
 			"type": "relation",
 			"id": 3687460,
 			"center": {
-				"lat": -10.5787863,
+				"lat": -10.5788318,
 				"lon": 142.2198964
 			},
 			"tags": {
@@ -1218,21 +1240,10 @@
 		},
 		{
 			"type": "relation",
-			"id": 5283385,
-			"center": {
-				"lat": 55.6985525,
-				"lon": 27.0313339
-			},
-			"tags": {
-				"name:pl": "wyspa Czajczyn"
-			}
-		},
-		{
-			"type": "relation",
 			"id": 5345940,
 			"center": {
 				"lat": 72.8194529,
-				"lon": -120.648331
+				"lon": -120.6486422
 			},
 			"tags": {
 				"name:pl": "Wyspa Banksa"
@@ -1345,7 +1356,8 @@
 				"lon": -5.111715
 			},
 			"tags": {
-				"name:pl": "Bute"
+				"name:pl": "Bute",
+				"alt_name:pl": "Wyspa Węży"
 			}
 		},
 		{
@@ -1356,7 +1368,8 @@
 				"lon": -9.7298222
 			},
 			"tags": {
-				"name:pl": "Inis Mór"
+				"name:pl": "Inis Mór",
+				"alt_name:pl": "Árainn Mhór"
 			}
 		},
 		{
@@ -1367,7 +1380,8 @@
 				"lon": -6.8376938
 			},
 			"tags": {
-				"name:pl": "Bernera"
+				"name:pl": "Bernera",
+				"alt_name:pl": "Great Bernera"
 			}
 		},
 		{
@@ -1474,7 +1488,7 @@
 			"id": 6388640,
 			"center": {
 				"lat": 53.9129949,
-				"lon": 14.5118432
+				"lon": 14.511859
 			},
 			"tags": {
 				"name:pl": "Wolin"
@@ -1540,7 +1554,7 @@
 			"id": 7112309,
 			"center": {
 				"lat": 42.1881326,
-				"lon": 9.0500054
+				"lon": 9.0500287
 			},
 			"tags": {
 				"name:pl": "Korsyka"
@@ -1594,8 +1608,8 @@
 			"type": "relation",
 			"id": 7173836,
 			"center": {
-				"lat": -1.5344118,
-				"lon": 127.7803888
+				"lat": -1.5342593,
+				"lon": 127.7799998
 			},
 			"tags": {
 				"name:pl": "Obi"
@@ -1628,7 +1642,7 @@
 			"id": 7174452,
 			"center": {
 				"lat": -12.2265831,
-				"lon": 44.3727449
+				"lon": 44.3726643
 			},
 			"tags": {
 				"name:pl": "Anjouan"
@@ -1638,8 +1652,8 @@
 			"type": "relation",
 			"id": 7212523,
 			"center": {
-				"lat": -54.435355,
-				"lon": -36.9065911
+				"lat": -54.4331503,
+				"lon": -36.9073226
 			},
 			"tags": {
 				"name:pl": "Georgia Południowa"
@@ -1693,8 +1707,8 @@
 			"type": "relation",
 			"id": 7220452,
 			"center": {
-				"lat": -10.6871578,
-				"lon": 123.1231346
+				"lat": -10.6870398,
+				"lon": 123.123098
 			},
 			"tags": {
 				"name:pl": "Roti"
@@ -1735,24 +1749,24 @@
 		},
 		{
 			"type": "relation",
-			"id": 7663501,
+			"id": 7890025,
 			"center": {
-				"lat": -0.1429959,
-				"lon": 100.6455262
+				"lat": 46.5981888,
+				"lon": 31.4107396
 			},
 			"tags": {
-				"name:pl": "Sumatra"
+				"name:pl": "wyspa Berezań"
 			}
 		},
 		{
 			"type": "relation",
-			"id": 7663548,
+			"id": 7918839,
 			"center": {
-				"lat": -7.3281353,
-				"lon": 109.9075536
+				"lat": 46.0370636,
+				"lon": 32.8146723
 			},
 			"tags": {
-				"name:pl": "Jawa"
+				"name:pl": "Dżaryłgacz"
 			}
 		}
 	]

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -57,7 +57,8 @@
 				"memorial": "bust",
 				"name": "Dr. Ludwig Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"wheelchair": "yes"
+				"wheelchair": "yes",
+				"wikimedia_commons": "Category:Zamenhof monument, Vienna"
 			}
 		},
 		{
@@ -220,6 +221,34 @@
 		},
 		{
 			"type": "node",
+			"id": 3227482006,
+			"lat": -22.9085756,
+			"lon": -43.1778602,
+			"tags": {
+				"addr:city": "Rio de Janeiro",
+				"addr:housenumber": "47",
+				"addr:postcode": "20031-921",
+				"addr:street": "Avenida Treze de Maio",
+				"addr:suburb": "Centro",
+				"addr:unit": "208",
+				"amenity": "club",
+				"club": "culture",
+				"email": "esperanto.kke@gmail.com",
+				"esperanto": "yes",
+				"fax": "+55 21 2220 7486",
+				"name": "Cooperativa Cultural de Esperantistas",
+				"name:en": "Cultural Cooperative of Esperantists",
+				"name:eo": "Kultura Kooperativo de Esperantistoj",
+				"phone": "+55 21 2544 4314",
+				"short_name": "KKE",
+				"training": "language",
+				"website": "http://www.kke.org.br",
+				"wikidata": "Q14326009",
+				"wikipedia": "eo:Kultura Kooperativo de Esperantistoj"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3235646025,
 			"lat": -22.9010312,
 			"lon": -43.1813068,
@@ -230,6 +259,7 @@
 				"addr:street": "Rua Teófilo Otoni",
 				"addr:suburb": "Centro",
 				"email": "disvastigo.aerj@gmail.com",
+				"esperanto": "yes",
 				"language:eo": "yes",
 				"name": "Associação Esperantista do Rio de Janeiro",
 				"name:eo": "Asocio Esperantista de Rio-de-Ĵaneiro",
@@ -247,15 +277,14 @@
 			"lon": 19.043508,
 			"tags": {
 				"artist_name": "Berecz Péter",
-				"artwork_type": "statue",
 				"esperanto": "yes",
 				"historic": "memorial",
 				"inscription": "Dr. L.L. Zamenhof 1859-1917 Az eszperantó nyelv megalkotója",
+				"memorial": "statue",
 				"name": "Dr. L.L. Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"source": "Köztérkép",
-				"start_date": "1999",
-				"tourism": "artwork"
+				"start_date": "1999"
 			}
 		},
 		{
@@ -474,6 +503,8 @@
 				"addr:city": "新宿区",
 				"addr:housenumber": "111",
 				"addr:postcode": "162-0041",
+				"addr:province": "早稲田鶴巻町",
+				"addr:quarter": "東京都",
 				"addr:street": "早大通り",
 				"alt_name": "そーよ！",
 				"amenity": "cafe",
@@ -484,13 +515,11 @@
 				"esperanto": "yes",
 				"facebook": "https://www.facebook.com/kafejosojo/",
 				"internet_access": "wlan",
-				"internet_access:fee": "no",
 				"language:eo": "yes",
 				"name": "SOJO",
 				"name:eo": "SOJO",
 				"name:etymology:wikidata": "Q11006",
 				"opening_hours": "Tu-Sa 15:00-21:00; PH off",
-				"outdoor_seating": "no",
 				"payment:american_express": "yes",
 				"payment:cash": "yes",
 				"payment:discover_card": "yes",
@@ -584,13 +613,15 @@
 		{
 			"type": "node",
 			"id": 4715714616,
-			"lat": 35.7083079,
-			"lon": 139.7233871,
+			"lat": 35.708328,
+			"lon": 139.7233938,
 			"tags": {
 				"access": "customers",
 				"amenity": "library",
 				"books:language:eo": "yes",
 				"books:language:ja": "yes",
+				"name": "ベジ図書館",
+				"name:eo": "Biblioteko pri veganismo",
 				"operator": "SOJO"
 			}
 		},
@@ -622,7 +653,9 @@
 				"name": "Biblioteko Hector Hodler",
 				"name:en": "Hector Hodler Library",
 				"name:etymology:wikidata": "Q12608",
+				"opening_hours": "Mo-Fr 09:00-17:00 \"by appointment\"",
 				"operator": "Universala Esperanto-Asocio",
+				"wheelchair": "no",
 				"wikidata": "Q620999",
 				"wikipedia": "eo:Biblioteko Hector Hodler"
 			}
@@ -922,7 +955,7 @@
 				"lon": 5.8864886
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "living_street",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143"
 			}
@@ -935,7 +968,7 @@
 				"lon": 5.8863597
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "living_street",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143"
 			}
@@ -944,11 +977,11 @@
 			"type": "way",
 			"id": 6766882,
 			"center": {
-				"lat": 50.8639257,
+				"lat": 50.8638764,
 				"lon": 5.8862759
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "living_street",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143"
 			}
@@ -977,9 +1010,13 @@
 			"tags": {
 				"cycleway": "opposite",
 				"highway": "residential",
+				"lit": "yes",
+				"maxspeed": "30",
+				"maxspeed:type": "sign",
 				"name": "Van Boecopkade",
 				"name:etymology:wikidata": "Q143",
-				"oneway": "yes"
+				"oneway": "yes",
+				"surface": "paving_stones"
 			}
 		},
 		{
@@ -1028,8 +1065,8 @@
 			"type": "way",
 			"id": 19730367,
 			"center": {
-				"lat": 43.5835778,
-				"lon": 1.3755995
+				"lat": 43.5835813,
+				"lon": 1.3756195
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -1052,6 +1089,20 @@
 				"name:etymology:wikidata": "Q11758",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25405297,
+			"center": {
+				"lat": 47.0974438,
+				"lon": 6.8096549
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Verger de L'Espéranto",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1125,6 +1176,7 @@
 			"tags": {
 				"highway": "tertiary",
 				"lanes": "1",
+				"lit": "yes",
 				"maxspeed": "50",
 				"maxspeed:conditional": "60 @ (23:00-05:00)",
 				"name": "Ludwika Zamenhofa",
@@ -1151,17 +1203,19 @@
 			"type": "way",
 			"id": 31132876,
 			"center": {
-				"lat": 50.842878,
-				"lon": 16.4624133
+				"lat": 50.8428652,
+				"lon": 16.4624482
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left;through|through;right"
 			}
 		},
 		{
@@ -1199,8 +1253,8 @@
 			"type": "way",
 			"id": 34963015,
 			"center": {
-				"lat": 48.8952774,
-				"lon": 7.9112009
+				"lat": 48.8952539,
+				"lon": 7.9111872
 			},
 			"tags": {
 				"highway": "residential",
@@ -1257,11 +1311,12 @@
 			"type": "way",
 			"id": 45485713,
 			"center": {
-				"lat": 50.8430897,
-				"lon": 16.4639066
+				"lat": 50.8431311,
+				"lon": 16.4642282
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "1",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -1274,17 +1329,19 @@
 			"type": "way",
 			"id": 45485732,
 			"center": {
-				"lat": 50.8477958,
-				"lon": 16.4736933
+				"lat": 50.8496375,
+				"lon": 16.4751268
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "none|merge_to_left"
 			}
 		},
 		{
@@ -1374,6 +1431,7 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"maxspeed": "50",
 				"name": "Rue de l'Espéranto",
 				"name:etymology:wikidata": "Q143"
 			}
@@ -1418,11 +1476,32 @@
 			},
 			"tags": {
 				"addr:housenumber": "4",
-				"addr:street": "Leona Kruczkowskiego",
+				"addr:street": "Konspiracyjnego Wojska Polskiego",
 				"amenity": "school",
 				"building": "yes",
 				"name": "XXXI LO im. Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 109829973,
+			"center": {
+				"lat": 47.0983416,
+				"lon": 6.8106481
+			},
+			"tags": {
+				"addr:city": "La Chaux-de-Fonds",
+				"addr:housenumber": "27",
+				"addr:postcode": "2301",
+				"addr:street": "Chemin des Postiers",
+				"amenity": "language_school",
+				"building": "yes",
+				"esperanto": "yes",
+				"name": "Kultura Centro Esperantista (KCE)",
+				"source": "orthophotos2006sitn50cm",
+				"wikidata": "Q12350917",
+				"wikipedia": "eo:Kultura Centro Esperantista"
 			}
 		},
 		{
@@ -1437,6 +1516,22 @@
 				"highway": "residential",
 				"name": "Rua Zamenhof",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 125782565,
+			"center": {
+				"lat": -9.6542192,
+				"lon": -35.7619708
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Esperantista Alagoana",
+				"postal_code": "57015-225",
+				"source": "Bing;IBGE",
+				"surface": "unpaved"
 			}
 		},
 		{
@@ -1456,8 +1551,8 @@
 			"type": "way",
 			"id": 127532725,
 			"center": {
-				"lat": 43.5850597,
-				"lon": 1.3764826
+				"lat": 43.5850632,
+				"lon": 1.3764984
 			},
 			"tags": {
 				"cycleway": "lane",
@@ -1499,8 +1594,8 @@
 			"type": "way",
 			"id": 137389175,
 			"center": {
-				"lat": 52.249862,
-				"lon": 20.9945397
+				"lat": 52.2501232,
+				"lon": 20.9942979
 			},
 			"tags": {
 				"highway": "residential",
@@ -1537,6 +1632,19 @@
 				"name": "Avenida Esperanto",
 				"source": "own gps survey",
 				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 150802329,
+			"center": {
+				"lat": 39.4861935,
+				"lon": -0.3942958
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"name": "Calle del Esperantista Hernández Lahuerta"
 			}
 		},
 		{
@@ -1748,10 +1856,24 @@
 		},
 		{
 			"type": "way",
+			"id": 169063849,
+			"center": {
+				"lat": -22.8800611,
+				"lon": -43.5596805
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Suda Stelaro",
+				"name:etymology:wikidata": "Q12355423"
+			}
+		},
+		{
+			"type": "way",
 			"id": 173992946,
 			"center": {
-				"lat": 52.1217388,
-				"lon": 20.6504044
+				"lat": 52.1217465,
+				"lon": 20.6503891
 			},
 			"tags": {
 				"highway": "residential",
@@ -1910,6 +2032,21 @@
 		},
 		{
 			"type": "way",
+			"id": 227869090,
+			"center": {
+				"lat": -1.3496778,
+				"lon": -48.4407389
+			},
+			"tags": {
+				"esperanto": "yes",
+				"fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+				"landuse": "residential",
+				"name": "Vila Esperantista",
+				"source": "IBGE"
+			}
+		},
+		{
+			"type": "way",
 			"id": 236603297,
 			"center": {
 				"lat": 53.1308706,
@@ -1933,6 +2070,20 @@
 		},
 		{
 			"type": "way",
+			"id": 241678832,
+			"center": {
+				"lat": -31.3377566,
+				"lon": -54.0797759
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua do Esperanto",
+				"source": "Bing"
+			}
+		},
+		{
+			"type": "way",
 			"id": 253336352,
 			"center": {
 				"lat": -21.5434772,
@@ -1948,11 +2099,17 @@
 			"type": "way",
 			"id": 255885282,
 			"center": {
-				"lat": 50.8427771,
-				"lon": 16.4626236
+				"lat": 50.8427704,
+				"lon": 16.4626118
 			},
 			"tags": {
+				"destination": "Wrocław;Dzierżoniów",
+				"destination:colour:back": "green",
+				"destination:colour:ref": "red;yellow",
+				"destination:colour:text": "white",
+				"destination:ref": "35;382",
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -1965,31 +2122,49 @@
 			"type": "way",
 			"id": 255946030,
 			"center": {
-				"lat": 50.8495344,
-				"lon": 16.4751271
+				"lat": 50.8495449,
+				"lon": 16.4751163
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left|through"
 			}
 		},
 		{
 			"type": "way",
 			"id": 255946037,
 			"center": {
-				"lat": 50.8494783,
-				"lon": 16.4752065
+				"lat": 50.8494864,
+				"lon": 16.4751866
 			},
 			"tags": {
 				"highway": "tertiary",
+				"lanes": "1",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes"
+				"oneway": "yes",
+				"turn:lanes": "right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 262307883,
+			"center": {
+				"lat": -23.0195487,
+				"lon": -43.4618347
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rua Klara Zilbernick",
+				"name:etymology:wikidata": "Q11739625"
 			}
 		},
 		{
@@ -2011,129 +2186,131 @@
 			"type": "way",
 			"id": 285573644,
 			"center": {
-				"lat": 50.8498338,
-				"lon": 16.4756028
+				"lat": 50.8498406,
+				"lon": 16.4755978
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left|through"
 			}
 		},
 		{
 			"type": "way",
 			"id": 285864322,
 			"center": {
-				"lat": 50.8456554,
-				"lon": 16.4718309
+				"lat": 50.8456512,
+				"lon": 16.4718565
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "3",
+				"lanes:forward": "2",
 				"maxaxleload": "10",
+				"maxspeed:backward": "50",
+				"maxspeed:backward:conditional": "60 @ (23:00-05:00)",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed:backward": "PL:urban"
 			}
 		},
 		{
 			"type": "way",
 			"id": 285864324,
 			"center": {
-				"lat": 50.8453629,
-				"lon": 16.471543
+				"lat": 50.8453112,
+				"lon": 16.4715336
 			},
 			"tags": {
 				"highway": "primary",
-				"lanes": "3",
+				"lanes": "5",
+				"lanes:forward": "3",
 				"maxaxleload": "10",
+				"maxspeed:backward": "90",
+				"maxspeed:bus:backward": "70",
+				"maxspeed:hgv:backward:conditional": "90 @ (weight<=3.5); 70 @ (weight>3.5)",
+				"maxspeed:trailer:backward": "70",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"placement": "middle_of:2",
+				"placement:forward": "middle_of:2",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "left|through|right"
-			}
-		},
-		{
-			"type": "way",
-			"id": 285875491,
-			"center": {
-				"lat": 50.8452008,
-				"lon": 16.4714489
-			},
-			"tags": {
-				"highway": "primary",
-				"maxaxleload": "10",
-				"name": "Ludwika Zamenhofa",
-				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxspeed:backward": "PL:rural",
+				"turn:lanes:forward": "left|through|right"
 			}
 		},
 		{
 			"type": "way",
 			"id": 285875494,
 			"center": {
-				"lat": 50.8450282,
-				"lon": 16.4711653
+				"lat": 50.8449725,
+				"lon": 16.471165
 			},
 			"tags": {
 				"highway": "primary",
-				"lanes": "2",
+				"lanes": "3",
+				"lanes:forward": "2",
 				"maxaxleload": "10",
+				"maxspeed:backward": "90",
+				"maxspeed:bus:backward": "70",
+				"maxspeed:hgv:backward:conditional": "90 @ (weight<=3.5); 70 @ (weight>3.5)",
+				"maxspeed:trailer:backward": "70",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"placement": "middle_of:2",
+				"placement:forward": "middle_of:2",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "left|through"
+				"source:maxspeed:backward": "PL:rural",
+				"turn:lanes:forward": "left|through"
 			}
 		},
 		{
 			"type": "way",
 			"id": 285875495,
 			"center": {
-				"lat": 50.844613,
-				"lon": 16.4706717
+				"lat": 50.8446507,
+				"lon": 16.4706768
 			},
 			"tags": {
 				"highway": "primary",
-				"lanes": "2",
+				"lanes": "4",
 				"maxaxleload": "10",
+				"maxspeed:forward": "40",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"placement": "middle_of:2",
+				"placement:forward": "middle_of:1",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "left|through"
+				"source:maxspeed:forward": "sign",
+				"turn:lanes:forward": "left|through"
 			}
 		},
 		{
 			"type": "way",
 			"id": 285875496,
 			"center": {
-				"lat": 50.8441572,
-				"lon": 16.4695715
+				"lat": 50.8441445,
+				"lon": 16.4694929
 			},
 			"tags": {
 				"highway": "primary",
 				"lanes": "2",
 				"maxaxleload": "10",
+				"maxspeed": "40",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed": "sign",
 				"turn:lanes": "left;through|right"
 			}
 		},
@@ -2141,11 +2318,12 @@
 			"type": "way",
 			"id": 285875497,
 			"center": {
-				"lat": 50.8442591,
-				"lon": 16.4696883
+				"lat": 50.8441445,
+				"lon": 16.4694929
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -2158,8 +2336,8 @@
 			"type": "way",
 			"id": 290280654,
 			"center": {
-				"lat": -25.4183502,
-				"lon": -49.2609628
+				"lat": -25.4183266,
+				"lon": -49.2609559
 			},
 			"tags": {
 				"highway": "residential",
@@ -2186,34 +2364,40 @@
 			"type": "way",
 			"id": 321538732,
 			"center": {
-				"lat": 50.8480195,
-				"lon": 16.473702
+				"lat": 50.848708,
+				"lon": 16.4740789
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left|through"
 			}
 		},
 		{
 			"type": "way",
 			"id": 321538733,
 			"center": {
-				"lat": 50.8461801,
-				"lon": 16.472285
+				"lat": 50.8462581,
+				"lon": 16.4722887
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "3",
+				"lanes:forward": "1",
 				"maxaxleload": "10",
+				"maxspeed:forward": "50",
+				"maxspeed:forward:conditional": "60 @ (23:00-05:00)",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed:forward": "PL:urban"
 			}
 		},
 		{
@@ -2224,7 +2408,13 @@
 				"lon": 16.365376
 			},
 			"tags": {
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "9",
+				"addr:postcode": "1010",
+				"addr:street": "Herrengasse",
 				"books:language:eo": "yes",
+				"contact:phone": "+43 1 534 10-730",
 				"description": "About the Esparento language and its history. (Source: operator website)",
 				"esperanto": "yes",
 				"fee": "yes",
@@ -2232,12 +2422,14 @@
 				"name": "Esperantomuseum",
 				"name:en": "Esperanto Museum and Collection of Planned Languages",
 				"name:eo": "Esperantomuzeo kaj kolekto por planlingvoj",
+				"opening_hours": "Tu-Su 10:00-18:00",
 				"operator": "Österreichische Nationalbibliothek",
 				"start_date": "1927",
 				"tourism": "museum",
-				"website": "https://www.onb.ac.at/ev/esperanto_museum.htm",
+				"website": "https://www.onb.ac.at/museen/esperantomuseum/",
 				"wikidata": "Q686443",
-				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj"
+				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj",
+				"wikipedia_1": "de:Esperantomuseum"
 			}
 		},
 		{
@@ -2339,68 +2531,57 @@
 			"type": "way",
 			"id": 382216177,
 			"center": {
-				"lat": 50.8424703,
-				"lon": 16.4603463
+				"lat": 50.8425099,
+				"lon": 16.4606031
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left;through|through;right"
 			}
 		},
 		{
 			"type": "way",
 			"id": 382216178,
 			"center": {
-				"lat": 50.8429641,
-				"lon": 16.4630479
+				"lat": 50.8430115,
+				"lon": 16.4633814
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "3",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
-			}
-		},
-		{
-			"type": "way",
-			"id": 385840604,
-			"center": {
-				"lat": 50.8425713,
-				"lon": 16.4613101
-			},
-			"tags": {
-				"highway": "primary",
-				"maxaxleload": "10",
-				"name": "Ludwika Zamenhofa",
-				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "through|through|right"
 			}
 		},
 		{
 			"type": "way",
 			"id": 385840605,
 			"center": {
-				"lat": 50.8425862,
-				"lon": 16.4606522
+				"lat": 50.8425754,
+				"lon": 16.4605633
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "none|merge_to_left"
 			}
 		},
 		{
@@ -2565,6 +2746,7 @@
 				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"oneway": "yes",
+				"oneway:bicycle": "no",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
 			}
@@ -2593,11 +2775,123 @@
 			"type": "way",
 			"id": 534963035,
 			"center": {
-				"lat": 50.8430325,
-				"lon": 16.4638716
+				"lat": 50.8430245,
+				"lon": 16.4638498
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "through|through;right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 534963036,
+			"center": {
+				"lat": 50.843537,
+				"lon": 16.4666977
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "4",
+				"lanes:backward": "2",
+				"lanes:forward": "2",
+				"maxaxleload": "10",
+				"maxspeed": "50",
+				"maxspeed:conditional": "60 @ (23:00-05:00)",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed": "PL:urban",
+				"turn:lanes:forward": "left|through"
+			}
+		},
+		{
+			"type": "way",
+			"id": 542037611,
+			"center": {
+				"lat": 48.8953018,
+				"lon": 7.911323
+			},
+			"tags": {
+				"highway": "residential",
+				"junction": "roundabout",
+				"name": "Rond-Point Esperanto",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 542037612,
+			"center": {
+				"lat": 48.8953668,
+				"lon": 7.9111616
+			},
+			"tags": {
+				"highway": "residential",
+				"junction": "roundabout",
+				"name": "Rond-Point Esperanto",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 543957198,
+			"center": {
+				"lat": 50.8469875,
+				"lon": 16.4727873
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "3",
+				"lanes:forward": "1",
+				"maxaxleload": "10",
+				"maxspeed:forward": "50",
+				"maxspeed:forward:conditional": "60 @ (23:00-05:00)",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed:forward": "PL:urban"
+			}
+		},
+		{
+			"type": "way",
+			"id": 543957199,
+			"center": {
+				"lat": 50.8444233,
+				"lon": 16.4702529
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "4",
+				"maxaxleload": "10",
+				"maxspeed:forward": "40",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed:forward": "sign",
+				"turn:lanes:forward": "left;through|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904089,
+			"center": {
+				"lat": 50.8491066,
+				"lon": 16.4744847
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -2608,18 +2902,175 @@
 		},
 		{
 			"type": "way",
-			"id": 534963036,
+			"id": 545904090,
 			"center": {
-				"lat": 50.8435395,
-				"lon": 16.4666964
+				"lat": 50.8493495,
+				"lon": 16.4746845
 			},
 			"tags": {
 				"highway": "primary",
+				"lanes": "1",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904091,
+			"center": {
+				"lat": 50.849126,
+				"lon": 16.4744085
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "none|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904092,
+			"center": {
+				"lat": 50.8487725,
+				"lon": 16.4740255
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "none|merge_to_left"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904093,
+			"center": {
+				"lat": 50.8478297,
+				"lon": 16.4733946
+			},
+			"tags": {
+				"destination": "Wrocław;Dzierżoniów",
+				"destination:colour:back": "green",
+				"destination:colour:ref": "red;yellow",
+				"destination:colour:text": "white",
+				"destination:ref": "35;382",
+				"highway": "primary",
+				"lanes": "1",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904094,
+			"center": {
+				"lat": 50.8476484,
+				"lon": 16.4732094
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "2",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"placement": "right_of:1",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"turn:lanes": "left;through|through;right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 545904095,
+			"center": {
+				"lat": 50.8483471,
+				"lon": 16.4736707
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "1",
+				"maxaxleload": "10",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 570770327,
+			"center": {
+				"lat": 52.2490422,
+				"lon": 20.9953151
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt",
+				"wikidata": "Q9365595",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 570770328,
+			"center": {
+				"lat": 52.249435,
+				"lon": 20.9949479
+			},
+			"tags": {
+				"highway": "residential",
+				"lanes": "3",
+				"lanes:backward": "2",
+				"lanes:forward": "1",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt",
+				"turn:lanes:backward": "left|through;right",
+				"wikidata": "Q9365595",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 570770329,
+			"center": {
+				"lat": 52.2492307,
+				"lon": 20.9951422
+			},
+			"tags": {
+				"highway": "residential",
+				"lanes": "3",
+				"lanes:backward": "2",
+				"lanes:forward": "1",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt",
+				"turn:lanes:backward": "left|through;right",
+				"wikidata": "Q9365595",
+				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
 			}
 		}
 	]

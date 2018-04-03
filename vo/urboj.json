@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:17:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -46,7 +46,7 @@
 			"type": "node",
 			"id": 25960293,
 			"lat": 35.7006177,
-			"lon": 51.401375,
+			"lon": 51.4013785,
 			"tags": {
 				"name:vo": "Tehran"
 			}
@@ -57,7 +57,8 @@
 			"lat": 50.4501071,
 			"lon": 30.5240501,
 			"tags": {
-				"name:vo": "Küyiv"
+				"name:vo": "Küyiv",
+				"alt_name:vo": "Kiev"
 			}
 		},
 		{
@@ -153,8 +154,8 @@
 		{
 			"type": "node",
 			"id": 29090735,
-			"lat": 31.7791134,
-			"lon": 35.2266286,
+			"lat": 31.778345,
+			"lon": 35.2250786,
 			"tags": {
 				"name:vo": "Hierusalem"
 			}
@@ -252,8 +253,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8933203,
-			"lon": 12.4829321,
+			"lat": 41.894802,
+			"lon": 12.4853384,
 			"tags": {
 				"name:vo": "Roma"
 			}
@@ -342,8 +343,8 @@
 		{
 			"type": "node",
 			"id": 206292236,
-			"lat": 47.7857051,
-			"lon": 18.7403659,
+			"lat": 47.7856977,
+			"lon": 18.7403349,
 			"tags": {
 				"name:vo": "Esztergom"
 			}
@@ -417,7 +418,7 @@
 			"lat": 48.5674507,
 			"lon": 39.2912928,
 			"tags": {
-				"name:vo": "Luhansk"
+				"name:vo": "Lugansk"
 			}
 		},
 		{
@@ -594,8 +595,8 @@
 		{
 			"type": "node",
 			"id": 1614277087,
-			"lat": 41.6935247,
-			"lon": 44.8015019,
+			"lat": 41.6934591,
+			"lon": 44.8014495,
 			"tags": {
 				"name:vo": "Tbilisi"
 			}
@@ -679,24 +680,6 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:vo": "Söul"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2269151969,
-			"lat": 56.4355428,
-			"lon": 10.0425957,
-			"tags": {
-				"name:vo": "Randers"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2269312030,
-			"lat": 56.4800019,
-			"lon": 10.0891444,
-			"tags": {
-				"name:vo": "Randers"
 			}
 		},
 		{

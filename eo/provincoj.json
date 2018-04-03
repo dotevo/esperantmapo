@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": -120.2126139,
 			"tags": {
 				"name:eo": "Vaŝingtonio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 61083317,
-			"lat": 42.1640662,
-			"lon": 9.0982074,
-			"tags": {
-				"name:eo": "Korsiko"
 			}
 		},
 		{
@@ -426,7 +417,8 @@
 			"lat": -31.8759835,
 			"lon": 147.2869493,
 			"tags": {
-				"name:eo": "Nova Sud-Kimrujo"
+				"name:eo": "Nova Sud-Kimrujo",
+				"alt_name:eo": "Novsudkimrujo;Nova Sud-Kimrio"
 			}
 		},
 		{
@@ -444,7 +436,8 @@
 			"lat": -19.8516101,
 			"lon": 133.2303375,
 			"tags": {
-				"name:eo": "Norda Teritorio"
+				"name:eo": "Norda Teritorio",
+				"alt_name:eo": "Nordteritorio"
 			}
 		},
 		{
@@ -720,7 +713,7 @@
 		{
 			"type": "node",
 			"id": 305626897,
-			"lat": 21,
+			"lat": 20.9876996,
 			"lon": -101,
 			"tags": {
 				"name:eo": "Gvanaĥuato"
@@ -1800,8 +1793,8 @@
 		{
 			"type": "node",
 			"id": 313466896,
-			"lat": 11,
-			"lon": -64,
+			"lat": 10.9738509,
+			"lon": -64.0597676,
 			"tags": {
 				"name:eo": "Nova Sparto"
 			}
@@ -2101,6 +2094,15 @@
 			"lon": 66,
 			"tags": {
 				"name:eo": "Baluĉio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316440978,
+			"lat": 33.6917297,
+			"lon": 73.0685119,
+			"tags": {
+				"name:eo": "Islamabado"
 			}
 		},
 		{
@@ -2528,15 +2530,6 @@
 		},
 		{
 			"type": "node",
-			"id": 424311883,
-			"lat": 41.9034912,
-			"lon": 12.4528349,
-			"tags": {
-				"name:eo": "Vatikanurbo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424313764,
 			"lat": -12.1691894,
 			"lon": 96.8301442,
@@ -2595,7 +2588,8 @@
 			"lat": 56.7861112,
 			"lon": -4.1140518,
 			"tags": {
-				"name:eo": "Skotlando"
+				"name:eo": "Skotlando",
+				"alt_name:eo": "Skotio;Skotujo"
 			}
 		},
 		{
@@ -2640,7 +2634,8 @@
 			"lat": 50.9295798,
 			"lon": 13.4585052,
 			"tags": {
-				"name:eo": "Saksujo"
+				"name:eo": "Saksujo",
+				"alt_name:eo": "Saksio"
 			}
 		},
 		{
@@ -2649,7 +2644,8 @@
 			"lat": 48.9467562,
 			"lon": 11.4038717,
 			"tags": {
-				"name:eo": "Bavarujo"
+				"name:eo": "Bavarujo",
+				"alt_name:eo": "Bavario"
 			}
 		},
 		{
@@ -2685,7 +2681,8 @@
 			"lat": 50.7333163,
 			"lon": 11.0747905,
 			"tags": {
-				"name:eo": "Turingujo"
+				"name:eo": "Turingujo",
+				"alt_name:eo": "Turingio"
 			}
 		},
 		{
@@ -3279,7 +3276,8 @@
 			"lat": 51.4785568,
 			"lon": 7.5533645,
 			"tags": {
-				"name:eo": "Nordrejn-Vestfalio"
+				"name:eo": "Nordrejn-Vestfalio",
+				"alt_name:eo": "Nord-Rejno-Vestfalio"
 			}
 		},
 		{
@@ -3303,8 +3301,8 @@
 		{
 			"type": "node",
 			"id": 533719181,
-			"lat": 53.2852213,
-			"lon": 50.4785577,
+			"lat": 53.2128813,
+			"lon": 50.8914633,
 			"tags": {
 				"name:eo": "Samara Provinco"
 			}
@@ -3483,8 +3481,8 @@
 		{
 			"type": "node",
 			"id": 553784069,
-			"lat": 40.0796319,
-			"lon": -89.4339809,
+			"lat": 40.0796606,
+			"lon": -89.4337288,
 			"tags": {
 				"name:eo": "Ilinojso"
 			}
@@ -3807,8 +3805,8 @@
 		{
 			"type": "node",
 			"id": 618290369,
-			"lat": -34.8700721,
-			"lon": -68.5479966,
+			"lat": -34.8741211,
+			"lon": -68.5621587,
 			"tags": {
 				"name:eo": "Mendoza Provinco"
 			}
@@ -4158,8 +4156,8 @@
 		{
 			"type": "node",
 			"id": 683681607,
-			"lat": 50.1594016,
-			"lon": 24.2337089,
+			"lat": 49.6512234,
+			"lon": 23.8266948,
 			"tags": {
 				"name:eo": "Lviva Provinco"
 			}
@@ -5259,7 +5257,8 @@
 			"lat": 52.8398531,
 			"lon": 9.075962,
 			"tags": {
-				"name:eo": "Malsupra Saksujo"
+				"name:eo": "Malsupra Saksujo",
+				"alt_name:eo": "Malsupra Saksio"
 			}
 		},
 		{
@@ -5547,7 +5546,8 @@
 			"lat": 51.908526,
 			"lon": 11.4939134,
 			"tags": {
-				"name:eo": "Saksujo-Anhalto"
+				"name:eo": "Saksujo-Anhalto",
+				"alt_name:eo": "Saksio-Anhalto"
 			}
 		},
 		{
@@ -6195,7 +6195,8 @@
 			"lat": 50.6118537,
 			"lon": 9.1909725,
 			"tags": {
-				"name:eo": "Hesujo"
+				"name:eo": "Hesujo",
+				"alt_name:eo": "Hesio"
 			}
 		},
 		{
@@ -6214,15 +6215,6 @@
 			"lon": 122.6377315,
 			"tags": {
 				"name:eo": "Kapiso"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2524799311,
-			"lat": 10.9534597,
-			"lon": 122.5756326,
-			"tags": {
-				"name:eo": "Iloilo"
 			}
 		},
 		{
@@ -6290,15 +6282,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2604557728,
-			"lat": -69.1726389,
-			"lon": 138.960274,
-			"tags": {
-				"name:eo": "Adelilando"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2614266154,
 			"lat": -4.479925,
 			"lon": -63.5185396,
@@ -6321,7 +6304,8 @@
 			"lat": 52.2928116,
 			"lon": -3.73893,
 			"tags": {
-				"name:eo": "Kimrujo"
+				"name:eo": "Kimrujo",
+				"alt_name:eo": "Kimrio"
 			}
 		},
 		{
@@ -6623,15 +6607,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2923223357,
-			"lat": 13.1099742,
-			"lon": -86.0014185,
-			"tags": {
-				"name:eo": "Ĥinotegao"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2923223358,
 			"lat": 12.619767,
 			"lon": -86.5918195,
@@ -6852,7 +6827,8 @@
 			"lat": 39.8592968,
 			"lon": 46.7572816,
 			"tags": {
-				"name:eo": "Montara Karabaĥo"
+				"name:eo": "Montara Karabaĥo",
+				"alt_name:eo": "Arcaĥ"
 			}
 		},
 		{
@@ -6969,7 +6945,8 @@
 			"lat": 53.0923689,
 			"lon": 5.777043,
 			"tags": {
-				"name:eo": "Frislando"
+				"name:eo": "Frislando",
+				"alt_name:eo": "Frisio;Frisujo"
 			}
 		},
 		{
@@ -6987,7 +6964,8 @@
 			"lat": 42.9903482,
 			"lon": 142.4962523,
 			"tags": {
-				"name:eo": "Hokajdo"
+				"name:eo": "Hokajdo",
+				"alt_name:eo": "Hokkajdo"
 			}
 		},
 		{
@@ -7005,7 +6983,8 @@
 			"lat": 13.7538929,
 			"lon": 100.8160803,
 			"tags": {
-				"name:eo": "Bankoko"
+				"name:eo": "Bankoko",
+				"alt_name:eo": "Bangkoko"
 			}
 		},
 		{

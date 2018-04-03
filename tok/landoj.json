@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T14:05:02Z",
+		"timestamp_osm_base": "2018-04-03T09:30:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -174,7 +174,8 @@
 			"lat": 40.3736611,
 			"lon": 127.0870417,
 			"tags": {
-				"name:tok": "ma Soson"
+				"name:tok": "ma Soson",
+				"alt_name:tok": "ma Anku lete"
 			}
 		},
 		{
@@ -183,7 +184,8 @@
 			"lat": 36.5581914,
 			"lon": 127.9408564,
 			"tags": {
-				"name:tok": "ma Anku"
+				"name:tok": "ma Anku",
+				"alt_name:tok": "ma Anku seli"
 			}
 		},
 		{
@@ -315,8 +317,8 @@
 		{
 			"type": "node",
 			"id": 424297629,
-			"lat": 15.0610686,
-			"lon": -84.5978534,
+			"lat": 15.2572432,
+			"lon": -86.0755145,
 			"tags": {
 				"name:tok": "ma Ontula"
 			}

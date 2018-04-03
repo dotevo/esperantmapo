@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -31,6 +31,33 @@
 			"lon": 34.7299308,
 			"tags": {
 				"name:fi": "Akabanlahti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951005,
+			"lat": -25.2303005,
+			"lon": 121.0187246,
+			"tags": {
+				"name:fi": "Länsi-Australia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951006,
+			"lat": -19.8516101,
+			"lon": 133.2303375,
+			"tags": {
+				"name:fi": "Pohjoisterritorio"
+			}
+		},
+		{
+			"type": "node",
+			"id": 304951007,
+			"lat": -30.5343665,
+			"lon": 135.6301212,
+			"tags": {
+				"name:fi": "Etelä-Australia"
 			}
 		},
 		{
@@ -76,15 +103,6 @@
 			"lon": -177.1489649,
 			"tags": {
 				"name:fi": "Wallis- ja Futunasaaret"
-			}
-		},
-		{
-			"type": "node",
-			"id": 424311883,
-			"lat": 41.9034912,
-			"lon": 12.4528349,
-			"tags": {
-				"name:fi": "Vatikaanivaltio"
 			}
 		},
 		{
@@ -143,6 +161,15 @@
 		},
 		{
 			"type": "node",
+			"id": 470649732,
+			"lat": 56.7861112,
+			"lon": -4.1140518,
+			"tags": {
+				"name:fi": "Skotlanti"
+			}
+		},
+		{
+			"type": "node",
 			"id": 473831430,
 			"lat": 50.9295798,
 			"lon": 13.4585052,
@@ -184,6 +211,15 @@
 			"lon": 17.397672,
 			"tags": {
 				"name:fi": "Ison-Puolan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 535136806,
+			"lat": 68.0000418,
+			"lon": 33.9999151,
+			"tags": {
+				"name:fi": "Murmanskin alue"
 			}
 		},
 		{
@@ -431,20 +467,20 @@
 		},
 		{
 			"type": "node",
+			"id": 2050243275,
+			"lat": 59.9606739,
+			"lon": 30.1586551,
+			"tags": {
+				"name:fi": "Pietari"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2240851573,
 			"lat": 24.7208818,
 			"lon": 93.9229386,
 			"tags": {
 				"name:fi": "Manipur"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2604557728,
-			"lat": -69.1726389,
-			"lon": 138.960274,
-			"tags": {
-				"name:fi": "Adélienmaa"
 			}
 		},
 		{

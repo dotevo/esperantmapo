@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:17:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -369,8 +369,8 @@
 		{
 			"type": "node",
 			"id": 424297629,
-			"lat": 15.0610686,
-			"lon": -84.5978534,
+			"lat": 15.2572432,
+			"lon": -86.0755145,
 			"tags": {
 				"name:vo": "Hondurän"
 			}
@@ -1533,7 +1533,8 @@
 			"lat": -82.1081822,
 			"lon": 34.37824,
 			"tags": {
-				"name:vo": "Lantarkop"
+				"name:vo": "Lantarkop",
+				"alt_name:vo": "Sulüdop"
 			}
 		},
 		{
@@ -1776,7 +1777,8 @@
 			"lat": -29.6039267,
 			"lon": 28.3350193,
 			"tags": {
-				"name:vo": "Lesotän"
+				"name:vo": "Lesotän",
+				"alt_name:vo": "Sutuvän"
 			}
 		},
 		{

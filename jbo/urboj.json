@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -27,8 +27,8 @@
 		{
 			"type": "node",
 			"id": 16173235,
-			"lat": 18.9321862,
-			"lon": 72.8308337,
+			"lat": 18.9387544,
+			"lon": 72.8352382,
 			"tags": {
 				"name:jbo": ".mumbais."
 			}
@@ -162,8 +162,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8933203,
-			"lon": 12.4829321,
+			"lat": 41.894802,
+			"lon": 12.4853384,
 			"tags": {
 				"name:jbo": "romas"
 			}
@@ -198,8 +198,8 @@
 		{
 			"type": "node",
 			"id": 265018692,
-			"lat": 35.6828378,
-			"lon": 139.7589667,
+			"lat": 35.6828387,
+			"lon": 139.7594549,
 			"tags": {
 				"name:jbo": ".tokios."
 			}

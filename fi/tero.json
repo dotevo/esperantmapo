@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T14:05:02Z",
+		"timestamp_osm_base": "2018-04-03T09:25:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -237,7 +237,7 @@
 			"type": "way",
 			"id": 3404730,
 			"center": {
-				"lat": 49.7169888,
+				"lat": 49.7170108,
 				"lon": -2.1967546
 			},
 			"tags": {
@@ -293,7 +293,7 @@
 			"id": 4270197,
 			"center": {
 				"lat": 60.1806557,
-				"lon": 24.99115
+				"lon": 24.9911294
 			},
 			"tags": {
 				"name:fi": "Mustikkamaa"
@@ -345,6 +345,17 @@
 		},
 		{
 			"type": "way",
+			"id": 4498338,
+			"center": {
+				"lat": 63.0946026,
+				"lon": 21.5956481
+			},
+			"tags": {
+				"name:fi": "Hietasaari"
+			}
+		},
+		{
+			"type": "way",
 			"id": 4580982,
 			"center": {
 				"lat": 60.6579392,
@@ -380,8 +391,8 @@
 			"type": "way",
 			"id": 4581043,
 			"center": {
-				"lat": 60.6283207,
-				"lon": 28.4885759
+				"lat": 60.6280176,
+				"lon": 28.4878911
 			},
 			"tags": {
 				"name:fi": "Mäntysaari"
@@ -490,8 +501,8 @@
 			"type": "way",
 			"id": 4582411,
 			"center": {
-				"lat": 60.0163268,
-				"lon": 28.3206799
+				"lat": 60.01622,
+				"lon": 28.3205236
 			},
 			"tags": {
 				"name:fi": "Kukkouri"
@@ -501,8 +512,8 @@
 			"type": "way",
 			"id": 4582420,
 			"center": {
-				"lat": 60.01975,
-				"lon": 28.37686
+				"lat": 60.0201359,
+				"lon": 28.3792439
 			},
 			"tags": {
 				"name:fi": "Seiskari"
@@ -699,8 +710,8 @@
 			"type": "way",
 			"id": 5059873,
 			"center": {
-				"lat": 60.1395721,
-				"lon": 24.7606874
+				"lat": 60.139586,
+				"lon": 24.7606264
 			},
 			"tags": {
 				"name:fi": "Iso Vasikkasaari"
@@ -711,7 +722,7 @@
 			"id": 5059875,
 			"center": {
 				"lat": 60.1388632,
-				"lon": 24.7523489
+				"lon": 24.7523542
 			},
 			"tags": {
 				"name:fi": "Pieni Vasikkasaari"
@@ -721,8 +732,8 @@
 			"type": "way",
 			"id": 5059876,
 			"center": {
-				"lat": 60.1335778,
-				"lon": 24.7686008
+				"lat": 60.1335953,
+				"lon": 24.7685831
 			},
 			"tags": {
 				"name:fi": "Pukkisaari"
@@ -743,8 +754,8 @@
 			"type": "way",
 			"id": 5059904,
 			"center": {
-				"lat": 60.1278049,
-				"lon": 24.7704071
+				"lat": 60.1278513,
+				"lon": 24.770344
 			},
 			"tags": {
 				"name:fi": "Pyöräsaari"
@@ -983,17 +994,6 @@
 		},
 		{
 			"type": "way",
-			"id": 19185537,
-			"center": {
-				"lat": 61.2963872,
-				"lon": 28.607651
-			},
-			"tags": {
-				"name:fi": "Äitsaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 19521027,
 			"center": {
 				"lat": 61.2469256,
@@ -1007,7 +1007,7 @@
 			"type": "way",
 			"id": 20747781,
 			"center": {
-				"lat": 65.7547642,
+				"lat": 65.7546497,
 				"lon": -168.9252054
 			},
 			"tags": {
@@ -1056,17 +1056,6 @@
 			},
 			"tags": {
 				"name:fi": "Nahkahousut"
-			}
-		},
-		{
-			"type": "way",
-			"id": 22882349,
-			"center": {
-				"lat": 60.1338198,
-				"lon": 24.7955596
-			},
-			"tags": {
-				"name:fi": "Pikku Miessaari"
 			}
 		},
 		{
@@ -1129,7 +1118,7 @@
 			"id": 23738662,
 			"center": {
 				"lat": 65.3292081,
-				"lon": 25.397338
+				"lon": 25.3973128
 			},
 			"tags": {
 				"name:fi": "Illinsaari"
@@ -1320,6 +1309,17 @@
 			},
 			"tags": {
 				"name:fi": "Sottunka"
+			}
+		},
+		{
+			"type": "way",
+			"id": 24428614,
+			"center": {
+				"lat": 60.1414571,
+				"lon": 25.0266446
+			},
+			"tags": {
+				"name:fi": "Nuottasaari"
 			}
 		},
 		{
@@ -1852,17 +1852,6 @@
 		},
 		{
 			"type": "way",
-			"id": 26429184,
-			"center": {
-				"lat": 60.1321716,
-				"lon": 24.7592084
-			},
-			"tags": {
-				"name:fi": "Pikku Pukkisaari"
-			}
-		},
-		{
-			"type": "way",
 			"id": 27282989,
 			"center": {
 				"lat": 59.9240719,
@@ -1870,6 +1859,17 @@
 			},
 			"tags": {
 				"name:fi": "Köökari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 27323178,
+			"center": {
+				"lat": 60.1731479,
+				"lon": 24.8435881
+			},
+			"tags": {
+				"name:fi": "Leppäluoto"
 			}
 		},
 		{
@@ -1997,8 +1997,8 @@
 			"type": "way",
 			"id": 27679532,
 			"center": {
-				"lat": 60.3122298,
-				"lon": 25.9822835
+				"lat": 60.3122351,
+				"lon": 25.982144
 			},
 			"tags": {
 				"name:fi": "Sarvisalo"
@@ -2195,7 +2195,7 @@
 			"type": "way",
 			"id": 36911729,
 			"center": {
-				"lat": 60.1811495,
+				"lat": 60.1811502,
 				"lon": 24.8847824
 			},
 			"tags": {
@@ -2244,17 +2244,6 @@
 			},
 			"tags": {
 				"name:fi": "Karhusaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 42809691,
-			"center": {
-				"lat": 60.7480413,
-				"lon": 28.7083601
-			},
-			"tags": {
-				"name:fi": "Sammonsaari"
 			}
 		},
 		{
@@ -2393,8 +2382,8 @@
 			"type": "way",
 			"id": 52430232,
 			"center": {
-				"lat": 59.8498808,
-				"lon": 27.2012431
+				"lat": 59.8505799,
+				"lon": 27.2010929
 			},
 			"tags": {
 				"name:fi": "Suur-Tytärsaari"
@@ -2636,7 +2625,7 @@
 			"id": 123022319,
 			"center": {
 				"lat": 60.1521518,
-				"lon": 24.9421716
+				"lon": 24.9421786
 			},
 			"tags": {
 				"name:fi": "Sirpalesaari"
@@ -2761,17 +2750,6 @@
 			},
 			"tags": {
 				"name:fi": "Hussolansaari"
-			}
-		},
-		{
-			"type": "way",
-			"id": 146550668,
-			"center": {
-				"lat": 60.726125,
-				"lon": 28.747389
-			},
-			"tags": {
-				"name:fi": "Siltasaari"
 			}
 		},
 		{
@@ -3036,6 +3014,17 @@
 			},
 			"tags": {
 				"name:fi": "Mussalo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 225542609,
+			"center": {
+				"lat": 60.3794568,
+				"lon": 26.2992268
+			},
+			"tags": {
+				"name:fi": "Svartholma"
 			}
 		},
 		{
@@ -3834,8 +3823,8 @@
 			"type": "way",
 			"id": 482415548,
 			"center": {
-				"lat": 60.01531,
-				"lon": 24.3628949
+				"lat": 60.0153008,
+				"lon": 24.3629817
 			},
 			"tags": {
 				"name:fi": "Iso-Musta"
@@ -3856,7 +3845,7 @@
 			"type": "way",
 			"id": 485542553,
 			"center": {
-				"lat": 60.1513928,
+				"lat": 60.1514023,
 				"lon": 24.9492127
 			},
 			"tags": {
@@ -4055,7 +4044,7 @@
 			"id": 1555721,
 			"center": {
 				"lat": 60.4065665,
-				"lon": 28.4838133
+				"lon": 28.483666
 			},
 			"tags": {
 				"name:fi": "Piisaari"
@@ -4076,7 +4065,7 @@
 			"type": "relation",
 			"id": 1576060,
 			"center": {
-				"lat": 59.8999908,
+				"lat": 59.8999947,
 				"lon": 30.2348473
 			},
 			"tags": {
@@ -4418,7 +4407,7 @@
 			"id": 1654847,
 			"center": {
 				"lat": 61.3099514,
-				"lon": 30.2421705
+				"lon": 30.242191
 			},
 			"tags": {
 				"name:fi": "Mykrimyksensaari"
@@ -4737,7 +4726,7 @@
 			"id": 2103185,
 			"center": {
 				"lat": 44.990448,
-				"lon": 147.8760041
+				"lon": 147.8760765
 			},
 			"tags": {
 				"name:fi": "Iturup"
@@ -4780,8 +4769,8 @@
 			"type": "relation",
 			"id": 2141062,
 			"center": {
-				"lat": 72.8922549,
-				"lon": 79.091835
+				"lat": 72.8921459,
+				"lon": 79.0924408
 			},
 			"tags": {
 				"name:fi": "Sibirjakovinsaari"
@@ -4803,7 +4792,7 @@
 			"id": 2283488,
 			"center": {
 				"lat": 65.7817295,
-				"lon": -169.0590079
+				"lon": -169.0589327
 			},
 			"tags": {
 				"name:fi": "Iso-Diomede"
@@ -5009,6 +4998,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3134562,
+			"center": {
+				"lat": -54.6318119,
+				"lon": 158.8625822
+			},
+			"tags": {
+				"name:fi": "Macquariensaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3175099,
 			"center": {
 				"lat": 62.0848284,
@@ -5088,8 +5088,8 @@
 			"type": "relation",
 			"id": 3313031,
 			"center": {
-				"lat": 61.2580985,
-				"lon": 30.4413121
+				"lat": 61.2581823,
+				"lon": 30.4413219
 			},
 			"tags": {
 				"name:fi": "Kugrisaari"
@@ -5198,7 +5198,7 @@
 			"type": "relation",
 			"id": 3957497,
 			"center": {
-				"lat": 67.85938,
+				"lat": 67.861594,
 				"lon": -75.686
 			},
 			"tags": {
@@ -5328,6 +5328,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3997027,
+			"center": {
+				"lat": 61.4113796,
+				"lon": 31.121562
+			},
+			"tags": {
+				"name:fi": "Lempisaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3997028,
 			"center": {
 				"lat": 61.3909969,
@@ -5441,7 +5452,7 @@
 			"id": 4097659,
 			"center": {
 				"lat": -42.1423379,
-				"lon": 146.4832994
+				"lon": 146.4832194
 			},
 			"tags": {
 				"name:fi": "Tasmania"
@@ -5507,7 +5518,7 @@
 			"id": 5345940,
 			"center": {
 				"lat": 72.8194529,
-				"lon": -120.648331
+				"lon": -120.6486422
 			},
 			"tags": {
 				"name:fi": "Banksinsaari"
@@ -5642,7 +5653,7 @@
 				"lon": 30.9291188
 			},
 			"tags": {
-				"name:fi": "saari Nikolskisaari"
+				"name:fi": "Nikolskisaari"
 			}
 		},
 		{
@@ -5653,7 +5664,7 @@
 				"lon": 30.9754217
 			},
 			"tags": {
-				"name:fi": "saari Matalasaari"
+				"name:fi": "Matalasaari"
 			}
 		},
 		{
@@ -5796,7 +5807,8 @@
 				"lon": -4.3142214
 			},
 			"tags": {
-				"name:fi": "Ynys Môn"
+				"name:fi": "Ynys Môn",
+				"alt_name:fi": "Anglesey"
 			}
 		},
 		{
@@ -5840,7 +5852,8 @@
 				"lon": -9.7298222
 			},
 			"tags": {
-				"name:fi": "Inishmore"
+				"name:fi": "Inishmore",
+				"alt_name:fi": "Inis Mór"
 			}
 		},
 		{
@@ -5851,7 +5864,8 @@
 				"lon": -1.8166608
 			},
 			"tags": {
-				"name:fi": "Lindisfarne"
+				"name:fi": "Lindisfarne",
+				"alt_name:fi": "Holy Island"
 			}
 		},
 		{
@@ -5969,7 +5983,7 @@
 			"id": 7174452,
 			"center": {
 				"lat": -12.2265831,
-				"lon": 44.3727449
+				"lon": 44.3726643
 			},
 			"tags": {
 				"name:fi": "Anjouan"
@@ -6038,7 +6052,8 @@
 				"lon": 19.9515583
 			},
 			"tags": {
-				"name:fi": "Manner-Ahvenanmaa"
+				"name:fi": "Manner-Ahvenanmaa",
+				"alt_name:fi": "Ahvenanmanner"
 			}
 		},
 		{
@@ -6160,6 +6175,28 @@
 			},
 			"tags": {
 				"name:fi": "Grönlanti"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7798137,
+			"center": {
+				"lat": 61.2963872,
+				"lon": 28.607651
+			},
+			"tags": {
+				"name:fi": "Äitsaari"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7901524,
+			"center": {
+				"lat": 61.4775688,
+				"lon": 21.3505178
+			},
+			"tags": {
+				"name:fi": "Säppi"
 			}
 		}
 	]

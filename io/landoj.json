@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:20:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -387,8 +387,8 @@
 		{
 			"type": "node",
 			"id": 424297629,
-			"lat": 15.0610686,
-			"lon": -84.5978534,
+			"lat": 15.2572432,
+			"lon": -86.0755145,
 			"tags": {
 				"name:io": "Honduras"
 			}
@@ -1551,7 +1551,8 @@
 			"lat": 23.9739374,
 			"lon": 120.9820179,
 			"tags": {
-				"name:io": "Taiwan"
+				"name:io": "Taiwan",
+				"alt_name:io": "Republiko di Chinia"
 			}
 		},
 		{

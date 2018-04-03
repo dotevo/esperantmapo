@@ -1,16 +1,16 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
 		{
 			"type": "node",
 			"id": 249399423,
-			"lat": -15.9688384,
-			"lon": -5.6990718,
+			"lat": -15.9694573,
+			"lon": -5.7129442,
 			"tags": {
 				"name:eo": "Sankta Heleno"
 			}
@@ -57,7 +57,8 @@
 			"lat": -22.3674141,
 			"lon": 40.364165,
 			"tags": {
-				"name:eo": "Eŭropinsulo"
+				"name:eo": "Eŭropinsulo",
+				"alt_name:eo": "Eŭropo"
 			}
 		},
 		{
@@ -66,7 +67,8 @@
 			"lat": -17.0566133,
 			"lon": 42.7239756,
 			"tags": {
-				"name:eo": "Ĵuan-de-la-Nova Insulo"
+				"name:eo": "Ĵuan-de-la-Nova Insulo",
+				"alt_name:eo": "Ĵuan-de-la-Nova"
 			}
 		},
 		{
@@ -75,7 +77,8 @@
 			"lat": -15.8913924,
 			"lon": 54.5230376,
 			"tags": {
-				"name:eo": "Tromelininsulo"
+				"name:eo": "Tromelininsulo",
+				"alt_name:eo": "Tromelino"
 			}
 		},
 		{
@@ -104,7 +107,7 @@
 			"type": "way",
 			"id": 3404730,
 			"center": {
-				"lat": 49.7169888,
+				"lat": 49.7170108,
 				"lon": -2.1967546
 			},
 			"tags": {
@@ -148,8 +151,8 @@
 			"type": "way",
 			"id": 13794435,
 			"center": {
-				"lat": 4.0037167,
-				"lon": -81.6079915
+				"lat": 4.0029112,
+				"lon": -81.6091142
 			},
 			"tags": {
 				"name:eo": "Malpelo"
@@ -185,7 +188,19 @@
 				"lon": 3.3595708
 			},
 			"tags": {
-				"name:eo": "Buvet-Insulo"
+				"name:eo": "Buvet-Insulo",
+				"alt_name:eo": "Buvetinsulo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 191502696,
+			"center": {
+				"lat": 32.6276898,
+				"lon": 129.7383031
+			},
+			"tags": {
+				"name:eo": "Gunkanjima"
 			}
 		},
 		{
@@ -350,7 +365,8 @@
 				"lon": 40.364165
 			},
 			"tags": {
-				"name:eo": "Eŭropinsulo"
+				"name:eo": "Eŭropinsulo",
+				"alt_name:eo": "Eŭropo"
 			}
 		},
 		{
@@ -406,6 +422,17 @@
 			},
 			"tags": {
 				"name:eo": "Lampedusa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 3134562,
+			"center": {
+				"lat": -54.6318119,
+				"lon": 158.8625822
+			},
+			"tags": {
+				"name:eo": "Makvora Insulo"
 			}
 		},
 		{
@@ -478,7 +505,7 @@
 			"type": "relation",
 			"id": 3957497,
 			"center": {
-				"lat": 67.85938,
+				"lat": 67.861594,
 				"lon": -75.686
 			},
 			"tags": {
@@ -522,7 +549,7 @@
 			"type": "relation",
 			"id": 4094778,
 			"center": {
-				"lat": 19.1604051,
+				"lat": 19.16034,
 				"lon": 109.8273403
 			},
 			"tags": {
@@ -589,7 +616,7 @@
 			"id": 5345940,
 			"center": {
 				"lat": 72.8194529,
-				"lon": -120.648331
+				"lon": -120.6486422
 			},
 			"tags": {
 				"name:eo": "Banks-insulo"
@@ -625,7 +652,8 @@
 				"lon": -2.2324323
 			},
 			"tags": {
-				"name:eo": "granda Britio"
+				"name:eo": "granda Britio",
+				"alt_name:eo": "Britujo"
 			}
 		},
 		{
@@ -636,7 +664,8 @@
 				"lon": -4.5511849
 			},
 			"tags": {
-				"name:eo": "Manksinsulo"
+				"name:eo": "Manksinsulo",
+				"alt_name:eo": "Manksio"
 			}
 		},
 		{
@@ -647,7 +676,8 @@
 				"lon": -4.3142214
 			},
 			"tags": {
-				"name:eo": "Môn"
+				"name:eo": "Môn",
+				"alt_name:eo": "Môn, Mam Cymru"
 			}
 		},
 		{
@@ -680,7 +710,8 @@
 				"lon": -1.8166608
 			},
 			"tags": {
-				"name:eo": "Lindisfarne"
+				"name:eo": "Lindisfarne",
+				"alt_name:eo": "Sankta Insulo"
 			}
 		},
 		{
@@ -713,7 +744,8 @@
 				"lon": 40.3642739
 			},
 			"tags": {
-				"name:eo": "Eŭropinsulo"
+				"name:eo": "Eŭropinsulo",
+				"alt_name:eo": "Eŭropo"
 			}
 		},
 		{
@@ -724,29 +756,20 @@
 				"lon": 42.7246425
 			},
 			"tags": {
-				"name:eo": "Ĵuan-de-la-Nova Insulo"
+				"name:eo": "Ĵuan-de-la-Nova Insulo",
+				"alt_name:eo": "Ĵuan-de-la-Nova"
 			}
 		},
 		{
 			"type": "relation",
 			"id": 6080158,
 			"center": {
-				"lat": -15.8913923,
-				"lon": 54.5230376
+				"lat": -15.8913838,
+				"lon": 54.5225146
 			},
 			"tags": {
-				"name:eo": "Tromelininsulo"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 6080162,
-			"center": {
-				"lat": -15.8906803,
-				"lon": 54.5224132
-			},
-			"tags": {
-				"name:eo": "Tromelininsulo"
+				"name:eo": "Tromelininsulo",
+				"alt_name:eo": "Tromelino"
 			}
 		},
 		{
@@ -768,7 +791,8 @@
 				"lon": 40.364165
 			},
 			"tags": {
-				"name:eo": "Eŭropinsulo"
+				"name:eo": "Eŭropinsulo",
+				"alt_name:eo": "Eŭropo"
 			}
 		},
 		{
@@ -831,7 +855,7 @@
 			"id": 7112309,
 			"center": {
 				"lat": 42.1881326,
-				"lon": 9.0500054
+				"lon": 9.0500287
 			},
 			"tags": {
 				"name:eo": "Korsiko"
@@ -863,8 +887,8 @@
 			"type": "relation",
 			"id": 7174336,
 			"center": {
-				"lat": -0.2240394,
-				"lon": 130.779667
+				"lat": -0.2241272,
+				"lon": 130.7795423
 			},
 			"tags": {
 				"name:eo": "Vaigeo"
@@ -897,7 +921,7 @@
 			"id": 7174452,
 			"center": {
 				"lat": -12.2265831,
-				"lon": 44.3727449
+				"lon": 44.3726643
 			},
 			"tags": {
 				"name:eo": "Anjuano"

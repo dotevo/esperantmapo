@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:17:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": -120.2126139,
 			"tags": {
 				"name:pl": "Waszyngton"
-			}
-		},
-		{
-			"type": "node",
-			"id": 61083317,
-			"lat": 42.1640662,
-			"lon": 9.0982074,
-			"tags": {
-				"name:pl": "Korsyka"
 			}
 		},
 		{
@@ -549,7 +540,7 @@
 		{
 			"type": "node",
 			"id": 305626897,
-			"lat": 21,
+			"lat": 20.9876996,
 			"lon": -101,
 			"tags": {
 				"name:pl": "Guanajuato"
@@ -769,6 +760,15 @@
 			"lon": 66,
 			"tags": {
 				"name:pl": "Beludżystan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 316440978,
+			"lat": 33.6917297,
+			"lon": 73.0685119,
+			"tags": {
+				"name:pl": "Islamabad"
 			}
 		},
 		{
@@ -1430,15 +1430,6 @@
 		},
 		{
 			"type": "node",
-			"id": 424311883,
-			"lat": 41.9034912,
-			"lon": 12.4528349,
-			"tags": {
-				"name:pl": "Watykan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424313764,
 			"lat": -12.1691894,
 			"lon": 96.8301442,
@@ -1682,29 +1673,11 @@
 		},
 		{
 			"type": "node",
-			"id": 480431777,
-			"lat": 36.6679744,
-			"lon": 48.483038,
-			"tags": {
-				"name:pl": "Zandżan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 480452780,
 			"lat": 38.0211113,
 			"lon": 46.3174851,
 			"tags": {
 				"name:pl": "Azerbejdżan Wschodni"
-			}
-		},
-		{
-			"type": "node",
-			"id": 481002194,
-			"lat": 33.196733,
-			"lon": 52.504026,
-			"tags": {
-				"name:pl": "Isfahan"
 			}
 		},
 		{
@@ -2259,8 +2232,8 @@
 		{
 			"type": "node",
 			"id": 533719181,
-			"lat": 53.2852213,
-			"lon": 50.4785577,
+			"lat": 53.2128813,
+			"lon": 50.8914633,
 			"tags": {
 				"name:pl": "Obwód samarski"
 			}
@@ -2304,8 +2277,8 @@
 		{
 			"type": "node",
 			"id": 553784069,
-			"lat": 40.0796319,
-			"lon": -89.4339809,
+			"lat": 40.0796606,
+			"lon": -89.4337288,
 			"tags": {
 				"name:pl": "Illinois"
 			}
@@ -2772,8 +2745,8 @@
 		{
 			"type": "node",
 			"id": 683681607,
-			"lat": 50.1594016,
-			"lon": 24.2337089,
+			"lat": 49.6512234,
+			"lon": 23.8266948,
 			"tags": {
 				"name:pl": "obwód lwowski"
 			}
@@ -4409,15 +4382,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2604557728,
-			"lat": -69.1726389,
-			"lon": 138.960274,
-			"tags": {
-				"name:pl": "Wybrzeże Adeli"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2614275264,
 			"lat": -15.7754462,
 			"lon": -47.7970891,
@@ -4617,8 +4581,8 @@
 		{
 			"type": "node",
 			"id": 2704047224,
-			"lat": 45.2381164,
-			"lon": 99.5146423,
+			"lat": 45.2380937,
+			"lon": 99.5146799,
 			"tags": {
 				"name:pl": "Bajanchongorski"
 			}
@@ -4846,15 +4810,6 @@
 			"lon": 45.1046224,
 			"tags": {
 				"name:pl": "Dijala"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2914855220,
-			"lat": 36.1911881,
-			"lon": 44.0094761,
-			"tags": {
-				"name:pl": "Irbil"
 			}
 		},
 		{

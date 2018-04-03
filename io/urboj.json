@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:20:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -27,8 +27,8 @@
 		{
 			"type": "node",
 			"id": 16173235,
-			"lat": 18.9321862,
-			"lon": 72.8308337,
+			"lat": 18.9387544,
+			"lon": 72.8352382,
 			"tags": {
 				"name:io": "Mumbai"
 			}
@@ -73,7 +73,7 @@
 			"type": "node",
 			"id": 25960293,
 			"lat": 35.7006177,
-			"lon": 51.401375,
+			"lon": 51.4013785,
 			"tags": {
 				"name:io": "Tehran"
 			}
@@ -126,8 +126,8 @@
 		{
 			"type": "node",
 			"id": 27048978,
-			"lat": 54.6554783,
-			"lon": 19.9110563,
+			"lat": 54.6437214,
+			"lon": 19.8941584,
 			"tags": {
 				"name:io": "Baltiysk"
 			}
@@ -216,8 +216,8 @@
 		{
 			"type": "node",
 			"id": 29090735,
-			"lat": 31.7791134,
-			"lon": 35.2266286,
+			"lat": 31.778345,
+			"lon": 35.2250786,
 			"tags": {
 				"name:io": "Ierusalem"
 			}
@@ -297,8 +297,8 @@
 		{
 			"type": "node",
 			"id": 60410873,
-			"lat": 46.9659167,
-			"lon": 32.0035348,
+			"lat": 46.9713483,
+			"lon": 32.0042471,
 			"tags": {
 				"name:io": "Mykolaiv"
 			}
@@ -333,8 +333,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.8933203,
-			"lon": 12.4829321,
+			"lat": 41.894802,
+			"lon": 12.4853384,
 			"tags": {
 				"name:io": "Roma"
 			}
@@ -558,8 +558,8 @@
 		{
 			"type": "node",
 			"id": 265018692,
-			"lat": 35.6828378,
-			"lon": 139.7589667,
+			"lat": 35.6828387,
+			"lon": 139.7594549,
 			"tags": {
 				"name:io": "Tokyo"
 			}
@@ -674,6 +674,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424311883,
+			"lat": 41.9034912,
+			"lon": 12.4528349,
+			"tags": {
+				"name:io": "Vatikano"
+			}
+		},
+		{
+			"type": "node",
 			"id": 425746989,
 			"lat": 17.1184569,
 			"lon": -61.8448509,
@@ -765,8 +774,8 @@
 		{
 			"type": "node",
 			"id": 1147314253,
-			"lat": 25.0375167,
-			"lon": 121.5637,
+			"lat": 25.0375198,
+			"lon": 121.5636796,
 			"tags": {
 				"name:io": "Taipei"
 			}
@@ -801,8 +810,8 @@
 		{
 			"type": "node",
 			"id": 1614277087,
-			"lat": 41.6935247,
-			"lon": 44.8015019,
+			"lat": 41.6934591,
+			"lon": 44.8014495,
 			"tags": {
 				"name:io": "Tbilisi"
 			}

@@ -5,10 +5,10 @@ var _createClass = function () { function defineProperties(target, props) { for 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
-	setText: function (html) {
+	setText: function setText(html) {
 		this.controlDiv.innerHTML = html;
 	},
-	onAdd: function (mapo) {
+	onAdd: function onAdd(mapo) {
 		this.controlDiv = L.DomUtil.create('div', 'leaflet-control-fenestro leaflet-control-mesaĝo');
 		return this.controlDiv;
 	}
@@ -24,24 +24,24 @@ function escapeHtml(objekto) {
 }
 
 function traduki(teksto, opcioj) {
-	let datumoj = '';
+	var datumoj = '';
 	if (opcioj !== undefined) {
 		datumoj = ' data-i18n-opcioj="' + escapeHtml(opcioj) + '"';
 	}
 	return '<span data-i18n="' + teksto + '" ' + datumoj + '>' + '</span>';
 }
 
-let Tradukilo = function () {
+var Tradukilo = function () {
 	function Tradukilo() {
 		_classCallCheck(this, Tradukilo);
 
-		let ĉi = this;
+		var ĉi = this;
 		$.get('internaciigo/lingvoj.txt', function (datumoj) {
-			let lingvoj = {};
-			let linio = datumoj.split(/\n/);
+			var lingvoj = {};
+			var linio = datumoj.split(/\n/);
 			for (var n = 0; n < linio.length; ++n) {
 				if (linio[n].length > 0) {
-					let x = linio[n].split(':');
+					var x = linio[n].split(':');
 					lingvoj[x[0]] = x[1];
 				}
 			}
@@ -71,7 +71,7 @@ let Tradukilo = function () {
 	}, {
 		key: 'i18nextPretas',
 		value: function i18nextPretas() {
-			let ĉi = this;
+			var ĉi = this;
 			this.tradukiLeaflet();
 			this.tradukiPaĝon();
 			i18next.on('languageChanged', function (lng) {});
@@ -89,9 +89,9 @@ let Tradukilo = function () {
 		key: 'tradukiPa\u011Don',
 		value: function tradukiPaOn() {
 			$('[data-i18n]').each(function (index) {
-				let teksto = $(this).attr('data-i18n-opcioj');
+				var teksto = $(this).attr('data-i18n-opcioj');
 
-				let opcioj = '';
+				var opcioj = '';
 				if (teksto !== undefined) {
 					opcioj = JSON.parse(teksto);
 				}
@@ -102,8 +102,8 @@ let Tradukilo = function () {
 	}, {
 		key: '\u015Dan\u011DiLingvon',
 		value: function anILingvon(lingvo) {
-			const ĉi = this;
-			i18next.changeLanguage(lingvo, (err, t) => {
+			var ĉi = this;
+			i18next.changeLanguage(lingvo, function (err, t) {
 				ĉi.tradukiLeaflet();
 				ĉi.tradukiPaĝon();
 			});
@@ -113,7 +113,7 @@ let Tradukilo = function () {
 	return Tradukilo;
 }();
 
-const tradukilo = new Tradukilo();
+var tradukilo = new Tradukilo();
 
 /**
  * @requires ./tradukilo.js
@@ -142,7 +142,7 @@ function SkaliEnhavon() {
 $(document).on('i18nextPretas', function (evento, lingvoj) {
 	var select = $('#lingvoj');
 	for (var lingvo in lingvoj) {
-		const opt = '<option class="lingvo" id="' + lingvo + '" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>';
+		var opt = '<option class="lingvo" id="' + lingvo + '" value="' + lingvo + '">' + lingvoj[lingvo] + '</option>';
 		select.append(opt);
 	}
 	console.log(tradukilo.akiriLingvon());
@@ -156,16 +156,16 @@ $(document).on('i18nextPretas', function (evento, lingvoj) {
 	});
 });
 
-let OverpassVico = function () {
+var OverpassVico = function () {
 	function OverpassVico(opcioj) {
 		_classCallCheck(this, OverpassVico);
 
 		this.opcioj = {
 			url: 'http://overpass-api.de/api/interpreter?data=',
-			surŜarga: function () {
+			surŜarga: function surArga() {
 				console.log('Ŝarga');
 			},
-			surKompletigita: function () {
+			surKompletigita: function surKompletigita() {
 				console.log('Kompletigita');
 			}
 		};
@@ -231,11 +231,11 @@ L.LatLngBounds.prototype.limigaKesto = function () {
 L.OverpassFetcher = L.LayerGroup.extend({
 	options: {
 		dosiero: 'datumo.json',
-		krei: function () {}
+		krei: function krei() {}
 	},
-	initialize: function (options) {
+	initialize: function initialize(options) {
 		L.Util.setOptions(this, options);
-		let ĉi = this;
+		var ĉi = this;
 		this._nodes = {};
 
 		console.log(this.options.dosiero);
@@ -247,7 +247,7 @@ L.OverpassFetcher = L.LayerGroup.extend({
 			ĉi.analizi(a);
 		});
 	},
-	analizi: function (data) {
+	analizi: function analizi(data) {
 		if (data.responseJSON != undefined && data.responseJSON.elements != undefined) {
 			data = data.responseJSON;
 		}
@@ -257,7 +257,7 @@ L.OverpassFetcher = L.LayerGroup.extend({
 		}
 
 		for (var key in data.elements) {
-			let el = data.elements[key];
+			var el = data.elements[key];
 			if (el.center != null) {
 				el.lat = el.center.lat;
 				el.lon = el.center.lon;
@@ -271,7 +271,7 @@ L.overpassFetcher = function (layers) {
 	return new L.OverpassFetcher(layers);
 };
 
-let mapo;
+var mapo = void 0;
 
 /**
  * @requires ./tradukilo.js
@@ -283,15 +283,15 @@ let mapo;
 function tekstoAlTabelo(prmteksto) {
 	var parametroj = {};
 	var prmtabelo = prmteksto.split('&');
-	for (let i = 0; i < prmtabelo.length; i++) {
-		let tmptabelo = prmtabelo[i].split('=');
+	for (var i = 0; i < prmtabelo.length; i++) {
+		var tmptabelo = prmtabelo[i].split('=');
 		parametroj[tmptabelo[0]] = tmptabelo[1];
 	}
 	return parametroj;
 }
 
 function getSerĉiParametrojn() {
-	let prmstr = window.location.search.substr(1);
+	var prmstr = window.location.search.substr(1);
 	return prmstr != null && prmstr != '' ? tekstoAlTabelo(prmstr) : {};
 }
 
@@ -304,21 +304,21 @@ if (parametroj.lat == null || parametroj.lng == null || parametroj.z == null) {
 }
 
 function ŝanĝiParametrojn() {
-	let teksto = '';
-	for (let ŝlosilo in parametroj) {
+	var teksto = '';
+	for (var ŝlosilo in parametroj) {
 		teksto += ŝlosilo + '=' + parametroj[ŝlosilo] + '&';
 	}
 
 	window.history.replaceState('', 'Esperantmapo', '?' + teksto);
 }
 
-const LokoIkono = L.Icon.extend({
+var LokoIkono = L.Icon.extend({
 	options: {
 		iconSize: [32, 37],
 		iconAnchor: [16, 37]
 	}
 });
-const ikonoj = {
+var ikonoj = {
 	alia: new LokoIkono({ iconUrl: 'bildoj/alia.png' }),
 	libraro: new LokoIkono({ iconUrl: 'bildoj/libraro.png' }),
 	esperanto: new LokoIkono({ iconUrl: 'bildoj/esperanto.png' }),
@@ -355,8 +355,8 @@ function ikononDeLoko(obj) {
 }
 
 function kreiPriskribon(obj) {
-	let r = '';
-	for (let s in obj.tags) {
+	var r = '';
+	for (var s in obj.tags) {
 		r += '<i>' + s + '</i>  =  <b>' + obj.tags[s] + '</b><br/>';
 	}
 	return r;
@@ -375,10 +375,10 @@ function aldoniEnListon(nomo, etikedoj, loc) {
 }
 
 function manteloj(opt, lingvo) {
-	const landojF = new L.OverpassFetcher({
+	var landojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/landoj.json',
-		krei: function (objekto) {
-			const nomo = objekto.tags['name:' + lingvo];
+		krei: function krei(objekto) {
+			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo lando-etikedo',
 				html: nomo
@@ -388,10 +388,10 @@ function manteloj(opt, lingvo) {
 		}
 	});
 
-	const provincojF = new L.OverpassFetcher({
+	var provincojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/provincoj.json',
-		krei: function (objekto) {
-			const nomo = objekto.tags['name:' + lingvo];
+		krei: function krei(objekto) {
+			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo provinco-etikedo',
 				html: nomo
@@ -401,10 +401,10 @@ function manteloj(opt, lingvo) {
 		}
 	});
 
-	const urbojF = new L.OverpassFetcher({
+	var urbojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/urboj.json',
-		krei: function (objekto) {
-			const nomo = objekto.tags['name:' + lingvo];
+		krei: function krei(objekto) {
+			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo urbo-etikedo',
 				html: nomo
@@ -414,10 +414,10 @@ function manteloj(opt, lingvo) {
 		}
 	});
 
-	const teroF = new L.OverpassFetcher({
+	var teroF = new L.OverpassFetcher({
 		dosiero: lingvo + '/tero.json',
-		krei: function (objekto) {
-			const nomo = objekto.tags['name:' + lingvo];
+		krei: function krei(objekto) {
+			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo tero-etikedo',
 				html: nomo
@@ -427,9 +427,9 @@ function manteloj(opt, lingvo) {
 		}
 	});
 
-	const lokojF = new L.OverpassFetcher({
+	var lokojF = new L.OverpassFetcher({
 		dosiero: lingvo + '/lokoj.json',
-		krei: function (objekto) {
+		krei: function krei(objekto) {
 			L.marker([objekto.lat, objekto.lon], { icon: ikononDeLoko(objekto) }).addTo(opt.lokoj).bindPopup(kreiPriskribon(objekto));
 		}
 	});
@@ -455,19 +455,19 @@ $(document).bind('pageinit', function () {
 	}
 
 	mapo = L.map('mapo').setView([parametroj.lat, parametroj.lng], parametroj.z);
-	const osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	const teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
+	var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+	var teksto = traduki('Datumoj de la mapo {{link}} kontribuantoj', {
 		'link': '<a href="http://openstreetmap.org">OpenStreetMap</a>',
 		'interpolation': { 'escapeValue': false }
 	});
-	const osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.4, attribution: teksto });
+	var osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.4, attribution: teksto });
 	mapo.addLayer(osm);
 
-	const landoj = L.featureGroup().addTo(mapo);
-	const urboj = L.featureGroup().addTo(mapo);
-	const provincoj = L.featureGroup().addTo(mapo);
-	const tero = L.featureGroup().addTo(mapo);
-	const lokoj = L.featureGroup().addTo(mapo);
+	var landoj = L.featureGroup().addTo(mapo);
+	var urboj = L.featureGroup().addTo(mapo);
+	var provincoj = L.featureGroup().addTo(mapo);
+	var tero = L.featureGroup().addTo(mapo);
+	var lokoj = L.featureGroup().addTo(mapo);
 
 	manteloj({ landoj: landoj,
 		provincoj: provincoj,
@@ -475,7 +475,7 @@ $(document).bind('pageinit', function () {
 		tero: tero,
 		lokoj: lokoj }, lingvo);
 
-	mapo.on('moveend', () => {
+	mapo.on('moveend', function () {
 		parametroj.lat = mapo.getCenter().lat;
 		parametroj.lng = mapo.getCenter().lng;
 		parametroj.z = mapo.getZoom();
@@ -483,7 +483,7 @@ $(document).bind('pageinit', function () {
 	});
 
 	mapo.on('zoomend', function () {
-		let elektoLandoj = $('#landoj').val();
+		var elektoLandoj = $('#landoj').val();
 		if ((mapo.getZoom() < 6 || elektoLandoj === 'C') && elektoLandoj !== 'N') {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj);
@@ -492,7 +492,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(landoj);
 		}
 
-		let elektoProvincoj = $('#provincoj').val();
+		var elektoProvincoj = $('#provincoj').val();
 		if ((mapo.getZoom() > 4 || elektoProvincoj === 'C') && elektoProvincoj !== 'N') {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj);
@@ -501,7 +501,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(provincoj);
 		}
 
-		let elektoTero = $('#tero').val();
+		var elektoTero = $('#tero').val();
 		if ((mapo.getZoom() > 4 || elektoTero === 'C') && elektoProvincoj !== 'N') {
 			if (!mapo.hasLayer(tero)) {
 				mapo.addLayer(tero);
@@ -510,7 +510,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(tero);
 		}
 
-		let elektoUrboj = $('#urboj').val();
+		var elektoUrboj = $('#urboj').val();
 		if ((mapo.getZoom() > 6 || elektoUrboj === 'C') && elektoUrboj !== 'N') {
 			if (!mapo.hasLayer(urboj)) {
 				mapo.addLayer(urboj);
@@ -519,7 +519,7 @@ $(document).bind('pageinit', function () {
 			mapo.removeLayer(urboj);
 		}
 
-		let elektoLokoj = $('#lokoj').val();
+		var elektoLokoj = $('#lokoj').val();
 		if (elektoLokoj === 'C') {
 			if (!mapo.hasLayer(lokoj)) {
 				mapo.addLayer(lokoj);

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API",
+	"generator": "Overpass API 0.7.54.13 ff15392f",
 	"osm3s": {
-		"timestamp_osm_base": "2017-11-15T12:39:02Z",
+		"timestamp_osm_base": "2018-04-03T09:19:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -21,7 +21,8 @@
 			"lat": 42.6384261,
 			"lon": 12.674297,
 			"tags": {
-				"name:eo": "Italujo"
+				"name:eo": "Italio",
+				"alt_name:eo": "Italujo"
 			}
 		},
 		{
@@ -30,7 +31,8 @@
 			"lat": 33.7680065,
 			"lon": 66.2385139,
 			"tags": {
-				"name:eo": "Afganujo"
+				"name:eo": "Afganio",
+				"alt_name:eo": "Afganujo;Afganistano"
 			}
 		},
 		{
@@ -39,7 +41,8 @@
 			"lat": 47.2000338,
 			"lon": 13.199959,
 			"tags": {
-				"name:eo": "Aŭstrujo"
+				"name:eo": "Aŭstrio",
+				"alt_name:eo": "Aŭstrujo"
 			}
 		},
 		{
@@ -48,7 +51,8 @@
 			"lat": 40.0028028,
 			"lon": -4.003104,
 			"tags": {
-				"name:eo": "Hispanujo"
+				"name:eo": "Hispanio",
+				"alt_name:eo": "Hispanujo"
 			}
 		},
 		{
@@ -66,7 +70,8 @@
 			"lat": 45.8133113,
 			"lon": 14.4808369,
 			"tags": {
-				"name:eo": "Slovenujo"
+				"name:eo": "Slovenio",
+				"alt_name:eo": "Slovenujo"
 			}
 		},
 		{
@@ -93,7 +98,8 @@
 			"lat": 40.7696272,
 			"lon": 44.6736646,
 			"tags": {
-				"name:eo": "Armenujo"
+				"name:eo": "Armenio",
+				"alt_name:eo": "Armenujo"
 			}
 		},
 		{
@@ -138,7 +144,8 @@
 			"lat": 53.4250605,
 			"lon": 27.6971358,
 			"tags": {
-				"name:eo": "Belorusujo"
+				"name:eo": "Belorusio",
+				"alt_name:eo": "Belorusujo;Belarusio;Belarusujo"
 			}
 		},
 		{
@@ -147,7 +154,8 @@
 			"lat": -16.0492781,
 			"lon": -160.3554851,
 			"tags": {
-				"name:eo": "Kukinsuloj"
+				"name:eo": "Kukinsuloj",
+				"alt_name:eo": "Kuk-Insularo"
 			}
 		},
 		{
@@ -174,7 +182,8 @@
 			"lat": 47.1817585,
 			"lon": 19.5060937,
 			"tags": {
-				"name:eo": "Hungarujo"
+				"name:eo": "Hungario",
+				"alt_name:eo": "Hungarujo"
 			}
 		},
 		{
@@ -192,7 +201,8 @@
 			"lat": 40.3736611,
 			"lon": 127.0870417,
 			"tags": {
-				"name:eo": "Nord-Koreujo"
+				"name:eo": "Nord-Koreio",
+				"alt_name:eo": "Nord-Koreujo"
 			}
 		},
 		{
@@ -201,7 +211,8 @@
 			"lat": 36.5581914,
 			"lon": 127.9408564,
 			"tags": {
-				"name:eo": "Sud-Koreujo"
+				"name:eo": "Sud-Koreio",
+				"alt_name:eo": "Sud-Koreujo"
 			}
 		},
 		{
@@ -210,7 +221,8 @@
 			"lat": 19.5417212,
 			"lon": -80.5667132,
 			"tags": {
-				"name:eo": "Kejmanoj"
+				"name:eo": "Kejmanoj",
+				"alt_name:eo": "Kajmaninsuloj;Kajmana Insularo"
 			}
 		},
 		{
@@ -246,7 +258,8 @@
 			"lat": 25.6242618,
 			"lon": 42.3528328,
 			"tags": {
-				"name:eo": "Sauda Arabujo"
+				"name:eo": "Sauda Arabio",
+				"alt_name:eo": "Sauda Arabujo;Saŭda Arabio;Saŭda Arabujo"
 			}
 		},
 		{
@@ -255,7 +268,8 @@
 			"lat": 0.8875498,
 			"lon": 6.9648718,
 			"tags": {
-				"name:eo": "Sao-Tomeo kaj Principeo"
+				"name:eo": "Sao-Tomeo kaj Principeo",
+				"alt_name:eo": "Santomeo kaj Principeo"
 			}
 		},
 		{
@@ -264,7 +278,8 @@
 			"lat": 39.3763807,
 			"lon": 59.3924609,
 			"tags": {
-				"name:eo": "Turkmenujo"
+				"name:eo": "Turkmenio",
+				"alt_name:eo": "Turkmenujo;Turkmenistano"
 			}
 		},
 		{
@@ -309,7 +324,8 @@
 			"lat": 44.1534121,
 			"lon": 20.55144,
 			"tags": {
-				"name:eo": "Serbujo"
+				"name:eo": "Serbio",
+				"alt_name:eo": "Serbujo"
 			}
 		},
 		{
@@ -318,7 +334,8 @@
 			"lat": 60.5000209,
 			"lon": 9.0999715,
 			"tags": {
-				"name:eo": "Norvegujo"
+				"name:eo": "Norvegio",
+				"alt_name:eo": "Norvegujo"
 			}
 		},
 		{
@@ -405,8 +422,8 @@
 		{
 			"type": "node",
 			"id": 424297629,
-			"lat": 15.0610686,
-			"lon": -84.5978534,
+			"lat": 15.2572432,
+			"lon": -86.0755145,
 			"tags": {
 				"name:eo": "Honduro"
 			}
@@ -435,7 +452,8 @@
 			"lat": 55.3500003,
 			"lon": 23.7499997,
 			"tags": {
-				"name:eo": "Litovujo"
+				"name:eo": "Litovio",
+				"alt_name:eo": "Litovujo"
 			}
 		},
 		{
@@ -444,7 +462,8 @@
 			"lat": 41.6171214,
 			"lon": 21.7168387,
 			"tags": {
-				"name:eo": "Makedonujo"
+				"name:eo": "Makedonio",
+				"alt_name:eo": "Makedonujo"
 			}
 		},
 		{
@@ -489,7 +508,7 @@
 			"lat": 49.8158683,
 			"lon": 6.1296751,
 			"tags": {
-				"name:eo": "Luksemburgio"
+				"name:eo": "Luksemburgo"
 			}
 		},
 		{
@@ -507,7 +526,8 @@
 			"lat": 13.2904027,
 			"lon": 108.4265113,
 			"tags": {
-				"name:eo": "Vjetnamujo"
+				"name:eo": "Vjetnamio",
+				"alt_name:eo": "Vjetnamujo"
 			}
 		},
 		{
@@ -552,7 +572,8 @@
 			"lat": 38.9597594,
 			"lon": 34.9249653,
 			"tags": {
-				"name:eo": "Turkujo"
+				"name:eo": "Turkio",
+				"alt_name:eo": "Turkujo"
 			}
 		},
 		{
@@ -561,7 +582,8 @@
 			"lat": 41.000028,
 			"lon": 19.9999619,
 			"tags": {
-				"name:eo": "Albanujo"
+				"name:eo": "Albanio",
+				"alt_name:eo": "Albanujo"
 			}
 		},
 		{
@@ -570,7 +592,8 @@
 			"lat": -26.5624806,
 			"lon": 31.3991317,
 			"tags": {
-				"name:eo": "Svazilando"
+				"name:eo": "Svazilando",
+				"alt_name:eo": "Svaziio;Svaziujo"
 			}
 		},
 		{
@@ -588,7 +611,8 @@
 			"lat": 17.3462278,
 			"lon": -62.7687277,
 			"tags": {
-				"name:eo": "Sankta Kristoforo kaj Neviso"
+				"name:eo": "Sankta Kristoforo kaj Neviso",
+				"alt_name:eo": "Sankta-Kito kaj Neviso"
 			}
 		},
 		{
@@ -633,7 +657,8 @@
 			"lat": 16.0000552,
 			"lon": -24.0083947,
 			"tags": {
-				"name:eo": "Kabo-Verdo"
+				"name:eo": "Kaboverdo",
+				"alt_name:eo": "Kabo-Verda"
 			}
 		},
 		{
@@ -642,7 +667,8 @@
 			"lat": -51.9666424,
 			"lon": -59.5500387,
 			"tags": {
-				"name:eo": "Falklandoj"
+				"name:eo": "Falklandoj",
+				"alt_name:eo": "Malvinoj"
 			}
 		},
 		{
@@ -669,7 +695,8 @@
 			"lat": 45.5643442,
 			"lon": 17.0118954,
 			"tags": {
-				"name:eo": "Kroatujo"
+				"name:eo": "Kroatio",
+				"alt_name:eo": "Kroatujo"
 			}
 		},
 		{
@@ -678,7 +705,8 @@
 			"lat": 47.2286086,
 			"lon": 65.2093197,
 			"tags": {
-				"name:eo": "Kazaĥujo"
+				"name:eo": "Kazaĥio",
+				"alt_name:eo": "Kazaĥujo;Kazaĥstano"
 			}
 		},
 		{
@@ -786,7 +814,8 @@
 			"lat": 8.7800265,
 			"lon": 1.0199765,
 			"tags": {
-				"name:eo": "Togolando"
+				"name:eo": "Togolando",
+				"alt_name:eo": "Togo;Togolo"
 			}
 		},
 		{
@@ -831,7 +860,8 @@
 			"lat": 6.9518742,
 			"lon": 170.9985095,
 			"tags": {
-				"name:eo": "Marŝaloj"
+				"name:eo": "Marŝaloj",
+				"alt_name:eo": "Marŝala Insularo"
 			}
 		},
 		{
@@ -840,7 +870,8 @@
 			"lat": 77.6192349,
 			"lon": -42.8125967,
 			"tags": {
-				"name:eo": "Gronlando"
+				"name:eo": "Gronlando",
+				"alt_name:eo": "Groenlando"
 			}
 		},
 		{
@@ -858,7 +889,8 @@
 			"lat": 59.6749712,
 			"lon": 14.5208584,
 			"tags": {
-				"name:eo": "Svedujo"
+				"name:eo": "Svedio",
+				"alt_name:eo": "Svedujo"
 			}
 		},
 		{
@@ -885,7 +917,8 @@
 			"lat": 36.5748441,
 			"lon": 139.2394179,
 			"tags": {
-				"name:eo": "Japanujo"
+				"name:eo": "Japanio",
+				"alt_name:eo": "Japanujo;Nipono"
 			}
 		},
 		{
@@ -903,7 +936,8 @@
 			"lat": 35.000074,
 			"lon": 104.999927,
 			"tags": {
-				"name:eo": "Ĉinujo"
+				"name:eo": "Ĉinio",
+				"alt_name:eo": "Ĉinujo"
 			}
 		},
 		{
@@ -966,7 +1000,8 @@
 			"lat": 49.8167003,
 			"lon": 15.4749544,
 			"tags": {
-				"name:eo": "Ĉeĥujo"
+				"name:eo": "Ĉeĥio",
+				"alt_name:eo": "Ĉeĥujo"
 			}
 		},
 		{
@@ -984,7 +1019,8 @@
 			"lat": 58.7523778,
 			"lon": 25.3319078,
 			"tags": {
-				"name:eo": "Estonujo"
+				"name:eo": "Estonio",
+				"alt_name:eo": "Estonujo"
 			}
 		},
 		{
@@ -1056,7 +1092,8 @@
 			"lat": 8.6400349,
 			"lon": -11.8400269,
 			"tags": {
-				"name:eo": "Siera-Leono"
+				"name:eo": "Siera-Leono",
+				"alt_name:eo": "Sieraleono"
 			}
 		},
 		{
@@ -1065,7 +1102,8 @@
 			"lat": 22.3511148,
 			"lon": 78.6677428,
 			"tags": {
-				"name:eo": "Barato"
+				"name:eo": "Barato",
+				"alt_name:eo": "Hindio;Hindujo;Hinda Unio"
 			}
 		},
 		{
@@ -1074,7 +1112,8 @@
 			"lat": 38.6281733,
 			"lon": 70.8156541,
 			"tags": {
-				"name:eo": "Taĝikujo"
+				"name:eo": "Taĝikio",
+				"alt_name:eo": "Taĝikujo;Taĝikistano"
 			}
 		},
 		{
@@ -1119,7 +1158,8 @@
 			"lat": 64.6863136,
 			"lon": 97.7453061,
 			"tags": {
-				"name:eo": "Rusujo"
+				"name:eo": "Rusio",
+				"alt_name:eo": "Rusujo;Ruslando"
 			}
 		},
 		{
@@ -1146,7 +1186,8 @@
 			"lat": 42.6073975,
 			"lon": 25.4856617,
 			"tags": {
-				"name:eo": "Bulgarujo"
+				"name:eo": "Bulgario",
+				"alt_name:eo": "Bulgarujo"
 			}
 		},
 		{
@@ -1164,7 +1205,8 @@
 			"lat": 26.2540493,
 			"lon": 29.2675469,
 			"tags": {
-				"name:eo": "Egiptujo"
+				"name:eo": "Egiptio",
+				"alt_name:eo": "Egiptujo"
 			}
 		},
 		{
@@ -1218,7 +1260,8 @@
 			"lat": 13.8250489,
 			"lon": -60.975036,
 			"tags": {
-				"name:eo": "Sankta Lucio"
+				"name:eo": "Sankta Lucio",
+				"alt_name:eo": "Sent-Lucio"
 			}
 		},
 		{
@@ -1227,7 +1270,8 @@
 			"lat": 47.286747,
 			"lon": 28.5110236,
 			"tags": {
-				"name:eo": "Moldavujo"
+				"name:eo": "Moldavio",
+				"alt_name:eo": "Moldavujo"
 			}
 		},
 		{
@@ -1236,7 +1280,8 @@
 			"lat": 17.1750495,
 			"lon": 95.9999652,
 			"tags": {
-				"name:eo": "Birmo / Mjanmao"
+				"name:eo": "Birmo",
+				"alt_name:eo": "Mjanmao"
 			}
 		},
 		{
@@ -1245,7 +1290,8 @@
 			"lat": 20.2540382,
 			"lon": -9.2399263,
 			"tags": {
-				"name:eo": "Maŭritanujo"
+				"name:eo": "Maŭritanio",
+				"alt_name:eo": "Maŭritanujo"
 			}
 		},
 		{
@@ -1290,7 +1336,8 @@
 			"lat": 8.3676771,
 			"lon": 49.083416,
 			"tags": {
-				"name:eo": "Somalujo"
+				"name:eo": "Somalio",
+				"alt_name:eo": "Somalujo"
 			}
 		},
 		{
@@ -1326,7 +1373,8 @@
 			"lat": 41.32373,
 			"lon": 63.9528098,
 			"tags": {
-				"name:eo": "Uzbekujo"
+				"name:eo": "Uzbekio",
+				"alt_name:eo": "Uzbekujo;Uzbekistano"
 			}
 		},
 		{
@@ -1389,7 +1437,8 @@
 			"lat": 55.670249,
 			"lon": 10.3333283,
 			"tags": {
-				"name:eo": "Danujo"
+				"name:eo": "Danio",
+				"alt_name:eo": "Danujo;Danlando"
 			}
 		},
 		{
@@ -1407,7 +1456,8 @@
 			"lat": 63.2467777,
 			"lon": 25.9209164,
 			"tags": {
-				"name:eo": "Finnlando"
+				"name:eo": "Finnlando",
+				"alt_name:eo": "Finnio;Finnujo;Finlando;Suomio;Suomujo"
 			}
 		},
 		{
@@ -1416,7 +1466,8 @@
 			"lat": 41.6809707,
 			"lon": 44.0287382,
 			"tags": {
-				"name:eo": "Kartvelujo"
+				"name:eo": "Kartvelio",
+				"alt_name:eo": "Kartvelujo;Gruzio;Gruzujo"
 			}
 		},
 		{
@@ -1425,7 +1476,8 @@
 			"lat": 38.9953683,
 			"lon": 21.9877132,
 			"tags": {
-				"name:eo": "Grekujo"
+				"name:eo": "Grekio",
+				"alt_name:eo": "Grekujo"
 			}
 		},
 		{
@@ -1443,7 +1495,8 @@
 			"lat": 56.8406494,
 			"lon": 24.7537645,
 			"tags": {
-				"name:eo": "Latvujo"
+				"name:eo": "Latvio",
+				"alt_name:eo": "Latvujo"
 			}
 		},
 		{
@@ -1479,7 +1532,8 @@
 			"lat": 46.8250388,
 			"lon": 103.8499736,
 			"tags": {
-				"name:eo": "Mongolujo"
+				"name:eo": "Mongolio",
+				"alt_name:eo": "Mongolujo"
 			}
 		},
 		{
@@ -1497,7 +1551,8 @@
 			"lat": 52.0977181,
 			"lon": 19.0258159,
 			"tags": {
-				"name:eo": "Polujo"
+				"name:eo": "Pollando",
+				"alt_name:eo": "Polio;Polujo"
 			}
 		},
 		{
@@ -1515,7 +1570,8 @@
 			"lat": -0.7264327,
 			"lon": 15.6419155,
 			"tags": {
-				"name:eo": "Respubliko Kongo"
+				"name:eo": "Respubliko Kongo",
+				"alt_name:eo": "Kongo Brazavila"
 			}
 		},
 		{
@@ -1524,7 +1580,8 @@
 			"lat": 45.9852129,
 			"lon": 24.6859225,
 			"tags": {
-				"name:eo": "Rumanujo"
+				"name:eo": "Rumanio",
+				"alt_name:eo": "Rumanujo"
 			}
 		},
 		{
@@ -1533,7 +1590,8 @@
 			"lat": 12.90447,
 			"lon": -61.2765569,
 			"tags": {
-				"name:eo": "Sankta Vincento kaj Grenadinoj"
+				"name:eo": "Sankta Vincento kaj Grenadinoj",
+				"alt_name:eo": "Sent-Vincento kaj Grenadinoj"
 			}
 		},
 		{
@@ -1551,7 +1609,8 @@
 			"lat": 48.7411522,
 			"lon": 19.4528646,
 			"tags": {
-				"name:eo": "Slovakujo"
+				"name:eo": "Slovakio",
+				"alt_name:eo": "Slovakujo"
 			}
 		},
 		{
@@ -1641,7 +1700,8 @@
 			"lat": -2.9814344,
 			"lon": 23.8222636,
 			"tags": {
-				"name:eo": "Demokratia Respubliko Kongo"
+				"name:eo": "Demokratia Respubliko Kongo",
+				"alt_name:eo": "Kongo Kinŝasa"
 			}
 		},
 		{
@@ -1650,7 +1710,8 @@
 			"lat": 14.8971921,
 			"lon": 100.83273,
 			"tags": {
-				"name:eo": "Tajlando"
+				"name:eo": "Tajlando",
+				"alt_name:eo": "Tajio;Tajujo"
 			}
 		},
 		{
@@ -1668,7 +1729,8 @@
 			"lat": 43.1500226,
 			"lon": 41.2299786,
 			"tags": {
-				"name:eo": "Abĥazujo"
+				"name:eo": "Abĥazio",
+				"alt_name:eo": "Abĥazujo"
 			}
 		},
 		{
@@ -1713,7 +1775,8 @@
 			"lat": 54.7023545,
 			"lon": -3.2765753,
 			"tags": {
-				"name:eo": "Britujo"
+				"name:eo": "Britio",
+				"alt_name:eo": "Britujo"
 			}
 		},
 		{
@@ -1731,7 +1794,8 @@
 			"lat": 46.603354,
 			"lon": 1.8883335,
 			"tags": {
-				"name:eo": "Francujo"
+				"name:eo": "Francio",
+				"alt_name:eo": "Francujo"
 			}
 		},
 		{
@@ -1740,7 +1804,8 @@
 			"lat": -25.0657719,
 			"lon": -130.1017823,
 			"tags": {
-				"name:eo": "Pitkarna Insularo"
+				"name:eo": "Pitkarna Insularo",
+				"alt_name:eo": "Pitkarna Insulo"
 			}
 		},
 		{
@@ -1749,7 +1814,8 @@
 			"lat": 52.865196,
 			"lon": -7.9794599,
 			"tags": {
-				"name:eo": "Irlando / Ejro"
+				"name:eo": "Irlando",
+				"alt_name:eo": "Ejro"
 			}
 		},
 		{
@@ -1758,7 +1824,8 @@
 			"lat": 46.7985624,
 			"lon": 8.2319736,
 			"tags": {
-				"name:eo": "Svisujo"
+				"name:eo": "Svislando",
+				"alt_name:eo": "Svisio;Svisujo"
 			}
 		},
 		{
@@ -1830,7 +1897,8 @@
 			"lat": 49.4871968,
 			"lon": 31.2718321,
 			"tags": {
-				"name:eo": "Ukrainujo"
+				"name:eo": "Ukrainio",
+				"alt_name:eo": "Ukrainujo;Ukrajno"
 			}
 		},
 		{
@@ -1839,7 +1907,8 @@
 			"lat": 51.0834196,
 			"lon": 10.4234469,
 			"tags": {
-				"name:eo": "Germanujo"
+				"name:eo": "Germanio",
+				"alt_name:eo": "Germanujo"
 			}
 		},
 		{
@@ -1848,7 +1917,8 @@
 			"lat": 50.6407351,
 			"lon": 4.66696,
 			"tags": {
-				"name:eo": "Belgujo"
+				"name:eo": "Belgio",
+				"alt_name:eo": "Belgujo"
 			}
 		},
 		{
@@ -1866,7 +1936,8 @@
 			"lat": 42.3476344,
 			"lon": 44.0979465,
 			"tags": {
-				"name:eo": "Sud-Osetujo"
+				"name:eo": "Sud-Osetio",
+				"alt_name:eo": "Sud-Osetujo"
 			}
 		},
 		{
@@ -1875,7 +1946,8 @@
 			"lat": 39.8079192,
 			"lon": 46.6977209,
 			"tags": {
-				"name:eo": "Respubliko Montara Karabaĥo"
+				"name:eo": "Respubliko Montara Karabaĥo",
+				"alt_name:eo": "Arcaĥa Respubliko"
 			}
 		},
 		{
@@ -1893,7 +1965,8 @@
 			"lat": 41.5089324,
 			"lon": 74.724091,
 			"tags": {
-				"name:eo": "Kirgizujo"
+				"name:eo": "Kirgizio",
+				"alt_name:eo": "Kirgizujo;Kirgizistano"
 			}
 		},
 		{
@@ -1920,7 +1993,8 @@
 			"lat": 44.3053476,
 			"lon": 17.5961467,
 			"tags": {
-				"name:eo": "Bosnujo kaj Hercegovino"
+				"name:eo": "Bosnio kaj Hercegovino",
+				"alt_name:eo": "Bosnujo kaj Hercegovino"
 			}
 		},
 		{
@@ -1929,7 +2003,8 @@
 			"lat": 47.192292,
 			"lon": 29.397413,
 			"tags": {
-				"name:eo": "Ĉednestrio"
+				"name:eo": "Ĉednestrio",
+				"alt_name:eo": "Transdnestrio;Transnistrio"
 			}
 		},
 		{
@@ -1956,7 +2031,8 @@
 			"lat": 10.2116702,
 			"lon": 38.6521203,
 			"tags": {
-				"name:eo": "Etiopujo"
+				"name:eo": "Etiopio",
+				"alt_name:eo": "Etiopujo"
 			}
 		},
 		{
@@ -1965,7 +2041,8 @@
 			"lat": 40.033265,
 			"lon": -7.8896263,
 			"tags": {
-				"name:eo": "Portugalujo"
+				"name:eo": "Portugalio",
+				"alt_name:eo": "Portugalujo"
 			}
 		},
 		{
@@ -1992,7 +2069,8 @@
 			"lat": 7.237148,
 			"lon": 80.820923,
 			"tags": {
-				"name:eo": "Sri-Lanko"
+				"name:eo": "Srilanko",
+				"alt_name:eo": "Sri-Lanko"
 			}
 		},
 		{
