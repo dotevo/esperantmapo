@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:29:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -27,8 +27,8 @@
 		{
 			"type": "node",
 			"id": 16173235,
-			"lat": 18.9387544,
-			"lon": 72.8352382,
+			"lat": 18.9387711,
+			"lon": 72.8353355,
 			"tags": {
 				"name:jbo": ".mumbais."
 			}
@@ -126,8 +126,8 @@
 		{
 			"type": "node",
 			"id": 57563779,
-			"lat": 34.704365,
-			"lon": 135.501887,
+			"lat": 34.6937569,
+			"lon": 135.5014539,
 			"tags": {
 				"name:jbo": ".osakas."
 			}
@@ -144,8 +144,8 @@
 		{
 			"type": "node",
 			"id": 61785451,
-			"lat": 40.7306458,
-			"lon": -73.9866136,
+			"lat": 40.7308619,
+			"lon": -73.9871558,
 			"tags": {
 				"name:jbo": ".nu,IORK."
 			}
@@ -243,8 +243,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7507178,
-			"lon": 37.6176606,
+			"lat": 55.7504461,
+			"lon": 37.6174943,
 			"tags": {
 				"name:jbo": "moskovas"
 			}

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:22:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -13,24 +13,6 @@
 			"lon": -118.7559974,
 			"tags": {
 				"name:eo": "Kalifornio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 24330691,
-			"lat": 22.350627,
-			"lon": 114.1849161,
-			"tags": {
-				"name:eo": "Hongkongo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 25842885,
-			"lat": -35.4883502,
-			"lon": 149.0026942,
-			"tags": {
-				"name:eo": "Aŭstralia Ĉefurba Teritorio"
 			}
 		},
 		{
@@ -417,8 +399,8 @@
 			"lat": -31.8759835,
 			"lon": 147.2869493,
 			"tags": {
-				"name:eo": "Nova Sud-Kimrujo",
-				"alt_name:eo": "Novsudkimrujo;Nova Sud-Kimrio"
+				"name:eo": "Nova Sud-Kimrio",
+				"alt_name:eo": "Nova Sud-Kimrujo"
 			}
 		},
 		{
@@ -428,16 +410,6 @@
 			"lon": 121.0187246,
 			"tags": {
 				"name:eo": "Okcidenta Aŭstralio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 304951006,
-			"lat": -19.8516101,
-			"lon": 133.2303375,
-			"tags": {
-				"name:eo": "Norda Teritorio",
-				"alt_name:eo": "Nordteritorio"
 			}
 		},
 		{
@@ -482,7 +454,8 @@
 			"lat": -5.1386278,
 			"lon": 151.9020187,
 			"tags": {
-				"name:eo": "Orienta Nov-Britujo"
+				"name:eo": "Orienta Nov-Britio",
+				"alt_name:eo": "Orienta Nov-Britujo"
 			}
 		},
 		{
@@ -536,7 +509,8 @@
 			"lat": -5.8891465,
 			"lon": 149.699546,
 			"tags": {
-				"name:eo": "Provinco Okcidenta Nov-Britujo"
+				"name:eo": "Okcidenta Nov-Britio",
+				"alt_name:eo": "Okcidenta Nov-Britujo"
 			}
 		},
 		{
@@ -2098,15 +2072,6 @@
 		},
 		{
 			"type": "node",
-			"id": 316440978,
-			"lat": 33.6917297,
-			"lon": 73.0685119,
-			"tags": {
-				"name:eo": "Islamabado"
-			}
-		},
-		{
-			"type": "node",
 			"id": 316647532,
 			"lat": 33.2588817,
 			"lon": -86.8295337,
@@ -2530,38 +2495,11 @@
 		},
 		{
 			"type": "node",
-			"id": 424313764,
-			"lat": -12.1691894,
-			"lon": 96.8301442,
-			"tags": {
-				"name:eo": "Kokosinsuloj"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424314262,
 			"lat": -44.1511785,
 			"lon": 63.8604556,
 			"tags": {
 				"name:eo": "Francaj Sudaj Teritorioj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483523,
-			"lat": -10.4837768,
-			"lon": 105.64723,
-			"tags": {
-				"name:eo": "Kristnaskinsulo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483527,
-			"lat": -16.225557,
-			"lon": 150.033867,
-			"tags": {
-				"name:eo": "Koralmaraj Insuloj"
 			}
 		},
 		{
@@ -2634,8 +2572,8 @@
 			"lat": 50.9295798,
 			"lon": 13.4585052,
 			"tags": {
-				"name:eo": "Saksujo",
-				"alt_name:eo": "Saksio"
+				"name:eo": "Saksio",
+				"alt_name:eo": "Saksujo"
 			}
 		},
 		{
@@ -2644,8 +2582,8 @@
 			"lat": 48.9467562,
 			"lon": 11.4038717,
 			"tags": {
-				"name:eo": "Bavarujo",
-				"alt_name:eo": "Bavario"
+				"name:eo": "Bavario",
+				"alt_name:eo": "Bavarujo"
 			}
 		},
 		{
@@ -2681,8 +2619,8 @@
 			"lat": 50.7333163,
 			"lon": 11.0747905,
 			"tags": {
-				"name:eo": "Turingujo",
-				"alt_name:eo": "Turingio"
+				"name:eo": "Turingio",
+				"alt_name:eo": "Turingujo"
 			}
 		},
 		{
@@ -2832,8 +2770,8 @@
 		{
 			"type": "node",
 			"id": 501794650,
-			"lat": 7.81,
-			"lon": 122.59,
+			"lat": 7.7877097,
+			"lon": 122.5744217,
 			"tags": {
 				"name:eo": "Zamboango Sibugaja"
 			}
@@ -3652,8 +3590,8 @@
 		{
 			"type": "node",
 			"id": 577359740,
-			"lat": 59.9780506,
-			"lon": 39.7150729,
+			"lat": 60.0391461,
+			"lon": 43.1215213,
 			"tags": {
 				"name:eo": "Vologda Provinco"
 			}
@@ -3673,7 +3611,8 @@
 			"lat": 41.8523094,
 			"lon": 1.5745043,
 			"tags": {
-				"name:eo": "Katalunio"
+				"name:eo": "Katalunio",
+				"alt_name:eo": "Katalunujo"
 			}
 		},
 		{
@@ -3733,8 +3672,8 @@
 		{
 			"type": "node",
 			"id": 610739435,
-			"lat": 60.1716709,
-			"lon": 31.8322298,
+			"lat": 60.1853296,
+			"lon": 32.3925325,
 			"tags": {
 				"name:eo": "Leningrada Provinco"
 			}
@@ -4048,8 +3987,8 @@
 		{
 			"type": "node",
 			"id": 681769605,
-			"lat": 45.5916819,
-			"lon": 33.5992068,
+			"lat": 45.5359172,
+			"lon": 33.0031985,
 			"tags": {
 				"name:eo": "Aŭtonoma Respubliko Krimeo"
 			}
@@ -4174,8 +4113,8 @@
 		{
 			"type": "node",
 			"id": 683681613,
-			"lat": 49.2723647,
-			"lon": 38.9152782,
+			"lat": 49.2724587,
+			"lon": 38.9150477,
 			"tags": {
 				"name:eo": "Luhanska Provinco"
 			}
@@ -4516,8 +4455,8 @@
 		{
 			"type": "node",
 			"id": 869495624,
-			"lat": 56.4601702,
-			"lon": 44.5855442,
+			"lat": 55.4718033,
+			"lon": 44.0911594,
 			"tags": {
 				"name:eo": "Niĵnij-Novgoroda Provinco"
 			}
@@ -4624,8 +4563,8 @@
 		{
 			"type": "node",
 			"id": 933435715,
-			"lat": 58.2155351,
-			"lon": 49.7686354,
+			"lat": 57.9665589,
+			"lon": 49.4074599,
 			"tags": {
 				"name:eo": "Kirova Provinco"
 			}
@@ -4636,7 +4575,8 @@
 			"lat": 37.3399964,
 			"lon": -4.5811614,
 			"tags": {
-				"name:eo": "Andaluzio"
+				"name:eo": "Andaluzio",
+				"alt_name:eo": "Andaluzujo"
 			}
 		},
 		{
@@ -4798,7 +4738,7 @@
 			"lat": -3.833333,
 			"lon": -80.5,
 			"tags": {
-				"name:eo": "Tumpiujo"
+				"name:eo": "Tumpio"
 			}
 		},
 		{
@@ -4921,8 +4861,8 @@
 		{
 			"type": "node",
 			"id": 1230775171,
-			"lat": -12.003889,
-			"lon": -76.638889,
+			"lat": -12.2001093,
+			"lon": -76.2850579,
 			"tags": {
 				"name:eo": "Limio"
 			}
@@ -4983,74 +4923,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610245,
-			"lat": 48.8360858,
-			"lon": 6.1999334,
-			"tags": {
-				"name:eo": "Loreno"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610246,
-			"lat": 46.0743923,
-			"lon": -0.0772029,
-			"tags": {
-				"name:eo": "Puatuo-Ĉarentoj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610249,
-			"lat": 47.4961233,
-			"lon": 6.2097185,
-			"tags": {
-				"name:eo": "Franĉkonteo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610250,
-			"lat": 48.3705824,
-			"lon": 4.3128168,
-			"tags": {
-				"name:eo": "Ĉampanjo-Ardenoj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610251,
-			"lat": 44.3571841,
-			"lon": -0.5391713,
-			"tags": {
-				"name:eo": "Akvitanio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610252,
-			"lat": 47.0151891,
-			"lon": 4.2523237,
-			"tags": {
-				"name:eo": "Burgonjo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610254,
 			"lat": 45.3886264,
 			"lon": 5.6874625,
 			"tags": {
 				"name:eo": "Rodano-Alpoj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610255,
-			"lat": 45.3547354,
-			"lon": 3.197012,
-			"tags": {
-				"name:eo": "Aŭvernjo"
 			}
 		},
 		{
@@ -5073,15 +4950,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610259,
-			"lat": 43.8324972,
-			"lon": 1.5685814,
-			"tags": {
-				"name:eo": "Sudo-Pireneoj"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610260,
 			"lat": 48.2640845,
 			"lon": -2.9202408,
@@ -5100,38 +4968,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610262,
-			"lat": 48.8177569,
-			"lon": -0.4382331,
-			"tags": {
-				"name:eo": "Malsupra Normandio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610263,
-			"lat": 49.2566929,
-			"lon": 1.0438139,
-			"tags": {
-				"name:eo": "Supra Normandio"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610264,
 			"lat": 47.6594864,
 			"lon": -0.8186143,
 			"tags": {
 				"name:eo": "Luarlandoj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610265,
-			"lat": 48.183541,
-			"lon": 7.3795231,
-			"tags": {
-				"name:eo": "Alzaco"
 			}
 		},
 		{
@@ -5257,8 +5098,8 @@
 			"lat": 52.8398531,
 			"lon": 9.075962,
 			"tags": {
-				"name:eo": "Malsupra Saksujo",
-				"alt_name:eo": "Malsupra Saksio"
+				"name:eo": "Malsupra Saksio",
+				"alt_name:eo": "Malsupra Saksujo"
 			}
 		},
 		{
@@ -5546,8 +5387,8 @@
 			"lat": 51.908526,
 			"lon": 11.4939134,
 			"tags": {
-				"name:eo": "Saksujo-Anhalto",
-				"alt_name:eo": "Saksio-Anhalto"
+				"name:eo": "Saksio-Anhalto",
+				"alt_name:eo": "Saksujo-Anhalto"
 			}
 		},
 		{
@@ -5795,15 +5636,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1900155946,
-			"lat": 33.3940067,
-			"lon": 126.5626688,
-			"tags": {
-				"name:eo": "Jeju-do"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1903366790,
 			"lat": 38.2628262,
 			"lon": 125.476901,
@@ -5845,15 +5677,6 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:eo": "Okcidenta Saharo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2049929146,
-			"lat": -35.1494368,
-			"lon": 150.7085321,
-			"tags": {
-				"name:eo": "Teritorio de Golfeto Jervis"
 			}
 		},
 		{
@@ -6101,15 +5924,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2240991954,
-			"lat": 23.1923325,
-			"lon": 71.9329241,
-			"tags": {
-				"name:eo": "Guĝarato"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2240991958,
 			"lat": 23.4559809,
 			"lon": 85.2557301,
@@ -6155,24 +5969,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2294586133,
-			"lat": -53.0242765,
-			"lon": 72.9231353,
-			"tags": {
-				"name:eo": "Herda kaj Makdonaldaj Insuloj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2294591720,
-			"lat": -12.2354389,
-			"lon": 123.0851206,
-			"tags": {
-				"name:eo": "Aŝmora kaj Kartia Insuloj"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2452912060,
 			"lat": 55.4792046,
 			"lon": 37.3273304,
@@ -6195,8 +5991,8 @@
 			"lat": 50.6118537,
 			"lon": 9.1909725,
 			"tags": {
-				"name:eo": "Hesujo",
-				"alt_name:eo": "Hesio"
+				"name:eo": "Hesio",
+				"alt_name:eo": "Hesujo"
 			}
 		},
 		{
@@ -6255,15 +6051,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2537069583,
-			"lat": 8.5479351,
-			"lon": -82.5972317,
-			"tags": {
-				"name:eo": "Ĉirikio"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2537777115,
 			"lat": 9.3538223,
 			"lon": -82.4559391,
@@ -6304,8 +6091,8 @@
 			"lat": 52.2928116,
 			"lon": -3.73893,
 			"tags": {
-				"name:eo": "Kimrujo",
-				"alt_name:eo": "Kimrio"
+				"name:eo": "Kimrio",
+				"alt_name:eo": "Kimrujo"
 			}
 		},
 		{
@@ -6764,7 +6551,8 @@
 			"lat": 42.9911816,
 			"lon": -2.5543023,
 			"tags": {
-				"name:eo": "Euskio"
+				"name:eo": "Eŭskio",
+				"alt_name:eo": "Eŭskujo"
 			}
 		},
 		{
@@ -6829,24 +6617,6 @@
 			"tags": {
 				"name:eo": "Montara Karabaĥo",
 				"alt_name:eo": "Arcaĥ"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4189263789,
-			"lat": 49.653721,
-			"lon": 2.5339474,
-			"tags": {
-				"name:eo": "Pikardio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4189298057,
-			"lat": 50.4806465,
-			"lon": 2.7937371,
-			"tags": {
-				"name:eo": "Nordo-Kaleza Markolo"
 			}
 		},
 		{
@@ -6970,15 +6740,6 @@
 		},
 		{
 			"type": "node",
-			"id": 4351323483,
-			"lat": 35.0030052,
-			"lon": 133.7037385,
-			"tags": {
-				"name:eo": "Gubernio Okajamo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4351432485,
 			"lat": 13.7538929,
 			"lon": 100.8160803,
@@ -7012,6 +6773,15 @@
 			"lon": -78.0172551,
 			"tags": {
 				"name:eo": "Darjeno"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5854200921,
+			"lat": 13.8021919,
+			"lon": -85.5464829,
+			"tags": {
+				"name:eo": "Jinotegano"
 			}
 		}
 	]

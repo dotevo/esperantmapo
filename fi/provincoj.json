@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:24:02Z",
+		"timestamp_osm_base": "2018-09-20T06:38:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,15 +40,6 @@
 			"lon": 121.0187246,
 			"tags": {
 				"name:fi": "Länsi-Australia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 304951006,
-			"lat": -19.8516101,
-			"lon": 133.2303375,
-			"tags": {
-				"name:fi": "Pohjoisterritorio"
 			}
 		},
 		{
@@ -107,38 +98,11 @@
 		},
 		{
 			"type": "node",
-			"id": 424313764,
-			"lat": -12.1691894,
-			"lon": 96.8301442,
-			"tags": {
-				"name:fi": "Kookossaaret"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424314262,
 			"lat": -44.1511785,
 			"lon": 63.8604556,
 			"tags": {
 				"name:fi": "Ranskan eteläiset ja antarktiset alueet"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483523,
-			"lat": -10.4837768,
-			"lon": 105.64723,
-			"tags": {
-				"name:fi": "Joulusaari"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483527,
-			"lat": -16.225557,
-			"lon": 150.033867,
-			"tags": {
-				"name:fi": "Korallimeren saaret"
 			}
 		},
 		{
@@ -252,8 +216,8 @@
 		{
 			"type": "node",
 			"id": 681769605,
-			"lat": 45.5916819,
-			"lon": 33.5992068,
+			"lat": 45.5359172,
+			"lon": 33.0031985,
 			"tags": {
 				"name:fi": "Krimin autonominen tasavalta"
 			}
@@ -301,24 +265,6 @@
 			"lon": 44.2636348,
 			"tags": {
 				"name:fi": "Pohjois-Ossetia-Alania"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610251,
-			"lat": 44.3571841,
-			"lon": -0.5391713,
-			"tags": {
-				"name:fi": "Akvitania"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610252,
-			"lat": 47.0151891,
-			"lon": 4.2523237,
-			"tags": {
-				"name:fi": "Burgundi"
 			}
 		},
 		{
@@ -418,15 +364,6 @@
 			"lon": 128.3301115,
 			"tags": {
 				"name:fi": "Etelä-Gyeongsang"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900155946,
-			"lat": 33.3940067,
-			"lon": 126.5626688,
-			"tags": {
-				"name:fi": "Jeju"
 			}
 		},
 		{
@@ -557,20 +494,11 @@
 		},
 		{
 			"type": "node",
-			"id": 4189263789,
-			"lat": 49.653721,
-			"lon": 2.5339474,
+			"id": 5545215823,
+			"lat": 62,
+			"lon": 27,
 			"tags": {
-				"name:fi": "Picardie"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4189298057,
-			"lat": 50.4806465,
-			"lon": 2.7937371,
-			"tags": {
-				"name:fi": "Nord-Pas-de-Calais"
+				"name:fi": "Järvi-Suomi"
 			}
 		}
 	]

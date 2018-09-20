@@ -1,11 +1,20 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:17:03Z",
+		"timestamp_osm_base": "2018-09-20T06:14:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 24330691,
+			"lat": 22.350627,
+			"lon": 114.1849161,
+			"tags": {
+				"name:pl": "Hongkong"
+			}
+		},
 		{
 			"type": "node",
 			"id": 26036352,
@@ -45,8 +54,8 @@
 		{
 			"type": "node",
 			"id": 148332300,
-			"lat": 40.0028028,
-			"lon": -4.003104,
+			"lat": 39.3262345,
+			"lon": -4.8380649,
 			"tags": {
 				"name:pl": "Hiszpania"
 			}
@@ -459,8 +468,8 @@
 		{
 			"type": "node",
 			"id": 424297917,
-			"lat": -0.5249624,
-			"lon": 166.9333009,
+			"lat": -0.5252306,
+			"lon": 166.9324426,
 			"tags": {
 				"name:pl": "Nauru"
 			}
@@ -570,7 +579,8 @@
 			"lat": -26.5624806,
 			"lon": 31.3991317,
 			"tags": {
-				"name:pl": "Suazi"
+				"name:pl": "Eswatini",
+				"alt_name:pl": "Suazi"
 			}
 		},
 		{
@@ -579,7 +589,8 @@
 			"lat": 24.0002488,
 			"lon": 53.9994829,
 			"tags": {
-				"name:pl": "Zjednoczone Emiraty Arabskie"
+				"name:pl": "Emiraty Arabskie",
+				"alt_name:pl": "Zjednoczone Emiraty Arabskie"
 			}
 		},
 		{
@@ -733,15 +744,6 @@
 			"lon": 9.3238432,
 			"tags": {
 				"name:pl": "Niger"
-			}
-		},
-		{
-			"type": "node",
-			"id": 424311679,
-			"lat": -29.0328038,
-			"lon": 167.9483137,
-			"tags": {
-				"name:pl": "Wyspa Norfolk"
 			}
 		},
 		{
@@ -1335,7 +1337,7 @@
 			"lat": 39.7837304,
 			"lon": -100.4458825,
 			"tags": {
-				"name:pl": "Stany Zjednoczone Ameryki"
+				"name:pl": "Stany Zjednoczone"
 			}
 		},
 		{
@@ -1485,8 +1487,8 @@
 		{
 			"type": "node",
 			"id": 432425041,
-			"lat": 31.1728192,
-			"lon": -7.3366043,
+			"lat": 31.1728205,
+			"lon": -7.3362482,
 			"tags": {
 				"name:pl": "Maroko"
 			}
@@ -1836,8 +1838,8 @@
 		{
 			"type": "node",
 			"id": 1684793666,
-			"lat": 50.6407351,
-			"lon": 4.66696,
+			"lat": 50.6402809,
+			"lon": 4.6667145,
 			"tags": {
 				"name:pl": "Belgia"
 			}
@@ -1866,7 +1868,7 @@
 			"lat": 39.8079192,
 			"lon": 46.6977209,
 			"tags": {
-				"name:pl": "Republika Górskiego Karabachu"
+				"name:pl": "Górski Karabach"
 			}
 		},
 		{
@@ -1953,7 +1955,7 @@
 		{
 			"type": "node",
 			"id": 2377028247,
-			"lat": 40.033265,
+			"lat": 40.0332629,
 			"lon": -7.8896263,
 			"tags": {
 				"name:pl": "Portugalia"
@@ -1979,15 +1981,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3997635385,
-			"lat": 7.237148,
-			"lon": 80.820923,
-			"tags": {
-				"name:pl": "Sri Lanka"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4076524861,
 			"lat": 35.8885993,
 			"lon": 14.4476911,
@@ -2002,6 +1995,15 @@
 			"lon": 20.9021231,
 			"tags": {
 				"name:pl": "Kosowo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5903953013,
+			"lat": 14.4750607,
+			"lon": -14.4529612,
+			"tags": {
+				"name:pl": "Senegal"
 			}
 		}
 	]

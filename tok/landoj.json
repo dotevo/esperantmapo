@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:30:02Z",
+		"timestamp_osm_base": "2018-09-20T06:43:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -45,8 +45,8 @@
 		{
 			"type": "node",
 			"id": 148332300,
-			"lat": 40.0028028,
-			"lon": -4.003104,
+			"lat": 39.3262345,
+			"lon": -4.8380649,
 			"tags": {
 				"name:tok": "ma Epanja"
 			}
@@ -1118,8 +1118,8 @@
 		{
 			"type": "node",
 			"id": 432425041,
-			"lat": 31.1728192,
-			"lon": -7.3366043,
+			"lat": 31.1728205,
+			"lon": -7.3362482,
 			"tags": {
 				"name:tok": "ma Malipe"
 			}
@@ -1289,8 +1289,8 @@
 		{
 			"type": "node",
 			"id": 1684793666,
-			"lat": 50.6407351,
-			"lon": 4.66696,
+			"lat": 50.6402809,
+			"lon": 4.6667145,
 			"tags": {
 				"name:tok": "ma Pesije"
 			}
@@ -1325,7 +1325,7 @@
 		{
 			"type": "node",
 			"id": 2377028247,
-			"lat": 40.033265,
+			"lat": 40.0332629,
 			"lon": -7.8896263,
 			"tags": {
 				"name:tok": "ma Potuke"
@@ -1351,11 +1351,11 @@
 		},
 		{
 			"type": "node",
-			"id": 3997635385,
-			"lat": 7.237148,
-			"lon": 80.820923,
+			"id": 5903953013,
+			"lat": 14.4750607,
+			"lon": -14.4529612,
 			"tags": {
-				"name:tok": "ma Lanka"
+				"name:tok": "ma Seneka"
 			}
 		}
 	]

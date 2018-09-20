@@ -1,11 +1,24 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:24:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 305683530,
+			"lat": 53.9082199,
+			"lon": 27.5789856,
+			"tags": {
+				"amenity": "cafe",
+				"cuisine": "cafe/diner",
+				"esperanto": "yes",
+				"name": "Эсперанто",
+				"name:ru": "Эсперанто"
+			}
+		},
 		{
 			"type": "node",
 			"id": 871779403,
@@ -29,19 +42,15 @@
 		},
 		{
 			"type": "node",
-			"id": 1242413589,
-			"lat": 59.3436427,
-			"lon": 18.0655291,
+			"id": 1643304667,
+			"lat": 32.0769548,
+			"lon": 34.7794822,
 			"tags": {
-				"amenity": "restaurant",
-				"cuisine": "fine_dining",
+				"amenity": "pharmacy",
 				"esperanto": "yes",
-				"name": "Esperanto",
-				"opening_hours": "Mo-Tu off; We-Sa 19:00-01:00; Su off",
-				"phone": "+46-8-6962323",
-				"website": "http://www.esperantorestaurant.se/",
-				"wikidata": "Q10489150",
-				"wikipedia": "sv:Esperanto (restaurang)"
+				"name": "זמנהוף",
+				"name:en": "Zamenhoff",
+				"name:he": "זמנהוף"
 			}
 		},
 		{
@@ -99,6 +108,53 @@
 		},
 		{
 			"type": "node",
+			"id": 2244977210,
+			"lat": 49.7546004,
+			"lon": 16.472588,
+			"tags": {
+				"designation": "muzeum",
+				"esperanto": "yes",
+				"name": "Muzeum Esperanta",
+				"name:de": "Esperanto-Museum",
+				"name:eo": "Esperanto-Muzeo",
+				"source": "local knowledge",
+				"tourism": "museum",
+				"wikidata": "Q406679",
+				"wikipedia": "eo:Esperanto-Muzeo en Svitavy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2480708098,
+			"lat": 42.9764605,
+			"lon": 47.5024497,
+			"tags": {
+				"addr:city": "Махачкала",
+				"addr:country": "RU",
+				"addr:housenumber": "32",
+				"addr:postcode": "367000",
+				"addr:street": "улица Батырая",
+				"amenity": "restaurant",
+				"esperanto": "yes",
+				"name": "Эсперанто"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2487157063,
+			"lat": 53.1334554,
+			"lon": 23.1571521,
+			"tags": {
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "Ludwik Zamenhof\n1859-1917",
+				"memorial": "statue",
+				"name": "Pomnik Ludwika Zamenhofa",
+				"name:eo": "Monumento al Ludoviko Zamenhof"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2493336616,
 			"lat": -25.4305709,
 			"lon": -49.2683965,
@@ -122,21 +178,21 @@
 		{
 			"type": "node",
 			"id": 2608621526,
-			"lat": 51.4571961,
-			"lon": 7.945123,
+			"lat": 51.4571827,
+			"lon": 7.945127,
 			"tags": {
-				"bus": "yes",
 				"highway": "bus_stop",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"public_transport": "stop_position"
+				"public_transport": "platform",
+				"ref:IFOPT": "de:05958:11108:0:1"
 			}
 		},
 		{
 			"type": "node",
 			"id": 2679171748,
-			"lat": 43.5854516,
-			"lon": 1.3773038,
+			"lat": 43.5854361,
+			"lon": 1.377287,
 			"tags": {
 				"advertising": "poster_box",
 				"amenity": "bicycle_rental",
@@ -144,7 +200,11 @@
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"network": "VélôToulouse",
-				"operator": "JCDecaux"
+				"operator": "JCDecaux",
+				"ref": "277",
+				"source": "Toulouse Métropole",
+				"source:date": "2018-08-18",
+				"start_date": "2013"
 			}
 		},
 		{
@@ -272,6 +332,17 @@
 		},
 		{
 			"type": "node",
+			"id": 3272706854,
+			"lat": 53.1235742,
+			"lon": 23.149635,
+			"tags": {
+				"amenity": "cafe",
+				"esperanto": "yes",
+				"name": "Kafejeto"
+			}
+		},
+		{
+			"type": "node",
 			"id": 3480125987,
 			"lat": 47.4909031,
 			"lon": 19.043508,
@@ -297,6 +368,7 @@
 				"addr:housenumber": "25",
 				"addr:postcode": "10965",
 				"addr:street": "Katzbachstraße",
+				"esperanto": "yes",
 				"language:de": "yes",
 				"language:eo": "yes",
 				"name": "Deutscher Esperanto-Bund e. V.",
@@ -364,6 +436,7 @@
 				"books:language:eo": "yes",
 				"contact:facebook": "https://www.facebook.com/ksiaznicapodlaska/",
 				"email": "f14kp@ksiaznicapodlaska.pl",
+				"esperanto": "yes",
 				"name": "Książnica Podlaska im. Łukasza Górnickiego - Filia nr 14 Esperanto-libraro",
 				"name:eo": "Esperanto-libraro",
 				"opening_hours": "Tu-We 12:00-17:00; PH off",
@@ -379,6 +452,7 @@
 			"lat": 52.2532376,
 			"lon": 20.996875,
 			"tags": {
+				"esperanto": "yes",
 				"language:eo": "yes",
 				"name": "Polska Młodzież Esperancka",
 				"office": "association"
@@ -391,10 +465,26 @@
 			"lon": 19.0452038,
 			"tags": {
 				"contact:website": "http://esperanto_bielsko.republika.pl",
+				"esperanto": "yes",
 				"language:eo": "yes",
 				"name": "Polski Związek Esperantystów, Oddział Bielsko-Biała",
 				"office": "association",
 				"opening_hours": "Tu 15:00-19:00"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3966866858,
+			"lat": 52.2532376,
+			"lon": 20.996875,
+			"tags": {
+				"addr:city": "Warszawa",
+				"addr:housenumber": "37",
+				"addr:postcode": "00-159",
+				"addr:street": "Generała Władysława Andersa",
+				"esperanto": "yes",
+				"name": "Polski Związek Esperantystów",
+				"office": "association"
 			}
 		},
 		{
@@ -451,13 +541,32 @@
 		},
 		{
 			"type": "node",
+			"id": 4495744928,
+			"lat": 52.4728414,
+			"lon": 13.4529055,
+			"tags": {
+				"esperanto": "yes",
+				"leaf_cycle": "deciduous",
+				"leaf_type": "broadleaved",
+				"name": "Zamenhofeiche",
+				"name:eo": "Zamenhof-Kverko",
+				"natural": "tree",
+				"wikimedia_commons": "File:Berlino, Zamenhof-Kverko sur Esperanto-Placo, 2.jpeg"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4560916691,
 			"lat": 53.1335233,
 			"lon": 23.1508564,
 			"tags": {
+				"addr:city": "Białystok",
+				"addr:housenumber": "31/33",
+				"addr:street": "Lipowa",
 				"commemorates:wikidata": "Q11716602",
 				"esperanto": "yes",
 				"historic": "memorial",
+				"inscription": "W tym domu mieszkał w latach 1919-1941 wybitny esperantysta, dziennikarz, literat i nauczyciel zamordowany przez niemieckich faszystów 12 lipca 1941 roku Jakub Szapiro",
 				"memorial": "plaque",
 				"name": "Tablica upamiętniająca Jakuba Szapiro",
 				"name:eo": "Memortabulo pri Jakobo ŜAPIRO"
@@ -474,7 +583,27 @@
 				"historic": "memorial",
 				"memorial": "plaque",
 				"name": "Miejsce urodzin Ludwika Zamenhofa",
-				"name:eo": "Naskiĝloko de Ludoviko Lazaro ZAMENHOFO"
+				"name:eo": "Naskiĝloko de Ludoviko Lazaro Zamenhof"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4561119589,
+			"lat": 53.1291417,
+			"lon": 23.1540932,
+			"tags": {
+				"addr:city": "Białystok",
+				"addr:housenumber": "3",
+				"addr:postcode": "15-282",
+				"addr:street": "Piękna",
+				"email": "kontakt@espero.bialystok.pl",
+				"esperanto": "yes",
+				"name": "Białostockie Towarzystwo Esperantystów",
+				"name:en": "Białystok Esperanto Society",
+				"name:eo": "Bjalistoka Esperanto-Societo",
+				"name:pl": "Białostockie Towarzystwo Esperantystów",
+				"office": "association",
+				"website": "https://espero.bialystok.pl"
 			}
 		},
 		{
@@ -759,6 +888,43 @@
 		},
 		{
 			"type": "node",
+			"id": 4868700582,
+			"lat": 43.3277166,
+			"lon": 45.694213,
+			"tags": {
+				"addr:city": "Грозный",
+				"addr:housenumber": "47",
+				"addr:street": "улица Шейха Али Митаева",
+				"amenity": "restaurant",
+				"cuisine": "japanese;international;turkish;regional",
+				"esperanto": "yes",
+				"name": "Эсперанто",
+				"opening_hours": "Mo-Su 11:00-24:00",
+				"smoking": "isolated"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4888327322,
+			"lat": 23.0925912,
+			"lon": -82.3705158,
+			"tags": {
+				"addr:housenumber": "264",
+				"addr:postcode": "10500",
+				"addr:street": "Vista Alegre",
+				"amenity": "school",
+				"email": "kubesp@enet.cu",
+				"esperanto": "yes",
+				"name": "Asociación Cubana de Esperanto",
+				"name:en": "Cuban Esperanto Association",
+				"name:eo": "Esperanto-Centro Havano",
+				"name:es": "Asociación Cubana de Esperanto",
+				"phone": "+5376404484",
+				"website": "http://www.esperanto.cult.cu"
+			}
+		},
+		{
+			"type": "node",
 			"id": 5183882224,
 			"lat": 37.6093007,
 			"lon": 138.8427601,
@@ -809,6 +975,21 @@
 				"phone": "+49 4955 85332",
 				"stars": "3",
 				"tourism": "hotel"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5255434959,
+			"lat": 53.129143,
+			"lon": 23.1542148,
+			"tags": {
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "Dnia 29.VII.1987 delegaci 72-go Światowego Kongresu Esperantystów i mieszkańcu miasta postanowili że w tym miejscu powstanie Światowe Centrum im. Zamenhofa. Białystok.",
+				"memorial": "stone",
+				"name": "Kamień Światowego Centrum Esperanta",
+				"name:eo": "Ŝtono de la Monda Centro de Esperanto",
+				"name:pl": "Kamień Światowego Centrum Esperanta"
 			}
 		},
 		{
@@ -1055,6 +1236,7 @@
 				"lon": 20.9805803
 			},
 			"tags": {
+				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Esperanto",
 				"name:etymology:wikidata": "Q143",
@@ -1065,8 +1247,8 @@
 			"type": "way",
 			"id": 19730367,
 			"center": {
-				"lat": 43.5835813,
-				"lon": 1.3756195
+				"lat": 43.5835764,
+				"lon": 1.3756202
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -1093,6 +1275,21 @@
 		},
 		{
 			"type": "way",
+			"id": 25034131,
+			"center": {
+				"lat": 51.2856446,
+				"lon": 7.3020209
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperantoweg",
+				"name:etymology:wikidata": "Q143",
+				"postal_code": "58332"
+			}
+		},
+		{
+			"type": "way",
 			"id": 25405297,
 			"center": {
 				"lat": 47.0974438,
@@ -1103,6 +1300,19 @@
 				"highway": "residential",
 				"name": "Verger de L'Espéranto",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 26185649,
+			"center": {
+				"lat": 42.5190502,
+				"lon": 27.3654991
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Есперанто"
 			}
 		},
 		{
@@ -1126,12 +1336,13 @@
 				"lon": 19.9470517
 			},
 			"tags": {
+				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
+				"name:eo": "strato d-ro Ludoviko Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
@@ -1155,6 +1366,23 @@
 		},
 		{
 			"type": "way",
+			"id": 27119779,
+			"center": {
+				"lat": 53.0299014,
+				"lon": 18.5977624
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxgcweight": "18",
+				"maxgcweight:conditional": "none @ (00:00-06:00; 09:00-13:00; 19:00-24:00)",
+				"name": "Antoniego Grabowskiego",
+				"source:maxgcweight": "http://www.torun.pl/pl/miasto/uklad-drogowy/ograniczenia-w-ruchu-tir-ow",
+				"source:maxgcweight:url": "http://www.mzd.torun.pl/pliki/18_ton.jpg.pdf"
+			}
+		},
+		{
+			"type": "way",
 			"id": 27292714,
 			"center": {
 				"lat": 49.8253674,
@@ -1174,6 +1402,7 @@
 				"lon": 19.0451689
 			},
 			"tags": {
+				"esperanto": "yes",
 				"highway": "tertiary",
 				"lanes": "1",
 				"lit": "yes",
@@ -1188,6 +1417,23 @@
 		},
 		{
 			"type": "way",
+			"id": 29161891,
+			"center": {
+				"lat": 53.6145832,
+				"lon": 23.835876
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"int_name": "vulica Zamienhofa",
+				"maxspeed": "20",
+				"name": "улица Заменгофа",
+				"name:be": "вуліца Заменгофа",
+				"name:ru": "улица Заменгофа"
+			}
+		},
+		{
+			"type": "way",
 			"id": 29398708,
 			"center": {
 				"lat": 51.1858873,
@@ -1197,6 +1443,20 @@
 				"highway": "residential",
 				"name": "Esperantostraat",
 				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30258339,
+			"center": {
+				"lat": 52.2270518,
+				"lon": 21.0157111
+			},
+			"tags": {
+				"access": "private",
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Antoniego Grabowskiego"
 			}
 		},
 		{
@@ -1215,7 +1475,22 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt",
 				"turn:lanes": "left;through|through;right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 31301511,
+			"center": {
+				"lat": 45.8272436,
+				"lon": 1.2357267
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009"
 			}
 		},
 		{
@@ -1236,6 +1511,20 @@
 		},
 		{
 			"type": "way",
+			"id": 32252768,
+			"center": {
+				"lat": 42.0061132,
+				"lon": 21.3762941
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Есперанто",
+				"ref": "1231"
+			}
+		},
+		{
+			"type": "way",
 			"id": 32944359,
 			"center": {
 				"lat": -25.4195068,
@@ -1251,16 +1540,155 @@
 		},
 		{
 			"type": "way",
+			"id": 33890699,
+			"center": {
+				"lat": 51.8314843,
+				"lon": 16.5986458
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 33899630,
+			"center": {
+				"lat": 32.0201226,
+				"lon": 34.7490786
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 34077120,
+			"center": {
+				"lat": 32.1780297,
+				"lon": 34.9195336
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
 			"id": 34963015,
 			"center": {
 				"lat": 48.8952539,
-				"lon": 7.9111872
+				"lon": 7.9111951
 			},
 			"tags": {
 				"highway": "residential",
 				"junction": "roundabout",
 				"name": "Rond-Point Esperanto",
 				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 35169526,
+			"center": {
+				"lat": 32.0774903,
+				"lon": 34.7771487
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 35448492,
+			"center": {
+				"lat": 53.1343255,
+				"lon": 23.1602112
+			},
+			"tags": {
+				"cycleway": "opposite",
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Ludwika Zamenhofa",
+				"name:be": "вуліца Людвіка Заменгофа",
+				"name:pl": "Ludwika Zamenhofa",
+				"oneway": "yes",
+				"oneway:bicycle": "no",
+				"source:maxspeed": "sign"
+			}
+		},
+		{
+			"type": "way",
+			"id": 35714063,
+			"center": {
+				"lat": 50.8882881,
+				"lon": 20.6382015
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"source": "Bing"
+			}
+		},
+		{
+			"type": "way",
+			"id": 39652099,
+			"center": {
+				"lat": 32.780653,
+				"lon": 34.9935172
+			},
+			"tags": {
+				"esperanto": "yes",
+				"haifa-ref": "775",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
+			"id": 40052367,
+			"center": {
+				"lat": 51.2017393,
+				"lon": 22.582102
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Ludwika Zamenhofa",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1275,6 +1703,20 @@
 				"name": "Esperanto Way",
 				"name:etymology:wikidata": "Q143",
 				"postal_code": "NP19"
+			}
+		},
+		{
+			"type": "way",
+			"id": 40641312,
+			"center": {
+				"lat": 43.8457571,
+				"lon": 4.3927076
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
 			}
 		},
 		{
@@ -1309,6 +1751,51 @@
 		},
 		{
 			"type": "way",
+			"id": 41598966,
+			"center": {
+				"lat": 50.2462745,
+				"lon": 3.9236788
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"ref:FR:FANTOIR": "592911290Z",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+			}
+		},
+		{
+			"type": "way",
+			"id": 43599146,
+			"center": {
+				"lat": 51.286321,
+				"lon": 7.3008762
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofweg",
+				"name:etymology:wikidata": "Q11758",
+				"postal_code": "58332"
+			}
+		},
+		{
+			"type": "way",
+			"id": 44088519,
+			"center": {
+				"lat": 31.7765714,
+				"lon": 35.2209488
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "footway",
+				"name": "זמנהוף",
+				"name:en": "Zamenhoff",
+				"name:he": "זמנהוף"
+			}
+		},
+		{
+			"type": "way",
 			"id": 45485713,
 			"center": {
 				"lat": 50.8431311,
@@ -1322,7 +1809,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1346,10 +1834,25 @@
 		},
 		{
 			"type": "way",
+			"id": 47023446,
+			"center": {
+				"lat": 52.4728796,
+				"lon": 13.4528719
+			},
+			"tags": {
+				"area": "yes",
+				"esperanto": "yes",
+				"name": "Esperantoplatz",
+				"place": "square",
+				"wikimedia_commons": "Category:Esperantoplatz (Berlin-Neukölln)"
+			}
+		},
+		{
+			"type": "way",
 			"id": 47483556,
 			"center": {
-				"lat": -5.1023135,
-				"lon": -42.797301
+				"lat": -5.1023107,
+				"lon": -42.7972649
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -1379,13 +1882,112 @@
 			"type": "way",
 			"id": 56079004,
 			"center": {
-				"lat": 50.8840467,
-				"lon": 6.5981964
+				"lat": 50.8840454,
+				"lon": 6.5981943
 			},
 			"tags": {
 				"highway": "residential",
 				"name": "Esperantostraße",
 				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 58014520,
+			"center": {
+				"lat": 32.0217708,
+				"lon": 34.7663546
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф",
+				"note": "fixme unaccurate",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 69021797,
+			"center": {
+				"lat": 51.2864718,
+				"lon": 7.3002636
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofweg",
+				"name:etymology:wikidata": "Q11758",
+				"postal_code": "58332"
+			}
+		},
+		{
+			"type": "way",
+			"id": 69729239,
+			"center": {
+				"lat": 49.4112901,
+				"lon": 1.0901669
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+			}
+		},
+		{
+			"type": "way",
+			"id": 73025714,
+			"center": {
+				"lat": 33.0231371,
+				"lon": 35.1082155
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
+			"id": 75682056,
+			"center": {
+				"lat": 46.0963886,
+				"lon": 19.6665938
+			},
+			"tags": {
+				"OBJECTID": "2582",
+				"SHAPE_Leng": "0.00252470633181",
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Есперанто",
+				"name:hu": "Eszperantó utca",
+				"name:sr": "Есперанто",
+				"name:sr-Latn": "Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 77212639,
+			"center": {
+				"lat": 50.278246,
+				"lon": 2.7785926
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
 			}
 		},
 		{
@@ -1405,6 +2007,21 @@
 				"name": "Kładka Esperanto",
 				"name:eo": "Ponto Esperanto",
 				"source": "http://ump.waw.pl/ retrieved 11:19:07 11/17/09 (UMP-Torun/src/BYDGOSZCZ.ulice.txt)"
+			}
+		},
+		{
+			"type": "way",
+			"id": 82542582,
+			"center": {
+				"lat": 47.5178545,
+				"lon": 6.7810094
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"ref:FR:FANTOIR": "253881940R",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
 			}
 		},
 		{
@@ -1438,6 +2055,59 @@
 		},
 		{
 			"type": "way",
+			"id": 90408892,
+			"center": {
+				"lat": 50.3178758,
+				"lon": 18.6957847
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 92867977,
+			"center": {
+				"lat": 51.2857794,
+				"lon": 7.2998949
+			},
+			"tags": {
+				"addr:city": "Schwelm",
+				"addr:country": "DE",
+				"addr:housenumber": "8",
+				"addr:postcode": "58332",
+				"addr:street": "Zamenhofweg",
+				"alt_name": "Kita Zamenhofweg",
+				"alt_name:etymology:wikidata": "Q11758",
+				"amenity": "kindergarten",
+				"building": "civic",
+				"building:colour": "red",
+				"building:fireproof": "yes",
+				"building:levels": "1",
+				"building:material": "brick",
+				"capacity": "70",
+				"contact:email": "kita-zamenhof@awo-en.de",
+				"contact:phone": "+49 2336 82454",
+				"contact:website": "https://www.awo-en.de/Kita-Zamenhofweg",
+				"esperanto": "yes",
+				"fee": "yes",
+				"max_age": "6",
+				"min_age": "0",
+				"name": "Familienzentrum Zamenhofweg",
+				"name:etymology:wikidata": "Q11758",
+				"opening_hours": "Mo-Fr 07:00-17:00; Sa-Su,PH off",
+				"operator": "AWO Unterbewirk Ennepe-Ruhr",
+				"operator:type": "community",
+				"roof:colour": "black",
+				"roof:material": "roof_tiles",
+				"roof:orientation": "along",
+				"roof:shape": "gabled"
+			}
+		},
+		{
+			"type": "way",
 			"id": 99809666,
 			"center": {
 				"lat": -15.244086,
@@ -1465,6 +2135,19 @@
 				"oneway": "yes",
 				"source": "own gps survey",
 				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 103342992,
+			"center": {
+				"lat": 41.9299905,
+				"lon": 25.5502448
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"name": "Есперанто"
 			}
 		},
 		{
@@ -1520,6 +2203,20 @@
 		},
 		{
 			"type": "way",
+			"id": 121775381,
+			"center": {
+				"lat": 50.7181211,
+				"lon": 23.2544512
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 125782565,
 			"center": {
 				"lat": -9.6542192,
@@ -1532,6 +2229,19 @@
 				"postal_code": "57015-225",
 				"source": "Bing;IBGE",
 				"surface": "unpaved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 126859436,
+			"center": {
+				"lat": -37.948531,
+				"lon": -57.6148803
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto"
 			}
 		},
 		{
@@ -1549,10 +2259,23 @@
 		},
 		{
 			"type": "way",
+			"id": 127014181,
+			"center": {
+				"lat": -37.9617795,
+				"lon": -57.6255186
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 127532725,
 			"center": {
-				"lat": 43.5850632,
-				"lon": 1.3764984
+				"lat": 43.5855731,
+				"lon": 1.3767628
 			},
 			"tags": {
 				"cycleway": "lane",
@@ -1598,12 +2321,27 @@
 				"lon": 20.9942979
 			},
 			"tags": {
+				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 141695917,
+			"center": {
+				"lat": 51.7986871,
+				"lon": 15.7144617
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofa",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -1736,6 +2474,36 @@
 		},
 		{
 			"type": "way",
+			"id": 157467342,
+			"center": {
+				"lat": 42.1888664,
+				"lon": 24.3342273
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Есперанто",
+				"parking:condition:both": "fee",
+				"parking:condition:both:time_interval": "interval",
+				"parking:lane:both": "perpendicular"
+			}
+		},
+		{
+			"type": "way",
+			"id": 162183755,
+			"center": {
+				"lat": 51.9120652,
+				"lon": 19.5582652
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofa",
+				"surface": "unpaved"
+			}
+		},
+		{
+			"type": "way",
 			"id": 162204164,
 			"center": {
 				"lat": 35.7054563,
@@ -1802,6 +2570,20 @@
 		},
 		{
 			"type": "way",
+			"id": 165806052,
+			"center": {
+				"lat": 53.1233584,
+				"lon": 18.0331339
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofa",
+				"source": "http://ump.waw.pl/ retrieved 11:19:07 11/17/09 (UMP-Torun/src/BYDGOSZCZ.ulice.txt)"
+			}
+		},
+		{
+			"type": "way",
 			"id": 166176760,
 			"center": {
 				"lat": -22.9113896,
@@ -1842,6 +2624,24 @@
 		},
 		{
 			"type": "way",
+			"id": 167032415,
+			"center": {
+				"lat": 32.0761296,
+				"lon": 34.8927293
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
 			"id": 168814951,
 			"center": {
 				"lat": 47.5299469,
@@ -1872,8 +2672,8 @@
 			"type": "way",
 			"id": 173992946,
 			"center": {
-				"lat": 52.1217465,
-				"lon": 20.6503891
+				"lat": 52.1217398,
+				"lon": 20.6503477
 			},
 			"tags": {
 				"highway": "residential",
@@ -1951,6 +2751,25 @@
 		},
 		{
 			"type": "way",
+			"id": 185141914,
+			"center": {
+				"lat": 53.1329357,
+				"lon": 23.1592125
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "living_street",
+				"maxspeed": "20",
+				"name": "Ludwika Zamenhofa",
+				"name:be": "вуліца Людвіка Заменгофа",
+				"name:eo": "strato Ludoviko Zamenhof",
+				"name:pl": "Ludwika Zamenhofa",
+				"oneway": "no",
+				"surface": "paved"
+			}
+		},
+		{
+			"type": "way",
 			"id": 188434585,
 			"center": {
 				"lat": -19.2259445,
@@ -1996,6 +2815,20 @@
 		},
 		{
 			"type": "way",
+			"id": 202196957,
+			"center": {
+				"lat": 52.1678516,
+				"lon": 22.280083
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 207076519,
 			"center": {
 				"lat": -29.6017518,
@@ -2006,6 +2839,62 @@
 				"highway": "residential",
 				"name": "Travessa Esperanto",
 				"source": "Bing"
+			}
+		},
+		{
+			"type": "way",
+			"id": 210356574,
+			"center": {
+				"lat": 53.1483074,
+				"lon": 23.0719493
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Antoniego Grabowskiego",
+				"surface": "ground"
+			}
+		},
+		{
+			"type": "way",
+			"id": 210356576,
+			"center": {
+				"lat": 53.1493057,
+				"lon": 23.0708288
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperantystów",
+				"surface": "unpaved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 220716144,
+			"center": {
+				"lat": 48.504729,
+				"lon": -2.7708145
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 222721459,
+			"center": {
+				"lat": 42.6617187,
+				"lon": 26.3461817
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"int_name": "Esperanto",
+				"name": "Есперанто",
+				"name:en": "Esperanto"
 			}
 		},
 		{
@@ -2047,6 +2936,58 @@
 		},
 		{
 			"type": "way",
+			"id": 230054295,
+			"center": {
+				"lat": 32.1780055,
+				"lon": 34.8173568
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "זמנהוף",
+				"name:ar": "زامينهوف",
+				"name:en": "Zamenhof",
+				"name:en1": "Zamanhoff",
+				"name:he": "זמנהוף",
+				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
+			"id": 233056211,
+			"center": {
+				"lat": 53.1336897,
+				"lon": 23.1699189
+			},
+			"tags": {
+				"addr:city": "Białystok",
+				"addr:housenumber": "19",
+				"addr:street": "Warszawska",
+				"amenity": "arts_centre",
+				"building": "yes",
+				"esperanto": "yes",
+				"heritage": "2",
+				"heritage:operator": "nid",
+				"historic": "yes",
+				"name": "Centrum im. Ludwika Zamenhofa",
+				"old_name": "Ryski Komercyjny Bank"
+			}
+		},
+		{
+			"type": "way",
+			"id": 234911801,
+			"center": {
+				"lat": 41.9296997,
+				"lon": 25.5510423
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Есперанто"
+			}
+		},
+		{
+			"type": "way",
 			"id": 236603297,
 			"center": {
 				"lat": 53.1308706,
@@ -2062,8 +3003,9 @@
 				"contact:email": "recepcja@hotelesperanto.net",
 				"contact:phone": "+48 605 226 622",
 				"contact:website": "http://www.hotelesperanto.net",
+				"esperanto": "yes",
 				"language:eo": "yes",
-				"name": "Esperanto",
+				"name": "Hotel Esperanto",
 				"roof:shape": "flat",
 				"tourism": "hotel"
 			}
@@ -2157,8 +3099,8 @@
 			"type": "way",
 			"id": 262307883,
 			"center": {
-				"lat": -23.0195487,
-				"lon": -43.4618347
+				"lat": -23.0195432,
+				"lon": -43.4618193
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -2179,7 +3121,54 @@
 				"highway": "unclassified",
 				"maxspeed": "30",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"parking:lane:left": "parallel"
+			}
+		},
+		{
+			"type": "way",
+			"id": 265208331,
+			"center": {
+				"lat": 50.3191262,
+				"lon": 18.6952457
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Antoniego Grabowskiego"
+			}
+		},
+		{
+			"type": "way",
+			"id": 276494592,
+			"center": {
+				"lat": 42.6127807,
+				"lon": 23.0382891
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"int_name": "Esperanto",
+				"name": "Есперанто",
+				"name:en": "Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 278839486,
+			"center": {
+				"lat": 43.2105577,
+				"lon": 23.5505555
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"int_name": "Esperanto",
+				"maxspeed": "50",
+				"name": "Есперанто",
+				"name:en": "Esperanto",
+				"oneway": "no",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2219,7 +3208,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"source:maxspeed:backward": "PL:urban"
+				"source:maxspeed:backward": "PL:urban",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2244,6 +3234,7 @@
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"source:maxspeed:backward": "PL:rural",
+				"surface": "asphalt",
 				"turn:lanes:forward": "left|through|right"
 			}
 		},
@@ -2290,6 +3281,7 @@
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"source:maxspeed:forward": "sign",
+				"surface": "asphalt",
 				"turn:lanes:forward": "left|through"
 			}
 		},
@@ -2348,6 +3340,20 @@
 		},
 		{
 			"type": "way",
+			"id": 299471511,
+			"center": {
+				"lat": 54.0318802,
+				"lon": 19.0283651
+			},
+			"tags": {
+				"access": "private",
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Plac Ludwika Zamenhofa"
+			}
+		},
+		{
+			"type": "way",
 			"id": 312271506,
 			"center": {
 				"lat": -21.1187567,
@@ -2358,25 +3364,6 @@
 				"highway": "residential",
 				"name": "Rua Esperanto",
 				"source": "IBGE"
-			}
-		},
-		{
-			"type": "way",
-			"id": 321538732,
-			"center": {
-				"lat": 50.848708,
-				"lon": 16.4740789
-			},
-			"tags": {
-				"highway": "primary",
-				"lanes": "2",
-				"maxaxleload": "10",
-				"name": "Ludwika Zamenhofa",
-				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "left|through"
 			}
 		},
 		{
@@ -2397,7 +3384,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"source:maxspeed:forward": "PL:urban"
+				"source:maxspeed:forward": "PL:urban",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2515,6 +3503,19 @@
 		},
 		{
 			"type": "way",
+			"id": 363206818,
+			"center": {
+				"lat": 50.2287677,
+				"lon": 23.6251002
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "\"Есперанто\""
+			}
+		},
+		{
+			"type": "way",
 			"id": 365218502,
 			"center": {
 				"lat": -12.9974852,
@@ -2525,6 +3526,20 @@
 				"highway": "residential",
 				"name": "Rua Esperanto",
 				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 375849078,
+			"center": {
+				"lat": 49.90584,
+				"lon": 2.2908528
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
 			}
 		},
 		{
@@ -2543,6 +3558,7 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt",
 				"turn:lanes": "left;through|through;right"
 			}
 		},
@@ -2562,6 +3578,7 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt",
 				"turn:lanes": "through|through|right"
 			}
 		},
@@ -2582,6 +3599,21 @@
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"turn:lanes": "none|merge_to_left"
+			}
+		},
+		{
+			"type": "way",
+			"id": 391197022,
+			"center": {
+				"lat": -31.4012822,
+				"lon": -64.2239749
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"name": "Esperanto",
+				"source": "Comercio y Justicia",
+				"surface": "concrete"
 			}
 		},
 		{
@@ -2610,6 +3642,19 @@
 				"name": "Esperantostraat",
 				"name:etymology:wikidata": "Q143",
 				"turn:lanes:backward": "left|through|right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 426763150,
+			"center": {
+				"lat": 53.124006,
+				"lon": 18.0331862
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "Skwer Ludwika Zamenhofa"
 			}
 		},
 		{
@@ -2705,7 +3750,7 @@
 				"lon": 17.0383679
 			},
 			"tags": {
-				"highway": "residential",
+				"highway": "construction",
 				"maxspeed": "30",
 				"name": "Plac Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -2743,7 +3788,6 @@
 				"name": "Doktora Ludwika Zamenhofa",
 				"name:be": "вуліца Доктара Людвіка Заменгофа",
 				"name:etymology:wikidata": "Q11758",
-				"name:pl": "Doktora Ludwika Zamenhofa",
 				"old_name": "Niecała",
 				"oneway": "yes",
 				"oneway:bicycle": "no",
@@ -2787,6 +3831,7 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt",
 				"turn:lanes": "through|through;right"
 			}
 		},
@@ -2810,6 +3855,7 @@
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"source:maxspeed": "PL:urban",
+				"surface": "asphalt",
 				"turn:lanes:forward": "left|through"
 			}
 		},
@@ -2817,7 +3863,7 @@
 			"type": "way",
 			"id": 542037611,
 			"center": {
-				"lat": 48.8953018,
+				"lat": 48.8953138,
 				"lon": 7.911323
 			},
 			"tags": {
@@ -2845,8 +3891,8 @@
 			"type": "way",
 			"id": 543957198,
 			"center": {
-				"lat": 50.8469875,
-				"lon": 16.4727873
+				"lat": 50.8469853,
+				"lon": 16.4727927
 			},
 			"tags": {
 				"highway": "primary",
@@ -2859,7 +3905,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"source:maxspeed:forward": "PL:urban"
+				"source:maxspeed:forward": "PL:urban",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2879,6 +3926,7 @@
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
 				"source:maxspeed:forward": "sign",
+				"surface": "asphalt",
 				"turn:lanes:forward": "left;through|right"
 			}
 		},
@@ -2886,8 +3934,8 @@
 			"type": "way",
 			"id": 545904089,
 			"center": {
-				"lat": 50.8491066,
-				"lon": 16.4744847
+				"lat": 50.8491144,
+				"lon": 16.4744624
 			},
 			"tags": {
 				"highway": "primary",
@@ -2897,7 +3945,8 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2922,8 +3971,8 @@
 			"type": "way",
 			"id": 545904091,
 			"center": {
-				"lat": 50.849126,
-				"lon": 16.4744085
+				"lat": 50.8491208,
+				"lon": 16.4744215
 			},
 			"tags": {
 				"highway": "primary",
@@ -2934,6 +3983,7 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt",
 				"turn:lanes": "none|right"
 			}
 		},
@@ -2941,80 +3991,109 @@
 			"type": "way",
 			"id": 545904092,
 			"center": {
-				"lat": 50.8487725,
-				"lon": 16.4740255
+				"lat": 50.8487598,
+				"lon": 16.4740574
 			},
 			"tags": {
 				"highway": "primary",
-				"lanes": "2",
+				"lanes": "4",
+				"lanes:forward": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "none|merge_to_left"
-			}
-		},
-		{
-			"type": "way",
-			"id": 545904093,
-			"center": {
-				"lat": 50.8478297,
-				"lon": 16.4733946
-			},
-			"tags": {
-				"destination": "Wrocław;Dzierżoniów",
-				"destination:colour:back": "green",
-				"destination:colour:ref": "red;yellow",
-				"destination:colour:text": "white",
-				"destination:ref": "35;382",
-				"highway": "primary",
-				"lanes": "1",
-				"maxaxleload": "10",
-				"name": "Ludwika Zamenhofa",
-				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"surface": "asphalt",
+				"turn:lanes:backward": "left|through",
+				"turn:lanes:forward": "none|merge_to_left"
 			}
 		},
 		{
 			"type": "way",
 			"id": 545904094,
 			"center": {
-				"lat": 50.8476484,
-				"lon": 16.4732094
+				"lat": 50.8476208,
+				"lon": 16.4732256
 			},
 			"tags": {
+				"destination:backward": "Wrocław;Dzierżoniów",
+				"destination:colour:back:backward": "green",
+				"destination:colour:ref:backward": "red;yellow",
+				"destination:colour:text:backward": "white",
+				"destination:ref:backward": "35;382",
 				"highway": "primary",
-				"lanes": "2",
+				"lanes": "3",
+				"lanes:backward": "1",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
-				"placement": "right_of:1",
+				"placement:forward": "right_of:1",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
-				"turn:lanes": "left;through|through;right"
+				"surface": "asphalt",
+				"turn:lanes:forward": "left;through|through;right"
 			}
 		},
 		{
 			"type": "way",
 			"id": 545904095,
 			"center": {
-				"lat": 50.8483471,
-				"lon": 16.4736707
+				"lat": 50.8483141,
+				"lon": 16.4737004
 			},
 			"tags": {
+				"destination:backward": "Wrocław;Dzierżoniów",
+				"destination:colour:back:backward": "green",
+				"destination:colour:ref:backward": "red;yellow",
+				"destination:colour:text:backward": "white",
+				"destination:ref:backward": "35;382",
 				"highway": "primary",
-				"lanes": "1",
+				"lanes": "2",
 				"maxaxleload": "10",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
 				"ref": "35;382",
-				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 547646047,
+			"center": {
+				"lat": 51.0469906,
+				"lon": 2.4162642
+			},
+			"tags": {
+				"access": "yes",
+				"alt_name": "Rue Zamenhof",
+				"bicycle": "yes",
+				"cycleway": "opposite",
+				"esperanto": "yes",
+				"foot": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"motor_vehicle": "yes",
+				"name": "Rue Zamenhoff",
+				"oneway": "yes",
+				"sidewalk": "both",
+				"source": "Ortho littorale 2000",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 561110333,
+			"center": {
+				"lat": 43.3527368,
+				"lon": 26.2217836
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "ул. Есперанто",
+				"name:en": "ul. Esperanto",
+				"oneway": "no"
 			}
 		},
 		{
@@ -3071,6 +4150,69 @@
 				"turn:lanes:backward": "left|through;right",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 602882002,
+			"center": {
+				"lat": 54.0328553,
+				"lon": 19.0282855
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "Park Świata",
+				"name:eo": "Parko de la Mondo",
+				"name:pl": "Park Świata",
+				"website": "https://www.facebook.com/esperanto.malbork/"
+			}
+		},
+		{
+			"type": "way",
+			"id": 617387358,
+			"center": {
+				"lat": 43.5848159,
+				"lon": 1.3766428
+			},
+			"tags": {
+				"cycleway": "lane",
+				"highway": "unclassified",
+				"maxspeed": "50",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 617387360,
+			"center": {
+				"lat": 43.5848159,
+				"lon": 1.3766428
+			},
+			"tags": {
+				"cycleway": "lane",
+				"highway": "unclassified",
+				"maxspeed": "50",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 617387362,
+			"center": {
+				"lat": 43.5843061,
+				"lon": 1.3761547
+			},
+			"tags": {
+				"cycleway": "lane",
+				"highway": "unclassified",
+				"maxspeed": "50",
+				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		}
 	]

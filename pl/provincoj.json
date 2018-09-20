@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:17:03Z",
+		"timestamp_osm_base": "2018-09-20T06:14:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -13,24 +13,6 @@
 			"lon": -118.7559974,
 			"tags": {
 				"name:pl": "Kalifornia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 24330691,
-			"lat": 22.350627,
-			"lon": 114.1849161,
-			"tags": {
-				"name:pl": "Hongkong"
-			}
-		},
-		{
-			"type": "node",
-			"id": 25842885,
-			"lat": -35.4883502,
-			"lon": 149.0026942,
-			"tags": {
-				"name:pl": "Australijskie Terytorium Stołeczne"
 			}
 		},
 		{
@@ -764,15 +746,6 @@
 		},
 		{
 			"type": "node",
-			"id": 316440978,
-			"lat": 33.6917297,
-			"lon": 73.0685119,
-			"tags": {
-				"name:pl": "Islamabad"
-			}
-		},
-		{
-			"type": "node",
 			"id": 316441009,
 			"lat": 31,
 			"lon": 72,
@@ -801,8 +774,8 @@
 		{
 			"type": "node",
 			"id": 316441063,
-			"lat": 34.3752779,
-			"lon": 73.4730602,
+			"lat": 33.84412,
+			"lon": 73.796642,
 			"tags": {
 				"name:pl": "Azad Dżammu i Kaszmir"
 			}
@@ -1430,38 +1403,11 @@
 		},
 		{
 			"type": "node",
-			"id": 424313764,
-			"lat": -12.1691894,
-			"lon": 96.8301442,
-			"tags": {
-				"name:pl": "Wyspy Kokosowe"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424314262,
 			"lat": -44.1511785,
 			"lon": 63.8604556,
 			"tags": {
 				"name:pl": "Francuskie Terytoria Południowe i Antarktyczne"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483523,
-			"lat": -10.4837768,
-			"lon": 105.64723,
-			"tags": {
-				"name:pl": "Wyspa Bożego Narodzenia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 433483527,
-			"lat": -16.225557,
-			"lon": 150.033867,
-			"tags": {
-				"name:pl": "Wyspy Morza Koralowego"
 			}
 		},
 		{
@@ -2222,15 +2168,6 @@
 		},
 		{
 			"type": "node",
-			"id": 533681330,
-			"lat": 35.242552,
-			"lon": 135.454601,
-			"tags": {
-				"name:pl": "Kioto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 533719181,
 			"lat": 53.2128813,
 			"lon": 50.8914633,
@@ -2394,8 +2331,8 @@
 		{
 			"type": "node",
 			"id": 577359740,
-			"lat": 59.9780506,
-			"lon": 39.7150729,
+			"lat": 60.0391461,
+			"lon": 43.1215213,
 			"tags": {
 				"name:pl": "Obwód wołogodzki"
 			}
@@ -2457,8 +2394,8 @@
 		{
 			"type": "node",
 			"id": 610739435,
-			"lat": 60.1716709,
-			"lon": 31.8322298,
+			"lat": 60.1853296,
+			"lon": 32.3925325,
 			"tags": {
 				"name:pl": "Obwód leningradzki"
 			}
@@ -2637,8 +2574,8 @@
 		{
 			"type": "node",
 			"id": 681769605,
-			"lat": 45.5916819,
-			"lon": 33.5992068,
+			"lat": 45.5359172,
+			"lon": 33.0031985,
 			"tags": {
 				"name:pl": "Republika Autonomiczna Krymu"
 			}
@@ -2763,8 +2700,8 @@
 		{
 			"type": "node",
 			"id": 683681613,
-			"lat": 49.2723647,
-			"lon": 38.9152782,
+			"lat": 49.2724587,
+			"lon": 38.9150477,
 			"tags": {
 				"name:pl": "obwód ługański"
 			}
@@ -3114,8 +3051,8 @@
 		{
 			"type": "node",
 			"id": 869495624,
-			"lat": 56.4601702,
-			"lon": 44.5855442,
+			"lat": 55.4718033,
+			"lon": 44.0911594,
 			"tags": {
 				"name:pl": "Obwód niżnonowogrodzki"
 			}
@@ -3150,8 +3087,8 @@
 		{
 			"type": "node",
 			"id": 933435715,
-			"lat": 58.2155351,
-			"lon": 49.7686354,
+			"lat": 57.9665589,
+			"lon": 49.4074599,
 			"tags": {
 				"name:pl": "Obwód kirowski"
 			}
@@ -3248,74 +3185,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610245,
-			"lat": 48.8360858,
-			"lon": 6.1999334,
-			"tags": {
-				"name:pl": "Lotaryngia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610251,
-			"lat": 44.3571841,
-			"lon": -0.5391713,
-			"tags": {
-				"name:pl": "Akwitania"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610252,
-			"lat": 47.0151891,
-			"lon": 4.2523237,
-			"tags": {
-				"name:pl": "Burgundia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610259,
-			"lat": 43.8324972,
-			"lon": 1.5685814,
-			"tags": {
-				"name:pl": "Midi-Pireneje"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610262,
-			"lat": 48.8177569,
-			"lon": -0.4382331,
-			"tags": {
-				"name:pl": "Dolna Normandia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610263,
-			"lat": 49.2566929,
-			"lon": 1.0438139,
-			"tags": {
-				"name:pl": "Górna Normandia"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610264,
 			"lat": 47.6594864,
 			"lon": -0.8186143,
 			"tags": {
 				"name:pl": "Kraj Loary"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610265,
-			"lat": 48.183541,
-			"lon": 7.3795231,
-			"tags": {
-				"name:pl": "Alzacja"
 			}
 		},
 		{
@@ -3959,15 +3833,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1900155946,
-			"lat": 33.3940067,
-			"lon": 126.5626688,
-			"tags": {
-				"name:pl": "Czedżu"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1900814181,
 			"lat": 35.7395078,
 			"lon": 127.1181259,
@@ -4135,15 +4000,6 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:pl": "Sahara Zachodnia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2049929146,
-			"lat": -35.1494368,
-			"lon": 150.7085321,
-			"tags": {
-				"name:pl": "Terytorium Jervis Bay"
 			}
 		},
 		{
@@ -5030,24 +4886,6 @@
 		},
 		{
 			"type": "node",
-			"id": 4189263789,
-			"lat": 49.653721,
-			"lon": 2.5339474,
-			"tags": {
-				"name:pl": "Pikardia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4189298057,
-			"lat": 50.4806465,
-			"lon": 2.7937371,
-			"tags": {
-				"name:pl": "Nord-Pas-de-Calais"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4343708013,
 			"lat": 18.8631725,
 			"lon": 103.0344783,
@@ -5062,15 +4900,6 @@
 			"lon": 142.4962523,
 			"tags": {
 				"name:pl": "Prefektura Hokkaido"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4351323483,
-			"lat": 35.0030052,
-			"lon": 133.7037385,
-			"tags": {
-				"name:pl": "Prefektura Okayama"
 			}
 		},
 		{
@@ -5782,15 +5611,6 @@
 			"lon": 39.2386951,
 			"tags": {
 				"name:pl": "Zanzibar Zachodni"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4357317494,
-			"lat": 28.1292481,
-			"lon": 60.8236848,
-			"tags": {
-				"name:pl": "Sistan i Beludżystan"
 			}
 		},
 		{

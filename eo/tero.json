@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:25:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -151,7 +151,7 @@
 			"type": "way",
 			"id": 13794435,
 			"center": {
-				"lat": 4.0029112,
+				"lat": 4.0031119,
 				"lon": -81.6091142
 			},
 			"tags": {
@@ -527,8 +527,8 @@
 			"type": "relation",
 			"id": 3986157,
 			"center": {
-				"lat": -43.5867549,
-				"lon": 170.3710061
+				"lat": -43.5866806,
+				"lon": 170.3707081
 			},
 			"tags": {
 				"name:eo": "Suda Insulo"
@@ -550,7 +550,7 @@
 			"id": 4094778,
 			"center": {
 				"lat": 19.16034,
-				"lon": 109.8273403
+				"lon": 109.8274655
 			},
 			"tags": {
 				"name:eo": "Insulo Hajnano"
@@ -765,7 +765,7 @@
 			"id": 6080158,
 			"center": {
 				"lat": -15.8913838,
-				"lon": 54.5225146
+				"lon": 54.5226443
 			},
 			"tags": {
 				"name:eo": "Tromelininsulo",
@@ -942,7 +942,7 @@
 			"type": "relation",
 			"id": 7219484,
 			"center": {
-				"lat": -9.7959655,
+				"lat": -9.7952055,
 				"lon": 119.8871427
 			},
 			"tags": {
@@ -953,7 +953,7 @@
 			"type": "relation",
 			"id": 7219492,
 			"center": {
-				"lat": -8.5945205,
+				"lat": -8.5946843,
 				"lon": 117.9539064
 			},
 			"tags": {

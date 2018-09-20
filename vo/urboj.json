@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:17:03Z",
+		"timestamp_osm_base": "2018-09-20T06:11:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -82,8 +82,8 @@
 		{
 			"type": "node",
 			"id": 26396457,
-			"lat": 23.138028,
-			"lon": -82.3658671,
+			"lat": 23.135305,
+			"lon": -82.3589631,
 			"tags": {
 				"name:vo": "La Habana"
 			}
@@ -325,8 +325,8 @@
 		{
 			"type": "node",
 			"id": 158368533,
-			"lat": 38.8949549,
-			"lon": -77.0366456,
+			"lat": 38.8950712,
+			"lon": -77.0362758,
 			"tags": {
 				"name:vo": "Washington"
 			}
@@ -631,8 +631,8 @@
 		{
 			"type": "node",
 			"id": 1686293227,
-			"lat": 55.7507178,
-			"lon": 37.6176606,
+			"lat": 55.7504461,
+			"lon": 37.6174943,
 			"tags": {
 				"name:vo": "Moskva"
 			}
@@ -680,6 +680,24 @@
 			"lon": 126.9782914,
 			"tags": {
 				"name:vo": "Söul"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269151969,
+			"lat": 56.4355428,
+			"lon": 10.0425957,
+			"tags": {
+				"name:vo": "Randers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2269312030,
+			"lat": 56.4800019,
+			"lon": 10.0891444,
+			"tags": {
+				"name:vo": "Randers"
 			}
 		},
 		{

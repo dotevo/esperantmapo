@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:19:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -36,8 +36,8 @@
 		{
 			"type": "node",
 			"id": 663358886,
-			"lat": 39.6594496,
-			"lon": 2.986239,
+			"lat": 39.6594484,
+			"lon": 2.9862211,
 			"tags": {
 				"name:pl": "Majorka"
 			}
@@ -263,7 +263,7 @@
 			"type": "way",
 			"id": 131896329,
 			"center": {
-				"lat": 54.3719832,
+				"lat": 54.3716984,
 				"lon": 18.6543378
 			},
 			"tags": {
@@ -370,6 +370,17 @@
 			}
 		},
 		{
+			"type": "way",
+			"id": 610200371,
+			"center": {
+				"lat": 55.791359,
+				"lon": 27.4668461
+			},
+			"tags": {
+				"name:pl": "wyspa Ojców Bernardynów"
+			}
+		},
+		{
 			"type": "relation",
 			"id": 147194,
 			"center": {
@@ -428,7 +439,7 @@
 			"type": "relation",
 			"id": 453129,
 			"center": {
-				"lat": 35.3084529,
+				"lat": 35.3084733,
 				"lon": 24.9168204
 			},
 			"tags": {
@@ -439,7 +450,7 @@
 			"type": "relation",
 			"id": 531990,
 			"center": {
-				"lat": 37.6048648,
+				"lat": 37.6048351,
 				"lon": 24.3375492
 			},
 			"tags": {
@@ -549,7 +560,7 @@
 			"type": "relation",
 			"id": 1434381,
 			"center": {
-				"lat": 54.4529603,
+				"lat": 54.4529463,
 				"lon": 13.4402658
 			},
 			"tags": {
@@ -565,6 +576,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Stewart"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 1576083,
+			"center": {
+				"lat": 59.9364336,
+				"lon": 30.2427425
+			},
+			"tags": {
+				"name:pl": "Wyspa Wasilijewska"
 			}
 		},
 		{
@@ -736,8 +758,8 @@
 			"type": "relation",
 			"id": 2103185,
 			"center": {
-				"lat": 44.990448,
-				"lon": 147.8760765
+				"lat": 44.9906429,
+				"lon": 147.8760818
 			},
 			"tags": {
 				"name:pl": "Iturup"
@@ -957,7 +979,7 @@
 			"id": 3182529,
 			"center": {
 				"lat": -51.7978468,
-				"lon": -60.1357651
+				"lon": -60.1361359
 			},
 			"tags": {
 				"name:pl": "Falkland Zachodni"
@@ -1143,8 +1165,8 @@
 			"type": "relation",
 			"id": 3986157,
 			"center": {
-				"lat": -43.5867549,
-				"lon": 170.3710061
+				"lat": -43.5866806,
+				"lon": 170.3707081
 			},
 			"tags": {
 				"name:pl": "Wyspa Południowa"
@@ -1176,8 +1198,8 @@
 			"type": "relation",
 			"id": 4096902,
 			"center": {
-				"lat": -11.5521899,
-				"lon": 130.9533105
+				"lat": -11.5522343,
+				"lon": 130.95365
 			},
 			"tags": {
 				"name:pl": "Wyspa Melville’a"
@@ -1214,6 +1236,17 @@
 			},
 			"tags": {
 				"name:pl": "René-Levasseur"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 4820433,
+			"center": {
+				"lat": -7.5735687,
+				"lon": 131.4127625
+			},
+			"tags": {
+				"name:pl": "Yamdena"
 			}
 		},
 		{
@@ -1341,7 +1374,7 @@
 			"type": "relation",
 			"id": 6045364,
 			"center": {
-				"lat": 53.9521086,
+				"lat": 53.9524256,
 				"lon": -10.0862738
 			},
 			"tags": {
@@ -1389,7 +1422,7 @@
 			"id": 6046465,
 			"center": {
 				"lat": 56.4805362,
-				"lon": -6.226382
+				"lon": -6.2053896
 			},
 			"tags": {
 				"name:pl": "Ulva"
@@ -1452,6 +1485,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 6195069,
+			"center": {
+				"lat": 5.5281054,
+				"lon": -87.0612149
+			},
+			"tags": {
+				"name:pl": "Wyspa Kokosowa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 6256784,
 			"center": {
 				"lat": 46.5207384,
@@ -1499,7 +1543,7 @@
 			"id": 6391626,
 			"center": {
 				"lat": -7.9411265,
-				"lon": -14.3577053
+				"lon": -14.3576662
 			},
 			"tags": {
 				"name:pl": "Wyspa Wniebowstąpienia"
@@ -1514,6 +1558,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Północna"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6677259,
+			"center": {
+				"lat": 37.4899732,
+				"lon": 136.4664165
+			},
+			"tags": {
+				"name:pl": "Honsiu"
 			}
 		},
 		{
@@ -1685,7 +1740,7 @@
 			"type": "relation",
 			"id": 7219492,
 			"center": {
-				"lat": -8.5945205,
+				"lat": -8.5946843,
 				"lon": 117.9539064
 			},
 			"tags": {
@@ -1718,8 +1773,8 @@
 			"type": "relation",
 			"id": 7220474,
 			"center": {
-				"lat": -1.3990852,
-				"lon": 123.1723754
+				"lat": -1.3987408,
+				"lon": 123.1722709
 			},
 			"tags": {
 				"name:pl": "Peleng"

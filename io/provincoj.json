@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:20:03Z",
+		"timestamp_osm_base": "2018-09-20T06:33:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -116,47 +116,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610251,
-			"lat": 44.3571841,
-			"lon": -0.5391713,
-			"tags": {
-				"name:io": "Aquitania"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610252,
-			"lat": 47.0151891,
-			"lon": 4.2523237,
-			"tags": {
-				"name:io": "Burgundia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610259,
-			"lat": 43.8324972,
-			"lon": 1.5685814,
-			"tags": {
-				"name:io": "Di-mezo Pirenei"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610264,
 			"lat": 47.6594864,
 			"lon": -0.8186143,
 			"tags": {
 				"name:io": "Lando di Loire"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1251610265,
-			"lat": 48.183541,
-			"lon": 7.3795231,
-			"tags": {
-				"name:io": "Alzacia"
 			}
 		},
 		{
@@ -175,15 +139,6 @@
 			"lon": 11.4939134,
 			"tags": {
 				"name:io": "Saxonia-Anhalt"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900155946,
-			"lat": 33.3940067,
-			"lon": 126.5626688,
-			"tags": {
-				"name:io": "Jeju insulo"
 			}
 		},
 		{

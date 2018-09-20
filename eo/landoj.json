@@ -1,11 +1,20 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.54.13 ff15392f",
+	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-04-03T09:19:03Z",
+		"timestamp_osm_base": "2018-09-20T06:20:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 24330691,
+			"lat": 22.350627,
+			"lon": 114.1849161,
+			"tags": {
+				"name:eo": "Hongkongo"
+			}
+		},
 		{
 			"type": "node",
 			"id": 26036352,
@@ -48,8 +57,8 @@
 		{
 			"type": "node",
 			"id": 148332300,
-			"lat": 40.0028028,
-			"lon": -4.003104,
+			"lat": 39.3262345,
+			"lon": -4.8380649,
 			"tags": {
 				"name:eo": "Hispanio",
 				"alt_name:eo": "Hispanujo"
@@ -478,8 +487,8 @@
 		{
 			"type": "node",
 			"id": 424297917,
-			"lat": -0.5249624,
-			"lon": 166.9333009,
+			"lat": -0.5252306,
+			"lon": 166.9324426,
 			"tags": {
 				"name:eo": "Nauro"
 			}
@@ -761,15 +770,6 @@
 			"lon": 9.3238432,
 			"tags": {
 				"name:eo": "Niĝero"
-			}
-		},
-		{
-			"type": "node",
-			"id": 424311679,
-			"lat": -29.0328038,
-			"lon": 167.9483137,
-			"tags": {
-				"name:eo": "Norfolkinsulo"
 			}
 		},
 		{
@@ -1092,8 +1092,7 @@
 			"lat": 8.6400349,
 			"lon": -11.8400269,
 			"tags": {
-				"name:eo": "Siera-Leono",
-				"alt_name:eo": "Sieraleono"
+				"name:eo": "Sieraleono"
 			}
 		},
 		{
@@ -1539,8 +1538,8 @@
 		{
 			"type": "node",
 			"id": 432425041,
-			"lat": 31.1728192,
-			"lon": -7.3366043,
+			"lat": 31.1728205,
+			"lon": -7.3362482,
 			"tags": {
 				"name:eo": "Maroko"
 			}
@@ -1735,15 +1734,6 @@
 		},
 		{
 			"type": "node",
-			"id": 506532878,
-			"lat": -82.1081822,
-			"lon": 34.37824,
-			"tags": {
-				"name:eo": "Antarkto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 506535828,
 			"lat": -14.289304,
 			"lon": -170.692511,
@@ -1914,8 +1904,8 @@
 		{
 			"type": "node",
 			"id": 1684793666,
-			"lat": 50.6407351,
-			"lon": 4.66696,
+			"lat": 50.6402809,
+			"lon": 4.6667145,
 			"tags": {
 				"name:eo": "Belgio",
 				"alt_name:eo": "Belgujo"
@@ -2038,7 +2028,7 @@
 		{
 			"type": "node",
 			"id": 2377028247,
-			"lat": 40.033265,
+			"lat": 40.0332629,
 			"lon": -7.8896263,
 			"tags": {
 				"name:eo": "Portugalio",
@@ -2065,16 +2055,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3997635385,
-			"lat": 7.237148,
-			"lon": 80.820923,
-			"tags": {
-				"name:eo": "Srilanko",
-				"alt_name:eo": "Sri-Lanko"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4076524861,
 			"lat": 35.8885993,
 			"lon": 14.4476911,
@@ -2089,6 +2069,15 @@
 			"lon": 20.9021231,
 			"tags": {
 				"name:eo": "Kosovo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5903953013,
+			"lat": 14.4750607,
+			"lon": -14.4529612,
+			"tags": {
+				"name:eo": "Senegalo"
 			}
 		}
 	]
