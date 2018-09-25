@@ -8,8 +8,8 @@ const request = require('request')
 const fs = require('fs')
 const argv = require('yargs').argv
 
-//const servilo = 'http://overpass-api.de/api/interpreter?data='
-const servilo = 'http://overpass.osm.rambler.ru/cgi/interpreter?data='
+const servilo = 'http://overpass-api.de/api/interpreter?data='
+//const servilo = 'http://overpass.osm.rambler.ru/cgi/interpreter?data='
 
 let lingvo = 'eo'
 
@@ -92,7 +92,7 @@ gulp.task('lingvo', function(done) {
 	done()
 })
 
-gulp.task('elŝuti:landoj', gulp.series('lingvo', function() {
+gulp.task('elŝuti:landoj', gulp.series('lingvo', function(done) {
 	return request(servilo + escape(landoj()), function(error, response, body) {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
@@ -101,10 +101,11 @@ gulp.task('elŝuti:landoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
+		done()
 	}).pipe(wait(templimo))
 }))
 
-gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
+gulp.task('elŝuti:provincoj', gulp.series('lingvo', function(done) {
 	return request(servilo + escape(provincoj()), function(error, response, body) {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
@@ -113,10 +114,11 @@ gulp.task('elŝuti:provincoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
+		done()
 	}).pipe(wait(templimo))
 }))
 
-gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
+gulp.task('elŝuti:urboj', gulp.series('lingvo', function(done) {
 	return request(servilo + escape(urboj()), function(error, response, body) {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
@@ -125,10 +127,11 @@ gulp.task('elŝuti:urboj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
+		done()
 	}).pipe(wait(templimo))
 }))
 
-gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
+gulp.task('elŝuti:tero', gulp.series('lingvo', function(done) {
 	return request(servilo + escape(tero()), function(error, response, body) {
 		try {
 			let json = simpligiJSON(JSON.parse(body))
@@ -137,10 +140,11 @@ gulp.task('elŝuti:tero', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
+		done()
 	}).pipe(wait(templimo))
 }))
 
-gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
+gulp.task('elŝuti:lokoj', gulp.series('lingvo', function(done) {
 	return request(servilo + escape(lokoj()), function(error, response, body) {
 		try {
 			let json = JSON.parse(body)
@@ -149,5 +153,6 @@ gulp.task('elŝuti:lokoj', gulp.series('lingvo', function() {
 			console.log('ERROR %s', err)
 			console.log(body)
 		}
+		done()
 	}).pipe(wait(templimo))
 }))
