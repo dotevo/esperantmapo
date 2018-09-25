@@ -56,6 +56,8 @@ function simpligiObjekton(obj) {
 	objekto.center = obj.center
 	objekto.tags = {}
 	objekto.tags['name:' + lingvo] = obj.tags['name:' + lingvo]
+	if (obj.tags.hasOwnProperty('alt_name:' + lingvo))
+		objekto.tags['alt_name:' + lingvo] = obj.tags['alt_name:' + lingvo]
 	return objekto
 }
 
