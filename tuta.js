@@ -380,8 +380,8 @@ function manteloj(opt, lingvo) {
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
-				className: 'etikedo lando-etikedo',
-				html: nomo
+				className: 'etikedo',
+				html: "<span class='etikedo lando-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.landoj);
@@ -393,9 +393,10 @@ function manteloj(opt, lingvo) {
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
-				className: 'etikedo provinco-etikedo',
-				html: nomo
+				className: 'etikedo',
+				html: "<span class='etikedo provinco-etikedo'>" + nomo + "</span>"
 			});
+
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.provincoj);
 		}
@@ -406,8 +407,8 @@ function manteloj(opt, lingvo) {
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
-				className: 'etikedo urbo-etikedo',
-				html: nomo
+				className: 'etikedo',
+				html: "<span class='etikedo urbo-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.urboj);
@@ -419,8 +420,8 @@ function manteloj(opt, lingvo) {
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
-				className: 'etikedo tero-etikedo',
-				html: nomo
+				className: 'etikedo',
+				html: "<span class='etikedo urbo-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.tero);
@@ -463,10 +464,10 @@ $(document).bind('pageinit', function () {
 	var osm = new L.TileLayer(osmUrl, { maxZoom: 19, opacity: 0.4, attribution: teksto });
 	mapo.addLayer(osm);
 
-	var landoj = L.featureGroup().addTo(mapo);
-	var urboj = L.featureGroup().addTo(mapo);
-	var provincoj = L.featureGroup().addTo(mapo);
-	var tero = L.featureGroup().addTo(mapo);
+	var landoj = L.LayerGroup.collision({ margin: 5 });
+	var urboj = L.LayerGroup.collision({ margin: 5 });
+	var provincoj = L.LayerGroup.collision({ margin: 5 });
+	var tero = L.LayerGroup.collision({ margin: 5 });
 	var lokoj = L.featureGroup().addTo(mapo);
 
 	manteloj({ landoj: landoj,
@@ -520,7 +521,7 @@ $(document).bind('pageinit', function () {
 		}
 
 		var elektoLokoj = $('#lokoj').val();
-		if (elektoLokoj === 'C') {
+		if ((mapo.getZoom() > 4 || elektoUrboj === 'C') && elektoUrboj !== 'N') {
 			if (!mapo.hasLayer(lokoj)) {
 				mapo.addLayer(lokoj);
 			}

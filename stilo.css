@@ -52,7 +52,8 @@ tr, td, th {
 }
 
 .etikedo{
-	text-shadow: 0 0 3px #AAA
+	text-shadow: 0 0 3px #AAA;
+	display: inline-block;
 }
 .lando-etikedo{
 	font-weight: bold;
