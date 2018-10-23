@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:08:02Z",
+		"timestamp_osm_base": "2018-10-23T06:52:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -504,8 +504,8 @@
 		{
 			"type": "node",
 			"id": 424298311,
-			"lat": 32.9407495,
-			"lon": 52.9471344,
+			"lat": 32.6475314,
+			"lon": 54.5643516,
 			"tags": {
 				"name:vo": "Lirän"
 			}
@@ -616,6 +616,15 @@
 			"lon": 11.6899699,
 			"tags": {
 				"name:vo": "Gabunän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 424311328,
+			"lat": 4.8417097,
+			"lon": -58.6416891,
+			"tags": {
+				"name:vo": "Gvayän"
 			}
 		},
 		{
@@ -1161,8 +1170,8 @@
 		{
 			"type": "node",
 			"id": 424316671,
-			"lat": 12.3724928,
-			"lon": -84.8700308,
+			"lat": 12.6090157,
+			"lon": -85.2936911,
 			"tags": {
 				"name:vo": "Nikaraguvän"
 			}
@@ -1805,6 +1814,15 @@
 			"lon": -14.4529612,
 			"tags": {
 				"name:vo": "Senegalän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5980117507,
+			"lat": 7.5554942,
+			"lon": 80.7137847,
+			"tags": {
+				"name:vo": "Sri-Lankän"
 			}
 		}
 	]

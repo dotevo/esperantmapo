@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:14:02Z",
+		"timestamp_osm_base": "2018-10-23T06:58:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1376,15 +1376,6 @@
 		},
 		{
 			"type": "node",
-			"id": 322491573,
-			"lat": 8.6905755,
-			"lon": 17.6333082,
-			"tags": {
-				"name:pl": "Mandoul"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424297956,
 			"lat": -21.1309332,
 			"lon": 55.5265771,
@@ -1548,8 +1539,8 @@
 		{
 			"type": "node",
 			"id": 475731866,
-			"lat": 36.0132752,
-			"lon": 59.7147368,
+			"lat": 35.756361,
+			"lon": 59.1280992,
 			"tags": {
 				"name:pl": "Chorasan-e Rezawi"
 			}
@@ -1575,8 +1566,8 @@
 		{
 			"type": "node",
 			"id": 480250674,
-			"lat": 35.3087569,
-			"lon": 54.5138179,
+			"lat": 35.4380386,
+			"lon": 54.8626294,
 			"tags": {
 				"name:pl": "Semnan"
 			}
@@ -1584,8 +1575,8 @@
 		{
 			"type": "node",
 			"id": 480250680,
-			"lat": 32.3868985,
-			"lon": 59.6104942,
+			"lat": 33.0006776,
+			"lon": 58.3262335,
 			"tags": {
 				"name:pl": "Chorasan Południowy"
 			}
@@ -1620,8 +1611,8 @@
 		{
 			"type": "node",
 			"id": 480452780,
-			"lat": 38.0211113,
-			"lon": 46.3174851,
+			"lat": 37.9211202,
+			"lon": 46.6821517,
 			"tags": {
 				"name:pl": "Azerbejdżan Wschodni"
 			}
@@ -1710,8 +1701,8 @@
 		{
 			"type": "node",
 			"id": 495472876,
-			"lat": 34.4770583,
-			"lon": 46.9150556,
+			"lat": 34.3789744,
+			"lon": 46.7010122,
 			"tags": {
 				"name:pl": "Kermanszah"
 			}
@@ -1899,8 +1890,8 @@
 		{
 			"type": "node",
 			"id": 503160180,
-			"lat": 37.3388456,
-			"lon": 49.3785519,
+			"lat": 37.1937394,
+			"lon": 49.4380084,
 			"tags": {
 				"name:pl": "Gilan"
 			}
@@ -3428,15 +3419,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1495303476,
-			"lat": 39.1484315,
-			"lon": 140.7717841,
-			"tags": {
-				"name:pl": "Region Tōhoku"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1496405150,
 			"lat": 35.8172763,
 			"lon": 137.8228967,
@@ -4180,6 +4162,15 @@
 			"lon": 33.5912329,
 			"tags": {
 				"name:pl": "Ekwatoria Wschodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2240851570,
+			"lat": 26.4073841,
+			"lon": 93.2551303,
+			"tags": {
+				"name:pl": "Asam"
 			}
 		},
 		{

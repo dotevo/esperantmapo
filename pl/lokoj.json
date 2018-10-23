@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:18:02Z",
+		"timestamp_osm_base": "2018-10-23T07:01:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -954,8 +954,8 @@
 		{
 			"type": "node",
 			"id": 841923155,
-			"lat": 52.9140712,
-			"lon": 23.5197677,
+			"lat": 52.914044,
+			"lon": 23.5197938,
 			"tags": {
 				"board_type": "nature",
 				"information": "board",
@@ -1926,6 +1926,7 @@
 				"contact:fax": "+49 2302 9730957",
 				"contact:phone": "+49 2302 54469",
 				"contact:website": "http://www.zahnarztpraxis-supady.de/",
+				"contact:yelp": "agnes-supady-witten",
 				"currency:EUR": "yes",
 				"currency:others": "no",
 				"healthcare": "dentist",
@@ -7653,6 +7654,30 @@
 			}
 		},
 		{
+			"type": "node",
+			"id": 5985169297,
+			"lat": 53.5666786,
+			"lon": 9.9582151,
+			"tags": {
+				"amenity": "atm",
+				"cash_in": "no",
+				"currency:EUR": "yes",
+				"drive_through": "no",
+				"fee": "yes",
+				"language:de": "yes",
+				"language:en": "yes",
+				"language:es": "yes",
+				"language:other": "yes",
+				"language:pl": "yes",
+				"language:ru": "yes",
+				"language:se": "yes",
+				"language:tr": "yes",
+				"man_made": "surveillance",
+				"opening_hours": "24/7",
+				"operator": "Bankhaus August Lenz"
+			}
+		},
+		{
 			"type": "way",
 			"id": 30029791,
 			"center": {
@@ -7780,6 +7805,7 @@
 				"diaper": "room",
 				"dog": "no",
 				"drink:coffee": "served",
+				"drinking_water": "yes",
 				"fair_trade": "yes",
 				"fee": "yes",
 				"height": "10",

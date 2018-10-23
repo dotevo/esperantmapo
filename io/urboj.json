@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:34:02Z",
+		"timestamp_osm_base": "2018-10-23T07:16:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -432,8 +432,8 @@
 		{
 			"type": "node",
 			"id": 240025182,
-			"lat": 47.3723957,
-			"lon": 8.5423216,
+			"lat": 47.3769434,
+			"lon": 8.5414061,
 			"tags": {
 				"name:io": "Zürich"
 			}

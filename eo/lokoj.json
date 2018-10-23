@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:24:02Z",
+		"timestamp_osm_base": "2018-10-23T07:06:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -30,14 +30,14 @@
 				"addr:housenumber": "176",
 				"addr:postcode": "3015BJ",
 				"addr:street": "Nieuwe Binnenweg",
-				"contact:website": "http://www.uea.org",
+				"contact:website": "https://www.uea.org",
 				"esperanto": "yes",
 				"language:eo": "yes",
-				"name": "Universala Esperanto Asocio",
+				"name": "Centra Oficejo de Universala Esperanto-Asocio",
 				"office": "ngo",
 				"subject:wikidata": "Q143",
-				"wikidata": "Q12565",
-				"wikipedia": "nl:Universala Esperanto-Asocio"
+				"wikidata": "Q12346102",
+				"wikipedia": "eo:Centra Oficejo de UEA"
 			}
 		},
 		{
@@ -245,7 +245,8 @@
 				"amenity": "library",
 				"internet_access": "yes",
 				"language:eo": "yes",
-				"name:eo": "Retejo Kaj Librejo"
+				"name": "Biblioteca municipal",
+				"name:Zapoteco del Rincón": "Retejo Kaj Librejo"
 			}
 		},
 		{
@@ -296,6 +297,7 @@
 				"email": "esperanto.kke@gmail.com",
 				"esperanto": "yes",
 				"fax": "+55 21 2220 7486",
+				"language:eo": "main",
 				"name": "Cooperativa Cultural de Esperantistas",
 				"name:en": "Cultural Cooperative of Esperantists",
 				"name:eo": "Kultura Kooperativo de Esperantistoj",
@@ -456,20 +458,6 @@
 				"language:eo": "yes",
 				"name": "Polska Młodzież Esperancka",
 				"office": "association"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3674482022,
-			"lat": 49.8194358,
-			"lon": 19.0452038,
-			"tags": {
-				"contact:website": "http://esperanto_bielsko.republika.pl",
-				"esperanto": "yes",
-				"language:eo": "yes",
-				"name": "Polski Związek Esperantystów, Oddział Bielsko-Biała",
-				"office": "association",
-				"opening_hours": "Tu 15:00-19:00"
 			}
 		},
 		{
@@ -644,11 +632,13 @@
 				"esperanto": "yes",
 				"facebook": "https://www.facebook.com/kafejosojo/",
 				"internet_access": "wlan",
+				"internet_access:fee": "no",
 				"language:eo": "yes",
 				"name": "SOJO",
 				"name:eo": "SOJO",
 				"name:etymology:wikidata": "Q11006",
-				"opening_hours": "Tu-Sa 15:00-21:00; PH off",
+				"opening_hours": "We-Fr 17:00-21:00; Sa-Su 15:00-21:00; PH off",
+				"outdoor_seating": "no",
 				"payment:american_express": "yes",
 				"payment:cash": "yes",
 				"payment:discover_card": "yes",
@@ -1023,6 +1013,21 @@
 		},
 		{
 			"type": "way",
+			"id": 6362313,
+			"center": {
+				"lat": 53.1847386,
+				"lon": 7.2082002
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950698"
+			}
+		},
+		{
+			"type": "way",
 			"id": 6393055,
 			"center": {
 				"lat": 53.208607,
@@ -1032,7 +1037,79 @@
 				"highway": "tertiary",
 				"maxspeed": "30",
 				"name": "Esperantostraat",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q21293188"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6459895,
+			"center": {
+				"lat": 53.1347044,
+				"lon": 6.4253191
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950706"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6608649,
+			"center": {
+				"lat": 52.4976725,
+				"lon": 4.7577337
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950702"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6608801,
+			"center": {
+				"lat": 52.4994434,
+				"lon": 4.7591805
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950702"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6608842,
+			"center": {
+				"lat": 52.4988661,
+				"lon": 4.7586571
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950702"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6608941,
+			"center": {
+				"lat": 52.4983591,
+				"lon": 4.7582346
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950702"
 			}
 		},
 		{
@@ -1138,7 +1215,8 @@
 			"tags": {
 				"highway": "living_street",
 				"name": "Esperantoplein",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120282"
 			}
 		},
 		{
@@ -1151,7 +1229,8 @@
 			"tags": {
 				"highway": "living_street",
 				"name": "Esperantoplein",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120282"
 			}
 		},
 		{
@@ -1164,7 +1243,8 @@
 			"tags": {
 				"highway": "living_street",
 				"name": "Esperantoplein",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120282"
 			}
 		},
 		{
@@ -1178,7 +1258,78 @@
 				"highway": "residential",
 				"maxspeed": "50",
 				"name": "Esperantostraat",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120286"
+			}
+		},
+		{
+			"type": "way",
+			"id": 6991793,
+			"center": {
+				"lat": 52.1018464,
+				"lon": 5.2237785
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "50",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950694"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7106125,
+			"center": {
+				"lat": 51.9746511,
+				"lon": 4.9586602
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950693"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7106155,
+			"center": {
+				"lat": 51.9738012,
+				"lon": 4.9589197
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950693"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7337076,
+			"center": {
+				"lat": 51.8120923,
+				"lon": 4.687299
+			},
+			"tags": {
+				"highway": "footway",
+				"name": "Doctor L.L. Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q19017089"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7337095,
+			"center": {
+				"lat": 51.811701,
+				"lon": 4.6866605
+			},
+			"tags": {
+				"name": "Doctor L.L. Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q19017089"
 			}
 		},
 		{
@@ -1202,6 +1353,115 @@
 		},
 		{
 			"type": "way",
+			"id": 7493542,
+			"center": {
+				"lat": 52.0752681,
+				"lon": 4.2921245
+			},
+			"tags": {
+				"highway": "service",
+				"name": "Esperantostraat",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120288"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7521677,
+			"center": {
+				"lat": 51.9245459,
+				"lon": 4.5021922
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"short_name": "Dr. Zamenhofstraat",
+				"wikidata": "Q19034651"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7521682,
+			"center": {
+				"lat": 51.9233663,
+				"lon": 4.5014162
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"short_name": "Dr. Zamenhofstraat",
+				"wikidata": "Q19034651"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7532041,
+			"center": {
+				"lat": 51.9197753,
+				"lon": 4.4163282
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"surface": "paving_stones",
+				"wikidata": "Q19016404"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7532923,
+			"center": {
+				"lat": 51.9201075,
+				"lon": 4.4134304
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q19016404"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7532947,
+			"center": {
+				"lat": 51.9202367,
+				"lon": 4.4125832
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"surface": "paving_stones",
+				"wikidata": "Q19016404"
+			}
+		},
+		{
+			"type": "way",
+			"id": 7533006,
+			"center": {
+				"lat": 51.9199164,
+				"lon": 4.414822
+			},
+			"tags": {
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Doctor Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"short_name": "Dr Zamenhofstraat",
+				"wikidata": "Q19016404"
+			}
+		},
+		{
+			"type": "way",
 			"id": 9349621,
 			"center": {
 				"lat": 53.3822112,
@@ -1212,6 +1472,34 @@
 				"name": "Esperanto Place",
 				"name:etymology:wikidata": "Q143",
 				"old_name": "Norfolk Street"
+			}
+		},
+		{
+			"type": "way",
+			"id": 10764420,
+			"center": {
+				"lat": 52.1638773,
+				"lon": 4.4906379
+			},
+			"tags": {
+				"highway": "pedestrian",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950704"
+			}
+		},
+		{
+			"type": "way",
+			"id": 10764421,
+			"center": {
+				"lat": 52.1642274,
+				"lon": 4.4907208
+			},
+			"tags": {
+				"highway": "service",
+				"name": "Zamenhofstraat",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950704"
 			}
 		},
 		{
@@ -1285,7 +1573,8 @@
 				"highway": "residential",
 				"name": "Esperantoweg",
 				"name:etymology:wikidata": "Q143",
-				"postal_code": "58332"
+				"postal_code": "58332",
+				"wikidata": "Q56825807"
 			}
 		},
 		{
@@ -1746,7 +2035,8 @@
 				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Rua Zamenhof",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q56849067"
 			}
 		},
 		{
@@ -1776,7 +2066,8 @@
 				"highway": "residential",
 				"name": "Zamenhofweg",
 				"name:etymology:wikidata": "Q11758",
-				"postal_code": "58332"
+				"postal_code": "58332",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1923,7 +2214,9 @@
 				"highway": "residential",
 				"name": "Zamenhofweg",
 				"name:etymology:wikidata": "Q11758",
-				"postal_code": "58332"
+				"postal_code": "58332",
+				"surface": "asphalt",
+				"wikidata": "Q56825808"
 			}
 		},
 		{
@@ -2108,6 +2401,20 @@
 		},
 		{
 			"type": "way",
+			"id": 98031883,
+			"center": {
+				"lat": 51.8124112,
+				"lon": 4.6888364
+			},
+			"tags": {
+				"highway": "service",
+				"name": "Doctor L.L. Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q19017089"
+			}
+		},
+		{
+			"type": "way",
 			"id": 99809666,
 			"center": {
 				"lat": -15.244086,
@@ -2160,9 +2467,7 @@
 			"tags": {
 				"addr:housenumber": "4",
 				"addr:street": "Konspiracyjnego Wojska Polskiego",
-				"amenity": "school",
-				"building": "yes",
-				"name": "XXXI LO im. Ludwika Zamenhofa",
+				"building": "school",
 				"name:etymology:wikidata": "Q11758"
 			}
 		},
@@ -2359,6 +2664,20 @@
 		},
 		{
 			"type": "way",
+			"id": 147358703,
+			"center": {
+				"lat": 51.975595,
+				"lon": 4.9578845
+			},
+			"tags": {
+				"highway": "cycleway",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950693"
+			}
+		},
+		{
+			"type": "way",
 			"id": 147430477,
 			"center": {
 				"lat": -15.2419345,
@@ -2389,8 +2708,8 @@
 			"type": "way",
 			"id": 151221195,
 			"center": {
-				"lat": 51.762237,
-				"lon": 19.4565504
+				"lat": 51.7622358,
+				"lon": 19.4565502
 			},
 			"tags": {
 				"highway": "tertiary",
@@ -2599,8 +2918,8 @@
 			"type": "way",
 			"id": 166275545,
 			"center": {
-				"lat": -22.8786195,
-				"lon": -43.5325057
+				"lat": -22.8786405,
+				"lon": -43.5325346
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -3097,6 +3416,20 @@
 		},
 		{
 			"type": "way",
+			"id": 262199768,
+			"center": {
+				"lat": -18.9026681,
+				"lon": 47.527291
+			},
+			"tags": {
+				"highway": "residential",
+				"name": "Rue Dr Zamenhof",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q57082586"
+			}
+		},
+		{
+			"type": "way",
 			"id": 262307883,
 			"center": {
 				"lat": -23.0195432,
@@ -3106,7 +3439,8 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rua Klara Zilbernick",
-				"name:etymology:wikidata": "Q11739625"
+				"name:etymology:wikidata": "Q11739625",
+				"wikidata": "Q56849017"
 			}
 		},
 		{
@@ -3140,6 +3474,20 @@
 		},
 		{
 			"type": "way",
+			"id": 267304542,
+			"center": {
+				"lat": 51.9903541,
+				"lon": 5.9447953
+			},
+			"tags": {
+				"highway": "unclassified",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120276"
+			}
+		},
+		{
+			"type": "way",
 			"id": 276494592,
 			"center": {
 				"lat": 42.6127807,
@@ -3169,6 +3517,21 @@
 				"name:en": "Esperanto",
 				"oneway": "no",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 279500824,
+			"center": {
+				"lat": 53.1368655,
+				"lon": 6.8692515
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120278"
 			}
 		},
 		{
@@ -3322,6 +3685,53 @@
 				"oneway": "yes",
 				"ref": "35;382",
 				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r"
+			}
+		},
+		{
+			"type": "way",
+			"id": 289911658,
+			"center": {
+				"lat": 52.9911678,
+				"lon": 6.9467764
+			},
+			"tags": {
+				"highway": "tertiary",
+				"maxspeed": "50",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"wikidata": "Q19120280"
+			}
+		},
+		{
+			"type": "way",
+			"id": 289911659,
+			"center": {
+				"lat": 52.9911982,
+				"lon": 6.9467712
+			},
+			"tags": {
+				"highway": "tertiary",
+				"maxspeed": "50",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"wikidata": "Q19120280"
+			}
+		},
+		{
+			"type": "way",
+			"id": 289911660,
+			"center": {
+				"lat": 52.9917235,
+				"lon": 6.9477282
+			},
+			"tags": {
+				"highway": "tertiary",
+				"maxspeed": "30",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120280"
 			}
 		},
 		{
@@ -3530,6 +3940,20 @@
 		},
 		{
 			"type": "way",
+			"id": 368700650,
+			"center": {
+				"lat": 51.975417,
+				"lon": 4.9580706
+			},
+			"tags": {
+				"highway": "cycleway",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950693"
+			}
+		},
+		{
+			"type": "way",
 			"id": 375849078,
 			"center": {
 				"lat": 49.90584,
@@ -3641,7 +4065,8 @@
 				"maxspeed": "50",
 				"name": "Esperantostraat",
 				"name:etymology:wikidata": "Q143",
-				"turn:lanes:backward": "left|through|right"
+				"turn:lanes:backward": "left|through|right",
+				"wikidata": "Q21293188"
 			}
 		},
 		{
@@ -3707,6 +4132,23 @@
 		},
 		{
 			"type": "way",
+			"id": 452313374,
+			"center": {
+				"lat": 52.0746362,
+				"lon": 4.2926163
+			},
+			"tags": {
+				"highway": "residential",
+				"lit": "yes",
+				"maxspeed": "30",
+				"name": "Esperantostraat",
+				"name:etymology:wikidata": "Q143",
+				"surface": "paving_stones",
+				"wikidata": "Q19120288"
+			}
+		},
+		{
+			"type": "way",
 			"id": 478137803,
 			"center": {
 				"lat": 35.8816243,
@@ -3750,7 +4192,7 @@
 				"lon": 17.0383679
 			},
 			"tags": {
-				"highway": "construction",
+				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Plac Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
@@ -3773,6 +4215,22 @@
 				"name": "Glorieta del Esperanto",
 				"name:etymology:wikidata": "Q143",
 				"surface": "paved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 507419167,
+			"center": {
+				"lat": 51.9755449,
+				"lon": 4.9579008
+			},
+			"tags": {
+				"bridge": "yes",
+				"highway": "cycleway",
+				"layer": "1",
+				"name": "Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q18950693"
 			}
 		},
 		{

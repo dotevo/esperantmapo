@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:42:02Z",
+		"timestamp_osm_base": "2018-10-23T07:23:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1172,7 +1172,7 @@
 			"type": "way",
 			"id": 23738662,
 			"center": {
-				"lat": 65.3292081,
+				"lat": 65.3291823,
 				"lon": 25.3973128
 			},
 			"tags": {
@@ -4106,6 +4106,50 @@
 			}
 		},
 		{
+			"type": "way",
+			"id": 635126695,
+			"center": {
+				"lat": 64.3290504,
+				"lon": 27.7183287
+			},
+			"tags": {
+				"name:fi": "Selkä-Honkinen"
+			}
+		},
+		{
+			"type": "way",
+			"id": 635131537,
+			"center": {
+				"lat": 64.3223725,
+				"lon": 27.71614
+			},
+			"tags": {
+				"name:fi": "Maa-Honkinen"
+			}
+		},
+		{
+			"type": "way",
+			"id": 635137360,
+			"center": {
+				"lat": 64.5014981,
+				"lon": 26.9000887
+			},
+			"tags": {
+				"name:fi": "Nurmiluoto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 635141672,
+			"center": {
+				"lat": 64.5056113,
+				"lon": 26.8407344
+			},
+			"tags": {
+				"name:fi": "Pukkisaari"
+			}
+		},
+		{
 			"type": "relation",
 			"id": 147194,
 			"center": {
@@ -4165,7 +4209,7 @@
 			"id": 1124190,
 			"center": {
 				"lat": 78.3110968,
-				"lon": 16.0709216
+				"lon": 16.074166
 			},
 			"tags": {
 				"name:fi": "Huippuvuoret"
@@ -4319,7 +4363,7 @@
 			"id": 1576176,
 			"center": {
 				"lat": 59.9720988,
-				"lon": 30.2465518
+				"lon": 30.2465453
 			},
 			"tags": {
 				"name:fi": "Ristisaari"
@@ -4351,8 +4395,8 @@
 			"type": "relation",
 			"id": 1576208,
 			"center": {
-				"lat": 59.9239288,
-				"lon": 30.2759241
+				"lat": 59.9239318,
+				"lon": 30.2758604
 			},
 			"tags": {
 				"name:fi": "Kalasaari"

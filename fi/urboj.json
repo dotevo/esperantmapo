@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:39:02Z",
+		"timestamp_osm_base": "2018-10-23T07:21:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -784,6 +784,15 @@
 		},
 		{
 			"type": "node",
+			"id": 27464354,
+			"lat": 57.2578179,
+			"lon": 39.1476952,
+			"tags": {
+				"name:fi": "Borisoglebski"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27490597,
 			"lat": 59.938732,
 			"lon": 30.316229,
@@ -956,8 +965,8 @@
 		{
 			"type": "node",
 			"id": 29438069,
-			"lat": 35.3340134,
-			"lon": 25.1328543,
+			"lat": 35.3400127,
+			"lon": 25.1343475,
 			"tags": {
 				"name:fi": "Heraklion"
 			}
@@ -1280,8 +1289,8 @@
 		{
 			"type": "node",
 			"id": 30969548,
-			"lat": 60.6486437,
-			"lon": 22.5828886,
+			"lat": 60.6499508,
+			"lon": 22.5865661,
 			"tags": {
 				"name:fi": "Aura"
 			}
@@ -1442,8 +1451,8 @@
 		{
 			"type": "node",
 			"id": 30969580,
-			"lat": 62.6799792,
-			"lon": 30.9325619,
+			"lat": 62.6730588,
+			"lon": 30.9322642,
 			"tags": {
 				"name:fi": "Ilomantsi"
 			}
@@ -1532,8 +1541,8 @@
 		{
 			"type": "node",
 			"id": 30969603,
-			"lat": 61.7422322,
-			"lon": 26.1103922,
+			"lat": 61.7427363,
+			"lon": 26.1117278,
 			"tags": {
 				"name:fi": "Joutsa"
 			}
@@ -1873,6 +1882,15 @@
 		},
 		{
 			"type": "node",
+			"id": 30969690,
+			"lat": 61.0786178,
+			"lon": 25.0099373,
+			"tags": {
+				"name:fi": "Lammi"
+			}
+		},
+		{
+			"type": "node",
 			"id": 30969691,
 			"lat": 63.3638712,
 			"lon": 27.3984804,
@@ -2135,8 +2153,8 @@
 		{
 			"type": "node",
 			"id": 30969726,
-			"lat": 60.95,
-			"lon": 25.933333,
+			"lat": 60.9482796,
+			"lon": 25.9335713,
 			"tags": {
 				"name:fi": "Nastola"
 			}
@@ -2189,8 +2207,8 @@
 		{
 			"type": "node",
 			"id": 30969735,
-			"lat": 60.8037974,
-			"lon": 25.7306477,
+			"lat": 60.805137,
+			"lon": 25.7333558,
 			"tags": {
 				"name:fi": "Orimattila"
 			}
@@ -2594,8 +2612,8 @@
 		{
 			"type": "node",
 			"id": 30969790,
-			"lat": 60.8075779,
-			"lon": 23.7667967,
+			"lat": 60.8087874,
+			"lon": 23.7598248,
 			"tags": {
 				"name:fi": "Tammela"
 			}
@@ -2648,8 +2666,8 @@
 		{
 			"type": "node",
 			"id": 30969803,
-			"lat": 60.4035495,
-			"lon": 25.0193959,
+			"lat": 60.4017496,
+			"lon": 25.0280695,
 			"tags": {
 				"name:fi": "Tuusula"
 			}
@@ -3350,18 +3368,9 @@
 		},
 		{
 			"type": "node",
-			"id": 60421201,
-			"lat": 59.4373438,
-			"lon": 24.7452048,
-			"tags": {
-				"name:fi": "Tallinnan vanhakaupunki"
-			}
-		},
-		{
-			"type": "node",
 			"id": 60441122,
-			"lat": 60.7586535,
-			"lon": 22.6456935,
+			"lat": 60.7197941,
+			"lon": 22.6041492,
 			"tags": {
 				"name:fi": "Pöytyä"
 			}
@@ -4116,8 +4125,8 @@
 		{
 			"type": "node",
 			"id": 191644503,
-			"lat": 42.97554,
-			"lon": 47.49612,
+			"lat": 42.9830241,
+			"lon": 47.5048717,
 			"tags": {
 				"name:fi": "Mahatškala"
 			}
@@ -4503,8 +4512,8 @@
 		{
 			"type": "node",
 			"id": 240025182,
-			"lat": 47.3723957,
-			"lon": 8.5423216,
+			"lat": 47.3769434,
+			"lon": 8.5414061,
 			"tags": {
 				"name:fi": "Zürich"
 			}
@@ -5052,8 +5061,8 @@
 		{
 			"type": "node",
 			"id": 253874196,
-			"lat": 48.5674507,
-			"lon": 39.2912928,
+			"lat": 48.5717084,
+			"lon": 39.2973153,
 			"tags": {
 				"name:fi": "Luhansk"
 			}
@@ -5263,15 +5272,6 @@
 			"lon": 37.6058241,
 			"tags": {
 				"name:fi": "Slovjansk"
-			}
-		},
-		{
-			"type": "node",
-			"id": 256748124,
-			"lat": 61.0696851,
-			"lon": 24.6799914,
-			"tags": {
-				"name:fi": "Eteläinen"
 			}
 		},
 		{
@@ -5926,8 +5926,8 @@
 		{
 			"type": "node",
 			"id": 291727016,
-			"lat": 42.2910523,
-			"lon": 43.2866046,
+			"lat": 42.2910245,
+			"lon": 43.2888362,
 			"tags": {
 				"name:fi": "Tšiatura"
 			}
@@ -7663,8 +7663,8 @@
 		{
 			"type": "node",
 			"id": 679031958,
-			"lat": 43.8437724,
-			"lon": 46.7124847,
+			"lat": 43.8546727,
+			"lon": 46.7139329,
 			"tags": {
 				"name:fi": "Kizljar"
 			}
@@ -8000,6 +8000,15 @@
 			"lon": 30.4857251,
 			"tags": {
 				"name:fi": "Ruutmylly"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1142271892,
+			"lat": 60.8084444,
+			"lon": 23.5238484,
+			"tags": {
+				"name:fi": "Pellilä"
 			}
 		},
 		{
@@ -8348,8 +8357,8 @@
 		{
 			"type": "node",
 			"id": 1371967413,
-			"lat": 62.6355688,
-			"lon": 23.8218596,
+			"lat": 62.6354729,
+			"lon": 23.8218911,
 			"tags": {
 				"name:fi": "Töysä"
 			}
@@ -8505,6 +8514,15 @@
 			"lon": 24.87614,
 			"tags": {
 				"name:fi": "Valimo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1411640198,
+			"lat": 56.9479326,
+			"lon": 24.1079726,
+			"tags": {
+				"name:fi": "Riian vanhakaupunki"
 			}
 		},
 		{
@@ -10759,11 +10777,47 @@
 		},
 		{
 			"type": "node",
+			"id": 5256195897,
+			"lat": 60.8198234,
+			"lon": 23.6022017,
+			"tags": {
+				"name:fi": "Talsoila"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5256199093,
+			"lat": 60.8052855,
+			"lon": 23.6263759,
+			"tags": {
+				"name:fi": "Kuhala"
+			}
+		},
+		{
+			"type": "node",
 			"id": 5261952024,
 			"lat": 64.7742149,
 			"lon": 25.6847792,
 			"tags": {
 				"name:fi": "Kotimetsä"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5262069667,
+			"lat": 60.8300515,
+			"lon": 23.626388,
+			"tags": {
+				"name:fi": "Ojalanmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5262069669,
+			"lat": 60.8287651,
+			"lon": 23.6099579,
+			"tags": {
+				"name:fi": "Kaikula"
 			}
 		},
 		{
@@ -10854,6 +10908,42 @@
 			"lon": 24.0696292,
 			"tags": {
 				"name:fi": "Sääksmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5931484259,
+			"lat": 60.8171556,
+			"lon": 23.679752,
+			"tags": {
+				"name:fi": "Kuusto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5931490519,
+			"lat": 60.8015187,
+			"lon": 23.6444788,
+			"tags": {
+				"name:fi": "Haudankorva"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5931501616,
+			"lat": 60.8050908,
+			"lon": 23.595582,
+			"tags": {
+				"name:fi": "Pispanmäki"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5932206335,
+			"lat": 60.8483535,
+			"lon": 23.6131984,
+			"tags": {
+				"name:fi": "Parkkiaro"
 			}
 		}
 	]

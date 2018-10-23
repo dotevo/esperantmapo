@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:33:02Z",
+		"timestamp_osm_base": "2018-10-23T07:15:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -144,8 +144,8 @@
 		{
 			"type": "node",
 			"id": 1971329414,
-			"lat": -21.9182856,
-			"lon": 144.4588889,
+			"lat": -22.1646782,
+			"lon": 144.5844903,
 			"tags": {
 				"name:io": "Quinslando"
 			}

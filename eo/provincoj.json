@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:22:02Z",
+		"timestamp_osm_base": "2018-10-23T07:04:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -817,15 +817,6 @@
 			"lon": -115.002136,
 			"tags": {
 				"name:eo": "Alberto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 305700704,
-			"lat": 45.1955867,
-			"lon": -63.1658939,
-			"tags": {
-				"name:eo": "Nov-Skotio"
 			}
 		},
 		{
@@ -3743,15 +3734,6 @@
 		},
 		{
 			"type": "node",
-			"id": 618290369,
-			"lat": -34.8741211,
-			"lon": -68.5621587,
-			"tags": {
-				"name:eo": "Mendoza Provinco"
-			}
-		},
-		{
-			"type": "node",
 			"id": 618291415,
 			"lat": -38.3695057,
 			"lon": -69.832275,
@@ -5040,15 +5022,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1495303476,
-			"lat": 39.1484315,
-			"lon": 140.7717841,
-			"tags": {
-				"name:eo": "Tohokua Regiono"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1499533875,
 			"lat": 34.8614187,
 			"lon": 133.1261204,
@@ -5655,8 +5628,8 @@
 		{
 			"type": "node",
 			"id": 1971329414,
-			"lat": -21.9182856,
-			"lon": 144.4588889,
+			"lat": -22.1646782,
+			"lon": 144.5844903,
 			"tags": {
 				"name:eo": "Kvinslando"
 			}
@@ -6060,15 +6033,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2537777133,
-			"lat": 8.8975508,
-			"lon": -82.1174033,
-			"tags": {
-				"name:eo": "Ngabe-Bugleo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2614266154,
 			"lat": -4.479925,
 			"lon": -63.5185396,
@@ -6422,8 +6386,8 @@
 		{
 			"type": "node",
 			"id": 2923223361,
-			"lat": 12.9636599,
-			"lon": -85.5006141,
+			"lat": 12.9636338,
+			"lon": -85.5006651,
 			"tags": {
 				"name:eo": "Matagalpo"
 			}
@@ -6778,10 +6742,10 @@
 		{
 			"type": "node",
 			"id": 5854200921,
-			"lat": 13.8021919,
-			"lon": -85.5464829,
+			"lat": 13.8021629,
+			"lon": -85.5464603,
 			"tags": {
-				"name:eo": "Jinotegano"
+				"name:eo": "Jinotega"
 			}
 		}
 	]

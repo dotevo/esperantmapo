@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:23:02Z",
+		"timestamp_osm_base": "2018-10-23T07:05:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -103,15 +103,6 @@
 			"lon": 77.2022662,
 			"tags": {
 				"name:eo": "Nov-Delhio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 16174445,
-			"lat": 18.5203062,
-			"lon": 73.8543185,
-			"tags": {
-				"name:eo": "Puneo"
 			}
 		},
 		{
@@ -225,8 +216,8 @@
 		{
 			"type": "node",
 			"id": 20981158,
-			"lat": 59.9132694,
-			"lon": 10.7391112,
+			"lat": 59.9133301,
+			"lon": 10.7389701,
 			"tags": {
 				"name:eo": "Oslo"
 			}
@@ -782,8 +773,8 @@
 		{
 			"type": "node",
 			"id": 27048976,
-			"lat": 54.7066422,
-			"lon": 20.5105166,
+			"lat": 54.7196659,
+			"lon": 20.5013248,
 			"tags": {
 				"name:eo": "Kaliningrado"
 			}
@@ -1235,8 +1226,8 @@
 		{
 			"type": "node",
 			"id": 29438069,
-			"lat": 35.3340134,
-			"lon": 25.1328543,
+			"lat": 35.3400127,
+			"lon": 25.1343475,
 			"tags": {
 				"name:eo": "Iraklio"
 			}
@@ -1975,8 +1966,8 @@
 		{
 			"type": "node",
 			"id": 93387393,
-			"lat": 56.3935278,
-			"lon": 38.7211599,
+			"lat": 56.3962287,
+			"lon": 38.7111103,
 			"tags": {
 				"name:eo": "Aleksandrov"
 			}
@@ -2470,8 +2461,8 @@
 		{
 			"type": "node",
 			"id": 191903740,
-			"lat": 42.0576987,
-			"lon": 48.2938068,
+			"lat": 42.057858,
+			"lon": 48.2887648,
 			"tags": {
 				"name:eo": "Derbent"
 			}
@@ -2651,8 +2642,8 @@
 		{
 			"type": "node",
 			"id": 240025182,
-			"lat": 47.3723957,
-			"lon": 8.5423216,
+			"lat": 47.3769434,
+			"lon": 8.5414061,
 			"tags": {
 				"name:eo": "Zuriko"
 			}
@@ -3401,8 +3392,8 @@
 		{
 			"type": "node",
 			"id": 253874196,
-			"lat": 48.5674507,
-			"lon": 39.2912928,
+			"lat": 48.5717084,
+			"lon": 39.2973153,
 			"tags": {
 				"name:eo": "Lugansko",
 				"alt_name:eo": "Lugansko"
@@ -3914,6 +3905,15 @@
 		},
 		{
 			"type": "node",
+			"id": 265555072,
+			"lat": 37.105993,
+			"lon": 58.5108056,
+			"tags": {
+				"name:eo": "Kuĉano"
+			}
+		},
+		{
+			"type": "node",
 			"id": 265958490,
 			"lat": 38.7077507,
 			"lon": -9.1365919,
@@ -4203,8 +4203,8 @@
 		{
 			"type": "node",
 			"id": 283030477,
-			"lat": 47.1065585,
-			"lon": 39.4176939,
+			"lat": 47.1139219,
+			"lon": 39.4259657,
 			"tags": {
 				"name:eo": "Azov"
 			}
@@ -4258,8 +4258,8 @@
 		{
 			"type": "node",
 			"id": 287411141,
-			"lat": 43.7587545,
-			"lon": 44.0149008,
+			"lat": 43.7590017,
+			"lon": 44.0103981,
 			"tags": {
 				"name:eo": "Proĥladnij"
 			}
@@ -4339,8 +4339,8 @@
 		{
 			"type": "node",
 			"id": 291727016,
-			"lat": 42.2910523,
-			"lon": 43.2866046,
+			"lat": 42.2910245,
+			"lon": 43.2888362,
 			"tags": {
 				"name:eo": "Ĉiatura"
 			}
@@ -4424,6 +4424,15 @@
 			"lon": 56.0762788,
 			"tags": {
 				"name:eo": "Ĉernuŝka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 297201904,
+			"lat": 37.395352,
+			"lon": 57.9300305,
+			"tags": {
+				"name:eo": "Ŝirvano"
 			}
 		},
 		{
@@ -5510,8 +5519,8 @@
 		{
 			"type": "node",
 			"id": 337668729,
-			"lat": 47.8283702,
-			"lon": 31.1675163,
+			"lat": 47.8236274,
+			"lon": 31.1777517,
 			"tags": {
 				"name:eo": "Juĵnoukrainsk"
 			}
@@ -6194,10 +6203,19 @@
 		{
 			"type": "node",
 			"id": 679031958,
-			"lat": 43.8437724,
-			"lon": 46.7124847,
+			"lat": 43.8546727,
+			"lon": 46.7139329,
 			"tags": {
 				"name:eo": "Kizlar"
+			}
+		},
+		{
+			"type": "node",
+			"id": 681298011,
+			"lat": 35.2444908,
+			"lon": 58.464248,
+			"tags": {
+				"name:eo": "Kaŝmaro"
 			}
 		},
 		{
@@ -6393,8 +6411,8 @@
 		{
 			"type": "node",
 			"id": 854916003,
-			"lat": 47.9626388,
-			"lon": 23.8647474,
+			"lat": 47.9470202,
+			"lon": 23.8747013,
 			"tags": {
 				"name:eo": "Solotvino"
 			}
@@ -6862,8 +6880,8 @@
 		{
 			"type": "node",
 			"id": 1664142674,
-			"lat": 42.6953868,
-			"lon": 2.8844713,
+			"lat": 42.6985304,
+			"lon": 2.8953121,
 			"tags": {
 				"name:eo": "Perpinjano"
 			}
@@ -7204,8 +7222,8 @@
 		{
 			"type": "node",
 			"id": 1836027948,
-			"lat": 43.9293511,
-			"lon": 4.838568,
+			"lat": 43.9492493,
+			"lon": 4.8059012,
 			"tags": {
 				"name:eo": "Avinjono"
 			}
@@ -7795,6 +7813,15 @@
 			"lon": 38.9326763,
 			"tags": {
 				"name:eo": "Asmaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5823779901,
+			"lat": 13.0910392,
+			"lon": -86.0023477,
+			"tags": {
+				"name:eo": "Jinotega"
 			}
 		},
 		{

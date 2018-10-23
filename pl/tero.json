@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:19:02Z",
+		"timestamp_osm_base": "2018-10-23T07:02:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -13,6 +13,15 @@
 			"lon": -5.7129442,
 			"tags": {
 				"name:pl": "Wyspa Świętej Heleny"
+			}
+		},
+		{
+			"type": "node",
+			"id": 276569793,
+			"lat": 28.2747987,
+			"lon": -16.5492071,
+			"tags": {
+				"name:pl": "Teneryfa"
 			}
 		},
 		{
@@ -415,6 +424,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 189881,
+			"center": {
+				"lat": 57.8024392,
+				"lon": 23.2433039
+			},
+			"tags": {
+				"name:pl": "Ruhnu"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 376677,
 			"center": {
 				"lat": 60.2459236,
@@ -483,7 +503,7 @@
 			"type": "relation",
 			"id": 861780,
 			"center": {
-				"lat": 34.8366912,
+				"lat": 34.8366892,
 				"lon": 24.084496
 			},
 			"tags": {
@@ -517,7 +537,7 @@
 			"id": 1124190,
 			"center": {
 				"lat": 78.3110968,
-				"lon": 16.0709216
+				"lon": 16.074166
 			},
 			"tags": {
 				"name:pl": "Spitsbergen"

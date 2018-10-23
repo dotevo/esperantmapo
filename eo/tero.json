@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.4 3079d8ea",
 	"osm3s": {
-		"timestamp_osm_base": "2018-09-20T06:25:02Z",
+		"timestamp_osm_base": "2018-10-23T07:08:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -74,8 +74,8 @@
 		{
 			"type": "node",
 			"id": 4078303461,
-			"lat": -15.8913924,
-			"lon": 54.5230376,
+			"lat": -15.8913279,
+			"lon": 54.5230269,
 			"tags": {
 				"name:eo": "Tromelininsulo",
 				"alt_name:eo": "Tromelino"
@@ -494,8 +494,8 @@
 			"type": "relation",
 			"id": 3790219,
 			"center": {
-				"lat": 54.4467612,
-				"lon": 13.0189888
+				"lat": 54.4467726,
+				"lon": 13.0190248
 			},
 			"tags": {
 				"name:eo": "Bock"
@@ -764,8 +764,8 @@
 			"type": "relation",
 			"id": 6080158,
 			"center": {
-				"lat": -15.8913838,
-				"lon": 54.5226443
+				"lat": -15.8913816,
+				"lon": 54.5230466
 			},
 			"tags": {
 				"name:eo": "Tromelininsulo",
