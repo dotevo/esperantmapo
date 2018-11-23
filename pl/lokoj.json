@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:01:02Z",
+		"timestamp_osm_base": "2018-11-23T07:53:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2857,6 +2857,7 @@
 				"operator:type": "private",
 				"payment:cash": "yes",
 				"smoking": "no",
+				"start_date": "2010",
 				"toilets": "yes",
 				"toilets:wheelchair": "yes",
 				"wheelchair": "yes"
@@ -2941,7 +2942,7 @@
 				"addr:city": "Witten",
 				"addr:country": "DE",
 				"addr:housenumber": "16",
-				"addr:postcode": "58452",
+				"addr:postcode": "58455",
 				"addr:street": "Pferdebachstraße",
 				"addr:suburb": "Mitte",
 				"amenity": "clinic",

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:06:03Z",
+		"timestamp_osm_base": "2018-11-23T07:58:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -807,8 +807,8 @@
 		{
 			"type": "node",
 			"id": 4740191428,
-			"lat": 50.8289183,
-			"lon": 3.2647556,
+			"lat": 50.8289496,
+			"lon": 3.2649581,
 			"tags": {
 				"addr:city": "Kortrijk",
 				"addr:housenumber": "30",
@@ -1415,21 +1415,6 @@
 		},
 		{
 			"type": "way",
-			"id": 7532923,
-			"center": {
-				"lat": 51.9201075,
-				"lon": 4.4134304
-			},
-			"tags": {
-				"highway": "unclassified",
-				"maxspeed": "30",
-				"name": "Doctor Zamenhofstraat",
-				"name:etymology:wikidata": "Q11758",
-				"wikidata": "Q19016404"
-			}
-		},
-		{
-			"type": "way",
 			"id": 7532947,
 			"center": {
 				"lat": 51.9202367,
@@ -1448,8 +1433,8 @@
 			"type": "way",
 			"id": 7533006,
 			"center": {
-				"lat": 51.9199164,
-				"lon": 4.414822
+				"lat": 51.9199011,
+				"lon": 4.4149337
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -2718,6 +2703,7 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"ref": "1188E",
 				"source:maxspeed": "PL:zone:30",
 				"surface": "asphalt"
 			}
@@ -2864,6 +2850,7 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"ref": "1188E",
 				"source:maxspeed": "PL:urban",
 				"surface": "asphalt"
 			}
@@ -2883,6 +2870,7 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
+				"ref": "1188E",
 				"source:maxspeed": "PL:urban",
 				"surface": "asphalt"
 			}
@@ -3243,7 +3231,7 @@
 			"id": 227869090,
 			"center": {
 				"lat": -1.3496778,
-				"lon": -48.4407389
+				"lon": -48.4413788
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -3869,8 +3857,8 @@
 			"type": "way",
 			"id": 340756526,
 			"center": {
-				"lat": 47.4909564,
-				"lon": 19.0438973
+				"lat": 47.4909741,
+				"lon": 19.0438343
 			},
 			"tags": {
 				"artist_name": "Korniss Dezső;Hegyi György;Rác András",

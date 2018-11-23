@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T06:58:03Z",
+		"timestamp_osm_base": "2018-11-23T07:50:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1610,11 +1610,29 @@
 		},
 		{
 			"type": "node",
+			"id": 480431777,
+			"lat": 36.515854,
+			"lon": 48.4777616,
+			"tags": {
+				"name:pl": "Zandżan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 480452780,
 			"lat": 37.9211202,
 			"lon": 46.6821517,
 			"tags": {
 				"name:pl": "Azerbejdżan Wschodni"
+			}
+		},
+		{
+			"type": "node",
+			"id": 481002194,
+			"lat": 33.196733,
+			"lon": 52.504026,
+			"tags": {
+				"name:pl": "Isfahan"
 			}
 		},
 		{
@@ -2960,6 +2978,15 @@
 		},
 		{
 			"type": "node",
+			"id": 791264036,
+			"lat": 35.9413239,
+			"lon": 50.7884216,
+			"tags": {
+				"name:pl": "Alborz"
+			}
+		},
+		{
+			"type": "node",
 			"id": 792588864,
 			"lat": 50.7080119,
 			"lon": 37.5837615,
@@ -3172,6 +3199,15 @@
 			"lon": -80.333333,
 			"tags": {
 				"name:pl": "Region Piura"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1237030144,
+			"lat": -11.9999702,
+			"lon": -76.8332244,
+			"tags": {
+				"name:pl": "Prowincja Lima"
 			}
 		},
 		{

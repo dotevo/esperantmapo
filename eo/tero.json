@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:08:02Z",
+		"timestamp_osm_base": "2018-11-23T08:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -35,9 +35,27 @@
 		},
 		{
 			"type": "node",
+			"id": 322764887,
+			"lat": -39.9416651,
+			"lon": 175.4705995,
+			"tags": {
+				"name:eo": "Norda Insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 585174662,
+			"lat": 32.7554233,
+			"lon": 131.1105512,
+			"tags": {
+				"name:eo": "Kjuŝuo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1216810344,
-			"lat": 12.5,
-			"lon": 54,
+			"lat": 12.4580508,
+			"lon": 53.8502275,
 			"tags": {
 				"name:eo": "Sokotra"
 			}
@@ -348,6 +366,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2386068,
+			"center": {
+				"lat": -29.0289934,
+				"lon": 167.9556525
+			},
+			"tags": {
+				"name:eo": "Norfolkinsulo"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2410122,
 			"center": {
 				"lat": -6.1000445,
@@ -613,6 +642,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 5337717,
+			"center": {
+				"lat": 38.0674135,
+				"lon": 138.389162
+			},
+			"tags": {
+				"name:eo": "Insulo Sado"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 5345940,
 			"center": {
 				"lat": 72.8194529,
@@ -804,6 +844,17 @@
 			},
 			"tags": {
 				"name:eo": "Norda Insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 6679920,
+			"center": {
+				"lat": 43.4603075,
+				"lon": 142.7917495
+			},
+			"tags": {
+				"name:eo": "Hokajdo"
 			}
 		},
 		{

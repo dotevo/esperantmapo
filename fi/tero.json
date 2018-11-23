@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:23:02Z",
+		"timestamp_osm_base": "2018-11-23T08:17:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -144,8 +144,8 @@
 		{
 			"type": "node",
 			"id": 1216810344,
-			"lat": 12.5,
-			"lon": 54,
+			"lat": 12.4580508,
+			"lon": 53.8502275,
 			"tags": {
 				"name:fi": "Sokotra"
 			}
@@ -611,8 +611,8 @@
 			"type": "way",
 			"id": 4747424,
 			"center": {
-				"lat": 60.1735,
-				"lon": 24.8608167
+				"lat": 60.1735107,
+				"lon": 24.8608032
 			},
 			"tags": {
 				"name:fi": "Kaskisaari"
@@ -1536,7 +1536,7 @@
 			"id": 24630641,
 			"center": {
 				"lat": 60.172219,
-				"lon": 24.8676494
+				"lon": 24.8675838
 			},
 			"tags": {
 				"name:fi": "Mustasaari"
@@ -2420,6 +2420,17 @@
 			},
 			"tags": {
 				"name:fi": "Rastinsaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 43036108,
+			"center": {
+				"lat": 69.7749074,
+				"lon": 26.1998673
+			},
+			"tags": {
+				"name:fi": "Teppanansaari"
 			}
 		},
 		{
@@ -5082,6 +5093,17 @@
 			},
 			"tags": {
 				"name:fi": "San Andrés (saari)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2386068,
+			"center": {
+				"lat": -29.0289934,
+				"lon": 167.9556525
+			},
+			"tags": {
+				"name:fi": "Norfolkinsaari"
 			}
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:02:03Z",
+		"timestamp_osm_base": "2018-11-23T07:54:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -54,8 +54,8 @@
 		{
 			"type": "node",
 			"id": 1216810344,
-			"lat": 12.5,
-			"lon": 54,
+			"lat": 12.4580508,
+			"lon": 53.8502275,
 			"tags": {
 				"name:pl": "Sokotra"
 			}
@@ -860,6 +860,17 @@
 			},
 			"tags": {
 				"name:pl": "San Andrés (wyspa)"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2386068,
+			"center": {
+				"lat": -29.0289934,
+				"lon": 167.9556525
+			},
+			"tags": {
+				"name:pl": "Wyspa Norfolk"
 			}
 		},
 		{

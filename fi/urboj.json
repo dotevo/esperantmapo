@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:21:02Z",
+		"timestamp_osm_base": "2018-11-23T08:14:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -261,8 +261,8 @@
 		{
 			"type": "node",
 			"id": 25248662,
-			"lat": 39.9059631,
-			"lon": 116.391248,
+			"lat": 39.906217,
+			"lon": 116.3912757,
 			"tags": {
 				"name:fi": "Peking"
 			}
@@ -427,6 +427,15 @@
 			"lon": 30.5240501,
 			"tags": {
 				"name:fi": "Kiova"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26150437,
+			"lat": 46.4852419,
+			"lon": 30.7433894,
+			"tags": {
+				"name:fi": "Odessa"
 			}
 		},
 		{
@@ -802,6 +811,24 @@
 		},
 		{
 			"type": "node",
+			"id": 27503892,
+			"lat": 56.839104,
+			"lon": 60.60825,
+			"tags": {
+				"name:fi": "Jekaterinburg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27503945,
+			"lat": 53.198627,
+			"lon": 50.113987,
+			"tags": {
+				"name:fi": "Samara"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27504067,
 			"lat": 55.7823547,
 			"lon": 49.1242266,
@@ -816,6 +843,42 @@
 			"lon": 61.4025547,
 			"tags": {
 				"name:fi": "Tšeljabinsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27504363,
+			"lat": 48.7081906,
+			"lon": 44.5153353,
+			"tags": {
+				"name:fi": "Volgograd"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27504531,
+			"lat": 58.014965,
+			"lon": 56.246723,
+			"tags": {
+				"name:fi": "Perm"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27504590,
+			"lat": 51.530018,
+			"lon": 46.034683,
+			"tags": {
+				"name:fi": "Saratov"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27505044,
+			"lat": 51.6605982,
+			"lon": 39.2005858,
+			"tags": {
+				"name:fi": "Voronež"
 			}
 		},
 		{
@@ -915,6 +978,15 @@
 			"lon": -1.527085,
 			"tags": {
 				"name:fi": "Ouagadougou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27565020,
+			"lat": 31.199004,
+			"lon": 29.894378,
+			"tags": {
+				"name:fi": "Aleksandria"
 			}
 		},
 		{
@@ -1019,8 +1091,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957773,
-			"lon": 37.5499333,
+			"lat": 47.0957848,
+			"lon": 37.5499253,
 			"tags": {
 				"name:fi": "Mariupol"
 			}
@@ -1109,8 +1181,8 @@
 		{
 			"type": "node",
 			"id": 30969521,
-			"lat": 62.6008163,
-			"lon": 29.7605356,
+			"lat": 62.6006257,
+			"lon": 29.7584591,
 			"tags": {
 				"name:fi": "Joensuu"
 			}
@@ -1235,8 +1307,8 @@
 		{
 			"type": "node",
 			"id": 30969538,
-			"lat": 60.9966247,
-			"lon": 24.4651444,
+			"lat": 60.9948584,
+			"lon": 24.46654,
 			"tags": {
 				"name:fi": "Hämeenlinna"
 			}
@@ -1361,8 +1433,8 @@
 		{
 			"type": "node",
 			"id": 30969560,
-			"lat": 60.5666705,
-			"lon": 27.2000065,
+			"lat": 60.5688901,
+			"lon": 27.1881877,
 			"tags": {
 				"name:fi": "Hamina"
 			}
@@ -1694,8 +1766,8 @@
 		{
 			"type": "node",
 			"id": 30969647,
-			"lat": 60.5321636,
-			"lon": 25.1052279,
+			"lat": 60.5327072,
+			"lon": 25.1102705,
 			"tags": {
 				"name:fi": "Kellokoski"
 			}
@@ -2845,15 +2917,6 @@
 		},
 		{
 			"type": "node",
-			"id": 30969846,
-			"lat": 61.2839792,
-			"lon": 22.6938146,
-			"tags": {
-				"name:fi": "Äetsä"
-			}
-		},
-		{
-			"type": "node",
 			"id": 30969854,
 			"lat": 61.6877956,
 			"lon": 27.2726569,
@@ -2922,6 +2985,15 @@
 			"lon": 23.548027,
 			"tags": {
 				"name:fi": "Vratsa"
+			}
+		},
+		{
+			"type": "node",
+			"id": 31248510,
+			"lat": 25.2683521,
+			"lon": 55.2961962,
+			"tags": {
+				"name:fi": "Dubai"
 			}
 		},
 		{
@@ -3323,6 +3395,15 @@
 		},
 		{
 			"type": "node",
+			"id": 57563779,
+			"lat": 34.6937569,
+			"lon": 135.5014539,
+			"tags": {
+				"name:fi": "Osaka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60079145,
 			"lat": 59.5412777,
 			"lon": 30.8773645,
@@ -3513,8 +3594,8 @@
 		{
 			"type": "node",
 			"id": 74132064,
-			"lat": 21.0292095,
-			"lon": 105.85247,
+			"lat": 21.0294498,
+			"lon": 105.8544441,
 			"tags": {
 				"name:fi": "Hanoi"
 			}
@@ -3553,6 +3634,15 @@
 			"lon": 30.1248482,
 			"tags": {
 				"name:fi": "Käkisalmi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 82799640,
+			"lat": 24.2258413,
+			"lon": 55.7474052,
+			"tags": {
+				"name:fi": "Al-Ain"
 			}
 		},
 		{
@@ -3850,15 +3940,6 @@
 			"lon": 30.0571098,
 			"tags": {
 				"name:fi": "Prypjat"
-			}
-		},
-		{
-			"type": "node",
-			"id": 130040361,
-			"lat": 40.1776121,
-			"lon": 44.5125849,
-			"tags": {
-				"name:fi": "Jerevan"
 			}
 		},
 		{
@@ -4449,8 +4530,8 @@
 		{
 			"type": "node",
 			"id": 217323851,
-			"lat": 59.375828,
-			"lon": 28.226357,
+			"lat": 59.3744139,
+			"lon": 28.2192542,
 			"tags": {
 				"name:fi": "Iivananlinna"
 			}
@@ -4669,6 +4750,15 @@
 			"lon": 87.6140244,
 			"tags": {
 				"name:fi": "Ürümqi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244082124,
+			"lat": 34.2660171,
+			"lon": 108.9424252,
+			"tags": {
+				"name:fi": "Xi’an"
 			}
 		},
 		{
@@ -5168,15 +5258,6 @@
 		},
 		{
 			"type": "node",
-			"id": 256361852,
-			"lat": 55.6603765,
-			"lon": 39.8776533,
-			"tags": {
-				"name:fi": "Rošal"
-			}
-		},
-		{
-			"type": "node",
 			"id": 256361853,
 			"lat": 55.9310313,
 			"lon": 39.4599489,
@@ -5330,9 +5411,18 @@
 		},
 		{
 			"type": "node",
+			"id": 258013552,
+			"lat": 15.342101,
+			"lon": 44.2005197,
+			"tags": {
+				"name:fi": "Sanaa"
+			}
+		},
+		{
+			"type": "node",
 			"id": 258834478,
-			"lat": 55.5825823,
-			"lon": 37.9084815,
+			"lat": 55.5822477,
+			"lon": 37.9080217,
 			"tags": {
 				"name:fi": "Lytkarino"
 			}
@@ -5398,6 +5488,15 @@
 			"lon": 23.2484881,
 			"tags": {
 				"name:fi": "Lappohja"
+			}
+		},
+		{
+			"type": "node",
+			"id": 261611194,
+			"lat": 24.4747961,
+			"lon": 54.3705762,
+			"tags": {
+				"name:fi": "Abu Dhabi"
 			}
 		},
 		{
@@ -5548,8 +5647,8 @@
 		{
 			"type": "node",
 			"id": 270420987,
-			"lat": 55.3879906,
-			"lon": 36.7399678,
+			"lat": 55.3879473,
+			"lon": 36.7398309,
 			"tags": {
 				"name:fi": "Naro-Fominsk"
 			}
@@ -5620,8 +5719,8 @@
 		{
 			"type": "node",
 			"id": 274202470,
-			"lat": 42.1071766,
-			"lon": 43.0350696,
+			"lat": 42.1072737,
+			"lon": 43.0393685,
 			"tags": {
 				"name:fi": "Zestaponi"
 			}
@@ -5889,6 +5988,15 @@
 		},
 		{
 			"type": "node",
+			"id": 287865393,
+			"lat": 26.4367824,
+			"lon": 50.1039991,
+			"tags": {
+				"name:fi": "Dammam"
+			}
+		},
+		{
+			"type": "node",
 			"id": 288829688,
 			"lat": 60.3477795,
 			"lon": 25.1126212,
@@ -5971,8 +6079,8 @@
 		{
 			"type": "node",
 			"id": 293620554,
-			"lat": 58.3727059,
-			"lon": 26.7237528,
+			"lat": 58.3801207,
+			"lon": 26.72245,
 			"tags": {
 				"name:fi": "Tartto"
 			}
@@ -6353,6 +6461,15 @@
 			"lon": 40.6708665,
 			"tags": {
 				"name:fi": "Gus-Hrustalnyi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 315358390,
+			"lat": 24.6319692,
+			"lon": 46.7150648,
+			"tags": {
+				"name:fi": "Riad"
 			}
 		},
 		{
@@ -7072,7 +7189,7 @@
 			"lat": 27.8669082,
 			"lon": 34.3014551,
 			"tags": {
-				"name:fi": "Šarm al-Šaikh"
+				"name:fi": "Sharm el-Sheikh"
 			}
 		},
 		{
@@ -7766,6 +7883,15 @@
 			"lon": 139.476606,
 			"tags": {
 				"name:fi": "Kodaira"
+			}
+		},
+		{
+			"type": "node",
+			"id": 778910398,
+			"lat": 31.2253441,
+			"lon": 121.4888922,
+			"tags": {
+				"name:fi": "Shanghai"
 			}
 		},
 		{
@@ -8591,8 +8717,8 @@
 		{
 			"type": "node",
 			"id": 1513563476,
-			"lat": 60.2312835,
-			"lon": 24.9331223,
+			"lat": 60.2312122,
+			"lon": 24.9325239,
 			"tags": {
 				"name:fi": "Maunula"
 			}
@@ -10480,6 +10606,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4308338842,
+			"lat": 21.4209763,
+			"lon": 39.8270873,
+			"tags": {
+				"name:fi": "Mekka"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4349675041,
 			"lat": 60.387817,
 			"lon": 25.7138801,
@@ -10566,6 +10701,15 @@
 			"lon": 39.0277188,
 			"tags": {
 				"name:fi": "Luhovitsy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4571693347,
+			"lat": 24.471153,
+			"lon": 39.6111216,
+			"tags": {
+				"name:fi": "Medina"
 			}
 		},
 		{
@@ -10944,6 +11088,33 @@
 			"lon": 23.6131984,
 			"tags": {
 				"name:fi": "Parkkiaro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6031957394,
+			"lat": 60.4401124,
+			"lon": 22.2395036,
+			"tags": {
+				"name:fi": "Länsiranta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6051567828,
+			"lat": 55.6583239,
+			"lon": 39.8717137,
+			"tags": {
+				"name:fi": "Rošal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6073730055,
+			"lat": 61.2717593,
+			"lon": 22.7025389,
+			"tags": {
+				"name:fi": "Keikyä"
 			}
 		}
 	]

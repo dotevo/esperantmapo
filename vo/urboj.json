@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T06:54:02Z",
+		"timestamp_osm_base": "2018-11-23T07:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -163,8 +163,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957773,
-			"lon": 37.5499333,
+			"lat": 47.0957848,
+			"lon": 37.5499253,
 			"tags": {
 				"name:vo": "Mariupol"
 			}
@@ -284,15 +284,6 @@
 			"lon": 102.6133707,
 			"tags": {
 				"name:vo": "Viengtjan"
-			}
-		},
-		{
-			"type": "node",
-			"id": 130040361,
-			"lat": 40.1776121,
-			"lon": 44.5125849,
-			"tags": {
-				"name:vo": "Yerevan"
 			}
 		},
 		{
@@ -707,6 +698,15 @@
 			"lon": 9.4059354,
 			"tags": {
 				"name:vo": "Viborg"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6045040588,
+			"lat": 49.2401553,
+			"lon": 23.6510872,
+			"tags": {
+				"name:vo": "Hassendorf"
 			}
 		}
 	]

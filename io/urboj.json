@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.4 3079d8ea",
+	"generator": "Overpass API 0.7.55.5 2ca3f387",
 	"osm3s": {
-		"timestamp_osm_base": "2018-10-23T07:16:02Z",
+		"timestamp_osm_base": "2018-11-23T08:09:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -63,8 +63,8 @@
 		{
 			"type": "node",
 			"id": 25248662,
-			"lat": 39.9059631,
-			"lon": 116.391248,
+			"lat": 39.906217,
+			"lon": 116.3912757,
 			"tags": {
 				"name:io": "Beijing"
 			}
@@ -90,8 +90,8 @@
 		{
 			"type": "node",
 			"id": 26150437,
-			"lat": 46.4846583,
-			"lon": 30.732564,
+			"lat": 46.4852419,
+			"lon": 30.7433894,
 			"tags": {
 				"name:io": "Odessa"
 			}
@@ -121,6 +121,15 @@
 			"lon": 24.1051846,
 			"tags": {
 				"name:io": "Riga"
+			}
+		},
+		{
+			"type": "node",
+			"id": 27048976,
+			"lat": 54.710128,
+			"lon": 20.5105838,
+			"tags": {
+				"name:io": "Kaliningrad"
 			}
 		},
 		{
@@ -225,8 +234,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957773,
-			"lon": 37.5499333,
+			"lat": 47.0957848,
+			"lon": 37.5499253,
 			"tags": {
 				"name:io": "Mariupol"
 			}
@@ -359,15 +368,6 @@
 		},
 		{
 			"type": "node",
-			"id": 130040361,
-			"lat": 40.1776121,
-			"lon": 44.5125849,
-			"tags": {
-				"name:io": "Yerevan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 153353016,
 			"lat": 39.7683331,
 			"lon": -86.1583502,
@@ -495,8 +495,8 @@
 		{
 			"type": "node",
 			"id": 249854726,
-			"lat": -25.2959916,
-			"lon": -57.6311196,
+			"lat": -25.2800459,
+			"lon": -57.6343814,
 			"tags": {
 				"name:io": "Asuncion"
 			}
