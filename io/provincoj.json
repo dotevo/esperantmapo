@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T08:07:02Z",
+		"timestamp_osm_base": "2019-04-27T22:55:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -36,7 +36,7 @@
 		{
 			"type": "node",
 			"id": 462226505,
-			"lat": -18.6243749,
+			"lat": -17.0243749,
 			"lon": -144.6434898,
 			"tags": {
 				"name:io": "Franca Polinezia"
@@ -197,20 +197,20 @@
 		},
 		{
 			"type": "node",
-			"id": 4347988419,
-			"lat": 42.9903482,
-			"lon": 142.4962523,
-			"tags": {
-				"name:io": "Hokkaido"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4351432485,
 			"lat": 13.7538929,
 			"lon": 100.8160803,
 			"tags": {
 				"name:io": "Bangkok"
+			}
+		},
+		{
+			"type": "node",
+			"id": 4642463209,
+			"lat": 22.1757605,
+			"lon": 113.5514142,
+			"tags": {
+				"name:io": "Makau"
 			}
 		}
 	]

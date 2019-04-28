@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T08:00:02Z",
+		"timestamp_osm_base": "2019-04-27T22:47:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -13,15 +13,6 @@
 			"lon": -5.7129442,
 			"tags": {
 				"name:eo": "Sankta Heleno"
-			}
-		},
-		{
-			"type": "node",
-			"id": 302106096,
-			"lat": 9.9998762,
-			"lon": 114.0041404,
-			"tags": {
-				"name:eo": "Spratly-insularo"
 			}
 		},
 		{
@@ -44,15 +35,6 @@
 		},
 		{
 			"type": "node",
-			"id": 585174662,
-			"lat": 32.7554233,
-			"lon": 131.1105512,
-			"tags": {
-				"name:eo": "Kjuŝuo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1216810344,
 			"lat": 12.4580508,
 			"lon": 53.8502275,
@@ -67,26 +49,6 @@
 			"lon": 39.6839546,
 			"tags": {
 				"name:eo": "Bassas da India"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4076843844,
-			"lat": -22.3674141,
-			"lon": 40.364165,
-			"tags": {
-				"name:eo": "Eŭropinsulo",
-				"alt_name:eo": "Eŭropo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4076982798,
-			"lat": -17.0566133,
-			"lon": 42.7239756,
-			"tags": {
-				"name:eo": "Ĵuan-de-la-Nova Insulo",
-				"alt_name:eo": "Ĵuan-de-la-Nova"
 			}
 		},
 		{
@@ -134,17 +96,6 @@
 		},
 		{
 			"type": "way",
-			"id": 4605565,
-			"center": {
-				"lat": 70.9931958,
-				"lon": -8.5028502
-			},
-			"tags": {
-				"name:eo": "Janmajeno"
-			}
-		},
-		{
-			"type": "way",
 			"id": 9884465,
 			"center": {
 				"lat": 16.8496081,
@@ -178,17 +129,6 @@
 		},
 		{
 			"type": "way",
-			"id": 22771813,
-			"center": {
-				"lat": 74.4264159,
-				"lon": 19.0079928
-			},
-			"tags": {
-				"name:eo": "Urso-insulo"
-			}
-		},
-		{
-			"type": "way",
 			"id": 42010431,
 			"center": {
 				"lat": 16.7289502,
@@ -196,6 +136,18 @@
 			},
 			"tags": {
 				"name:eo": "Jonstonatolo"
+			}
+		},
+		{
+			"type": "way",
+			"id": 159357927,
+			"center": {
+				"lat": -17.0548125,
+				"lon": 42.7245468
+			},
+			"tags": {
+				"name:eo": "Ĵuan-de-la-Nova Insulo",
+				"alt_name:eo": "Ĵuan-de-la-Nova"
 			}
 		},
 		{
@@ -314,7 +266,7 @@
 			"id": 1866564,
 			"center": {
 				"lat": 71.1867128,
-				"lon": 0
+				"lon": 0.5968593
 			},
 			"tags": {
 				"name:eo": "Vrangela Insulo de Siberio"
@@ -390,8 +342,8 @@
 			"type": "relation",
 			"id": 2556649,
 			"center": {
-				"lat": -22.3674105,
-				"lon": 40.364165
+				"lat": -22.367399,
+				"lon": 40.3640704
 			},
 			"tags": {
 				"name:eo": "Eŭropinsulo",
@@ -611,7 +563,7 @@
 			"type": "relation",
 			"id": 4868269,
 			"center": {
-				"lat": -15.9656679,
+				"lat": -15.9656511,
 				"lon": -5.7120467
 			},
 			"tags": {
@@ -633,8 +585,8 @@
 			"type": "relation",
 			"id": 5219730,
 			"center": {
-				"lat": 21.6908677,
-				"lon": -82.8664006
+				"lat": 21.6908874,
+				"lon": -82.866405
 			},
 			"tags": {
 				"name:eo": "Insulo de la Junularo"
@@ -692,8 +644,7 @@
 				"lon": -2.2324323
 			},
 			"tags": {
-				"name:eo": "granda Britio",
-				"alt_name:eo": "Britujo"
+				"name:eo": "granda Britio"
 			}
 		},
 		{
@@ -758,8 +709,8 @@
 			"type": "relation",
 			"id": 6077487,
 			"center": {
-				"lat": -21.469265,
-				"lon": 39.6906246
+				"lat": -21.4688253,
+				"lon": 39.6920358
 			},
 			"tags": {
 				"name:eo": "Bassas da India"
@@ -792,8 +743,8 @@
 			"type": "relation",
 			"id": 6077827,
 			"center": {
-				"lat": -17.0548993,
-				"lon": 42.7246425
+				"lat": -17.0548125,
+				"lon": 42.7245468
 			},
 			"tags": {
 				"name:eo": "Ĵuan-de-la-Nova Insulo",
@@ -827,8 +778,8 @@
 			"type": "relation",
 			"id": 6376308,
 			"center": {
-				"lat": -22.3674105,
-				"lon": 40.364165
+				"lat": -22.367399,
+				"lon": 40.3640704
 			},
 			"tags": {
 				"name:eo": "Eŭropinsulo",
@@ -840,7 +791,7 @@
 			"id": 6571744,
 			"center": {
 				"lat": -38.0035706,
-				"lon": 175.5967644
+				"lon": 175.5967189
 			},
 			"tags": {
 				"name:eo": "Norda Insulo"
@@ -883,8 +834,8 @@
 			"type": "relation",
 			"id": 6995280,
 			"center": {
-				"lat": 16.4498922,
-				"lon": 121.1394284
+				"lat": 15.5920786,
+				"lon": 121.9746866
 			},
 			"tags": {
 				"name:eo": "Luzono"
@@ -894,8 +845,8 @@
 			"type": "relation",
 			"id": 7112170,
 			"center": {
-				"lat": 14.6367812,
-				"lon": -61.0193324
+				"lat": 14.6367958,
+				"lon": -61.0193892
 			},
 			"tags": {
 				"name:eo": "Martiniko"
@@ -916,7 +867,7 @@
 			"type": "relation",
 			"id": 7165492,
 			"center": {
-				"lat": 18.831863,
+				"lat": 18.831835,
 				"lon": -73.0475309
 			},
 			"tags": {
@@ -1031,6 +982,39 @@
 			},
 			"tags": {
 				"name:eo": "Insulo Alejandro Selkirk"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9353234,
+			"center": {
+				"lat": 70.9931958,
+				"lon": -8.5028502
+			},
+			"tags": {
+				"name:eo": "Janmajeno"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9382299,
+			"center": {
+				"lat": 74.4264159,
+				"lon": 19.0079928
+			},
+			"tags": {
+				"name:eo": "Urso-insulo"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9483554,
+			"center": {
+				"lat": 36.3532019,
+				"lon": 122.2380363
+			},
+			"tags": {
+				"name:eo": "Flava Maro"
 			}
 		}
 	]

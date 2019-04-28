@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:50:02Z",
+		"timestamp_osm_base": "2019-04-27T22:38:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -134,15 +134,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244080661,
-			"lat": 31,
-			"lon": 112,
-			"tags": {
-				"name:pl": "Hubei"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244080670,
 			"lat": 27.9995878,
 			"lon": 112.009538,
@@ -206,15 +197,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244081488,
-			"lat": 36,
-			"lon": 96,
-			"tags": {
-				"name:pl": "Qinghai"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244081618,
 			"lat": 37,
 			"lon": 112,
@@ -260,15 +242,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244082468,
-			"lat": 32.0000002,
-			"lon": 89.9999998,
-			"tags": {
-				"name:pl": "Tybetański Region Autonomiczny"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244082773,
 			"lat": 25,
 			"lon": 102,
@@ -310,15 +283,6 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:pl": "Svalbard i Jan Mayen"
-			}
-		},
-		{
-			"type": "node",
-			"id": 278473326,
-			"lat": 28.877831,
-			"lon": 34.7299308,
-			"tags": {
-				"name:pl": "Zatoka Akaba"
 			}
 		},
 		{
@@ -1422,7 +1386,7 @@
 		{
 			"type": "node",
 			"id": 462226505,
-			"lat": -18.6243749,
+			"lat": -17.0243749,
 			"lon": -144.6434898,
 			"tags": {
 				"name:pl": "Polinezja Francuska"
@@ -1907,15 +1871,6 @@
 		},
 		{
 			"type": "node",
-			"id": 503160180,
-			"lat": 37.1937394,
-			"lon": 49.4380084,
-			"tags": {
-				"name:pl": "Gilan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 503188452,
 			"lat": 38.4583983,
 			"lon": 47.9313001,
@@ -2236,15 +2191,6 @@
 			"lon": 54.3326073,
 			"tags": {
 				"name:pl": "Republika Komi"
-			}
-		},
-		{
-			"type": "node",
-			"id": 564957290,
-			"lat": 54.5491756,
-			"lon": 25.236244,
-			"tags": {
-				"name:pl": "okręg wileński"
 			}
 		},
 		{
@@ -2942,15 +2888,6 @@
 		},
 		{
 			"type": "node",
-			"id": 783737730,
-			"lat": 54.7011155,
-			"lon": 23.2125717,
-			"tags": {
-				"name:pl": "okręg mariampolski"
-			}
-		},
-		{
-			"type": "node",
 			"id": 786882071,
 			"lat": 49.6048339,
 			"lon": 44.2903582,
@@ -3001,42 +2938,6 @@
 			"lon": 36.4852695,
 			"tags": {
 				"name:pl": "Obwód kurski"
-			}
-		},
-		{
-			"type": "node",
-			"id": 810217856,
-			"lat": 55.5768748,
-			"lon": 25.6275791,
-			"tags": {
-				"name:pl": "okręg uciański"
-			}
-		},
-		{
-			"type": "node",
-			"id": 816425956,
-			"lat": 55.1017737,
-			"lon": 23.8693418,
-			"tags": {
-				"name:pl": "okręg kowieński"
-			}
-		},
-		{
-			"type": "node",
-			"id": 825447812,
-			"lat": 54.2184817,
-			"lon": 24.1356675,
-			"tags": {
-				"name:pl": "okręg olicki"
-			}
-		},
-		{
-			"type": "node",
-			"id": 864663247,
-			"lat": 56.0328935,
-			"lon": 24.7515027,
-			"tags": {
-				"name:pl": "okręg poniewieski"
 			}
 		},
 		{
@@ -3113,24 +3014,6 @@
 		},
 		{
 			"type": "node",
-			"id": 941339901,
-			"lat": 56.0643536,
-			"lon": 22.0677085,
-			"tags": {
-				"name:pl": "okręg telszański"
-			}
-		},
-		{
-			"type": "node",
-			"id": 941339954,
-			"lat": 55.7766339,
-			"lon": 21.2363843,
-			"tags": {
-				"name:pl": "okręg kłajpedzki"
-			}
-		},
-		{
-			"type": "node",
 			"id": 949522007,
 			"lat": 37.3399964,
 			"lon": -4.5811614,
@@ -3145,24 +3028,6 @@
 			"lon": 70.1404868,
 			"tags": {
 				"name:pl": "Obwód karagandzki"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1055351027,
-			"lat": 55.3336532,
-			"lon": 22.3410255,
-			"tags": {
-				"name:pl": "okręg tauroski"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1055351031,
-			"lat": 55.8192573,
-			"lon": 23.322513,
-			"tags": {
-				"name:pl": "okręg szawelski"
 			}
 		},
 		{
@@ -3446,42 +3311,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1491974656,
-			"lat": 35.0184485,
-			"lon": 135.7636518,
-			"tags": {
-				"name:pl": "Region Kansai"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1496405150,
-			"lat": 35.8172763,
-			"lon": 137.8228967,
-			"tags": {
-				"name:pl": "Region Chūbu"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1499533875,
-			"lat": 34.8614187,
-			"lon": 133.1261204,
-			"tags": {
-				"name:pl": "Region Chūgoku"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1504057972,
-			"lat": 33.7277915,
-			"lon": 133.5075229,
-			"tags": {
-				"name:pl": "Sikoku"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1529114740,
 			"lat": 10.726794,
 			"lon": 106.1909011,
@@ -3595,15 +3424,6 @@
 			"lon": -1.4779797,
 			"tags": {
 				"name:pl": "Murcja"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1750191683,
-			"lat": 41.5,
-			"lon": 85.5,
-			"tags": {
-				"name:pl": "Sinciang"
 			}
 		},
 		{
@@ -3955,15 +3775,6 @@
 			"lon": -15.0202622,
 			"tags": {
 				"name:pl": "Wadi az-Zahab-"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1939592594,
-			"lat": 22.1899448,
-			"lon": 113.5380454,
-			"tags": {
-				"name:pl": "Makau"
 			}
 		},
 		{
@@ -4922,15 +4733,6 @@
 		},
 		{
 			"type": "node",
-			"id": 4347988419,
-			"lat": 42.9903482,
-			"lon": 142.4962523,
-			"tags": {
-				"name:pl": "Prefektura Hokkaido"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4351432485,
 			"lat": 13.7538929,
 			"lon": 100.8160803,
@@ -5651,11 +5453,29 @@
 		},
 		{
 			"type": "node",
+			"id": 4642463209,
+			"lat": 22.1757605,
+			"lon": 113.5514142,
+			"tags": {
+				"name:pl": "Makau"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4708675056,
 			"lat": 17.6219737,
 			"lon": 23.3133676,
 			"tags": {
 				"name:pl": "Ennedi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6307688872,
+			"lat": 63.8309894,
+			"lon": 40.8910913,
+			"tags": {
+				"name:pl": "Obwód archangielski"
 			}
 		}
 	]

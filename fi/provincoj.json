@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T08:13:02Z",
+		"timestamp_osm_base": "2019-04-27T23:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -22,15 +22,6 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:fi": "Svalbard ja Jan Mayen"
-			}
-		},
-		{
-			"type": "node",
-			"id": 278473326,
-			"lat": 28.877831,
-			"lon": 34.7299308,
-			"tags": {
-				"name:fi": "Akabanlahti"
 			}
 		},
 		{
@@ -117,7 +108,7 @@
 		{
 			"type": "node",
 			"id": 462226505,
-			"lat": -18.6243749,
+			"lat": -17.0243749,
 			"lon": -144.6434898,
 			"tags": {
 				"name:fi": "Ranskan Polynesia"
@@ -292,15 +283,6 @@
 			"lon": 35.2888075,
 			"tags": {
 				"name:fi": "Juudea & Samaria"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1499533875,
-			"lat": 34.8614187,
-			"lon": 133.1261204,
-			"tags": {
-				"name:fi": "Chūgoku"
 			}
 		},
 		{
@@ -499,6 +481,15 @@
 			"lon": 27,
 			"tags": {
 				"name:fi": "Järvi-Suomi"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6307688872,
+			"lat": 63.8309894,
+			"lon": 40.8910913,
+			"tags": {
+				"name:fi": "Arkangelin alue"
 			}
 		}
 	]

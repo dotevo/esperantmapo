@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:58:02Z",
+		"timestamp_osm_base": "2019-04-27T22:46:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -112,8 +112,9 @@
 			"lat": 49.7546004,
 			"lon": 16.472588,
 			"tags": {
-				"designation": "muzeum",
+				"designation": "museum",
 				"esperanto": "yes",
+				"museum": "language",
 				"name": "Muzeum Esperanta",
 				"name:de": "Esperanto-Museum",
 				"name:eo": "Esperanto-Muzeo",
@@ -126,14 +127,14 @@
 		{
 			"type": "node",
 			"id": 2480708098,
-			"lat": 42.9764605,
-			"lon": 47.5024497,
+			"lat": 42.9764595,
+			"lon": 47.502449,
 			"tags": {
 				"addr:city": "Махачкала",
 				"addr:country": "RU",
 				"addr:housenumber": "32",
 				"addr:postcode": "367000",
-				"addr:street": "улица Батырая",
+				"addr:street": "Батырая улица",
 				"amenity": "restaurant",
 				"esperanto": "yes",
 				"name": "Эсперанто"
@@ -142,12 +143,12 @@
 		{
 			"type": "node",
 			"id": 2487157063,
-			"lat": 53.1334554,
-			"lon": 23.1571521,
+			"lat": 53.1334564,
+			"lon": 23.1570715,
 			"tags": {
 				"esperanto": "yes",
 				"historic": "memorial",
-				"inscription": "Ludwik Zamenhof\n1859-1917",
+				"inscription": "Ludwik Zamenhof 1859-1917",
 				"memorial": "statue",
 				"name": "Pomnik Ludwika Zamenhofa",
 				"name:eo": "Monumento al Ludoviko Zamenhof"
@@ -224,11 +225,10 @@
 		{
 			"type": "node",
 			"id": 2790260874,
-			"lat": 59.9317384,
-			"lon": 10.7836012,
+			"lat": 59.931738,
+			"lon": 10.783601,
 			"tags": {
 				"addr:city": "Oslo",
-				"addr:country": "NO",
 				"addr:housenumber": "18",
 				"addr:postcode": "0572",
 				"addr:street": "Olaf Schous vei",
@@ -329,7 +329,7 @@
 				"office": "ngo",
 				"phone": "+55 21 2467 4296",
 				"training": "language",
-				"website": "http://www.aerj.org.br"
+				"website": "https://www.aerj.org.br/"
 			}
 		},
 		{
@@ -389,7 +389,6 @@
 				"contact:facebook": "https://www.facebook.com/pages/Esperanto-Cafe/105654522829301",
 				"email": "kawiarnia@esperanto-cafe.pl",
 				"esperanto": "yes",
-				"height": "0.5",
 				"language:eo": "yes",
 				"name": "Esperanto Cafe",
 				"opening_hours": "09:00-24:00; Fr 09:00-02:00; Sa 10:00-02:00; Su 10:00-24:00",
@@ -629,10 +628,12 @@
 				"cuisine": "japanese",
 				"description:eo": "Esperanto-vegana kafejo en la centro de Tokio, proksime de Japana Esperanto-Instituto.",
 				"diet:vegan": "only",
+				"email": "vendredo2010@gmail.com",
 				"esperanto": "yes",
 				"facebook": "https://www.facebook.com/kafejosojo/",
 				"internet_access": "wlan",
 				"internet_access:fee": "no",
+				"internet_access:ssid": "SOJO-GASTOJ",
 				"language:eo": "yes",
 				"name": "SOJO",
 				"name:eo": "SOJO",
@@ -643,8 +644,10 @@
 				"payment:cash": "yes",
 				"payment:discover_card": "yes",
 				"payment:mastercard": "yes",
+				"payment:paypay": "yes",
 				"payment:visa": "yes",
 				"phone": "+81 3 3922 2030;+81 36302 1639",
+				"smoking": "no",
 				"source": "Bing",
 				"wikidata": "Q28804296",
 				"wikipedia": "eo:SOJO"
@@ -661,7 +664,8 @@
 				"level": "3",
 				"name:eo": "Biblioteko de JEI",
 				"operator": "Japana Esperanto Instituto",
-				"website": "http://www.jei.or.jp/hp/materialo/bibli_e.htm"
+				"website": "http://www.jei.or.jp/hp/materialo/bibli_e.htm",
+				"wikimedia_commons": "https://commons.wikimedia.org/wiki/File:Biblioteko_de_JEI.jpg"
 			}
 		},
 		{
@@ -739,8 +743,10 @@
 				"amenity": "library",
 				"books:language:eo": "yes",
 				"books:language:ja": "yes",
+				"description:en": "Library about vegetarianism",
+				"description:eo": "Biblioteko pri veganismo",
+				"description:es": "Biblioteca sobre vegetarianismo",
 				"name": "ベジ図書館",
-				"name:eo": "Biblioteko pri veganismo",
 				"operator": "SOJO"
 			}
 		},
@@ -832,11 +838,10 @@
 			"lat": 52.9429461,
 			"lon": -2.1656437,
 			"tags": {
-				"addr:housename": "Wedgwood Memorial College",
-				"amenity": "library",
 				"books:language:eo": "yes",
 				"esperanto": "yes",
 				"fixme": "confirm position",
+				"historic:amenity": "library",
 				"name": "Montagu C. Butler Library",
 				"name:eo": "Biblioteko Butler",
 				"name:etymology:wikidata": "Q18449",
@@ -851,7 +856,6 @@
 			"lat": 52.942896,
 			"lon": -2.1656329,
 			"tags": {
-				"addr:housename": "Wedgwood Memorial College",
 				"esperanto": "yes",
 				"fixme": "confirm position",
 				"name": "Esperanto Association of Britain",
@@ -947,7 +951,8 @@
 				"fixme": "confirm position",
 				"historic": "monument",
 				"inscription": "Unu Dio, Unu Mondo, Unu Interlingvo",
-				"religion": "oomoto"
+				"religion": "oomoto",
+				"wikidata": "Q61987558"
 			}
 		},
 		{
@@ -980,6 +985,59 @@
 				"name": "Kamień Światowego Centrum Esperanta",
 				"name:eo": "Ŝtono de la Monda Centro de Esperanto",
 				"name:pl": "Kamień Światowego Centrum Esperanta"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6162248364,
+			"lat": 34.9024991,
+			"lon": 117.5329854,
+			"tags": {
+				"addr:city": "枣庄市",
+				"addr:district": "中区",
+				"addr:postcode": "CN-277160",
+				"addr:province": "山东省",
+				"email": "semio@163.com",
+				"esperanto": "yes",
+				"fixme": "confirm position and move this POI",
+				"museum": "language",
+				"name": "世界语博物馆",
+				"name:eo": "Ĉina Esperanto-Muzeo",
+				"phone": "+86-632-3786905",
+				"start_date": "2013",
+				"tourism": "museum",
+				"website": "http://www.e-muzeo.com/",
+				"wikidata": "Q12349314",
+				"wikipedia": "eo:Internacia Esperanto-Muzeo en Zaozhuang"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6164973110,
+			"lat": 34.6945245,
+			"lon": 117.5411282,
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "世界语文化森林公园",
+				"name:eo": "Esperanto-parko"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6312061678,
+			"lat": 37.5615394,
+			"lon": 126.9876398,
+			"tags": {
+				"addr:city": "명동",
+				"addr:housenumber": "04537",
+				"addr:street": "서울특별시",
+				"club": "culture",
+				"esperanto": "yes",
+				"name:eo": "Seula Esperanto-Kulturcentro",
+				"short_name": "SEK",
+				"wikidata": "Q12355093",
+				"wikipedia": "eo:Seula Esperanto-Kulturcentro"
 			}
 		},
 		{
@@ -1120,7 +1178,8 @@
 				"lon": 4.6721898
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1133,7 +1192,8 @@
 				"lon": 4.6722694
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1146,7 +1206,8 @@
 				"lon": 4.6731566
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1183,11 +1244,12 @@
 			"type": "way",
 			"id": 6628153,
 			"center": {
-				"lat": 52.5127341,
-				"lon": 4.6704199
+				"lat": 52.5127184,
+				"lon": 4.6704363
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1196,11 +1258,12 @@
 			"type": "way",
 			"id": 6628166,
 			"center": {
-				"lat": 52.5125988,
-				"lon": 4.6713248
+				"lat": 52.5125896,
+				"lon": 4.6713353
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1209,13 +1272,15 @@
 			"type": "way",
 			"id": 6766827,
 			"center": {
-				"lat": 50.8638614,
-				"lon": 5.8864886
+				"lat": 50.8638624,
+				"lon": 5.8864767
 			},
 			"tags": {
-				"highway": "living_street",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143",
+				"surface": "paving_stones",
 				"wikidata": "Q19120282"
 			}
 		},
@@ -1223,13 +1288,15 @@
 			"type": "way",
 			"id": 6766863,
 			"center": {
-				"lat": 50.8635347,
-				"lon": 5.8863597
+				"lat": 50.863533,
+				"lon": 5.8863445
 			},
 			"tags": {
-				"highway": "living_street",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143",
+				"surface": "paving_stones",
 				"wikidata": "Q19120282"
 			}
 		},
@@ -1237,13 +1304,15 @@
 			"type": "way",
 			"id": 6766882,
 			"center": {
-				"lat": 50.8638764,
-				"lon": 5.8862759
+				"lat": 50.8638636,
+				"lon": 5.8862932
 			},
 			"tags": {
-				"highway": "living_street",
+				"highway": "residential",
+				"maxspeed": "30",
 				"name": "Esperantoplein",
 				"name:etymology:wikidata": "Q143",
+				"surface": "paving_stones",
 				"wikidata": "Q19120282"
 			}
 		},
@@ -1355,8 +1424,8 @@
 			"type": "way",
 			"id": 7493542,
 			"center": {
-				"lat": 52.0752681,
-				"lon": 4.2921245
+				"lat": 52.0752673,
+				"lon": 4.2921039
 			},
 			"tags": {
 				"highway": "service",
@@ -1578,6 +1647,20 @@
 		},
 		{
 			"type": "way",
+			"id": 25506829,
+			"center": {
+				"lat": 49.4506637,
+				"lon": 7.7681546
+			},
+			"tags": {
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Esperantostraße",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
 			"id": 26185649,
 			"center": {
 				"lat": 42.5190502,
@@ -1597,7 +1680,9 @@
 				"lon": 3.7676563
 			},
 			"tags": {
+				"cycleway:both": "no",
 				"highway": "residential",
+				"lit": "yes",
 				"name": "Esperantostraat",
 				"name:etymology:wikidata": "Q143"
 			}
@@ -1794,7 +1879,8 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Есперанто",
-				"ref": "1231"
+				"ref": "1231",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -1901,8 +1987,8 @@
 			"type": "way",
 			"id": 35448492,
 			"center": {
-				"lat": 53.1343255,
-				"lon": 23.1602112
+				"lat": 53.1343304,
+				"lon": 23.160203
 			},
 			"tags": {
 				"cycleway": "opposite",
@@ -1997,8 +2083,8 @@
 			"type": "way",
 			"id": 40736056,
 			"center": {
-				"lat": -1.4057363,
-				"lon": -48.4458613
+				"lat": -1.4057195,
+				"lon": -48.4458693
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -2120,7 +2206,9 @@
 				"esperanto": "yes",
 				"name": "Esperantoplatz",
 				"place": "square",
-				"wikimedia_commons": "Category:Esperantoplatz (Berlin-Neukölln)"
+				"wikidata": "Q1368133",
+				"wikimedia_commons": "Category:Esperantoplatz (Berlin-Neukölln)",
+				"wikipedia": "de:Esperantoplatz_(Berlin)"
 			}
 		},
 		{
@@ -2256,20 +2344,6 @@
 		},
 		{
 			"type": "way",
-			"id": 77212639,
-			"center": {
-				"lat": 50.278246,
-				"lon": 2.7785926
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Rue Zamenhof",
-				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-			}
-		},
-		{
-			"type": "way",
 			"id": 80042160,
 			"center": {
 				"lat": 53.1208896,
@@ -2328,7 +2402,8 @@
 				"highway": "residential",
 				"maxspeed": "50",
 				"name": "Rue de l'Espéranto",
-				"name:etymology:wikidata": "Q143"
+				"name:etymology:wikidata": "Q143",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2389,7 +2464,7 @@
 			"id": 98031883,
 			"center": {
 				"lat": 51.8124112,
-				"lon": 4.6888364
+				"lon": 4.6890019
 			},
 			"tags": {
 				"highway": "service",
@@ -2693,7 +2768,7 @@
 			"type": "way",
 			"id": 151221195,
 			"center": {
-				"lat": 51.7622358,
+				"lat": 51.7622357,
 				"lon": 19.4565502
 			},
 			"tags": {
@@ -2702,7 +2777,7 @@
 				"maxspeed": "30",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes",
+				"oneway": "no",
 				"ref": "1188E",
 				"source:maxspeed": "PL:zone:30",
 				"surface": "asphalt"
@@ -2781,8 +2856,8 @@
 			"type": "way",
 			"id": 157467342,
 			"center": {
-				"lat": 42.1888664,
-				"lon": 24.3342273
+				"lat": 42.188873,
+				"lon": 24.3342455
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -2839,8 +2914,8 @@
 			"type": "way",
 			"id": 164610075,
 			"center": {
-				"lat": 51.7620475,
-				"lon": 19.4542319
+				"lat": 51.7620474,
+				"lon": 19.454232
 			},
 			"tags": {
 				"highway": "tertiary",
@@ -2973,6 +3048,20 @@
 				"highway": "residential",
 				"name": "Rua Suda Stelaro",
 				"name:etymology:wikidata": "Q12355423"
+			}
+		},
+		{
+			"type": "way",
+			"id": 170498326,
+			"center": {
+				"lat": 41.383246,
+				"lon": 1.7939887
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Carrer del Doctor Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -3216,6 +3305,7 @@
 				"name": "Esperanto Insulo",
 				"name:en": "Esperanto Island",
 				"name:eo": "Esperanto Insulo",
+				"name:es": "Isla Esperanto",
 				"name:etymology:wikidata": "Q143",
 				"name:pt": "Ilha Esperanto",
 				"natural": "coastline",
@@ -3407,7 +3497,7 @@
 			"id": 262199768,
 			"center": {
 				"lat": -18.9026681,
-				"lon": 47.527291
+				"lon": 47.5273097
 			},
 			"tags": {
 				"highway": "residential",
@@ -3469,8 +3559,11 @@
 			},
 			"tags": {
 				"highway": "unclassified",
+				"maxspeed": "30",
+				"maxspeed:type": "NL:zone30",
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
+				"surface": "asphalt",
 				"wikidata": "Q19120276"
 			}
 		},
@@ -3511,8 +3604,8 @@
 			"type": "way",
 			"id": 279500824,
 			"center": {
-				"lat": 53.1368655,
-				"lon": 6.8692515
+				"lat": 53.1368667,
+				"lon": 6.8692661
 			},
 			"tags": {
 				"highway": "residential",
@@ -3683,8 +3776,11 @@
 				"lon": 6.9467764
 			},
 			"tags": {
+				"bicycle": "no",
+				"foot": "no",
 				"highway": "tertiary",
 				"maxspeed": "50",
+				"mofa": "no",
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
@@ -3699,8 +3795,11 @@
 				"lon": 6.9467712
 			},
 			"tags": {
+				"bicycle": "no",
+				"foot": "no",
 				"highway": "tertiary",
 				"maxspeed": "50",
+				"mofa": "no",
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
@@ -3711,8 +3810,8 @@
 			"type": "way",
 			"id": 289911660,
 			"center": {
-				"lat": 52.9917235,
-				"lon": 6.9477282
+				"lat": 52.9917568,
+				"lon": 6.9477877
 			},
 			"tags": {
 				"highway": "tertiary",
@@ -3726,8 +3825,8 @@
 			"type": "way",
 			"id": 290280654,
 			"center": {
-				"lat": -25.4183266,
-				"lon": -49.2609559
+				"lat": -25.4183254,
+				"lon": -49.260956
 			},
 			"tags": {
 				"highway": "residential",
@@ -3805,17 +3904,19 @@
 				"esperanto": "yes",
 				"fee": "yes",
 				"level": "0",
+				"museum": "language",
 				"name": "Esperantomuseum",
 				"name:en": "Esperanto Museum and Collection of Planned Languages",
 				"name:eo": "Esperantomuzeo kaj kolekto por planlingvoj",
 				"opening_hours": "Tu-Su 10:00-18:00",
 				"operator": "Österreichische Nationalbibliothek",
 				"start_date": "1927",
+				"toilets:wheelchair": "yes",
 				"tourism": "museum",
 				"website": "https://www.onb.ac.at/museen/esperantomuseum/",
+				"wheelchair": "yes",
 				"wikidata": "Q686443",
-				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj",
-				"wikipedia_1": "de:Esperantomuseum"
+				"wikipedia": "eo:Esperantomuzeo kaj Kolekto por Planlingvoj"
 			}
 		},
 		{
@@ -4045,8 +4146,8 @@
 			"type": "way",
 			"id": 402824900,
 			"center": {
-				"lat": 53.2080924,
-				"lon": 6.5795632
+				"lat": 53.2080915,
+				"lon": 6.5795661
 			},
 			"tags": {
 				"highway": "tertiary",
@@ -4122,8 +4223,8 @@
 			"type": "way",
 			"id": 452313374,
 			"center": {
-				"lat": 52.0746362,
-				"lon": 4.2926163
+				"lat": 52.0746354,
+				"lon": 4.2925955
 			},
 			"tags": {
 				"highway": "residential",
@@ -4257,7 +4358,7 @@
 				"name:eo": "Esperanto-Domo",
 				"name:ja_rm": "Esperanto-Kaikan",
 				"tourism": "hotel",
-				"website": "http://ha3.seikyou.ne.jp/home/setuko/esperanto.html",
+				"website": "https://ha3.seikyou.ne.jp/home/setuko/esperanto.html",
 				"wikidata": "Q42306289"
 			}
 		},
@@ -4659,6 +4760,38 @@
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 649286342,
+			"center": {
+				"lat": 52.9913092,
+				"lon": 6.9469872
+			},
+			"tags": {
+				"bicycle": "no",
+				"foot": "no",
+				"highway": "tertiary",
+				"maxspeed": "30",
+				"mofa": "no",
+				"name": "Esperantolaan",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120280"
+			}
+		},
+		{
+			"type": "way",
+			"id": 673462577,
+			"center": {
+				"lat": 51.812544,
+				"lon": 4.6882193
+			},
+			"tags": {
+				"highway": "service",
+				"name": "Doctor L.L. Zamenhoflaan",
+				"name:etymology:wikidata": "Q11758",
+				"wikidata": "Q19017089"
 			}
 		}
 	]

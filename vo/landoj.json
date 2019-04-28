@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:44:02Z",
+		"timestamp_osm_base": "2019-04-27T22:31:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -755,15 +755,6 @@
 		},
 		{
 			"type": "node",
-			"id": 424311942,
-			"lat": -4.7993356,
-			"lon": 114.5632032,
-			"tags": {
-				"name:vo": "Lindäna-Seänuäns"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424311955,
 			"lat": 6.9518742,
 			"lon": 170.9985095,
@@ -877,15 +868,6 @@
 			"lon": 24.5928742,
 			"tags": {
 				"name:vo": "Zvanän"
-			}
-		},
-		{
-			"type": "node",
-			"id": 424313760,
-			"lat": 61.0666922,
-			"lon": -107.9917071,
-			"tags": {
-				"name:vo": "Kanadän"
 			}
 		},
 		{
@@ -1179,8 +1161,8 @@
 		{
 			"type": "node",
 			"id": 424316758,
-			"lat": 8.3096067,
-			"lon": -81.3066246,
+			"lat": 8.559559,
+			"lon": -81.1308434,
 			"tags": {
 				"name:vo": "Panamän"
 			}
@@ -1805,15 +1787,6 @@
 			"lon": 20.9021231,
 			"tags": {
 				"name:vo": "Kosovän"
-			}
-		},
-		{
-			"type": "node",
-			"id": 5903953013,
-			"lat": 14.4750607,
-			"lon": -14.4529612,
-			"tags": {
-				"name:vo": "Senegalän"
 			}
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:53:02Z",
+		"timestamp_osm_base": "2019-04-27T22:40:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -59,8 +59,8 @@
 		{
 			"type": "node",
 			"id": 260047312,
-			"lat": 51.3942415,
-			"lon": 7.0551709,
+			"lat": 51.3942214,
+			"lon": 7.0551653,
 			"tags": {
 				"contact:website": "http://www.rusis.de/",
 				"emergency": "access_point",
@@ -253,6 +253,7 @@
 				"currency:EUR": "yes",
 				"currency:others": "no",
 				"dispensing": "yes",
+				"emergency:iodine_tablets": "yes",
 				"healthcare": "pharmacy",
 				"indoor": "yes",
 				"language:ar": "yes",
@@ -381,8 +382,8 @@
 		{
 			"type": "node",
 			"id": 379783374,
-			"lat": 51.3873326,
-			"lon": 7.0736141,
+			"lat": 51.3878488,
+			"lon": 7.0749064,
 			"tags": {
 				"contact:website": "http://www.rusis.de/",
 				"emergency": "access_point",
@@ -551,11 +552,12 @@
 				"contact:email": "witten@apotheken-im-real.de",
 				"contact:fax": "+49 2302 9738710",
 				"contact:phone": "+49 2302 973870",
-				"contact:website": "http://www.apotheken-im-real.de/witten-annen/",
+				"contact:website": "https://www.apotheke-real-witten.de/",
 				"contact:yelp": "apotheke-im-real-witten",
 				"currency:EUR": "yes",
 				"currency:others": "no",
 				"dispensing": "yes",
+				"emergency:iodine_tablets": "yes",
 				"healthcare": "pharmacy",
 				"indoor": "yes",
 				"language:de": "main",
@@ -568,7 +570,7 @@
 				"name": "Apotheke im Real",
 				"official_name": "Apotheke im real,–",
 				"old_name:etymology:wikidata": "Q698473",
-				"opening_hours": "Mo-Sa 08:00-20:00; PH off",
+				"opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
 				"operator": "Klaus Kogelheide",
 				"operator:type": "private",
 				"payment:american_express": "yes",
@@ -1045,11 +1047,13 @@
 				"contact:website": "https://www.fahrschule-schaefer.de/",
 				"currency:EUR": "yes",
 				"currency:others": "no",
+				"image": "https://web.archive.org/web/20181212133243if_/https://d1cuyjsrcm0gby.cloudfront.net/tzpm8YRJBWjedIim1ulKtQ/thumb-2048.jpg",
 				"indoor": "yes",
 				"language:de": "main",
 				"language:en": "yes",
 				"language:pl": "yes",
 				"level": "0",
+				"mapillary": "tzpm8YRJBWjedIim1ulKtQ",
 				"name": "Fahrschule Schäfer",
 				"opening_hours": "Mo,We-Th 17:00+; PH off",
 				"operator": "Fahrschule Schäfer GmbH",
@@ -1339,6 +1343,40 @@
 				"operator": "Ruhr-Standort-Informationssystem",
 				"operator:abbr": "RuSIS",
 				"ref": "5861"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1091789314,
+			"lat": 52.345607,
+			"lon": 14.5470048,
+			"tags": {
+				"addr:city": "Frankfurt (Oder)",
+				"addr:housenumber": "12",
+				"addr:postcode": "15230",
+				"addr:street": "Halbe Stadt",
+				"after_school": "no",
+				"amenity": "kindergarten",
+				"denomination": "lutheran",
+				"email": "info@kindergarten-gertraud-marien.de",
+				"fax": "(0335) 5008692",
+				"fee": "yes",
+				"language:de": "main",
+				"language:pl": "yes",
+				"lunch": "yes",
+				"max_age": "6",
+				"min_age": "1",
+				"name": "Ev. Kindergarten Getraud-Marien",
+				"nursery": "yes",
+				"opening_hours": "Mo-Fr 6:30-16:30; PH off",
+				"operator": "Ev. Kirchengemeinde Frankfurt (Oder)-Lebus",
+				"operator:type": "religious",
+				"phone": "(0335) 542324",
+				"preschool": "yes",
+				"religion": "christian",
+				"start_date": "2004",
+				"website": "http://www.kindergarten-gertraud-marien.de/",
+				"wheelchair": "no"
 			}
 		},
 		{
@@ -2578,8 +2616,8 @@
 		{
 			"type": "node",
 			"id": 3721283269,
-			"lat": 51.4042501,
-			"lon": 7.1702115,
+			"lat": 51.4042591,
+			"lon": 7.1702061,
 			"tags": {
 				"contact:website": "http://www.rusis.de/",
 				"emergency": "access_point",
@@ -2922,8 +2960,10 @@
 				"contact:website": "http://www.augenarzt-witten.de/",
 				"healthcare": "doctor",
 				"healthcare:speciality": "ophthalmology",
+				"indoor": "yes",
 				"language:de": "main",
 				"language:pl": "yes",
+				"level": "1",
 				"name": "Dr. Luchs",
 				"official_name": "Augenarztpraxis Dr. Richard Luchs",
 				"opening_hours": "Mo, Th 08:00-11:00, 15:00-17:00; Tu-We, Fr 08:00-11:00; PH off",
@@ -3096,7 +3136,7 @@
 				"contact:email": "praxis-fs@gmx.de",
 				"contact:fax": "+49 2302 690276",
 				"contact:phone": "+49 2302 690972",
-				"contact:website": "http://www.frauenaerztinnen-witten.de/",
+				"contact:website": "https://www.frauenaerztinnen-witten.de/",
 				"description": "Gemeinschaftspraxis",
 				"healthcare": "doctor",
 				"healthcare:speciality": "gynaecology;anthroposophical",
@@ -5753,8 +5793,8 @@
 		{
 			"type": "node",
 			"id": 4692156996,
-			"lat": 51.4217329,
-			"lon": 7.1444288,
+			"lat": 51.421736,
+			"lon": 7.1444328,
 			"tags": {
 				"FIXME": "laut RuSIS weiter östlich",
 				"alt_name": "Schwimmbrücke Dahlhausen UL",
@@ -6037,8 +6077,8 @@
 		{
 			"type": "node",
 			"id": 5203217321,
-			"lat": 53.7654768,
-			"lon": 16.0925727,
+			"lat": 53.7654755,
+			"lon": 16.0925683,
 			"tags": {
 				"amenity": "atm",
 				"cash_in": "yes",
@@ -7679,6 +7719,89 @@
 			}
 		},
 		{
+			"type": "node",
+			"id": 6100333809,
+			"lat": 50.6676717,
+			"lon": 6.7846506,
+			"tags": {
+				"addr:city": "Euskirchen",
+				"addr:country": "DE",
+				"addr:housenumber": "49",
+				"addr:postcode": "53879",
+				"addr:street": "Carmanstraße",
+				"contact:fax": "+49 2251 54282",
+				"contact:phone": "+49 2251 781353",
+				"language:de": "main",
+				"language:pl": "yes",
+				"language:ru": "yes",
+				"name": "Übersetzungs- und Dolmetschdienst Ahlers",
+				"office": "translation",
+				"operator": "Roswitha Ahlers"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6276337854,
+			"lat": 51.4376648,
+			"lon": 7.3295348,
+			"tags": {
+				"addr:city": "Witten",
+				"addr:country": "DE",
+				"addr:housenumber": "64",
+				"addr:postcode": "58452",
+				"addr:street": "Bahnhofstraße",
+				"addr:suburb": "Mitte",
+				"amenity": "vending_machine",
+				"colour": "gray",
+				"contact:facebook": "https://www.facebook.com/Witten-Internet-Cafe-und-Call-Shop-202343256998370/",
+				"contact:mobile": "+49 157 5629806",
+				"description": "Amazon Locker im Witten Internet Café & Call Shop",
+				"indoor": "yes",
+				"language:cs": "yes",
+				"language:de": "main",
+				"language:en": "yes",
+				"language:es": "yes",
+				"language:fr": "yes",
+				"language:it": "yes",
+				"language:pl": "yes",
+				"language:tr": "yes",
+				"level": "0",
+				"material": "metal",
+				"opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su,PH off",
+				"operator": "Amazon",
+				"operator:type": "private",
+				"operator:wikidata": "Q3884",
+				"start_date": "2018",
+				"vending": "parcel_pickup",
+				"wheelchair": "yes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6356695872,
+			"lat": 51.3973514,
+			"lon": 7.0568428,
+			"tags": {
+				"contact:website": "http://www.rusis.de/",
+				"emergency": "access_point",
+				"emergency_telephone_code": "112",
+				"highway": "emergency_access_point",
+				"language:de": "main",
+				"language:en": "yes",
+				"language:es": "yes",
+				"language:fr": "yes",
+				"language:others": "no",
+				"language:pl": "yes",
+				"language:ru": "yes",
+				"language:tr": "yes",
+				"name": "RuSIS 3390",
+				"network": "RuSIS",
+				"operator": "Ruhr-Standort-Informationssystem",
+				"operator:abbr": "RuSIS",
+				"ref": "3390"
+			}
+		},
+		{
 			"type": "way",
 			"id": 30029791,
 			"center": {
@@ -7737,6 +7860,28 @@
 				"operator": "Ingo Kasprzak",
 				"roof:colour": "black",
 				"roof:shape": "flat"
+			}
+		},
+		{
+			"type": "way",
+			"id": 149548304,
+			"center": {
+				"lat": 47.7604842,
+				"lon": 27.918908
+			},
+			"tags": {
+				"addr:housenumber": "98A",
+				"addr:street": "Strada Sfîntul Nicolae",
+				"addr:street:ru": "ул. Святого Николая",
+				"amenity": "school",
+				"language:en": "yes",
+				"language:pl": "yes",
+				"language:ro": "yes",
+				"language:ru": "main",
+				"name": "Liceul Teoretic „Dimitrie Cantemir”",
+				"name:ru": "Теоретический лицей им. Дмитрия Кантемира",
+				"phone": "+373 231 234 58",
+				"website": "http://dcantemir.md"
 			}
 		},
 		{

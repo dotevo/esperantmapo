@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:45:02Z",
+		"timestamp_osm_base": "2019-04-27T22:34:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -54,8 +54,8 @@
 		{
 			"type": "node",
 			"id": 26150422,
-			"lat": 50.4501071,
-			"lon": 30.5240501,
+			"lat": 50.4500644,
+			"lon": 30.5241037,
 			"tags": {
 				"name:vo": "Küyiv",
 				"alt_name:vo": "Kiev"
@@ -145,8 +145,8 @@
 		{
 			"type": "node",
 			"id": 27565085,
-			"lat": 11.593665,
-			"lon": 43.14724,
+			"lat": 11.5936903,
+			"lon": 43.1472724,
 			"tags": {
 				"name:vo": "Cibutän"
 			}
@@ -288,6 +288,15 @@
 		},
 		{
 			"type": "node",
+			"id": 130040361,
+			"lat": 40.1776121,
+			"lon": 44.5125849,
+			"tags": {
+				"name:vo": "Yerevan"
+			}
+		},
+		{
+			"type": "node",
 			"id": 150936508,
 			"lat": 48.118146,
 			"lon": -123.4307413,
@@ -316,8 +325,8 @@
 		{
 			"type": "node",
 			"id": 158368533,
-			"lat": 38.8950712,
-			"lon": -77.0362758,
+			"lat": 38.8948932,
+			"lon": -77.0365529,
 			"tags": {
 				"name:vo": "Washington"
 			}
@@ -409,7 +418,7 @@
 			"lat": 48.5717084,
 			"lon": 39.2973153,
 			"tags": {
-				"name:vo": "Lugansk"
+				"name:vo": "Luhansk"
 			}
 		},
 		{
@@ -496,8 +505,8 @@
 		{
 			"type": "node",
 			"id": 358015168,
-			"lat": 35.1601443,
-			"lon": 126.8513006,
+			"lat": 35.1600759,
+			"lon": 126.8517299,
 			"tags": {
 				"name:vo": "Gwangju"
 			}
@@ -532,8 +541,8 @@
 		{
 			"type": "node",
 			"id": 472114145,
-			"lat": 14.6417889,
-			"lon": -90.5132239,
+			"lat": 14.6222328,
+			"lon": -90.5185188,
 			"tags": {
 				"name:vo": "Ciudad de Guatemala"
 			}

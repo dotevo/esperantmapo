@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.5 2ca3f387",
+	"generator": "Overpass API 0.7.55.6 486819c8",
 	"osm3s": {
-		"timestamp_osm_base": "2018-11-23T07:56:02Z",
+		"timestamp_osm_base": "2019-04-27T22:44:01Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -206,15 +206,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244080661,
-			"lat": 31,
-			"lon": 112,
-			"tags": {
-				"name:eo": "Hubejo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244080670,
 			"lat": 27.9995878,
 			"lon": 112.009538,
@@ -278,15 +269,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244081488,
-			"lat": 36,
-			"lon": 96,
-			"tags": {
-				"name:eo": "Ĉinghajo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244081618,
 			"lat": 37,
 			"lon": 112,
@@ -332,15 +314,6 @@
 		},
 		{
 			"type": "node",
-			"id": 244082468,
-			"lat": 32.0000002,
-			"lon": 89.9999998,
-			"tags": {
-				"name:eo": "Tibeto"
-			}
-		},
-		{
-			"type": "node",
 			"id": 244082773,
 			"lat": 25,
 			"lon": 102,
@@ -382,15 +355,6 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:eo": "Svalbardo kaj Jan-Majen-insulo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 278473326,
-			"lat": 28.877831,
-			"lon": 34.7299308,
-			"tags": {
-				"name:eo": "Akaba Golfo"
 			}
 		},
 		{
@@ -1923,7 +1887,7 @@
 			"lat": 4.0039882,
 			"lon": -52.999998,
 			"tags": {
-				"name:eo": "Gujano"
+				"name:eo": "Franca Gviano"
 			}
 		},
 		{
@@ -2505,7 +2469,7 @@
 		{
 			"type": "node",
 			"id": 462226505,
-			"lat": -18.6243749,
+			"lat": -17.0243749,
 			"lon": -144.6434898,
 			"tags": {
 				"name:eo": "Franca Polinezio"
@@ -5013,42 +4977,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1491974656,
-			"lat": 35.0184485,
-			"lon": 135.7636518,
-			"tags": {
-				"name:eo": "Kansaja Regiono"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1499533875,
-			"lat": 34.8614187,
-			"lon": 133.1261204,
-			"tags": {
-				"name:eo": "Ĉugokua Regiono"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1504057971,
-			"lat": 32.7553476,
-			"lon": 131.1105741,
-			"tags": {
-				"name:eo": "Kjuŝua Regiono"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1504057972,
-			"lat": 33.7277915,
-			"lon": 133.5075229,
-			"tags": {
-				"name:eo": "Ŝikokua Regiono"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1600326740,
 			"lat": 14.6413957,
 			"lon": -90.5133626,
@@ -5136,15 +5064,6 @@
 			"lon": -1.4779797,
 			"tags": {
 				"name:eo": "Murcia Regiono"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1750191683,
-			"lat": 41.5,
-			"lon": 85.5,
-			"tags": {
-				"name:eo": "Ŝinĝjango"
 			}
 		},
 		{
@@ -5618,15 +5537,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1939592594,
-			"lat": 22.1899448,
-			"lon": 113.5380454,
-			"tags": {
-				"name:eo": "Makao"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1971329414,
 			"lat": -22.1646782,
 			"lon": 144.5844903,
@@ -5736,8 +5646,8 @@
 		{
 			"type": "node",
 			"id": 2237699954,
-			"lat": 10.3529588,
-			"lon": 76.5119752,
+			"lat": 10.3528744,
+			"lon": 76.5120396,
 			"tags": {
 				"name:eo": "Keralao"
 			}
@@ -5763,8 +5673,8 @@
 		{
 			"type": "node",
 			"id": 2240851562,
-			"lat": 28.3641989,
-			"lon": 94.7586273,
+			"lat": 27.6891712,
+			"lon": 96.4597226,
 			"tags": {
 				"name:eo": "Arunaĉal-Pradeŝo"
 			}
@@ -6020,15 +5930,6 @@
 			"lon": -70.5363079,
 			"tags": {
 				"name:eo": "Trujillo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2537777115,
-			"lat": 9.3538223,
-			"lon": -82.4559391,
-			"tags": {
-				"name:eo": "Bokas-del-Toro"
 			}
 		},
 		{
@@ -6448,15 +6349,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3099592097,
-			"lat": 60.0518829,
-			"lon": 10.6799603,
-			"tags": {
-				"name:eo": "Oslo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3140016266,
 			"lat": 45.7684014,
 			"lon": 39.0261044,
@@ -6694,16 +6586,6 @@
 		},
 		{
 			"type": "node",
-			"id": 4347988419,
-			"lat": 42.9903482,
-			"lon": 142.4962523,
-			"tags": {
-				"name:eo": "Hokajdo",
-				"alt_name:eo": "Hokkajdo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 4351432485,
 			"lat": 13.7538929,
 			"lon": 100.8160803,
@@ -6732,6 +6614,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4642463209,
+			"lat": 22.1757605,
+			"lon": 113.5514142,
+			"tags": {
+				"name:eo": "Macao"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4644141122,
 			"lat": 8.2158991,
 			"lon": -78.0172551,
@@ -6746,6 +6637,15 @@
 			"lon": -85.5464603,
 			"tags": {
 				"name:eo": "Jinotega"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6307688872,
+			"lat": 63.8309894,
+			"lon": 40.8910913,
+			"tags": {
+				"name:eo": "Regiono de Arkhangelsk"
 			}
 		}
 	]
