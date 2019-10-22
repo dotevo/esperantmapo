@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:44:01Z",
+		"timestamp_osm_base": "2019-10-22T11:09:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -291,7 +291,7 @@
 			"lat": 31.2322735,
 			"lon": 121.4691749,
 			"tags": {
-				"name:eo": "Ŝanghajo"
+				"name:eo": "Ŝanhajo"
 			}
 		},
 		{
@@ -355,6 +355,15 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:eo": "Svalbardo kaj Jan-Majen-insulo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271047515,
+			"lat": 18.0814066,
+			"lon": -63.0467131,
+			"tags": {
+				"name:eo": "Sankta Marteno (Francio)"
 			}
 		},
 		{
@@ -1190,15 +1199,6 @@
 		},
 		{
 			"type": "node",
-			"id": 305704543,
-			"lat": 6.27,
-			"lon": 125.6,
-			"tags": {
-				"name:eo": "Suda Davao"
-			}
-		},
-		{
-			"type": "node",
 			"id": 305704545,
 			"lat": 16.5735957,
 			"lon": 120.4089899,
@@ -1865,15 +1865,6 @@
 		},
 		{
 			"type": "node",
-			"id": 313467071,
-			"lat": 9.166667,
-			"lon": -69.25,
-			"tags": {
-				"name:eo": "Portugeso"
-			}
-		},
-		{
-			"type": "node",
 			"id": 313467090,
 			"lat": 11,
 			"lon": -69.833333,
@@ -2442,8 +2433,8 @@
 		{
 			"type": "node",
 			"id": 424298155,
-			"lat": -13.8173324,
-			"lon": -177.1489649,
+			"lat": -13.289402,
+			"lon": -176.204224,
 			"tags": {
 				"name:eo": "Valiso kaj Futuno"
 			}
@@ -3013,8 +3004,8 @@
 		{
 			"type": "node",
 			"id": 505013148,
-			"lat": 54.143148,
-			"lon": 17.9057338,
+			"lat": 54.24556,
+			"lon": 18.1099,
 			"tags": {
 				"name:eo": "Pomeria Provinco"
 			}
@@ -3166,8 +3157,8 @@
 		{
 			"type": "node",
 			"id": 519425071,
-			"lat": 51.4785568,
-			"lon": 7.5533645,
+			"lat": 51.4781796,
+			"lon": 7.5542336,
 			"tags": {
 				"name:eo": "Nordrejn-Vestfalio",
 				"alt_name:eo": "Nord-Rejno-Vestfalio"
@@ -3176,8 +3167,8 @@
 		{
 			"type": "node",
 			"id": 519436857,
-			"lat": 49.7497346,
-			"lon": 7.4396553,
+			"lat": 49.9531599,
+			"lon": 7.310646,
 			"tags": {
 				"name:eo": "Rejnlando-Palatinato"
 			}
@@ -3531,15 +3522,6 @@
 			"lon": 52.6959832,
 			"tags": {
 				"name:eo": "Udmurtio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 577354816,
-			"lat": 63.4736289,
-			"lon": 43.7199849,
-			"tags": {
-				"name:eo": "Arĥangelska Provinco"
 			}
 		},
 		{
@@ -5564,11 +5546,12 @@
 		},
 		{
 			"type": "node",
-			"id": 2050132586,
-			"lat": 52.5198535,
-			"lon": 13.4385964,
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
 			"tags": {
-				"name:eo": "Berlino"
+				"name:eo": "Ĉednestrio",
+				"alt_name:eo": "Transdnestrio;Transnistrio"
 			}
 		},
 		{
@@ -5799,7 +5782,7 @@
 		{
 			"type": "node",
 			"id": 2240991947,
-			"lat": 21.6637358,
+			"lat": 21.6637359,
 			"lon": 81.8406351,
 			"tags": {
 				"name:eo": "Ĉatisgaro"
@@ -6053,8 +6036,8 @@
 		{
 			"type": "node",
 			"id": 2854906389,
-			"lat": -17.333333,
-			"lon": -65.5,
+			"lat": -17.3330142,
+			"lon": -65.5010931,
 			"tags": {
 				"name:eo": "Koĉapampio"
 			}
@@ -6467,6 +6450,24 @@
 		},
 		{
 			"type": "node",
+			"id": 3925295239,
+			"lat": 45.2968119,
+			"lon": 4.6604809,
+			"tags": {
+				"name:eo": "Aŭvernjo-Rodano-Alpoj"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3925295241,
+			"lat": 43.6487851,
+			"lon": 2.3435684,
+			"tags": {
+				"name:eo": "Okcitanio"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4121045753,
 			"lat": 39.8592968,
 			"lon": 46.7572816,
@@ -6496,8 +6497,8 @@
 		{
 			"type": "node",
 			"id": 4289948986,
-			"lat": 51.2008195,
-			"lon": 5.9041916,
+			"lat": 51.2015196,
+			"lon": 5.9046302,
 			"tags": {
 				"name:eo": "Limburgo"
 			}
@@ -6641,11 +6642,29 @@
 		},
 		{
 			"type": "node",
+			"id": 6054338315,
+			"lat": 22.3272706,
+			"lon": 114.1898678,
+			"tags": {
+				"name:eo": "Kaŭluno"
+			}
+		},
+		{
+			"type": "node",
 			"id": 6307688872,
-			"lat": 63.8309894,
-			"lon": 40.8910913,
+			"lat": 63.5589686,
+			"lon": 43.1221646,
 			"tags": {
 				"name:eo": "Regiono de Arkhangelsk"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6509031094,
+			"lat": 6.6983658,
+			"lon": 125.3612135,
+			"tags": {
+				"name:eo": "Suda Davao"
 			}
 		}
 	]

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:56:01Z",
+		"timestamp_osm_base": "2019-10-07T10:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -81,8 +81,8 @@
 		{
 			"type": "node",
 			"id": 26150422,
-			"lat": 50.4500644,
-			"lon": 30.5241037,
+			"lat": 50.4500336,
+			"lon": 30.5241361,
 			"tags": {
 				"name:io": "Kyiv"
 			}
@@ -90,8 +90,8 @@
 		{
 			"type": "node",
 			"id": 26150437,
-			"lat": 46.4852419,
-			"lon": 30.7433894,
+			"lat": 46.4873195,
+			"lon": 30.7392776,
 			"tags": {
 				"name:io": "Odessa"
 			}
@@ -234,8 +234,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.0957848,
-			"lon": 37.5499253,
+			"lat": 47.095779,
+			"lon": 37.5499211,
 			"tags": {
 				"name:io": "Mariupol"
 			}
@@ -306,8 +306,8 @@
 		{
 			"type": "node",
 			"id": 60410873,
-			"lat": 46.965925,
-			"lon": 32.0034827,
+			"lat": 46.9737705,
+			"lon": 31.9853819,
 			"tags": {
 				"name:io": "Mykolaiv"
 			}
@@ -342,8 +342,8 @@
 		{
 			"type": "node",
 			"id": 72959652,
-			"lat": 41.894802,
-			"lon": 12.4853384,
+			"lat": 41.8933203,
+			"lon": 12.4829321,
 			"tags": {
 				"name:io": "Roma"
 			}
@@ -405,8 +405,8 @@
 		{
 			"type": "node",
 			"id": 191657470,
-			"lat": 53.71529,
-			"lon": 91.438873,
+			"lat": 53.7209024,
+			"lon": 91.442435,
 			"tags": {
 				"name:io": "Abakan"
 			}
@@ -441,8 +441,8 @@
 		{
 			"type": "node",
 			"id": 240025182,
-			"lat": 47.3769434,
-			"lon": 8.5414061,
+			"lat": 47.3723941,
+			"lon": 8.5423328,
 			"tags": {
 				"name:io": "Zürich"
 			}
@@ -472,6 +472,15 @@
 			"lon": 113.2592945,
 			"tags": {
 				"name:io": "Guangzhou"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244081381,
+			"lat": 32.0609736,
+			"lon": 118.7916458,
+			"tags": {
+				"name:io": "Nanjing"
 			}
 		},
 		{
@@ -540,8 +549,8 @@
 		{
 			"type": "node",
 			"id": 257363453,
-			"lat": 35.8494916,
-			"lon": 128.5599518,
+			"lat": 35.8713,
+			"lon": 128.6018,
 			"tags": {
 				"name:io": "Daegu"
 			}
@@ -549,8 +558,8 @@
 		{
 			"type": "node",
 			"id": 257363455,
-			"lat": 36.3496963,
-			"lon": 127.384902,
+			"lat": 36.3496,
+			"lon": 127.3848,
 			"tags": {
 				"name:io": "Daejon"
 			}
@@ -621,8 +630,8 @@
 		{
 			"type": "node",
 			"id": 299617915,
-			"lat": 36.775348,
-			"lon": 3.060065,
+			"lat": 36.7753606,
+			"lon": 3.0601882,
 			"tags": {
 				"name:io": "Aljer"
 			}
@@ -648,8 +657,8 @@
 		{
 			"type": "node",
 			"id": 358015168,
-			"lat": 35.1600759,
-			"lon": 126.8517299,
+			"lat": 35.1595775,
+			"lon": 126.8515089,
 			"tags": {
 				"name:io": "Gwangju"
 			}
@@ -674,15 +683,6 @@
 		},
 		{
 			"type": "node",
-			"id": 415150369,
-			"lat": 35.5487857,
-			"lon": 129.252024,
-			"tags": {
-				"name:io": "Ulsan"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424311883,
 			"lat": 41.9034912,
 			"lon": 12.4528349,
@@ -702,8 +702,8 @@
 		{
 			"type": "node",
 			"id": 428339515,
-			"lat": 52.2319237,
-			"lon": 21.0067265,
+			"lat": 52.2319581,
+			"lon": 21.0067249,
 			"tags": {
 				"name:io": "Warszawa"
 			}
@@ -729,8 +729,8 @@
 		{
 			"type": "node",
 			"id": 671806634,
-			"lat": 4.5980772,
-			"lon": -74.0761028,
+			"lat": 4.59808,
+			"lon": -74.0760439,
 			"tags": {
 				"name:io": "Bogota"
 			}
@@ -769,15 +769,6 @@
 			"lon": -175.2018085,
 			"tags": {
 				"name:io": "Nuku'alofa"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1091272140,
-			"lat": 33.5130695,
-			"lon": 36.3095814,
-			"tags": {
-				"name:io": "Damascus"
 			}
 		},
 		{
@@ -949,6 +940,15 @@
 			"lon": -61.3872868,
 			"tags": {
 				"name:io": "Roseau"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6612437350,
+			"lat": 35.5391697,
+			"lon": 129.3119136,
+			"tags": {
+				"name:io": "Ulsan"
 			}
 		}
 	]

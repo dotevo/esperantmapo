@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:38:02Z",
+		"timestamp_osm_base": "2019-10-22T11:02:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -283,6 +283,15 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:pl": "Svalbard i Jan Mayen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271047515,
+			"lat": 18.0814066,
+			"lon": -63.0467131,
+			"tags": {
+				"name:pl": "Saint-Martin (Francja)"
 			}
 		},
 		{
@@ -1350,8 +1359,8 @@
 		{
 			"type": "node",
 			"id": 424298155,
-			"lat": -13.8173324,
-			"lon": -177.1489649,
+			"lat": -13.289402,
+			"lon": -176.204224,
 			"tags": {
 				"name:pl": "Wallis i Futuna"
 			}
@@ -1647,8 +1656,8 @@
 		{
 			"type": "node",
 			"id": 486075807,
-			"lat": 33.4902495,
-			"lon": 48.3956441,
+			"lat": 33.5372643,
+			"lon": 48.2435197,
 			"tags": {
 				"name:pl": "Lorestan"
 			}
@@ -1953,8 +1962,8 @@
 		{
 			"type": "node",
 			"id": 505013148,
-			"lat": 54.143148,
-			"lon": 17.9057338,
+			"lat": 54.24556,
+			"lon": 18.1099,
 			"tags": {
 				"name:pl": "województwo pomorskie"
 			}
@@ -2115,8 +2124,8 @@
 		{
 			"type": "node",
 			"id": 519425071,
-			"lat": 51.4785568,
-			"lon": 7.5533645,
+			"lat": 51.4781796,
+			"lon": 7.5542336,
 			"tags": {
 				"name:pl": "Nadrenia Północna-Westfalia"
 			}
@@ -2272,15 +2281,6 @@
 			"lon": 52.6959832,
 			"tags": {
 				"name:pl": "Udmurcja"
-			}
-		},
-		{
-			"type": "node",
-			"id": 577354816,
-			"lat": 63.4736289,
-			"lon": 43.7199849,
-			"tags": {
-				"name:pl": "Obwód archangielski"
 			}
 		},
 		{
@@ -2910,7 +2910,7 @@
 			"lat": 46.2313018,
 			"lon": 45.3275745,
 			"tags": {
-				"name:pl": "Kałmucja"
+				"name:pl": "Republika Kałmucji"
 			}
 		},
 		{
@@ -3158,15 +3158,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1312442225,
-			"lat": 31.7835199,
-			"lon": 20.6215663,
-			"tags": {
-				"name:pl": "Bengazi"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1312442226,
 			"lat": 31.4667675,
 			"lon": 14.4927999,
@@ -3307,15 +3298,6 @@
 			"lon": 35.2888075,
 			"tags": {
 				"name:pl": "Zachodni Brzeg"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1529114740,
-			"lat": 10.726794,
-			"lon": 106.1909011,
-			"tags": {
-				"name:pl": "Prowincja Long An"
 			}
 		},
 		{
@@ -3536,33 +3518,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1850580646,
-			"lat": 37.2700459,
-			"lon": 127.1033484,
-			"tags": {
-				"name:pl": "Gyeonggi"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1853958141,
-			"lat": 37.8179963,
-			"lon": 128.2183835,
-			"tags": {
-				"name:pl": "Gangwon"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1869881765,
-			"lat": 36.478804,
-			"lon": 126.7697247,
-			"tags": {
-				"name:pl": "Chungcheong Południowy"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1883945002,
 			"lat": 41.007271,
 			"lon": 44.4900113,
@@ -3644,47 +3599,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1895837469,
-			"lat": 36.8584149,
-			"lon": 127.7095746,
-			"tags": {
-				"name:pl": "Ch'ungch'ŏng Północny"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1897951352,
-			"lat": 36.4004081,
-			"lon": 128.8611389,
-			"tags": {
-				"name:pl": "Gyeongsang Północny"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900114892,
-			"lat": 35.375617,
-			"lon": 128.3301115,
-			"tags": {
-				"name:pl": "Gyeongsang Południowy"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1900814181,
-			"lat": 35.7395078,
-			"lon": 127.1181259,
+			"lat": 35.8198999,
+			"lon": 127.109,
 			"tags": {
 				"name:pl": "Jeolla Północna"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900823975,
-			"lat": 34.9419628,
-			"lon": 126.9999005,
-			"tags": {
-				"name:pl": "Jeolla Południowa"
 			}
 		},
 		{
@@ -3708,8 +3627,8 @@
 		{
 			"type": "node",
 			"id": 1937453307,
-			"lat": 32.4625395,
-			"lon": -6.3543282,
+			"lat": 32.6407498,
+			"lon": -6.207105,
 			"tags": {
 				"name:pl": "Béni Mellal-Khénifra"
 			}
@@ -3829,6 +3748,15 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:pl": "Sahara Zachodnia"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:pl": "Naddniestrze"
 			}
 		},
 		{
@@ -4441,6 +4369,15 @@
 			"lon": -4.0422099,
 			"tags": {
 				"name:pl": "Abidżan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2833125787,
+			"lat": 22.2793278,
+			"lon": 114.1628131,
+			"tags": {
+				"name:pl": "Hongkong"
 			}
 		},
 		{
@@ -5472,10 +5409,19 @@
 		{
 			"type": "node",
 			"id": 6307688872,
-			"lat": 63.8309894,
-			"lon": 40.8910913,
+			"lat": 63.5589686,
+			"lon": 43.1221646,
 			"tags": {
 				"name:pl": "Obwód archangielski"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6786763859,
+			"lat": 54.2509764,
+			"lon": 17.6877136,
+			"tags": {
+				"name:pl": "kaszuby"
 			}
 		}
 	]

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:46:02Z",
+		"timestamp_osm_base": "2019-10-07T09:50:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -59,14 +59,15 @@
 			"lat": 48.200758,
 			"lon": 16.367317,
 			"tags": {
-				"description:en": "(1859-1817) Inventor of Esperanto language. L. L. Zamenhof",
+				"description:en": "(1859-1917) Inventor of Esperanto language. L. L. Zamenhof",
 				"esperanto": "yes",
 				"historic": "memorial",
 				"inscription": "Dr. Ludwig Zamenhof – autoro de la internacia lingvo Esperanto – Esperanto-Museum Wien-Hofburg",
 				"memorial": "bust",
 				"name": "Dr. Ludwig Zamenhof",
-				"name:etymology:wikidata": "Q11758",
+				"subject:wikidata": "Q11758",
 				"wheelchair": "yes",
+				"wikidata": "Q38007732",
 				"wikimedia_commons": "Category:Zamenhof monument, Vienna"
 			}
 		},
@@ -134,7 +135,7 @@
 				"addr:country": "RU",
 				"addr:housenumber": "32",
 				"addr:postcode": "367000",
-				"addr:street": "Батырая улица",
+				"addr:street": "улица Батырая",
 				"amenity": "restaurant",
 				"esperanto": "yes",
 				"name": "Эсперанто"
@@ -353,6 +354,7 @@
 				"esperanto": "yes",
 				"historic": "memorial",
 				"inscription": "Dr. L.L. Zamenhof 1859-1917 Az eszperantó nyelv megalkotója",
+				"is_in": "Tabán",
 				"memorial": "statue",
 				"name": "Dr. L.L. Zamenhof",
 				"name:etymology:wikidata": "Q11758",
@@ -407,6 +409,7 @@
 				"payment:visa_electron": "yes",
 				"phone": "+48857426031",
 				"smoking": "separated",
+				"toilets:wheelchair": "yes",
 				"website": "http://www.esperanto-cafe.pl/",
 				"wheelchair": "yes"
 			}
@@ -538,6 +541,7 @@
 				"name": "Zamenhofeiche",
 				"name:eo": "Zamenhof-Kverko",
 				"natural": "tree",
+				"wikidata": "Q56872279",
 				"wikimedia_commons": "File:Berlino, Zamenhof-Kverko sur Esperanto-Placo, 2.jpeg"
 			}
 		},
@@ -626,6 +630,7 @@
 				"amenity": "cafe",
 				"building:colour": "green",
 				"cuisine": "japanese",
+				"description": "国際語エスペラントと、動物から搾取をしないビーガニズムのカフェです。",
 				"description:eo": "Esperanto-vegana kafejo en la centro de Tokio, proksime de Japana Esperanto-Instituto.",
 				"diet:vegan": "only",
 				"email": "vendredo2010@gmail.com",
@@ -638,7 +643,9 @@
 				"name": "SOJO",
 				"name:eo": "SOJO",
 				"name:etymology:wikidata": "Q11006",
-				"opening_hours": "We-Fr 17:00-21:00; Sa-Su 15:00-21:00; PH off",
+				"official_name": "SOJO Esperanto-Vegana Kafejo",
+				"opening_hours": "Tu-Sa 15:00-21:00; PH off",
+				"operator": "斎藤義典",
 				"outdoor_seating": "no",
 				"payment:american_express": "yes",
 				"payment:cash": "yes",
@@ -777,6 +784,7 @@
 				"books:language:eo": "yes",
 				"name": "Biblioteko Hector Hodler",
 				"name:en": "Hector Hodler Library",
+				"name:eo": "Biblioteko Hector Hodler",
 				"name:etymology:wikidata": "Q12608",
 				"opening_hours": "Mo-Fr 09:00-17:00 \"by appointment\"",
 				"operator": "Universala Esperanto-Asocio",
@@ -989,6 +997,20 @@
 		},
 		{
 			"type": "node",
+			"id": 5503709600,
+			"lat": 48.2910096,
+			"lon": 14.2906259,
+			"tags": {
+				"artist_name": "Adolph Kloska, Herbert Egger",
+				"artwork_type": "sculpture",
+				"esperanto": "yes",
+				"name": "Esperanto",
+				"start_date": "2006",
+				"tourism": "artwork"
+			}
+		},
+		{
+			"type": "node",
 			"id": 6162248364,
 			"lat": 34.9024991,
 			"lon": 117.5329854,
@@ -1038,6 +1060,55 @@
 				"short_name": "SEK",
 				"wikidata": "Q12355093",
 				"wikipedia": "eo:Seula Esperanto-Kulturcentro"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6436080898,
+			"lat": 44.0377634,
+			"lon": 10.1381804,
+			"tags": {
+				"amenity": "library",
+				"books:language:eo": "yes",
+				"esperanto": "yes",
+				"name": "Biblioteca Nazionale di Esperanto",
+				"name:eo": "Nacia Biblioteko de Esperanto",
+				"wikidata": "Q3639603",
+				"wikipedia": "eo:Nacia Biblioteko de Esperanto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6436196116,
+			"lat": 33.390381,
+			"lon": -111.9719473,
+			"tags": {
+				"club": "language",
+				"esperanto": "yes",
+				"name": "Verda Domo de A",
+				"official_name": "Verda domo de Arizono",
+				"website": "http://verdadomo0.tripod.com/",
+				"wikidata": "Q12356423",
+				"wikipedia": "eo:Verda domo de Arizono"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6466538685,
+			"lat": 49.0341812,
+			"lon": 19.7225085,
+			"tags": {
+				"artwork_type": "bust",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"inscription": "Ctiteľ L.N. Tolstoja prekladateľ jeho spisov do svetových jazykov. Spolutvorca prvej svolenskej učebnice esperanta a priekopník nového svetonázoru.",
+				"material": "bronze",
+				"memorial": "bust",
+				"name": "Albert Škarvan",
+				"name:en": "Albert Škarvan",
+				"name:fr": "Albert Škarvan",
+				"name:sk": "MUDr. Albert Škarvan",
+				"wikidata": "Q3564961"
 			}
 		},
 		{
@@ -1107,7 +1178,7 @@
 				"lon": 6.4253191
 			},
 			"tags": {
-				"highway": "unclassified",
+				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Zamenhofstraat",
 				"name:etymology:wikidata": "Q11758",
@@ -1179,6 +1250,7 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"lit": "yes",
 				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
@@ -1193,6 +1265,7 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"lit": "yes",
 				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
@@ -1207,21 +1280,8 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"lit": "yes",
 				"maxspeed": "30",
-				"name": "Zamenhof",
-				"name:etymology:wikidata": "Q11758"
-			}
-		},
-		{
-			"type": "way",
-			"id": 6628098,
-			"center": {
-				"lat": 52.5134647,
-				"lon": 4.6707513
-			},
-			"tags": {
-				"footway": "sidewalk",
-				"highway": "footway",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
 			}
@@ -1230,8 +1290,8 @@
 			"type": "way",
 			"id": 6628124,
 			"center": {
-				"lat": 52.5129244,
-				"lon": 4.6712622
+				"lat": 52.5128738,
+				"lon": 4.6713103
 			},
 			"tags": {
 				"footway": "sidewalk",
@@ -1249,6 +1309,7 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"lit": "yes",
 				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
@@ -1263,6 +1324,7 @@
 			},
 			"tags": {
 				"highway": "residential",
+				"lit": "yes",
 				"maxspeed": "30",
 				"name": "Zamenhof",
 				"name:etymology:wikidata": "Q11758"
@@ -1438,8 +1500,8 @@
 			"type": "way",
 			"id": 7521677,
 			"center": {
-				"lat": 51.9245459,
-				"lon": 4.5021922
+				"lat": 51.9245622,
+				"lon": 4.5021478
 			},
 			"tags": {
 				"highway": "residential",
@@ -1454,8 +1516,8 @@
 			"type": "way",
 			"id": 7521682,
 			"center": {
-				"lat": 51.9233663,
-				"lon": 4.5014162
+				"lat": 51.9233752,
+				"lon": 4.501397
 			},
 			"tags": {
 				"highway": "residential",
@@ -1471,7 +1533,7 @@
 			"id": 7532041,
 			"center": {
 				"lat": 51.9197753,
-				"lon": 4.4163282
+				"lon": 4.4163835
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -1500,22 +1562,6 @@
 		},
 		{
 			"type": "way",
-			"id": 7533006,
-			"center": {
-				"lat": 51.9199011,
-				"lon": 4.4149337
-			},
-			"tags": {
-				"highway": "unclassified",
-				"maxspeed": "30",
-				"name": "Doctor Zamenhofstraat",
-				"name:etymology:wikidata": "Q11758",
-				"short_name": "Dr Zamenhofstraat",
-				"wikidata": "Q19016404"
-			}
-		},
-		{
-			"type": "way",
 			"id": 9349621,
 			"center": {
 				"lat": 53.3822112,
@@ -1532,8 +1578,8 @@
 			"type": "way",
 			"id": 10764420,
 			"center": {
-				"lat": 52.1638773,
-				"lon": 4.4906379
+				"lat": 52.1639115,
+				"lon": 4.4906403
 			},
 			"tags": {
 				"highway": "pedestrian",
@@ -1546,14 +1592,123 @@
 			"type": "way",
 			"id": 10764421,
 			"center": {
-				"lat": 52.1642274,
-				"lon": 4.4907208
+				"lat": 52.164263,
+				"lon": 4.4907218
 			},
 			"tags": {
 				"highway": "service",
 				"name": "Zamenhofstraat",
 				"name:etymology:wikidata": "Q11758",
 				"wikidata": "Q18950704"
+			}
+		},
+		{
+			"type": "way",
+			"id": 10922542,
+			"center": {
+				"lat": 29.4936312,
+				"lon": -81.2282145
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Drive",
+				"name:etymology:wikidata": "Q143",
+				"tiger:cfcc": "A41",
+				"tiger:county": "Flagler, FL",
+				"tiger:name_base": "Esperanto",
+				"tiger:name_type": "Dr",
+				"tiger:reviewed": "no",
+				"tiger:zip_left": "32164",
+				"tiger:zip_right": "32164"
+			}
+		},
+		{
+			"type": "way",
+			"id": 10942621,
+			"center": {
+				"lat": 30.4589815,
+				"lon": -87.28459
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Drive",
+				"name:etymology:wikidata": "Q143",
+				"tiger:cfcc": "A41",
+				"tiger:county": "Escambia, FL",
+				"tiger:name_base": "Esperanto",
+				"tiger:name_type": "Dr",
+				"tiger:reviewed": "no",
+				"tiger:zip_left": "32526",
+				"tiger:zip_right": "32526"
+			}
+		},
+		{
+			"type": "way",
+			"id": 11301534,
+			"center": {
+				"lat": 27.249273,
+				"lon": -80.4066485
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Southwest Esperanto Street",
+				"name:etymology:wikidata": "Q143",
+				"tiger:cfcc": "A41",
+				"tiger:county": "St. Lucie, FL",
+				"tiger:name_base": "Esperanto",
+				"tiger:name_direction_prefix": "SW",
+				"tiger:name_type": "St",
+				"tiger:reviewed": "no",
+				"tiger:zip_left": "34953",
+				"tiger:zip_right": "34953"
+			}
+		},
+		{
+			"type": "way",
+			"id": 12404062,
+			"center": {
+				"lat": 34.0968025,
+				"lon": -79.8892345
+			},
+			"tags": {
+				"access": "private",
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Esperanto Lane",
+				"name:etymology:wikidata": "Q143",
+				"tiger:cfcc": "A74",
+				"tiger:county": "Florence, SC",
+				"tiger:name_base": "Esperanto",
+				"tiger:name_type": "Ln",
+				"tiger:reviewed": "no",
+				"tiger:zip_left": "29161",
+				"tiger:zip_right": "29161"
+			}
+		},
+		{
+			"type": "way",
+			"id": 14320022,
+			"center": {
+				"lat": 36.190177,
+				"lon": -115.2140805
+			},
+			"tags": {
+				"alt_name": "Esperanto Street",
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "North Esperanto Street",
+				"name:etymology:wikidata": "Q143",
+				"tiger:cfcc": "A41",
+				"tiger:county": "Clark, NV",
+				"tiger:name_base": "Esperanto",
+				"tiger:name_base_1": "Esperanto",
+				"tiger:name_direction_prefix": "N",
+				"tiger:name_type": "St",
+				"tiger:name_type_1": "St",
+				"tiger:reviewed": "no"
 			}
 		},
 		{
@@ -1617,6 +1772,20 @@
 		},
 		{
 			"type": "way",
+			"id": 24576695,
+			"center": {
+				"lat": -27.226183,
+				"lon": 153.1028023
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Street",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
 			"id": 25034131,
 			"center": {
 				"lat": 51.2856446,
@@ -1657,6 +1826,21 @@
 				"maxspeed": "30",
 				"name": "Esperantostraße",
 				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25794527,
+			"center": {
+				"lat": -37.7131032,
+				"lon": 144.9240666
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Court",
+				"name:etymology:wikidata": "Q143",
+				"surface": "paved"
 			}
 		},
 		{
@@ -1865,7 +2049,23 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"ref": "3235D",
-				"source": "uhul:ortofoto"
+				"source": "uhul:ortofoto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 32083305,
+			"center": {
+				"lat": -31.8671945,
+				"lon": 115.8508304
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Way",
+				"name:etymology:wikidata": "Q143",
+				"surface": "paved"
 			}
 		},
 		{
@@ -2007,8 +2207,8 @@
 			"type": "way",
 			"id": 35714063,
 			"center": {
-				"lat": 50.8882881,
-				"lon": 20.6382015
+				"lat": 50.8882707,
+				"lon": 20.6381974
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -2034,6 +2234,21 @@
 				"name:en1": "Zamanhoff",
 				"name:he": "זמנהוף",
 				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
+			"id": 39790997,
+			"center": {
+				"lat": -27.6144464,
+				"lon": 151.9476911
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Court",
+				"name:etymology:wikidata": "Q143",
+				"surface": "paved"
 			}
 		},
 		{
@@ -2081,10 +2296,27 @@
 		},
 		{
 			"type": "way",
+			"id": 40724267,
+			"center": {
+				"lat": -36.978045,
+				"lon": 174.8785357
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "50",
+				"name": "Esperanto Road",
+				"name:etymology:wikidata": "Q143",
+				"source": "yahoo_wms",
+				"source:maxspeed": "NZ:urban"
+			}
+		},
+		{
+			"type": "way",
 			"id": 40736056,
 			"center": {
-				"lat": -1.4057195,
-				"lon": -48.4458693
+				"lat": -1.4060461,
+				"lon": -48.4453127
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -2123,6 +2355,22 @@
 				"name": "Rue Zamenhof",
 				"ref:FR:FANTOIR": "592911290Z",
 				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+			}
+		},
+		{
+			"type": "way",
+			"id": 43095435,
+			"center": {
+				"lat": 46.3634663,
+				"lon": -72.5786008
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "2",
+				"name": "Rue de l'Espéranto",
+				"name:etymology:wikidata": "Q143",
+				"source": "Geobase_Import_2009"
 			}
 		},
 		{
@@ -2208,7 +2456,7 @@
 				"place": "square",
 				"wikidata": "Q1368133",
 				"wikimedia_commons": "Category:Esperantoplatz (Berlin-Neukölln)",
-				"wikipedia": "de:Esperantoplatz_(Berlin)"
+				"wikipedia": "de:Esperantoplatz (Berlin)"
 			}
 		},
 		{
@@ -2239,7 +2487,9 @@
 				"highway": "tertiary",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"ref": "3235D"
+				"ref": "3235D",
+				"smoothness": "bad",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2577,7 +2827,10 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
-				"oneway": "yes"
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "yes",
+				"wikidata": "Q63465689",
+				"wikipedia": "eo:Strato de Ludoviko Zamenhof en Zamość"
 			}
 		},
 		{
@@ -2647,7 +2900,8 @@
 				"highway": "unclassified",
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2755,13 +3009,15 @@
 			"type": "way",
 			"id": 150802329,
 			"center": {
-				"lat": 39.4861935,
-				"lon": -0.3942958
+				"lat": 39.4861822,
+				"lon": -0.3942903
 			},
 			"tags": {
 				"esperanto": "yes",
 				"highway": "pedestrian",
-				"name": "Calle del Esperantista Hernández Lahuerta"
+				"name": "Avinguda del General Avilés",
+				"name:ca": "Avinguda del General Avilés",
+				"name:es": "Avenida del General Avilés"
 			}
 		},
 		{
@@ -2828,6 +3084,20 @@
 		},
 		{
 			"type": "way",
+			"id": 155739318,
+			"center": {
+				"lat": -36.5563126,
+				"lon": 145.9591129
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperanto Street",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
 			"id": 157026390,
 			"center": {
 				"lat": -33.8916613,
@@ -2866,6 +3136,21 @@
 				"parking:condition:both": "fee",
 				"parking:condition:both:time_interval": "interval",
 				"parking:lane:both": "perpendicular"
+			}
+		},
+		{
+			"type": "way",
+			"id": 157697998,
+			"center": {
+				"lat": 46.752856,
+				"lon": -71.3166733
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue de l'Espéranto",
+				"name:etymology:wikidata": "Q143",
+				"source": "NRCan-CanVec-8.0"
 			}
 		},
 		{
@@ -3534,15 +3819,16 @@
 				"maxspeed": "30",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"parking:lane:left": "parallel"
+				"parking:lane:left": "parallel",
+				"surface": "asphalt"
 			}
 		},
 		{
 			"type": "way",
 			"id": 265208331,
 			"center": {
-				"lat": 50.3191262,
-				"lon": 18.6952457
+				"lat": 50.3191225,
+				"lon": 18.6952422
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -3586,8 +3872,8 @@
 			"type": "way",
 			"id": 278839486,
 			"center": {
-				"lat": 43.2105577,
-				"lon": 23.5505555
+				"lat": 43.2105773,
+				"lon": 23.5505568
 			},
 			"tags": {
 				"esperanto": "yes",
@@ -3660,8 +3946,8 @@
 			"type": "way",
 			"id": 285864324,
 			"center": {
-				"lat": 50.8453112,
-				"lon": 16.4715336
+				"lat": 50.8453097,
+				"lon": 16.471537
 			},
 			"tags": {
 				"highway": "primary",
@@ -3686,8 +3972,8 @@
 			"type": "way",
 			"id": 285875494,
 			"center": {
-				"lat": 50.8449725,
-				"lon": 16.471165
+				"lat": 50.8449748,
+				"lon": 16.47117
 			},
 			"tags": {
 				"highway": "primary",
@@ -3711,8 +3997,8 @@
 			"type": "way",
 			"id": 285875495,
 			"center": {
-				"lat": 50.8446507,
-				"lon": 16.4706768
+				"lat": 50.8447146,
+				"lon": 16.4707959
 			},
 			"tags": {
 				"highway": "primary",
@@ -3784,6 +4070,7 @@
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
+				"surface": "asphalt",
 				"wikidata": "Q19120280"
 			}
 		},
@@ -3803,6 +4090,7 @@
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
+				"surface": "asphalt",
 				"wikidata": "Q19120280"
 			}
 		},
@@ -3818,6 +4106,7 @@
 				"maxspeed": "30",
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
+				"surface": "asphalt",
 				"wikidata": "Q19120280"
 			}
 		},
@@ -3997,7 +4286,8 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"ref": "3235D",
-				"source": "uhul:ortofoto"
+				"source": "uhul:ortofoto",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4238,6 +4528,39 @@
 		},
 		{
 			"type": "way",
+			"id": 462124094,
+			"center": {
+				"lat": 50.7183776,
+				"lon": 23.2526949
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"oneway": "no",
+				"wikidata": "Q63465689",
+				"wikipedia": "eo:Strato de Ludoviko Zamenhof en Zamość"
+			}
+		},
+		{
+			"type": "way",
+			"id": 472137052,
+			"center": {
+				"lat": 46.3644666,
+				"lon": -72.578266
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "2",
+				"name": "Rue de l'Espéranto",
+				"name:etymology:wikidata": "Q143",
+				"source": "Geobase_Import_2009"
+			}
+		},
+		{
+			"type": "way",
 			"id": 478137803,
 			"center": {
 				"lat": 35.8816243,
@@ -4326,8 +4649,8 @@
 			"type": "way",
 			"id": 509547120,
 			"center": {
-				"lat": 50.0634642,
-				"lon": 19.9459175
+				"lat": 50.0634643,
+				"lon": 19.9459183
 			},
 			"tags": {
 				"highway": "residential",
@@ -4460,8 +4783,8 @@
 			"type": "way",
 			"id": 543957199,
 			"center": {
-				"lat": 50.8444233,
-				"lon": 16.4702529
+				"lat": 50.8444249,
+				"lon": 16.4702511
 			},
 			"tags": {
 				"highway": "primary",
@@ -4645,6 +4968,42 @@
 		},
 		{
 			"type": "way",
+			"id": 563786268,
+			"center": {
+				"lat": 63.4364958,
+				"lon": -156.7974651
+			},
+			"tags": {
+				"esperanto": "yes",
+				"name": "Esperanto Creek",
+				"name:etymology:wikidata": "Q143",
+				"source:position": "USGS Topo",
+				"waterway": "stream"
+			}
+		},
+		{
+			"type": "way",
+			"id": 563786269,
+			"center": {
+				"lat": 63.4252063,
+				"lon": -156.7743016
+			},
+			"tags": {
+				"addr:state": "AK",
+				"ele": "214",
+				"esperanto": "yes",
+				"gnis:county_name": "Yukon-Koyukuk (CA)",
+				"gnis:created": "03/31/1981",
+				"gnis:feature_id": "1401885",
+				"gnis:feature_type": "Mine",
+				"landuse": "quarry",
+				"name": "Esperanto Placer Mine",
+				"name:etymology:wikidata": "Q143",
+				"resource": "gold"
+			}
+		},
+		{
+			"type": "way",
 			"id": 570770327,
 			"center": {
 				"lat": 52.2490422,
@@ -4728,7 +5087,8 @@
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes"
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4744,7 +5104,8 @@
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes"
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4759,7 +5120,8 @@
 				"highway": "unclassified",
 				"maxspeed": "50",
 				"name": "Allée du Docteur Ludwik Lejzer Zamenhof",
-				"name:etymology:wikidata": "Q11758"
+				"name:etymology:wikidata": "Q11758",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4777,6 +5139,7 @@
 				"mofa": "no",
 				"name": "Esperantolaan",
 				"name:etymology:wikidata": "Q143",
+				"surface": "asphalt",
 				"wikidata": "Q19120280"
 			}
 		},
@@ -4792,6 +5155,76 @@
 				"name": "Doctor L.L. Zamenhoflaan",
 				"name:etymology:wikidata": "Q11758",
 				"wikidata": "Q19017089"
+			}
+		},
+		{
+			"type": "way",
+			"id": 693445558,
+			"center": {
+				"lat": -1.4046368,
+				"lon": -48.4468844
+			},
+			"tags": {
+				"bridge": "yes",
+				"esperanto": "yes",
+				"foot": "yes",
+				"highway": "residential",
+				"layer": "1",
+				"name": "Rua Esperanto",
+				"sidewalk": "both",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 693445559,
+			"center": {
+				"lat": -1.4043222,
+				"lon": -48.4474517
+			},
+			"tags": {
+				"esperanto": "yes",
+				"foot": "yes",
+				"highway": "residential",
+				"name": "Rua Esperanto",
+				"sidewalk": "both",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 702543388,
+			"center": {
+				"lat": 52.4729086,
+				"lon": 13.4550431
+			},
+			"tags": {
+				"area": "yes",
+				"esperanto": "yes",
+				"name": "Siegfried-Aufhäuser-Platz",
+				"place": "square"
+			}
+		},
+		{
+			"type": "way",
+			"id": 708224475,
+			"center": {
+				"lat": 50.8445278,
+				"lon": 16.4704666
+			},
+			"tags": {
+				"highway": "primary",
+				"lanes": "4",
+				"maxaxleload": "10",
+				"maxspeed:forward": "40",
+				"name": "Ludwika Zamenhofa",
+				"name:etymology:wikidata": "Q11758",
+				"placement:forward": "middle_of:1",
+				"ref": "35;382",
+				"source:maxaxleload": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r",
+				"source:maxspeed:forward": "sign",
+				"surface": "asphalt",
+				"turn:lanes:forward": "left|through"
 			}
 		}
 	]

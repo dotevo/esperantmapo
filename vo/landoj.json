@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:31:02Z",
+		"timestamp_osm_base": "2019-10-22T10:56:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -378,8 +378,8 @@
 		{
 			"type": "node",
 			"id": 424297647,
-			"lat": 30.8760272,
-			"lon": 35.0015196,
+			"lat": 31.5313113,
+			"lon": 34.8667654,
 			"tags": {
 				"name:vo": "Yisraelän"
 			}
@@ -549,8 +549,8 @@
 		{
 			"type": "node",
 			"id": 424310758,
-			"lat": 17.3462278,
-			"lon": -62.7687277,
+			"lat": 17.250512,
+			"lon": -62.6725973,
 			"tags": {
 				"name:vo": "Sankiteän e Neviseän"
 			}
@@ -872,6 +872,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424313760,
+			"lat": 61.0666922,
+			"lon": -107.9917071,
+			"tags": {
+				"name:vo": "Kanadän"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313803,
 			"lat": 49.8167003,
 			"lon": 15.4749544,
@@ -1116,8 +1125,8 @@
 		{
 			"type": "node",
 			"id": 424316417,
-			"lat": 47.286747,
-			"lon": 28.5110236,
+			"lat": 47.2879608,
+			"lon": 28.5670941,
 			"tags": {
 				"name:vo": "Moldovän"
 			}
@@ -1242,8 +1251,8 @@
 		{
 			"type": "node",
 			"id": 432424929,
-			"lat": 17.079128,
-			"lon": -61.8222516,
+			"lat": 17.2234721,
+			"lon": -61.9554608,
 			"tags": {
 				"name:vo": "Lantigeän e Barbudeän"
 			}
@@ -1386,8 +1395,8 @@
 		{
 			"type": "node",
 			"id": 432425060,
-			"lat": 52.0977181,
-			"lon": 19.0258159,
+			"lat": 52.215933,
+			"lon": 19.134422,
 			"tags": {
 				"name:vo": "Polän"
 			}
@@ -1705,33 +1714,6 @@
 			"lon": 17.5961467,
 			"tags": {
 				"name:vo": "Bosnän e Härzegovän"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2043451343,
-			"lat": 47.192292,
-			"lon": 29.397413,
-			"tags": {
-				"name:vo": "Transnistriyän"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2110225115,
-			"lat": 31.649741,
-			"lon": 35.162072,
-			"tags": {
-				"name:vo": "Palästinän"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2134362766,
-			"lat": 2.3923759,
-			"lon": 112.8471939,
-			"tags": {
-				"name:vo": "Malaysiyän"
 			}
 		},
 		{

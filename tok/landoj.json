@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T23:05:02Z",
+		"timestamp_osm_base": "2019-10-22T11:31:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -326,8 +326,8 @@
 		{
 			"type": "node",
 			"id": 424297647,
-			"lat": 30.8760272,
-			"lon": 35.0015196,
+			"lat": 31.5313113,
+			"lon": 34.8667654,
 			"tags": {
 				"name:tok": "ma Isale"
 			}
@@ -676,6 +676,15 @@
 		},
 		{
 			"type": "node",
+			"id": 424313760,
+			"lat": 61.0666922,
+			"lon": -107.9917071,
+			"tags": {
+				"name:tok": "ma Kanata"
+			}
+		},
+		{
+			"type": "node",
 			"id": 424313803,
 			"lat": 49.8167003,
 			"lon": 15.4749544,
@@ -884,8 +893,8 @@
 		{
 			"type": "node",
 			"id": 424316417,
-			"lat": 47.286747,
-			"lon": 28.5110236,
+			"lat": 47.2879608,
+			"lon": 28.5670941,
 			"tags": {
 				"name:tok": "ma Motowa"
 			}
@@ -1109,8 +1118,8 @@
 		{
 			"type": "node",
 			"id": 432425060,
-			"lat": 52.0977181,
-			"lon": 19.0258159,
+			"lat": 52.215933,
+			"lon": 19.134422,
 			"tags": {
 				"name:tok": "ma Posuka"
 			}
@@ -1284,15 +1293,6 @@
 			"lon": 57.5703566,
 			"tags": {
 				"name:tok": "ma Mowisi"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2134362766,
-			"lat": 2.3923759,
-			"lon": 112.8471939,
-			"tags": {
-				"name:tok": "ma Malasija"
 			}
 		},
 		{

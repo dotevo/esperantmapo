@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:41:02Z",
+		"timestamp_osm_base": "2019-10-07T09:45:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -35,20 +35,20 @@
 		},
 		{
 			"type": "node",
+			"id": 1607605918,
+			"lat": 49.580437,
+			"lon": -2.484854,
+			"tags": {
+				"name:pl": "Guernsey"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2136192026,
 			"lat": 38.2379344,
 			"lon": 20.560883,
 			"tags": {
 				"name:pl": "Kefalinia"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2136192042,
-			"lat": 35.2379601,
-			"lon": 24.8005407,
-			"tags": {
-				"name:pl": "Kreta"
 			}
 		},
 		{
@@ -104,28 +104,6 @@
 		},
 		{
 			"type": "way",
-			"id": 4215872,
-			"center": {
-				"lat": 53.9631413,
-				"lon": 14.7314242
-			},
-			"tags": {
-				"name:pl": "Wyspa Chrząszczewska"
-			}
-		},
-		{
-			"type": "way",
-			"id": 8990048,
-			"center": {
-				"lat": 45.0774303,
-				"lon": 13.6291898
-			},
-			"tags": {
-				"name:pl": "Wsypa Świętej Katarzyny"
-			}
-		},
-		{
-			"type": "way",
 			"id": 9884465,
 			"center": {
 				"lat": 16.8496081,
@@ -148,17 +126,6 @@
 		},
 		{
 			"type": "way",
-			"id": 18577661,
-			"center": {
-				"lat": -31.7550549,
-				"lon": 159.2504943
-			},
-			"tags": {
-				"name:pl": "Piramida Balla"
-			}
-		},
-		{
-			"type": "way",
 			"id": 20747781,
 			"center": {
 				"lat": 65.7546497,
@@ -166,6 +133,28 @@
 			},
 			"tags": {
 				"name:pl": "Mała Diomeda"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25576359,
+			"center": {
+				"lat": -46.9024299,
+				"lon": 37.7444352
+			},
+			"tags": {
+				"name:pl": "Wyspa Mariona"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25576378,
+			"center": {
+				"lat": -46.6365776,
+				"lon": 37.9379341
+			},
+			"tags": {
+				"name:pl": "Wyspa Księcia Edwarda"
 			}
 		},
 		{
@@ -214,6 +203,17 @@
 		},
 		{
 			"type": "way",
+			"id": 159967936,
+			"center": {
+				"lat": 72.8921459,
+				"lon": 79.0924408
+			},
+			"tags": {
+				"name:pl": "Wyspa Sibiriakowa"
+			}
+		},
+		{
+			"type": "way",
 			"id": 174996681,
 			"center": {
 				"lat": -54.4198946,
@@ -232,6 +232,17 @@
 			},
 			"tags": {
 				"name:pl": "Naga Wyspa"
+			}
+		},
+		{
+			"type": "way",
+			"id": 176327900,
+			"center": {
+				"lat": 54.3523647,
+				"lon": 18.6617712
+			},
+			"tags": {
+				"name:pl": "Ołowianka"
 			}
 		},
 		{
@@ -415,7 +426,7 @@
 			"id": 452614,
 			"center": {
 				"lat": 36.1675491,
-				"lon": 27.9656168
+				"lon": 27.9656002
 			},
 			"tags": {
 				"name:pl": "Rodos"
@@ -753,6 +764,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 2108882,
+			"center": {
+				"lat": 28.3017351,
+				"lon": -16.5226549
+			},
+			"tags": {
+				"name:pl": "Teneryfa"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 2130352,
 			"center": {
 				"lat": -8.4560102,
@@ -764,17 +786,6 @@
 		},
 		{
 			"type": "relation",
-			"id": 2141062,
-			"center": {
-				"lat": 72.8921459,
-				"lon": 79.0924408
-			},
-			"tags": {
-				"name:pl": "Wyspa Sibiriakowa"
-			}
-		},
-		{
-			"type": "relation",
 			"id": 2177440,
 			"center": {
 				"lat": 65.0639176,
@@ -782,6 +793,17 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Sołowiecka"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2214683,
+			"center": {
+				"lat": 27.958005,
+				"lon": -15.5964678
+			},
+			"tags": {
+				"name:pl": "Gran Canaria"
 			}
 		},
 		{
@@ -832,8 +854,8 @@
 			"type": "relation",
 			"id": 2386068,
 			"center": {
-				"lat": -29.0289934,
-				"lon": 167.9556525
+				"lat": -29.0289746,
+				"lon": 167.9380459
 			},
 			"tags": {
 				"name:pl": "Wyspa Norfolk"
@@ -848,17 +870,6 @@
 			},
 			"tags": {
 				"name:pl": "Kunaszyr"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 2410122,
-			"center": {
-				"lat": -6.1000445,
-				"lon": 39.3810391
-			},
-			"tags": {
-				"name:pl": "Zanzibar"
 			}
 		},
 		{
@@ -910,10 +921,21 @@
 			"id": 2906044,
 			"center": {
 				"lat": 33.5608481,
-				"lon": 133.3814675
+				"lon": 133.382188
 			},
 			"tags": {
 				"name:pl": "Sikoku"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 2921544,
+			"center": {
+				"lat": 22.657582,
+				"lon": 121.4880792
+			},
+			"tags": {
+				"name:pl": "Lü Dao"
 			}
 		},
 		{
@@ -931,8 +953,8 @@
 			"type": "relation",
 			"id": 3019029,
 			"center": {
-				"lat": -5.1690844,
-				"lon": 39.7536805
+				"lat": -5.16909,
+				"lon": 39.7539284
 			},
 			"tags": {
 				"name:pl": "Pemba"
@@ -1206,7 +1228,7 @@
 			"type": "relation",
 			"id": 4096902,
 			"center": {
-				"lat": -11.5522343,
+				"lat": -11.5520813,
 				"lon": 130.95365
 			},
 			"tags": {
@@ -1217,7 +1239,7 @@
 			"type": "relation",
 			"id": 4176597,
 			"center": {
-				"lat": 55.0218625,
+				"lat": 55.0207904,
 				"lon": 166.216229
 			},
 			"tags": {
@@ -1382,8 +1404,8 @@
 			"type": "relation",
 			"id": 6045364,
 			"center": {
-				"lat": 53.9524256,
-				"lon": -10.0862738
+				"lat": 53.9521406,
+				"lon": -10.0865435
 			},
 			"tags": {
 				"name:pl": "Wyspa Achill"
@@ -1539,7 +1561,7 @@
 			"type": "relation",
 			"id": 6388640,
 			"center": {
-				"lat": 53.9129949,
+				"lat": 53.913271,
 				"lon": 14.511859
 			},
 			"tags": {
@@ -1627,7 +1649,7 @@
 			"type": "relation",
 			"id": 7117041,
 			"center": {
-				"lat": 18.1155651,
+				"lat": 18.1153384,
 				"lon": -77.2759447
 			},
 			"tags": {
@@ -1682,8 +1704,8 @@
 			"type": "relation",
 			"id": 7174450,
 			"center": {
-				"lat": -12.3199918,
-				"lon": 43.7465838
+				"lat": -12.3204637,
+				"lon": 43.7468344
 			},
 			"tags": {
 				"name:pl": "Moheli"
@@ -1693,8 +1715,8 @@
 			"type": "relation",
 			"id": 7174451,
 			"center": {
-				"lat": -11.6520524,
-				"lon": 43.3732027
+				"lat": -11.6525691,
+				"lon": 43.3734726
 			},
 			"tags": {
 				"name:pl": "Wielki Komor"
@@ -1704,8 +1726,8 @@
 			"type": "relation",
 			"id": 7174452,
 			"center": {
-				"lat": -12.2265831,
-				"lon": 44.3726643
+				"lat": -12.2265794,
+				"lon": 44.3725702
 			},
 			"tags": {
 				"name:pl": "Anjouan"
@@ -1716,7 +1738,7 @@
 			"id": 7212523,
 			"center": {
 				"lat": -54.4339275,
-				"lon": -36.9073226
+				"lon": -36.9073106
 			},
 			"tags": {
 				"name:pl": "Georgia Południowa"
@@ -1815,7 +1837,7 @@
 			"id": 7918839,
 			"center": {
 				"lat": 46.0370636,
-				"lon": 32.8146723
+				"lon": 32.8144811
 			},
 			"tags": {
 				"name:pl": "Dżaryłgacz"
@@ -1845,35 +1867,57 @@
 		},
 		{
 			"type": "relation",
-			"id": 9483554,
-			"center": {
-				"lat": 36.3532019,
-				"lon": 122.2380363
-			},
-			"tags": {
-				"name:pl": "Morze Żółte"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 9512055,
-			"center": {
-				"lat": 46.2708839,
-				"lon": 31.7768301
-			},
-			"tags": {
-				"name:pl": "Kosa Tendrowska"
-			}
-		},
-		{
-			"type": "relation",
 			"id": 9518854,
 			"center": {
-				"lat": -49.1969465,
+				"lat": -49.1969431,
 				"lon": 69.6414596
 			},
 			"tags": {
 				"name:pl": "Wyspa Kerguelena"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9604134,
+			"center": {
+				"lat": 17.629585,
+				"lon": -61.8093403
+			},
+			"tags": {
+				"name:pl": "Barbuda wyspa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9845460,
+			"center": {
+				"lat": 54.3828164,
+				"lon": 18.722097
+			},
+			"tags": {
+				"name:pl": "Wyspa Portowa"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9845462,
+			"center": {
+				"lat": 54.3460111,
+				"lon": 18.6561979
+			},
+			"tags": {
+				"name:pl": "Wyspa Spichrzów"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 9911183,
+			"center": {
+				"lat": 53.9631413,
+				"lon": 14.7314242
+			},
+			"tags": {
+				"name:pl": "Wyspa Chrząszczewska"
 			}
 		}
 	]

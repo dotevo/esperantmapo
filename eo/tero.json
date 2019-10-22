@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:47:02Z",
+		"timestamp_osm_base": "2019-10-22T11:13:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -40,6 +40,15 @@
 			"lon": 53.8502275,
 			"tags": {
 				"name:eo": "Sokotra"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1607605918,
+			"lat": 49.580437,
+			"lon": -2.484854,
+			"tags": {
+				"name:eo": "Gernezejo"
 			}
 		},
 		{
@@ -140,6 +149,17 @@
 		},
 		{
 			"type": "way",
+			"id": 121183152,
+			"center": {
+				"lat": 80.8267817,
+				"lon": -66.4538488
+			},
+			"tags": {
+				"name:eo": "Tartupaluk"
+			}
+		},
+		{
+			"type": "way",
 			"id": 159357927,
 			"center": {
 				"lat": -17.0548125,
@@ -154,7 +174,7 @@
 			"type": "way",
 			"id": 174996681,
 			"center": {
-				"lat": -54.4198946,
+				"lat": -54.4197463,
 				"lon": 3.3595708
 			},
 			"tags": {
@@ -329,17 +349,6 @@
 		},
 		{
 			"type": "relation",
-			"id": 2410122,
-			"center": {
-				"lat": -6.1000445,
-				"lon": 39.3810391
-			},
-			"tags": {
-				"name:eo": "Unguĵo"
-			}
-		},
-		{
-			"type": "relation",
 			"id": 2556649,
 			"center": {
 				"lat": -22.367399,
@@ -352,21 +361,10 @@
 		},
 		{
 			"type": "relation",
-			"id": 2617574,
-			"center": {
-				"lat": 80.8266798,
-				"lon": -66.452543
-			},
-			"tags": {
-				"name:eo": "Tartupaluk"
-			}
-		},
-		{
-			"type": "relation",
 			"id": 2906044,
 			"center": {
 				"lat": 33.5608481,
-				"lon": 133.3814675
+				"lon": 133.382188
 			},
 			"tags": {
 				"name:eo": "Ŝikokuo"
@@ -387,8 +385,8 @@
 			"type": "relation",
 			"id": 3019029,
 			"center": {
-				"lat": -5.1690844,
-				"lon": 39.7536805
+				"lat": -5.16909,
+				"lon": 39.7539284
 			},
 			"tags": {
 				"name:eo": "Pembo"
@@ -530,8 +528,8 @@
 			"type": "relation",
 			"id": 4094778,
 			"center": {
-				"lat": 19.16034,
-				"lon": 109.8274655
+				"lat": 19.160177,
+				"lon": 109.827433
 			},
 			"tags": {
 				"name:eo": "Insulo Hajnano"
@@ -541,7 +539,7 @@
 			"type": "relation",
 			"id": 4176597,
 			"center": {
-				"lat": 55.0218625,
+				"lat": 55.0207904,
 				"lon": 166.216229
 			},
 			"tags": {
@@ -834,7 +832,7 @@
 			"type": "relation",
 			"id": 6995280,
 			"center": {
-				"lat": 15.5920786,
+				"lat": 15.591879,
 				"lon": 121.9746866
 			},
 			"tags": {
@@ -845,8 +843,8 @@
 			"type": "relation",
 			"id": 7112170,
 			"center": {
-				"lat": 14.6367958,
-				"lon": -61.0193892
+				"lat": 14.6367962,
+				"lon": -61.0193649
 			},
 			"tags": {
 				"name:eo": "Martiniko"
@@ -861,6 +859,17 @@
 			},
 			"tags": {
 				"name:eo": "Korsiko"
+			}
+		},
+		{
+			"type": "relation",
+			"id": 7117069,
+			"center": {
+				"lat": 17.0855874,
+				"lon": -61.7897933
+			},
+			"tags": {
+				"name:eo": "Antigvo"
 			}
 		},
 		{
@@ -900,8 +909,8 @@
 			"type": "relation",
 			"id": 7174450,
 			"center": {
-				"lat": -12.3199918,
-				"lon": 43.7465838
+				"lat": -12.3204637,
+				"lon": 43.7468344
 			},
 			"tags": {
 				"name:eo": "Mohéli"
@@ -911,8 +920,8 @@
 			"type": "relation",
 			"id": 7174451,
 			"center": {
-				"lat": -11.6520524,
-				"lon": 43.3732027
+				"lat": -11.6525691,
+				"lon": 43.3734726
 			},
 			"tags": {
 				"name:eo": "Granda Komoro"
@@ -922,8 +931,8 @@
 			"type": "relation",
 			"id": 7174452,
 			"center": {
-				"lat": -12.2265831,
-				"lon": 44.3726643
+				"lat": -12.2265794,
+				"lon": 44.3725702
 			},
 			"tags": {
 				"name:eo": "Anjuano"
@@ -1008,13 +1017,13 @@
 		},
 		{
 			"type": "relation",
-			"id": 9483554,
+			"id": 9604134,
 			"center": {
-				"lat": 36.3532019,
-				"lon": 122.2380363
+				"lat": 17.629585,
+				"lon": -61.8093403
 			},
 			"tags": {
-				"name:eo": "Flava Maro"
+				"name:eo": "Insulo de Barbudo"
 			}
 		}
 	]

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T22:32:02Z",
+		"timestamp_osm_base": "2019-10-22T10:57:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -108,8 +108,8 @@
 		{
 			"type": "node",
 			"id": 519425071,
-			"lat": 51.4785568,
-			"lon": 7.5533645,
+			"lat": 51.4781796,
+			"lon": 7.5542336,
 			"tags": {
 				"name:vo": "Nolüdarinän-Vesfalän"
 			}
@@ -117,8 +117,8 @@
 		{
 			"type": "node",
 			"id": 519436857,
-			"lat": 49.7497346,
-			"lon": 7.4396553,
+			"lat": 49.9531599,
+			"lon": 7.310646,
 			"tags": {
 				"name:vo": "Rinän-Palzän"
 			}
@@ -184,6 +184,15 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:vo": "Vesüda-Saharän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:vo": "Transnistriyän"
 			}
 		},
 		{

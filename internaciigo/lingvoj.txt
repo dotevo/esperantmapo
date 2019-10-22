@@ -1,3 +1,5 @@
 eo:Esperanto
 
+it:Italiano
+
 pl:Polski

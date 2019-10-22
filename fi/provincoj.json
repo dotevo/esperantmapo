@@ -1,11 +1,29 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.6 486819c8",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-04-27T23:00:02Z",
+		"timestamp_osm_base": "2019-10-22T11:27:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 244080439,
+			"lat": 23.1357694,
+			"lon": 113.1982688,
+			"tags": {
+				"name:fi": "Guangdong"
+			}
+		},
+		{
+			"type": "node",
+			"id": 244083009,
+			"lat": 29.0000001,
+			"lon": 119.9999999,
+			"tags": {
+				"name:fi": "Zhejiang"
+			}
+		},
 		{
 			"type": "node",
 			"id": 249399410,
@@ -22,6 +40,15 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:fi": "Svalbard ja Jan Mayen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 271047515,
+			"lat": 18.0814066,
+			"lon": -63.0467131,
+			"tags": {
+				"name:fi": "Saint-Martin (Faransi)"
 			}
 		},
 		{
@@ -81,8 +108,8 @@
 		{
 			"type": "node",
 			"id": 424298155,
-			"lat": -13.8173324,
-			"lon": -177.1489649,
+			"lat": -13.289402,
+			"lon": -176.204224,
 			"tags": {
 				"name:fi": "Wallis- ja Futunasaaret"
 			}
@@ -296,74 +323,11 @@
 		},
 		{
 			"type": "node",
-			"id": 1850580646,
-			"lat": 37.2700459,
-			"lon": 127.1033484,
-			"tags": {
-				"name:fi": "Gyeonggi"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1853958141,
-			"lat": 37.8179963,
-			"lon": 128.2183835,
-			"tags": {
-				"name:fi": "Gangwon"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1869881765,
-			"lat": 36.478804,
-			"lon": 126.7697247,
-			"tags": {
-				"name:fi": "Etelä-Chungcheong"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1895837469,
-			"lat": 36.8584149,
-			"lon": 127.7095746,
-			"tags": {
-				"name:fi": "Pohjois-Chungcheon"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1897951352,
-			"lat": 36.4004081,
-			"lon": 128.8611389,
-			"tags": {
-				"name:fi": "Pohjois-Gyeongsang"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900114892,
-			"lat": 35.375617,
-			"lon": 128.3301115,
-			"tags": {
-				"name:fi": "Etelä-Gyeongsang"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1900814181,
-			"lat": 35.7395078,
-			"lon": 127.1181259,
+			"lat": 35.8198999,
+			"lon": 127.109,
 			"tags": {
 				"name:fi": "Pohjois-Jeolla"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1900823975,
-			"lat": 34.9419628,
-			"lon": 126.9999005,
-			"tags": {
-				"name:fi": "Etelä-Jeolla"
 			}
 		},
 		{
@@ -382,6 +346,15 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:fi": "Länsi-Sahara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2043451343,
+			"lat": 47.192292,
+			"lon": 29.397413,
+			"tags": {
+				"name:fi": "Transnistria"
 			}
 		},
 		{
@@ -418,6 +391,15 @@
 			"lon": -4.0422099,
 			"tags": {
 				"name:fi": "Abidjan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2833125787,
+			"lat": 22.2793278,
+			"lon": 114.1628131,
+			"tags": {
+				"name:fi": "Hongkong"
 			}
 		},
 		{
@@ -486,10 +468,19 @@
 		{
 			"type": "node",
 			"id": 6307688872,
-			"lat": 63.8309894,
-			"lon": 40.8910913,
+			"lat": 63.5589686,
+			"lon": 43.1221646,
 			"tags": {
 				"name:fi": "Arkangelin alue"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6878046743,
+			"lat": 23.2948942,
+			"lon": 100.8784458,
+			"tags": {
+				"name:fi": "Puer"
 			}
 		}
 	]
