@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Last-Translator: Marco Ciampa <ciampix@posteo.net>"
+"Language: Italiano"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+
+#Leaflet: ekstere (la angla)
+#Esperante: Malzomi
+msgid "Zoom out"
+msgstr "Rimpicciolisci"
+
+#Esperante: Zomi
+msgid "Zoom in"
+msgstr "Ingrandisci"
+
+#Esperante: JS biblioteko por interaktivaj mapoj
+msgid "A JS library for interactive maps"
+msgstr "Una libreria JS per mappe interattive"
