@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Last-Translator: Marco Ciampa <ciampix@posteo.net>"
+"Language: Italiano"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Datumoj de la mapo {{link}} kontribuantoj"
+msgstr "Dati della mappa {{link}} contribuitori"
+
+msgid "Menuo"
+msgstr "Menu"
+
+msgid "Fermi"
+msgstr "Chiudi"
+
+msgid "Provincoj"
+msgstr "Province"
+
+msgid "Landoj"
+msgstr "Paesi"
+
+msgid "Urboj"
+msgstr "Città"
+
+msgid "Lokoj"
+msgstr "Siti"
+
+msgid "Tero"
+msgstr "Terra"
+
+msgid "Ĉiam"
+msgstr "Sempre"
+
+msgid "Aŭtomate"
+msgstr "Automatico"
+
+msgid "Neniam"
+msgstr "Mai"
+
+msgid "Lingvoj"
+msgstr "Lingue"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Ido"
+msgstr "Ido"
+
+msgid "Loĵbano"
+msgstr "Loĵban"
+
+msgid "Volapuko"
+msgstr "Volapuk"
+
+msgid "Tokipono"
+msgstr "Tokipono"
+
+msgid "La pola"
+msgstr "Polacco"
+
+msgid "La finna"
+msgstr "Finlandese"
+
+msgid "Informoj"
+msgstr "Informazioni"
+
+msgid "Serĉi"
+msgstr "Cerca"
+
+msgid "Ikonoj_el"
+msgstr "Icone da"
