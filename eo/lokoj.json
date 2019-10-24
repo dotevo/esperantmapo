@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-07T09:50:02Z",
+		"timestamp_osm_base": "2019-10-24T13:33:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -42,6 +42,22 @@
 		},
 		{
 			"type": "node",
+			"id": 1151773414,
+			"lat": 41.9865659,
+			"lon": 15.0033115,
+			"tags": {
+				"addr:city": "Termoli",
+				"addr:country": "IT",
+				"addr:housenumber": "87",
+				"addr:street": "Via Corsica",
+				"amenity": "cafe",
+				"esperanto": "yes",
+				"name": "Esperanto Kafejo",
+				"ref:vatin": "IT01520990704"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1643304667,
 			"lat": 32.0769548,
 			"lon": 34.7794822,
@@ -69,6 +85,33 @@
 				"wheelchair": "yes",
 				"wikidata": "Q38007732",
 				"wikimedia_commons": "Category:Zamenhof monument, Vienna"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1987107282,
+			"lat": 47.0712539,
+			"lon": 15.4242627,
+			"tags": {
+				"alt_name": "Graz Esperantoplatz/Arbeiterkammer",
+				"bus": "yes",
+				"esperanto": "yes",
+				"name": "Esperantoplatz/Arbeiterkammer",
+				"public_transport": "stop_position"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2045898682,
+			"lat": 43.5482331,
+			"lon": 7.032085,
+			"tags": {
+				"bench": "yes",
+				"esperanto": "yes",
+				"highway": "bus_stop",
+				"name": "Zamenhof",
+				"route_ref": "bus 21",
+				"shelter": "yes"
 			}
 		},
 		{
@@ -248,6 +291,20 @@
 				"language:eo": "yes",
 				"name": "Biblioteca municipal",
 				"name:Zapoteco del Rincón": "Retejo Kaj Librejo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2950269267,
+			"lat": 47.4910447,
+			"lon": 12.0615101,
+			"tags": {
+				"esperanto": "yes",
+				"historic": "memorial",
+				"image": "File:Zamenhof Denkmal Wörgl.jpg",
+				"memorial": "bust",
+				"name": "L. L. Zamenhof",
+				"start_date": "1952-07-27"
 			}
 		},
 		{
@@ -460,6 +517,20 @@
 				"language:eo": "yes",
 				"name": "Polska Młodzież Esperancka",
 				"office": "association"
+			}
+		},
+		{
+			"type": "node",
+			"id": 3776268114,
+			"lat": 47.0712691,
+			"lon": 15.4242627,
+			"tags": {
+				"alt_name": "Graz Esperantoplatz/Arbeiterkammer",
+				"esperanto": "yes",
+				"name": "Esperantoplatz/Arbeiterkammer",
+				"public_transport": "stop_position",
+				"railway": "tram_stop",
+				"tram": "yes"
 			}
 		},
 		{
@@ -1004,9 +1075,55 @@
 				"artist_name": "Adolph Kloska, Herbert Egger",
 				"artwork_type": "sculpture",
 				"esperanto": "yes",
+				"image": "File:Esperanto Statuo en Linz.jpg",
 				"name": "Esperanto",
 				"start_date": "2006",
-				"tourism": "artwork"
+				"tourism": "artwork",
+				"wikidata": "Q12347248",
+				"wikipedia": "eo:Esperanta statuo (Linco)"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5894443475,
+			"lat": 47.0716308,
+			"lon": 15.4246253,
+			"tags": {
+				"addr:housenumber": "1",
+				"addr:street": "Esperantoplatz",
+				"amenity": "cafe",
+				"esperanto": "yes",
+				"name": "das Esperanto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5918115550,
+			"lat": 43.5472343,
+			"lon": 7.0315906,
+			"tags": {
+				"bench": "yes",
+				"bus": "yes",
+				"departures_board": "yes",
+				"esperanto": "yes",
+				"highway": "bus_stop",
+				"lit": "yes",
+				"name": "Zamenhof",
+				"passenger_information_display": "no",
+				"public_transport": "platform",
+				"shelter": "yes"
+			}
+		},
+		{
+			"type": "node",
+			"id": 5918663135,
+			"lat": 43.5471962,
+			"lon": 7.0315454,
+			"tags": {
+				"bus": "yes",
+				"esperanto": "yes",
+				"name": "Zamenhof",
+				"public_transport": "stop_position"
 			}
 		},
 		{
@@ -1109,6 +1226,33 @@
 				"name:fr": "Albert Škarvan",
 				"name:sk": "MUDr. Albert Škarvan",
 				"wikidata": "Q3564961"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6513310088,
+			"lat": 46.9654873,
+			"lon": 7.4634115,
+			"tags": {
+				"amenity": "fast_food",
+				"esperanto": "yes",
+				"name": "Esperanto"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6911687110,
+			"lat": 46.0645971,
+			"lon": 11.1335383,
+			"tags": {
+				"addr:city": "Trento",
+				"addr:country": "IT",
+				"addr:housenumber": "7A",
+				"addr:postcode": "38122",
+				"addr:street": "Via Zara",
+				"esperanto": "yes",
+				"name": "Associazione Esperantista Trentina",
+				"office": "association"
 			}
 		},
 		{
@@ -1772,6 +1916,78 @@
 		},
 		{
 			"type": "way",
+			"id": 23008363,
+			"center": {
+				"lat": 45.8045814,
+				"lon": 8.8409249
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazzaro Zamenhof",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23296345,
+			"center": {
+				"lat": 44.4773292,
+				"lon": 11.3677888
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Lodovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23400816,
+			"center": {
+				"lat": 44.0698311,
+				"lon": 12.4537883
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Piazzale Esperanto",
+				"service": "parking_aisle"
+			}
+		},
+		{
+			"type": "way",
+			"id": 23884851,
+			"center": {
+				"lat": 43.716585,
+				"lon": 10.4091163
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Via Ludovico Lazaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 24216795,
+			"center": {
+				"lat": 45.3998594,
+				"lon": 10.9811082
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via dell'Esperanto",
+				"ref": "SP 25",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 24576695,
 			"center": {
 				"lat": -27.226183,
@@ -1826,6 +2042,19 @@
 				"maxspeed": "30",
 				"name": "Esperantostraße",
 				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25778264,
+			"center": {
+				"lat": 40.8563775,
+				"lon": 14.3792322
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -1889,6 +2118,33 @@
 				"old_name": "Niecała",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 26620773,
+			"center": {
+				"lat": 46.6015067,
+				"lon": 13.8350829
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperantostraße"
+			}
+		},
+		{
+			"type": "way",
+			"id": 26833783,
+			"center": {
+				"lat": 44.6241471,
+				"lon": 10.9422187
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"postal_code": "41125"
 			}
 		},
 		{
@@ -1960,6 +2216,36 @@
 		},
 		{
 			"type": "way",
+			"id": 27935749,
+			"center": {
+				"lat": 43.9298001,
+				"lon": 10.9112654
+			},
+			"tags": {
+				"esperanto": "yes",
+				"footway": "yes",
+				"highway": "tertiary",
+				"maxspeed": "50",
+				"name": "Via Lodovico Zamenhof",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 28482081,
+			"center": {
+				"lat": 37.5078918,
+				"lon": 15.0735126
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via dell'Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 29161891,
 			"center": {
 				"lat": 53.6145832,
@@ -1990,6 +2276,90 @@
 		},
 		{
 			"type": "way",
+			"id": 30068652,
+			"center": {
+				"lat": 45.377383,
+				"lon": 11.9118344
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30068782,
+			"center": {
+				"lat": 45.3792935,
+				"lon": 11.9141904
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30069110,
+			"center": {
+				"lat": 45.3812583,
+				"lon": 11.9162567
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30069175,
+			"center": {
+				"lat": 45.3823508,
+				"lon": 11.9176806
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30114454,
+			"center": {
+				"lat": 45.3824013,
+				"lon": 11.9175503
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 30258339,
 			"center": {
 				"lat": 52.2270518,
@@ -2000,6 +2370,105 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Antoniego Grabowskiego"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30271472,
+			"center": {
+				"lat": 46.6186533,
+				"lon": 14.2761537
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Esperantostraße",
+				"source": "plan.at 2009",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30359847,
+			"center": {
+				"lat": 46.55065,
+				"lon": 13.7070815
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperantostraße",
+				"source": "plan.at 2009"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30495345,
+			"center": {
+				"lat": 46.848213,
+				"lon": 14.8426294
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Esperantoweg",
+				"source": "plan.at 2009"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30600637,
+			"center": {
+				"lat": 45.3459198,
+				"lon": 10.841511
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Via dell'Esperanto",
+				"oneway": "no",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30653465,
+			"center": {
+				"lat": 45.3758542,
+				"lon": 11.9102585
+			},
+			"tags": {
+				"bridge": "viaduct",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"layer": "1",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 30901986,
+			"center": {
+				"lat": 45.7173574,
+				"lon": 11.3614205
+			},
+			"tags": {
+				"bicycle": "no",
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"horse": "no",
+				"layer": "-1",
+				"lit": "yes",
+				"name": "Sottopasso Esperanto",
+				"oneway": "no",
+				"source": "Comune di Schio",
+				"surface": "asphalt",
+				"tunnel": "yes"
 			}
 		},
 		{
@@ -2048,9 +2517,22 @@
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
-				"ref": "3235D",
 				"source": "uhul:ortofoto",
-				"surface": "asphalt"
+				"surface": "asphalt",
+				"unsigned_ref": "3235D"
+			}
+		},
+		{
+			"type": "way",
+			"id": 31786573,
+			"center": {
+				"lat": 44.3965327,
+				"lon": 11.5836449
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Zamenhof"
 			}
 		},
 		{
@@ -2085,6 +2567,20 @@
 		},
 		{
 			"type": "way",
+			"id": 32696630,
+			"center": {
+				"lat": 43.4197597,
+				"lon": 6.7711852
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue Zamenhof",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 32944359,
 			"center": {
 				"lat": -25.4195068,
@@ -2095,7 +2591,8 @@
 				"highway": "residential",
 				"name": "Rua Doutor Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "no"
+				"oneway": "no",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -2185,6 +2682,20 @@
 		},
 		{
 			"type": "way",
+			"id": 35437824,
+			"center": {
+				"lat": 44.0074023,
+				"lon": 10.1065494
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 35448492,
 			"center": {
 				"lat": 53.1343304,
@@ -2215,6 +2726,167 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"source": "Bing"
+			}
+		},
+		{
+			"type": "way",
+			"id": 36072954,
+			"center": {
+				"lat": 44.8213801,
+				"lon": 10.2818525
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 36972104,
+			"center": {
+				"lat": 45.4452418,
+				"lon": 9.1816087
+			},
+			"tags": {
+				"cycling_width": "wide",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"loc_ref": "5226_3162",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"sidewalk": "both"
+			}
+		},
+		{
+			"type": "way",
+			"id": 36972105,
+			"center": {
+				"lat": 45.4450136,
+				"lon": 9.1795247
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"loc_ref": "5226_3196",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027847,
+			"center": {
+				"lat": 45.5235452,
+				"lon": 11.5912564
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"junction": "roundabout",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027848,
+			"center": {
+				"lat": 45.5234954,
+				"lon": 11.591785
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027849,
+			"center": {
+				"lat": 45.5186386,
+				"lon": 11.5970148
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027875,
+			"center": {
+				"lat": 45.5237962,
+				"lon": 11.5909315
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027876,
+			"center": {
+				"lat": 45.5235954,
+				"lon": 11.5917998
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027877,
+			"center": {
+				"lat": 45.5239211,
+				"lon": 11.5934992
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 37027878,
+			"center": {
+				"lat": 45.5237013,
+				"lon": 11.5908467
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 38533921,
+			"center": {
+				"lat": 45.3813211,
+				"lon": 12.3464181
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -2264,6 +2936,36 @@
 				"maxspeed": "30",
 				"name": "Ludwika Zamenhofa",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 40351667,
+			"center": {
+				"lat": 44.4823761,
+				"lon": 11.4215174
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"ref": "SP31"
+			}
+		},
+		{
+			"type": "way",
+			"id": 40351672,
+			"center": {
+				"lat": 44.4825041,
+				"lon": 11.4215393
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"ref": "SP31"
 			}
 		},
 		{
@@ -2359,6 +3061,34 @@
 		},
 		{
 			"type": "way",
+			"id": 41603069,
+			"center": {
+				"lat": 44.5987062,
+				"lon": 10.8000107
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Lazzaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 41902323,
+			"center": {
+				"lat": 44.2513778,
+				"lon": 12.3565305
+			},
+			"tags": {
+				"amenity": "parking",
+				"capacity": "150",
+				"esperanto": "yes",
+				"name": "Piazzale Esperanto",
+				"parking": "surface"
+			}
+		},
+		{
+			"type": "way",
 			"id": 43095435,
 			"center": {
 				"lat": 46.3634663,
@@ -2402,6 +3132,19 @@
 				"name": "זמנהוף",
 				"name:en": "Zamenhoff",
 				"name:he": "זמנהוף"
+			}
+		},
+		{
+			"type": "way",
+			"id": 44644340,
+			"center": {
+				"lat": 44.9883181,
+				"lon": 9.0160857
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -2461,6 +3204,20 @@
 		},
 		{
 			"type": "way",
+			"id": 47099337,
+			"center": {
+				"lat": 44.4836892,
+				"lon": 11.2775588
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via dell'Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 47483556,
 			"center": {
 				"lat": -5.1023107,
@@ -2487,9 +3244,36 @@
 				"highway": "tertiary",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"ref": "3235D",
 				"smoothness": "bad",
-				"surface": "asphalt"
+				"surface": "asphalt",
+				"unsigned_ref": "3235D"
+			}
+		},
+		{
+			"type": "way",
+			"id": 49429124,
+			"center": {
+				"lat": 44.9817095,
+				"lon": 7.7492073
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 56077085,
+			"center": {
+				"lat": 43.7625947,
+				"lon": 10.4394413
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Via Zamenhof"
 			}
 		},
 		{
@@ -2527,6 +3311,81 @@
 		},
 		{
 			"type": "way",
+			"id": 59429648,
+			"center": {
+				"lat": 45.3162614,
+				"lon": 8.4055152
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lit": "yes",
+				"maxspeed": "50",
+				"name": "Via Zamenhof",
+				"source:maxspeed": "IT:urban"
+			}
+		},
+		{
+			"type": "way",
+			"id": 60692321,
+			"center": {
+				"lat": 37.5062144,
+				"lon": 13.0740304
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Lido Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 65234729,
+			"center": {
+				"lat": 44.6969564,
+				"lon": 10.6398138
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"oneway:bicycle": "no"
+			}
+		},
+		{
+			"type": "way",
+			"id": 66835295,
+			"center": {
+				"lat": 45.6491843,
+				"lon": 11.7749394
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 66835355,
+			"center": {
+				"lat": 45.6477977,
+				"lon": 11.7743916
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "1",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 69021797,
 			"center": {
 				"lat": 51.2864718,
@@ -2558,6 +3417,19 @@
 		},
 		{
 			"type": "way",
+			"id": 69810793,
+			"center": {
+				"lat": 44.1326473,
+				"lon": 12.2141987
+			},
+			"tags": {
+				"amenity": "parking",
+				"esperanto": "yes",
+				"name": "Piazzale Ludwik Lejzer Zamenhof"
+			}
+		},
+		{
+			"type": "way",
 			"id": 73025714,
 			"center": {
 				"lat": 33.0231371,
@@ -2578,8 +3450,8 @@
 			"type": "way",
 			"id": 75682056,
 			"center": {
-				"lat": 46.0963886,
-				"lon": 19.6665938
+				"lat": 46.0965906,
+				"lon": 19.6670533
 			},
 			"tags": {
 				"OBJECTID": "2582",
@@ -2590,6 +3462,20 @@
 				"name:hu": "Eszperantó utca",
 				"name:sr": "Есперанто",
 				"name:sr-Latn": "Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 79569449,
+			"center": {
+				"lat": 45.1488998,
+				"lon": 10.7613694
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -2654,6 +3540,33 @@
 				"name": "Rue de l'Espéranto",
 				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 85853143,
+			"center": {
+				"lat": 46.0665769,
+				"lon": 13.2524852
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "Giardino dell'Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 88821306,
+			"center": {
+				"lat": 43.547611,
+				"lon": 7.0318656
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Rue du Docteur Zamenhof",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -2756,6 +3669,21 @@
 		},
 		{
 			"type": "way",
+			"id": 102153698,
+			"center": {
+				"lat": 46.4963014,
+				"lon": 11.3705638
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto - Esperantostraße",
+				"name:de": "Esperantostraße",
+				"name:it": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 103342992,
 			"center": {
 				"lat": 41.9299905,
@@ -2783,6 +3711,22 @@
 		},
 		{
 			"type": "way",
+			"id": 106061166,
+			"center": {
+				"lat": 37.9292902,
+				"lon": 12.3306789
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "50",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 109829973,
 			"center": {
 				"lat": 47.0983416,
@@ -2804,6 +3748,49 @@
 		},
 		{
 			"type": "way",
+			"id": 112169705,
+			"center": {
+				"lat": 37.2916565,
+				"lon": 13.527938
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 113881874,
+			"center": {
+				"lat": 45.9780392,
+				"lon": 12.7008901
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 118339521,
+			"center": {
+				"lat": 45.6478825,
+				"lon": 11.7742628
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "1",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 119401741,
 			"center": {
 				"lat": -13.7882484,
@@ -2814,6 +3801,19 @@
 				"highway": "residential",
 				"name": "Rua Zamenhof",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 119914713,
+			"center": {
+				"lat": 44.9032271,
+				"lon": 8.6242553
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Lazzaro Zamenhof"
 			}
 		},
 		{
@@ -2847,6 +3847,20 @@
 				"postal_code": "57015-225",
 				"source": "Bing;IBGE",
 				"surface": "unpaved"
+			}
+		},
+		{
+			"type": "way",
+			"id": 126785447,
+			"center": {
+				"lat": 44.8925587,
+				"lon": 8.2106289
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -2906,6 +3920,34 @@
 		},
 		{
 			"type": "way",
+			"id": 128402798,
+			"center": {
+				"lat": 43.7134302,
+				"lon": 10.4193777
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Largo Esperanto",
+				"oneway": "yes",
+				"service": "parking_aisle"
+			}
+		},
+		{
+			"type": "way",
+			"id": 129008160,
+			"center": {
+				"lat": 44.894407,
+				"lon": 8.2135103
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 129089440,
 			"center": {
 				"lat": -23.2939092,
@@ -2930,6 +3972,95 @@
 				"name": "Rua Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "no"
+			}
+		},
+		{
+			"type": "way",
+			"id": 131838253,
+			"center": {
+				"lat": 37.6057998,
+				"lon": 15.1419165
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 135863903,
+			"center": {
+				"lat": 44.4823812,
+				"lon": 11.424101
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "70",
+				"name": "Via Esperanto",
+				"ref": "SP31"
+			}
+		},
+		{
+			"type": "way",
+			"id": 135977293,
+			"center": {
+				"lat": 44.4828825,
+				"lon": 11.4291323
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via Esperanto",
+				"ref": "SP31"
+			}
+		},
+		{
+			"type": "way",
+			"id": 135977298,
+			"center": {
+				"lat": 44.4827311,
+				"lon": 11.4279557
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via Esperanto",
+				"ref": "SP31"
+			}
+		},
+		{
+			"type": "way",
+			"id": 135977301,
+			"center": {
+				"lat": 44.4826425,
+				"lon": 11.4276687
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via Esperanto",
+				"ref": "SP31"
+			}
+		},
+		{
+			"type": "way",
+			"id": 135977313,
+			"center": {
+				"lat": 44.4824792,
+				"lon": 11.4269296
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via Esperanto",
+				"ref": "SP31"
 			}
 		},
 		{
@@ -2978,6 +4109,115 @@
 		},
 		{
 			"type": "way",
+			"id": 142604080,
+			"center": {
+				"lat": 44.8636313,
+				"lon": 10.0544585
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 144554408,
+			"center": {
+				"lat": 45.8179868,
+				"lon": 15.9678183
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Zamenhofova ulica"
+			}
+		},
+		{
+			"type": "way",
+			"id": 145025984,
+			"center": {
+				"lat": 47.0715311,
+				"lon": 15.424549
+			},
+			"tags": {
+				"cycleway": "opposite_lane",
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "30",
+				"name": "Esperantoplatz",
+				"oneway": "yes",
+				"source": "geoimage.at",
+				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 147052472,
+			"center": {
+				"lat": 45.5598198,
+				"lon": 18.718548
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Esperantska ulica",
+				"oneway": "yes",
+				"service": "alley"
+			}
+		},
+		{
+			"type": "way",
+			"id": 147164148,
+			"center": {
+				"lat": 45.3812039,
+				"lon": 11.9163773
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 147164151,
+			"center": {
+				"lat": 45.3793397,
+				"lon": 11.9140709
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 147289488,
+			"center": {
+				"lat": 45.9468103,
+				"lon": 13.6176038
+			},
+			"tags": {
+				"esperanto": "yes",
+				"foot": "yes",
+				"highway": "cycleway",
+				"name": "Passaggio Ludovico Lazzaro Zamenhof",
+				"service": "alley",
+				"surface": "paved",
+				"width": "2"
+			}
+		},
+		{
+			"type": "way",
 			"id": 147358703,
 			"center": {
 				"lat": 51.975595,
@@ -3003,6 +4243,19 @@
 				"name": "Avenida Esperanto",
 				"source": "own gps survey",
 				"surface": "paving_stones"
+			}
+		},
+		{
+			"type": "way",
+			"id": 150059272,
+			"center": {
+				"lat": 45.5798888,
+				"lon": 11.0387438
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -3084,6 +4337,20 @@
 		},
 		{
 			"type": "way",
+			"id": 154442613,
+			"center": {
+				"lat": 44.4234787,
+				"lon": 10.7901661
+			},
+			"tags": {
+				"amenity": "parking",
+				"esperanto": "yes",
+				"name": "Piazzetta Zamenhof",
+				"parking": "surface"
+			}
+		},
+		{
+			"type": "way",
 			"id": 155739318,
 			"center": {
 				"lat": -36.5563126,
@@ -3155,6 +4422,38 @@
 		},
 		{
 			"type": "way",
+			"id": 160448351,
+			"center": {
+				"lat": 44.2301202,
+				"lon": 10.6535982
+			},
+			"tags": {
+				"amenity": "parking",
+				"esperanto": "yes",
+				"name": "Piazza dell'Esperanto",
+				"parking": "surface"
+			}
+		},
+		{
+			"type": "way",
+			"id": 161790535,
+			"center": {
+				"lat": 46.6187278,
+				"lon": 14.2779991
+			},
+			"tags": {
+				"bicycle": "designated",
+				"esperanto": "yes",
+				"foot": "designated",
+				"highway": "path",
+				"maxspeed": "30",
+				"name": "Esperantostraße",
+				"segregated": "no",
+				"source": "plan.at 2009"
+			}
+		},
+		{
+			"type": "way",
 			"id": 162183755,
 			"center": {
 				"lat": 51.9120652,
@@ -3197,6 +4496,35 @@
 		},
 		{
 			"type": "way",
+			"id": 162273612,
+			"center": {
+				"lat": 44.0448339,
+				"lon": 10.039352
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 162273652,
+			"center": {
+				"lat": 44.0465177,
+				"lon": 10.0339293
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 164610075,
 			"center": {
 				"lat": 51.7620474,
@@ -3233,6 +4561,112 @@
 				"ref": "1188E",
 				"source:maxspeed": "PL:urban",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164963507,
+			"center": {
+				"lat": 44.7415195,
+				"lon": 10.6964816
+			},
+			"tags": {
+				"alt_name": "Via L. L. Zamenhof",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazaro Lodovico Zamenhof",
+				"short_name": "Via Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164963508,
+			"center": {
+				"lat": 44.7410718,
+				"lon": 10.6963405
+			},
+			"tags": {
+				"alt_name": "Via L. L. Zamenhof",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazaro Lodovico Zamenhof",
+				"short_name": "Via Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164963509,
+			"center": {
+				"lat": 44.7410718,
+				"lon": 10.6964901
+			},
+			"tags": {
+				"alt_name": "Via L. L. Zamenhof",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazaro Lodovico Zamenhof",
+				"short_name": "Via Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164963510,
+			"center": {
+				"lat": 44.7408085,
+				"lon": 10.6965328
+			},
+			"tags": {
+				"alt_name": "Via L. L. Zamenhof",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazaro Lodovico Zamenhof",
+				"short_name": "Via Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 164963511,
+			"center": {
+				"lat": 44.7404959,
+				"lon": 10.6959423
+			},
+			"tags": {
+				"alt_name": "Via L. L. Zamenhof",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Lazaro Lodovico Zamenhof",
+				"short_name": "Via Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 165222453,
+			"center": {
+				"lat": 45.7379746,
+				"lon": 7.3288389
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 165560212,
+			"center": {
+				"lat": 44.8811257,
+				"lon": 11.0674769
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof"
 			}
 		},
 		{
@@ -3351,6 +4785,34 @@
 		},
 		{
 			"type": "way",
+			"id": 171059403,
+			"center": {
+				"lat": 45.5098808,
+				"lon": 11.1686097
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 172774233,
+			"center": {
+				"lat": 36.9176107,
+				"lon": 14.7230701
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
 			"id": 173992946,
 			"center": {
 				"lat": 52.1217398,
@@ -3375,6 +4837,21 @@
 				"highway": "residential",
 				"name": "Rua Esperanto",
 				"oneway": "no"
+			}
+		},
+		{
+			"type": "way",
+			"id": 175973618,
+			"center": {
+				"lat": 45.947635,
+				"lon": 13.619181
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Passaggio Ludovico Lazzaro Zamenhof",
+				"service": "alley",
+				"width": "2"
 			}
 		},
 		{
@@ -3418,6 +4895,19 @@
 		},
 		{
 			"type": "way",
+			"id": 178663889,
+			"center": {
+				"lat": 45.3749184,
+				"lon": 11.0361979
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 181408683,
 			"center": {
 				"lat": 44.3199553,
@@ -3451,6 +4941,21 @@
 		},
 		{
 			"type": "way",
+			"id": 185744837,
+			"center": {
+				"lat": 42.758796,
+				"lon": 11.1157844
+			},
+			"tags": {
+				"amenity": "parking",
+				"esperanto": "yes",
+				"fee": "yes",
+				"name": "Piazza Esperanto",
+				"parking": "surface"
+			}
+		},
+		{
+			"type": "way",
 			"id": 188434585,
 			"center": {
 				"lat": -19.2259445,
@@ -3467,6 +4972,61 @@
 		},
 		{
 			"type": "way",
+			"id": 190022925,
+			"center": {
+				"lat": 41.8269784,
+				"lon": 12.4618169
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lit": "yes",
+				"name": "Viale dell'Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 190022926,
+			"center": {
+				"lat": 41.8267527,
+				"lon": 12.464017
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"lit": "yes",
+				"name": "Viale dell'Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 194346044,
+			"center": {
+				"lat": 45.9354152,
+				"lon": 8.5709937
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "pedestrian",
+				"name": "Vico Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 194801608,
+			"center": {
+				"lat": 44.6258071,
+				"lon": 10.9436403
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"postal_code": "41125"
+			}
+		},
+		{
+			"type": "way",
 			"id": 199955092,
 			"center": {
 				"lat": 52.1034901,
@@ -3476,6 +5036,20 @@
 				"highway": "residential",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 201011341,
+			"center": {
+				"lat": 44.8440513,
+				"lon": 10.4461609
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"oneway": "yes"
 			}
 		},
 		{
@@ -3506,6 +5080,19 @@
 				"highway": "residential",
 				"name": "Esperanto",
 				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 204276418,
+			"center": {
+				"lat": 37.5953946,
+				"lon": 12.9724058
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -3552,6 +5139,97 @@
 		},
 		{
 			"type": "way",
+			"id": 211261534,
+			"center": {
+				"lat": 45.3773336,
+				"lon": 11.9119415
+			},
+			"tags": {
+				"embankment": "yes",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 211261536,
+			"center": {
+				"lat": 45.3759015,
+				"lon": 11.9101442
+			},
+			"tags": {
+				"bridge": "viaduct",
+				"esperanto": "yes",
+				"highway": "trunk",
+				"lanes": "2",
+				"layer": "1",
+				"maxspeed": "90",
+				"name": "Corso Esperanto",
+				"oneway": "yes"
+			}
+		},
+		{
+			"type": "way",
+			"id": 215049514,
+			"center": {
+				"lat": 36.9179389,
+				"lon": 14.7214463
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 216818209,
+			"center": {
+				"lat": 42.9109871,
+				"lon": 13.8907781
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Largo Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 217590206,
+			"center": {
+				"lat": 43.716633,
+				"lon": 10.4094133
+			},
+			"tags": {
+				"bridge": "yes",
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"layer": "1",
+				"maxspeed": "31",
+				"name": "Via Ludovico Lazaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 217590207,
+			"center": {
+				"lat": 43.7164383,
+				"lon": 10.4099435
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"maxspeed": "30",
+				"name": "Via Ludovico Lazaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
 			"id": 220716144,
 			"center": {
 				"lat": 48.504729,
@@ -3576,6 +5254,21 @@
 				"int_name": "Esperanto",
 				"name": "Есперанто",
 				"name:en": "Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 223934644,
+			"center": {
+				"lat": 45.6992617,
+				"lon": 9.5055103
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -3632,6 +5325,19 @@
 				"name:en1": "Zamanhoff",
 				"name:he": "זמנהוף",
 				"name:ru": "Заменгоф"
+			}
+		},
+		{
+			"type": "way",
+			"id": 230115722,
+			"center": {
+				"lat": 45.8175821,
+				"lon": 9.0634351
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof"
 			}
 		},
 		{
@@ -3708,6 +5414,36 @@
 		},
 		{
 			"type": "way",
+			"id": 242525576,
+			"center": {
+				"lat": 46.4961666,
+				"lon": 11.3699627
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Via Esperanto - Esperantostraße",
+				"name:de": "Esperantostraße",
+				"name:it": "Via Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 252527288,
+			"center": {
+				"lat": 45.6995473,
+				"lon": 9.5037081
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 253336352,
 			"center": {
 				"lat": -21.5434772,
@@ -3717,6 +5453,21 @@
 				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Avenida Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 253345382,
+			"center": {
+				"lat": 45.401401,
+				"lon": 10.9820148
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via dell'Esperanto",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -3775,6 +5526,34 @@
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"turn:lanes": "right"
+			}
+		},
+		{
+			"type": "way",
+			"id": 260920357,
+			"center": {
+				"lat": 45.5248985,
+				"lon": 11.5908047
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 260920358,
+			"center": {
+				"lat": 45.5273715,
+				"lon": 11.589065
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -3840,8 +5619,8 @@
 			"type": "way",
 			"id": 267304542,
 			"center": {
-				"lat": 51.9903541,
-				"lon": 5.9447953
+				"lat": 51.9903579,
+				"lon": 5.9447906
 			},
 			"tags": {
 				"highway": "unclassified",
@@ -3884,6 +5663,22 @@
 				"name:en": "Esperanto",
 				"oneway": "no",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 279394005,
+			"center": {
+				"lat": 45.4451012,
+				"lon": 9.180327
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"loc_ref": "5226_6762",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"sidewalk": "both"
 			}
 		},
 		{
@@ -4121,7 +5916,8 @@
 				"highway": "residential",
 				"name": "Rua Doutor Zamenhof",
 				"name:etymology:wikidata": "Q11758",
-				"oneway": "yes"
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4150,6 +5946,22 @@
 				"highway": "residential",
 				"name": "Rua Esperanto",
 				"source": "IBGE"
+			}
+		},
+		{
+			"type": "way",
+			"id": 320175897,
+			"center": {
+				"lat": 43.7134473,
+				"lon": 10.4198188
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"maxspeed": "50",
+				"name": "Largo Esperanto",
+				"oneway": "no",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -4262,6 +6074,19 @@
 		},
 		{
 			"type": "way",
+			"id": 341402495,
+			"center": {
+				"lat": 45.0817028,
+				"lon": 7.6514289
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "Giardino Lodovico Lazzaro Zamenhof"
+			}
+		},
+		{
+			"type": "way",
 			"id": 352505641,
 			"center": {
 				"lat": 51.0873798,
@@ -4285,9 +6110,9 @@
 				"highway": "tertiary",
 				"name": "Ludwika Zamenhofa",
 				"name:etymology:wikidata": "Q11758",
-				"ref": "3235D",
 				"source": "uhul:ortofoto",
-				"surface": "asphalt"
+				"surface": "asphalt",
+				"unsigned_ref": "3235D"
 			}
 		},
 		{
@@ -4329,6 +6154,19 @@
 				"name": "Zamenhoflaan",
 				"name:etymology:wikidata": "Q11758",
 				"wikidata": "Q18950693"
+			}
+		},
+		{
+			"type": "way",
+			"id": 373822284,
+			"center": {
+				"lat": 44.0518014,
+				"lon": 8.2126082
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -4463,6 +6301,19 @@
 		},
 		{
 			"type": "way",
+			"id": 430599037,
+			"center": {
+				"lat": 40.3564153,
+				"lon": 17.362463
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Viale dell'Esperanto"
+			}
+		},
+		{
+			"type": "way",
 			"id": 432041019,
 			"center": {
 				"lat": 39.6509552,
@@ -4475,6 +6326,36 @@
 				"name:en": "International Museum of Peace and Solidarity",
 				"name:eo": "Internacia Muzeo de Paco kaj Solidaro",
 				"tourism": "museum"
+			}
+		},
+		{
+			"type": "way",
+			"id": 441885376,
+			"center": {
+				"lat": 45.1393631,
+				"lon": 10.7348078
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "no",
+				"short_name": "Via Zamenhof"
+			}
+		},
+		{
+			"type": "way",
+			"id": 441921272,
+			"center": {
+				"lat": 45.1389247,
+				"lon": 10.7340708
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "no",
+				"short_name": "Via Zamenhof"
 			}
 		},
 		{
@@ -4528,6 +6409,21 @@
 		},
 		{
 			"type": "way",
+			"id": 457375759,
+			"center": {
+				"lat": 45.3985481,
+				"lon": 10.9774821
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"lanes": "2",
+				"name": "Via dell'Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 462124094,
 			"center": {
 				"lat": 50.7183776,
@@ -4561,6 +6457,48 @@
 		},
 		{
 			"type": "way",
+			"id": 476278935,
+			"center": {
+				"lat": 43.9482887,
+				"lon": 10.9234674
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "via Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 476278936,
+			"center": {
+				"lat": 43.9478046,
+				"lon": 10.9238163
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "via Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 477972874,
+			"center": {
+				"lat": 36.7803388,
+				"lon": 14.6890211
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Esperanto",
+				"surface": "paved"
+			}
+		},
+		{
+			"type": "way",
 			"id": 478137803,
 			"center": {
 				"lat": 35.8816243,
@@ -4580,6 +6518,20 @@
 				"operator:eo": "Japana Esperanto-Instituto",
 				"wikidata": "Q11390421",
 				"wikipedia": "ja:八ヶ岳エスペラント館"
+			}
+		},
+		{
+			"type": "way",
+			"id": 478620780,
+			"center": {
+				"lat": 44.3865605,
+				"lon": 11.342832
+			},
+			"tags": {
+				"esperanto": "yes",
+				"fixme": "The geometry needs some check, and it need to be linked to other roads",
+				"highway": "pedestrian",
+				"name": "Corso Esperanto"
 			}
 		},
 		{
@@ -4663,6 +6615,34 @@
 				"oneway:bicycle": "no",
 				"source:maxspeed": "PL:zone30",
 				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 516482012,
+			"center": {
+				"lat": 44.069835,
+				"lon": 12.4545135
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"name": "Piazzale Esperanto",
+				"service": "parking_aisle"
+			}
+		},
+		{
+			"type": "way",
+			"id": 522162130,
+			"center": {
+				"lat": 45.1593182,
+				"lon": 14.7175474
+			},
+			"tags": {
+				"building": "yes",
+				"esperanto": "yes",
+				"name": "Hotel Esperanto",
+				"tourism": "hotel"
 			}
 		},
 		{
@@ -4953,6 +6933,49 @@
 		},
 		{
 			"type": "way",
+			"id": 560549668,
+			"center": {
+				"lat": 45.4011115,
+				"lon": 10.9818302
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via dell'Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 561010031,
+			"center": {
+				"lat": 45.4017343,
+				"lon": 10.9822338
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"name": "Via dell'Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 561010033,
+			"center": {
+				"lat": 45.402247,
+				"lon": 10.982541
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"name": "Via dell'Esperanto",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 561110333,
 			"center": {
 				"lat": 43.3527368,
@@ -5000,6 +7023,19 @@
 				"name": "Esperanto Placer Mine",
 				"name:etymology:wikidata": "Q143",
 				"resource": "gold"
+			}
+		},
+		{
+			"type": "way",
+			"id": 565873409,
+			"center": {
+				"lat": 37.5055643,
+				"lon": 13.0704954
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Lido Esperanto"
 			}
 		},
 		{
@@ -5056,6 +7092,19 @@
 				"turn:lanes:backward": "left|through;right",
 				"wikidata": "Q9365595",
 				"wikipedia": "pl:Ulica Ludwika Zamenhofa w Warszawie"
+			}
+		},
+		{
+			"type": "way",
+			"id": 592754469,
+			"center": {
+				"lat": 44.8931322,
+				"lon": 8.2118922
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "unclassified",
+				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -5145,6 +7194,37 @@
 		},
 		{
 			"type": "way",
+			"id": 665366896,
+			"center": {
+				"lat": 45.3981129,
+				"lon": 10.9800545
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "secondary",
+				"maxspeed": "50",
+				"name": "Via dell'Esperanto",
+				"ref": "SP 25",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 671111754,
+			"center": {
+				"lat": 44.0457383,
+				"lon": 10.0361904
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 673462577,
 			"center": {
 				"lat": 51.812544,
@@ -5155,6 +7235,20 @@
 				"name": "Doctor L.L. Zamenhoflaan",
 				"name:etymology:wikidata": "Q11758",
 				"wikidata": "Q19017089"
+			}
+		},
+		{
+			"type": "way",
+			"id": 678693353,
+			"center": {
+				"lat": 43.7160737,
+				"lon": 10.4104982
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "service",
+				"maxspeed": "30",
+				"name": "Via Ludovico Lazaro Zamenhof"
 			}
 		},
 		{
@@ -5193,6 +7287,32 @@
 		},
 		{
 			"type": "way",
+			"id": 693963104,
+			"center": {
+				"lat": 45.4147585,
+				"lon": 11.9093556
+			},
+			"tags": {
+				"esperanto": "yes",
+				"leisure": "park",
+				"name": "Giardino Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 699678784,
+			"center": {
+				"lat": 37.5000353,
+				"lon": 13.2666329
+			},
+			"tags": {
+				"esperanto": "yes",
+				"name": "Piazza Zamenhof",
+				"place": "square"
+			}
+		},
+		{
+			"type": "way",
 			"id": 702543388,
 			"center": {
 				"lat": 52.4729086,
@@ -5225,6 +7345,40 @@
 				"source:maxspeed:forward": "sign",
 				"surface": "asphalt",
 				"turn:lanes:forward": "left|through"
+			}
+		},
+		{
+			"type": "way",
+			"id": 724626463,
+			"center": {
+				"lat": 44.4826003,
+				"lon": 11.2783875
+			},
+			"tags": {
+				"esperanto": "yes",
+				"highway": "residential",
+				"name": "Via dell'Esperanto"
+			}
+		},
+		{
+			"type": "way",
+			"id": 735286340,
+			"center": {
+				"lat": 46.0960583,
+				"lon": 19.6659211
+			},
+			"tags": {
+				"OBJECTID": "2582",
+				"SHAPE_Leng": "0.00252470633181",
+				"esperanto": "yes",
+				"highway": "residential",
+				"lanes": "1",
+				"name": "Есперанто",
+				"name:hu": "Eszperantó utca",
+				"name:sr": "Есперанто",
+				"name:sr-Latn": "Esperanto",
+				"oneway": "yes",
+				"surface": "asphalt"
 			}
 		}
 	]

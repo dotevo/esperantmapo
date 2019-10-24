@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-07T09:45:02Z",
+		"timestamp_osm_base": "2019-10-24T11:29:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -216,7 +216,7 @@
 			"type": "way",
 			"id": 174996681,
 			"center": {
-				"lat": -54.4198946,
+				"lat": -54.4197463,
 				"lon": 3.3595708
 			},
 			"tags": {
@@ -854,8 +854,8 @@
 			"type": "relation",
 			"id": 2386068,
 			"center": {
-				"lat": -29.0289746,
-				"lon": 167.9380459
+				"lat": -29.0289934,
+				"lon": 167.9556525
 			},
 			"tags": {
 				"name:pl": "Wyspa Norfolk"

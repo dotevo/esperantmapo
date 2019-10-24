@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-22T11:03:02Z",
+		"timestamp_osm_base": "2019-10-24T11:25:01Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2668,8 +2668,8 @@
 		{
 			"type": "node",
 			"id": 27524177,
-			"lat": 42.8767446,
-			"lon": 74.6069949,
+			"lat": 42.8765753,
+			"lon": 74.6070455,
 			"tags": {
 				"name:pl": "Biszkek"
 			}
@@ -9684,8 +9684,8 @@
 		{
 			"type": "node",
 			"id": 62505581,
-			"lat": 45.4667971,
-			"lon": 9.1904984,
+			"lat": 45.4668,
+			"lon": 9.1905,
 			"tags": {
 				"name:pl": "Mediolan"
 			}
@@ -48280,8 +48280,8 @@
 		{
 			"type": "node",
 			"id": 3308587742,
-			"lat": 4.264039,
-			"lon": -75.9343222,
+			"lat": 4.2641326,
+			"lon": -75.9345019,
 			"tags": {
 				"name:pl": "Sewilla"
 			}
@@ -49586,15 +49586,6 @@
 		},
 		{
 			"type": "node",
-			"id": 5069782059,
-			"lat": 26.5583876,
-			"lon": 88.0821468,
-			"tags": {
-				"name:pl": "Sagarmatha Chok"
-			}
-		},
-		{
-			"type": "node",
 			"id": 5119801550,
 			"lat": 49.6583412,
 			"lon": 30.9824887,
@@ -49884,8 +49875,8 @@
 		{
 			"type": "node",
 			"id": 6765699485,
-			"lat": -13.9874651,
-			"lon": 33.7680562,
+			"lat": -13.9875107,
+			"lon": 33.768144,
 			"tags": {
 				"name:pl": "Lilongwe"
 			}

@@ -2,7 +2,7 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-07T09:48:02Z",
+		"timestamp_osm_base": "2019-10-24T11:33:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -864,8 +864,8 @@
 		{
 			"type": "node",
 			"id": 27253144,
-			"lat": 53.0300878,
-			"lon": 27.5550778,
+			"lat": 53.0277354,
+			"lon": 27.5519747,
 			"tags": {
 				"name:eo": "Sluck"
 			}
@@ -945,8 +945,8 @@
 		{
 			"type": "node",
 			"id": 27524177,
-			"lat": 42.8767446,
-			"lon": 74.6069949,
+			"lat": 42.8765753,
+			"lon": 74.6070455,
 			"tags": {
 				"name:eo": "Biŝkeko"
 			}
@@ -2145,6 +2145,15 @@
 		},
 		{
 			"type": "node",
+			"id": 115664268,
+			"lat": 25.0783456,
+			"lon": -77.3383331,
+			"tags": {
+				"name:eo": "Nasaŭo"
+			}
+		},
+		{
+			"type": "node",
 			"id": 119306277,
 			"lat": 55.7709986,
 			"lon": 27.9348344,
@@ -2659,8 +2668,8 @@
 		{
 			"type": "node",
 			"id": 198419670,
-			"lat": -41.1334672,
-			"lon": -71.3099936,
+			"lat": -41.1334421,
+			"lon": -71.3098425,
 			"tags": {
 				"name:eo": "Bariloĉe"
 			}
@@ -2876,8 +2885,8 @@
 		{
 			"type": "node",
 			"id": 242978912,
-			"lat": 52.1114306,
-			"lon": 26.1026086,
+			"lat": 52.1113612,
+			"lon": 26.102377,
 			"tags": {
 				"name:eo": "Pinsk"
 			}
@@ -3075,8 +3084,8 @@
 		{
 			"type": "node",
 			"id": 244076828,
-			"lat": 40.7425737,
-			"lon": 107.3824338,
+			"lat": 40.7411867,
+			"lon": 107.3826113,
 			"tags": {
 				"name:eo": "Bajan-Nuro"
 			}
@@ -5275,8 +5284,8 @@
 		{
 			"type": "node",
 			"id": 317989136,
-			"lat": 44.1717856,
-			"lon": 28.6319765,
+			"lat": 44.1767161,
+			"lon": 28.6507598,
 			"tags": {
 				"name:eo": "Konstanco"
 			}
@@ -7076,6 +7085,15 @@
 		},
 		{
 			"type": "node",
+			"id": 1091272140,
+			"lat": 33.5130695,
+			"lon": 36.3095814,
+			"tags": {
+				"name:eo": "Damasko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1105432954,
 			"lat": 50.5950864,
 			"lon": 32.3866658,
@@ -8204,15 +8222,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3072758152,
-			"lat": -13.973456,
-			"lon": 33.7878122,
-			"tags": {
-				"name:eo": "Lilongvo"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3073512713,
 			"lat": 31.5776264,
 			"lon": 120.2951311,
@@ -8565,20 +8574,20 @@
 		},
 		{
 			"type": "node",
-			"id": 6054338315,
-			"lat": 22.3272706,
-			"lon": 114.1898678,
-			"tags": {
-				"name:eo": "Kaŭluno"
-			}
-		},
-		{
-			"type": "node",
 			"id": 6612437350,
 			"lat": 35.5391697,
 			"lon": 129.3119136,
 			"tags": {
 				"name:eo": "Ulsan"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6765699485,
+			"lat": -13.9875107,
+			"lon": 33.768144,
+			"tags": {
+				"name:eo": "Lilongvo"
 			}
 		}
 	]
