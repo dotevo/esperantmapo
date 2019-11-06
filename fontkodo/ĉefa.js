@@ -108,7 +108,7 @@ function aldoniEnListon(nomo, etikedoj, loc) {
 	btno.on('click', eventoEnListo)
 }
 
-const OPUrl = 'http://overpass-api.de/api/interpreter?data=';
+const OPUrl = 'https://overpass-api.de/api/interpreter?data=';
 function vojonOP(interpeto, vojo) {
 	if (parametroj.rekte != null) {
 		return OPUrl + interpeto;
