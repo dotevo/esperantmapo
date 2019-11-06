@@ -4,6 +4,7 @@ let mapo;
  * @requires ./tradukilo.js
  * @requires ./ui.js
  * @requires ./overpass/overpass.js
+ * @requires ./interpetoj.js
  */
 
 //Parametroj
@@ -104,9 +105,18 @@ function aldoniEnListon(nomo, etikedoj, loc) {
 	btno.on('click', eventoEnListo)
 }
 
+const OPUrl = 'http://overpass-api.de/api/interpreter?data=';
+function vojonOP(interpeto, vojo) {
+	if (parametroj.rekte != null) {
+		return OPUrl + interpeto;
+	} else {
+		return vojo;
+	}
+}
+
 function manteloj(opt, lingvo) {
 	const landojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/landoj.json',
+		dosiero: vojonOP(escape(landoj(lingvo)), lingvo + '/landoj.json'),
 		krei: function(objekto) {
 			const nomo = objekto.tags['name:' + lingvo]
 			var mia = L.divIcon({
@@ -117,12 +127,12 @@ function manteloj(opt, lingvo) {
 						"</span>"
 				})
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon])
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.landoj)
+			opt.landoj.addLayer(L.marker([objekto.lat, objekto.lon], {icon: mia}))
 		}
 	})
 
 	const provincojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/provincoj.json',
+		dosiero: vojonOP(escape(provincoj(lingvo)), lingvo + '/provincoj.json'),
 		krei: function(objekto) {
 			const nomo = objekto.tags['name:' + lingvo]
 			var mia = L.divIcon({
@@ -132,14 +142,13 @@ function manteloj(opt, lingvo) {
 						nomo +
 						"</span>"
 				})
-
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon])
 			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.provincoj)
 		}
 	})
 
 	const urbojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/urboj.json',
+		dosiero: vojonOP(escape(urboj(lingvo)), lingvo + '/urboj.json'),
 		krei: function(objekto) {
 			const nomo = objekto.tags['name:' + lingvo]
 			var mia = L.divIcon({
@@ -150,12 +159,12 @@ function manteloj(opt, lingvo) {
 						"</span>"
 				})
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon])
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.urboj)
+			opt.urboj.addLayer(L.marker([objekto.lat, objekto.lon], {icon: mia}))
 		}
 	})
 
 	const teroF = new L.OverpassFetcher({
-		dosiero: lingvo + '/tero.json',
+		dosiero: vojonOP(escape(tero(lingvo)), lingvo + '/tero.json'),
 		krei: function(objekto) {
 			const nomo = objekto.tags['name:' + lingvo]
 			var mia = L.divIcon({
@@ -166,12 +175,12 @@ function manteloj(opt, lingvo) {
 						"</span>"
 				})
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon])
-			L.marker([objekto.lat, objekto.lon], {icon: mia}).addTo(opt.tero)
+			opt.tero.addLayer(L.marker([objekto.lat, objekto.lon], {icon: mia}))
 		}
 	})
 
 	const lokojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/lokoj.json',
+		dosiero: vojonOP(escape(lokoj(lingvo)), lingvo + '/lokoj.json'),
 		krei: function(objekto) {
 			L.marker([objekto.lat, objekto.lon], {icon: ikononDeLoko(objekto)}).addTo(opt.lokoj)
 				.bindPopup(kreiPriskribon(objekto))
@@ -210,9 +219,9 @@ $(document).bind('pageinit', function() {
 
 	const landoj = L.LayerGroup.collision({margin:5})
 	const urboj = L.LayerGroup.collision({margin:5})
-	const provincoj = L.LayerGroup.collision({margin:5})
-	const tero = L.LayerGroup.collision({margin:5})
-	const lokoj = L.featureGroup().addTo(mapo)
+	const provincoj = L.featureGroup()//L.LayerGroup.collision({margin:5})
+	const tero = L.featureGroup()//L.LayerGroup.collision({margin:5})
+	const lokoj = L.featureGroup()//.addTo(mapo)
 
 	manteloj({landoj: landoj,
 		provincoj: provincoj,
@@ -235,8 +244,12 @@ $(document).bind('pageinit', function() {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj)
 			}
+			console.log("Al: landoj")
 		} else {
-			mapo.removeLayer(landoj)
+			console.log("For: landoj")
+			if (mapo.hasLayer(landoj)) {
+				mapo.removeLayer(landoj)
+			}
 		}
 
 		let elektoProvincoj = $('#provincoj').val()
@@ -245,18 +258,28 @@ $(document).bind('pageinit', function() {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj)
 			}
+			console.log("Al: provincoj")
+
 		} else {
-			mapo.removeLayer(provincoj)
+			console.log("For: provincoj")
+			if (mapo.hasLayer(provincoj)) {
+				mapo.removeLayer(provincoj)
+			}
 		}
 
 		let elektoTero = $('#tero').val()
 		if ((mapo.getZoom() > 4 || elektoTero === 'C') &&
-				elektoProvincoj !== 'N') {
+				elektoTero !== 'N') {
 			if (!mapo.hasLayer(tero)) {
 				mapo.addLayer(tero)
 			}
+			console.log("Al: tero")
+
 		} else {
-			mapo.removeLayer(tero)
+			console.log("For: tero")
+			if (mapo.hasLayer(tero)) {
+				mapo.removeLayer(tero)
+			}
 		}
 
 		let elektoUrboj = $('#urboj').val()
@@ -265,22 +288,41 @@ $(document).bind('pageinit', function() {
 			if (!mapo.hasLayer(urboj)) {
 				mapo.addLayer(urboj)
 			}
+			console.log("Al: urboj")
 		} else {
-			mapo.removeLayer(urboj)
+			console.log("For: urboj")
+			if (mapo.hasLayer(urboj)) {
+				mapo.removeLayer(urboj)
+			}
 		}
 
 		let elektoLokoj = $('#lokoj').val()
-		if ((mapo.getZoom() > 4 || elektoUrboj === 'C') &&
-				elektoUrboj !== 'N') {
+		if ((mapo.getZoom() > 4 || elektoLokoj === 'C') &&
+			elektoLokoj !== 'N') {
 			if (!mapo.hasLayer(lokoj)) {
 				mapo.addLayer(lokoj)
 			}
+			console.log("Al: lokoj")
+
 		} else {
-			mapo.removeLayer(lokoj)
+			console.log("For: lokoj")
+			if (mapo.hasLayer(lokoj)) {
+				mapo.removeLayer(lokoj)
+			}
 		}
+
+		console.log("Lokoj: " + mapo.hasLayer(lokoj))
+		console.log("Urboj: " + mapo.hasLayer(urboj))
+		console.log("Provincoj: " + mapo.hasLayer(provincoj))
+		console.log("Landoj: " + mapo.hasLayer(landoj))
+		console.log("Tero: " + mapo.hasLayer(tero))
+		console.log(landoj)
+		console.log(urboj)
+
 	})
 
 	$('#landoj, #provincoj, #urboj, #lokoj, #tero').on('change', function () {
+		console.log("AA");
 		parametroj.l = $('#landoj').val()
 		parametroj.p = $('#provincoj').val()
 		parametroj.u = $('#urboj').val()

@@ -11,6 +11,9 @@ L.LatLngBounds.prototype.limigaKesto = function () {
  * @requires ./vico.js
  */
 
+
+let overpassVico = new OverpassVico({url: ''})
+
 L.OverpassFetcher = L.LayerGroup.extend({
 	options: {
 		dosiero: 'datumo.json',
@@ -22,11 +25,7 @@ L.OverpassFetcher = L.LayerGroup.extend({
 		this._nodes = {}
 
 		console.log(this.options.dosiero)
-		$.ajax({
-			url: this.options.dosiero,
-			crossDomain: true,
-			dataType: 'json'
-		}).always(function(a, b) {
+		overpassVico.elŝutiElOverpass(this.options.dosiero, function(a, b) {
 			ĉi.analizi(a)
 		})
 	},
