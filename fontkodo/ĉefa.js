@@ -30,6 +30,9 @@ if (parametroj.lat == null || parametroj.lng == null || parametroj.z == null) {
 	parametroj.lng = 0
 	parametroj.z = 1
 }
+if (parametroj.lingvo != null) {
+	lingvo = parametroj.lingvo
+}
 
 function ŝanĝiParametrojn() {
 	let teksto = ''
