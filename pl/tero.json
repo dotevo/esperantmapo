@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:29:03Z",
+		"timestamp_osm_base": "2019-11-06T06:49:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1588,17 +1588,6 @@
 			},
 			"tags": {
 				"name:pl": "Wyspa Północna"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 6677259,
-			"center": {
-				"lat": 37.4899732,
-				"lon": 136.4664165
-			},
-			"tags": {
-				"name:pl": "Honsiu"
 			}
 		},
 		{

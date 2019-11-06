@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:33:02Z",
+		"timestamp_osm_base": "2019-11-06T06:52:01Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -781,6 +781,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26819236,
+			"lat": 37.7790262,
+			"lon": -122.4199061,
+			"tags": {
+				"name:eo": "San-Francisko"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26898767,
 			"lat": 67.568626,
 			"lon": 33.404392,
@@ -1160,15 +1169,6 @@
 		},
 		{
 			"type": "node",
-			"id": 27565062,
-			"lat": 9.5170602,
-			"lon": -13.6998434,
-			"tags": {
-				"name:eo": "Konakrio"
-			}
-		},
-		{
-			"type": "node",
 			"id": 27565068,
 			"lat": 0.390002,
 			"lon": 9.454001,
@@ -1361,8 +1361,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.095779,
-			"lon": 37.5499211,
+			"lat": 47.0957648,
+			"lon": 37.5499621,
 			"tags": {
 				"name:eo": "Mariupolo"
 			}
@@ -2109,6 +2109,15 @@
 		},
 		{
 			"type": "node",
+			"id": 99513584,
+			"lat": 28.5421109,
+			"lon": -81.3790304,
+			"tags": {
+				"name:eo": "Orlando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 100035698,
 			"lat": 45.4338215,
 			"lon": 28.0549395,
@@ -2316,6 +2325,15 @@
 		},
 		{
 			"type": "node",
+			"id": 150980683,
+			"lat": 37.8044557,
+			"lon": -122.2713563,
+			"tags": {
+				"name:eo": "Oakland"
+			}
+		},
+		{
+			"type": "node",
 			"id": 151465650,
 			"lat": 39.7392364,
 			"lon": -104.9848623,
@@ -2352,11 +2370,29 @@
 		},
 		{
 			"type": "node",
+			"id": 154051410,
+			"lat": 30.4380832,
+			"lon": -84.2809332,
+			"tags": {
+				"name:eo": "Tallahassee"
+			}
+		},
+		{
+			"type": "node",
 			"id": 154158458,
 			"lat": 25.7742658,
 			"lon": -80.1936589,
 			"tags": {
-				"name:eo": "Miamio"
+				"name:eo": "Miamo"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154206819,
+			"lat": 24.5625566,
+			"lon": -81.7724368,
+			"tags": {
+				"name:eo": "Key West"
 			}
 		},
 		{
@@ -4699,8 +4735,8 @@
 		{
 			"type": "node",
 			"id": 287543904,
-			"lat": 35.6775263,
-			"lon": 10.1006205,
+			"lat": 35.6778528,
+			"lon": 10.0984263,
 			"tags": {
 				"name:eo": "Kajruano"
 			}
@@ -5710,7 +5746,7 @@
 			"lat": 50.0643984,
 			"lon": 31.4447327,
 			"tags": {
-				"name:eo": "Perejaslav-Ĥmelnickij"
+				"name:eo": "Perejaslav"
 			}
 		},
 		{
@@ -8295,8 +8331,8 @@
 		{
 			"type": "node",
 			"id": 3728599725,
-			"lat": 31.7371931,
-			"lon": 118.095999,
+			"lat": 31.7372881,
+			"lon": 118.0959121,
 			"tags": {
 				"name:eo": "Hanshan"
 			}
@@ -8570,6 +8606,15 @@
 			"lon": 39.8717137,
 			"tags": {
 				"name:eo": "Roŝal"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6054338315,
+			"lat": 22.3272706,
+			"lon": 114.1898678,
+			"tags": {
+				"name:eo": "Kaŭluno"
 			}
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:43:02Z",
+		"timestamp_osm_base": "2019-11-06T07:02:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1621,8 +1621,8 @@
 		{
 			"type": "node",
 			"id": 445970763,
-			"lat": 42.7728491,
-			"lon": 19.2408586,
+			"lat": 42.951668,
+			"lon": 19.2532042,
 			"tags": {
 				"name:io": "Montenegro"
 			}

@@ -2,10 +2,19 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:19:02Z",
+		"timestamp_osm_base": "2019-11-06T06:39:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
+		{
+			"type": "node",
+			"id": 671022,
+			"lat": 36.7014631,
+			"lon": -118.7559974,
+			"tags": {
+				"name:vo": "Kalifornän"
+			}
+		},
 		{
 			"type": "node",
 			"id": 304951004,
@@ -193,6 +202,15 @@
 			"lon": 29.397413,
 			"tags": {
 				"name:vo": "Transnistriyän"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2281482629,
+			"lat": 27.7567667,
+			"lon": -81.4639835,
+			"tags": {
+				"name:vo": "Florida"
 			}
 		},
 		{

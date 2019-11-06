@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T13:33:02Z",
+		"timestamp_osm_base": "2019-11-06T06:54:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -743,7 +743,7 @@
 				"name:eo": "Biblioteko de JEI",
 				"operator": "Japana Esperanto Instituto",
 				"website": "http://www.jei.or.jp/hp/materialo/bibli_e.htm",
-				"wikimedia_commons": "https://commons.wikimedia.org/wiki/File:Biblioteko_de_JEI.jpg"
+				"wikimedia_commons": "File:Biblioteko de JEI.jpg"
 			}
 		},
 		{
@@ -1253,6 +1253,20 @@
 				"esperanto": "yes",
 				"name": "Associazione Esperantista Trentina",
 				"office": "association"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6919188295,
+			"lat": 46.0696406,
+			"lon": 11.1201547,
+			"tags": {
+				"commemorates:wikidata": "Q3767924",
+				"esperanto": "yes",
+				"historic": "memorial",
+				"memorial": "plaque",
+				"name": "Lapide commemorativa di Giovanni Peterlongo",
+				"subject:wikidata": "Q860918"
 			}
 		},
 		{
@@ -2227,20 +2241,6 @@
 				"highway": "tertiary",
 				"maxspeed": "50",
 				"name": "Via Lodovico Zamenhof",
-				"oneway": "yes"
-			}
-		},
-		{
-			"type": "way",
-			"id": 28482081,
-			"center": {
-				"lat": 37.5078918,
-				"lon": 15.0735126
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via dell'Esperanto",
 				"oneway": "yes"
 			}
 		},
@@ -3327,20 +3327,6 @@
 		},
 		{
 			"type": "way",
-			"id": 60692321,
-			"center": {
-				"lat": 37.5062144,
-				"lon": 13.0740304
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Lido Esperanto",
-				"oneway": "yes"
-			}
-		},
-		{
-			"type": "way",
 			"id": 65234729,
 			"center": {
 				"lat": 44.6969564,
@@ -3711,22 +3697,6 @@
 		},
 		{
 			"type": "way",
-			"id": 106061166,
-			"center": {
-				"lat": 37.9292902,
-				"lon": 12.3306789
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"maxspeed": "50",
-				"name": "Via Esperanto",
-				"oneway": "yes",
-				"surface": "asphalt"
-			}
-		},
-		{
-			"type": "way",
 			"id": 109829973,
 			"center": {
 				"lat": 47.0983416,
@@ -3744,19 +3714,6 @@
 				"source": "orthophotos2006sitn50cm",
 				"wikidata": "Q12350917",
 				"wikipedia": "eo:Kultura Centro Esperantista"
-			}
-		},
-		{
-			"type": "way",
-			"id": 112169705,
-			"center": {
-				"lat": 37.2916565,
-				"lon": 13.527938
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -3972,20 +3929,6 @@
 				"name": "Rua Zamenhof",
 				"name:etymology:wikidata": "Q11758",
 				"oneway": "no"
-			}
-		},
-		{
-			"type": "way",
-			"id": 131838253,
-			"center": {
-				"lat": 37.6057998,
-				"lon": 15.1419165
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "unclassified",
-				"name": "Via Esperanto",
-				"oneway": "yes"
 			}
 		},
 		{
@@ -4367,8 +4310,8 @@
 			"type": "way",
 			"id": 157026390,
 			"center": {
-				"lat": -33.8916613,
-				"lon": 151.1974373
+				"lat": -33.8916643,
+				"lon": 151.1974437
 			},
 			"tags": {
 				"addr:city": "Sydney",
@@ -4799,20 +4742,6 @@
 		},
 		{
 			"type": "way",
-			"id": 172774233,
-			"center": {
-				"lat": 36.9176107,
-				"lon": 14.7230701
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Esperanto",
-				"oneway": "yes"
-			}
-		},
-		{
-			"type": "way",
 			"id": 173992946,
 			"center": {
 				"lat": 52.1217398,
@@ -5084,19 +5013,6 @@
 		},
 		{
 			"type": "way",
-			"id": 204276418,
-			"center": {
-				"lat": 37.5953946,
-				"lon": 12.9724058
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Esperanto"
-			}
-		},
-		{
-			"type": "way",
 			"id": 207076519,
 			"center": {
 				"lat": -29.6017518,
@@ -5170,19 +5086,6 @@
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
 				"oneway": "yes"
-			}
-		},
-		{
-			"type": "way",
-			"id": 215049514,
-			"center": {
-				"lat": 36.9179389,
-				"lon": 14.7214463
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Esperanto"
 			}
 		},
 		{
@@ -6485,20 +6388,6 @@
 		},
 		{
 			"type": "way",
-			"id": 477972874,
-			"center": {
-				"lat": 36.7803388,
-				"lon": 14.6890211
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Esperanto",
-				"surface": "paved"
-			}
-		},
-		{
-			"type": "way",
 			"id": 478137803,
 			"center": {
 				"lat": 35.8816243,
@@ -7027,19 +6916,6 @@
 		},
 		{
 			"type": "way",
-			"id": 565873409,
-			"center": {
-				"lat": 37.5055643,
-				"lon": 13.0704954
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "residential",
-				"name": "Via Lido Esperanto"
-			}
-		},
-		{
-			"type": "way",
 			"id": 570770327,
 			"center": {
 				"lat": 52.2490422,
@@ -7296,19 +7172,6 @@
 				"esperanto": "yes",
 				"leisure": "park",
 				"name": "Giardino Esperanto"
-			}
-		},
-		{
-			"type": "way",
-			"id": 699678784,
-			"center": {
-				"lat": 37.5000353,
-				"lon": 13.2666329
-			},
-			"tags": {
-				"esperanto": "yes",
-				"name": "Piazza Zamenhof",
-				"place": "square"
 			}
 		},
 		{

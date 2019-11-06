@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:53:02Z",
+		"timestamp_osm_base": "2019-11-06T07:12:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2702,6 +2702,39 @@
 			},
 			"tags": {
 				"name:fi": "Vallisaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 38596741,
+			"center": {
+				"lat": 60.2876919,
+				"lon": 27.1621694
+			},
+			"tags": {
+				"name:fi": "Tynnyrkari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 38596742,
+			"center": {
+				"lat": 60.2941855,
+				"lon": 27.1613237
+			},
+			"tags": {
+				"name:fi": "Kunnetoin"
+			}
+		},
+		{
+			"type": "way",
+			"id": 38596744,
+			"center": {
+				"lat": 60.2871685,
+				"lon": 27.145975
+			},
+			"tags": {
+				"name:fi": "Vanhankylänmaa"
 			}
 		},
 		{

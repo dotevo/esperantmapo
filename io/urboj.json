@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:45:02Z",
+		"timestamp_osm_base": "2019-11-06T07:04:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -125,6 +125,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26819236,
+			"lat": 37.7790262,
+			"lon": -122.4199061,
+			"tags": {
+				"name:io": "San Francisco"
+			}
+		},
+		{
+			"type": "node",
 			"id": 27048976,
 			"lat": 54.710128,
 			"lon": 20.5105838,
@@ -234,8 +243,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.095779,
-			"lon": 37.5499211,
+			"lat": 47.0957648,
+			"lon": 37.5499621,
 			"tags": {
 				"name:io": "Mariupol"
 			}
@@ -305,6 +314,15 @@
 		},
 		{
 			"type": "node",
+			"id": 54225547,
+			"lat": 28.5977707,
+			"lon": -81.3510264,
+			"tags": {
+				"name:io": "Winter Park"
+			}
+		},
+		{
+			"type": "node",
 			"id": 60410873,
 			"lat": 46.9737705,
 			"lon": 31.9853819,
@@ -359,6 +377,33 @@
 		},
 		{
 			"type": "node",
+			"id": 99481003,
+			"lat": 28.6779683,
+			"lon": -81.5115214,
+			"tags": {
+				"name:io": "Apopka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 99513584,
+			"lat": 28.5421109,
+			"lon": -81.3790304,
+			"tags": {
+				"name:io": "Orlando"
+			}
+		},
+		{
+			"type": "node",
+			"id": 100707191,
+			"lat": 28.7008315,
+			"lon": -81.3465857,
+			"tags": {
+				"name:io": "Longwood"
+			}
+		},
+		{
+			"type": "node",
 			"id": 129991407,
 			"lat": 47.0244707,
 			"lon": 28.8322534,
@@ -377,6 +422,15 @@
 		},
 		{
 			"type": "node",
+			"id": 150980683,
+			"lat": 37.8044557,
+			"lon": -122.2713563,
+			"tags": {
+				"name:io": "Oakland"
+			}
+		},
+		{
+			"type": "node",
 			"id": 153353016,
 			"lat": 39.7683331,
 			"lon": -86.1583502,
@@ -386,11 +440,65 @@
 		},
 		{
 			"type": "node",
+			"id": 153987228,
+			"lat": 29.8946952,
+			"lon": -81.3145395,
+			"tags": {
+				"name:io": "St. Augustine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153999270,
+			"lat": 28.6122187,
+			"lon": -80.8075538,
+			"tags": {
+				"name:io": "Titusville"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154051410,
+			"lat": 30.4380832,
+			"lon": -84.2809332,
+			"tags": {
+				"name:io": "Tallahassee"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154141895,
+			"lat": 25.7929198,
+			"lon": -80.1353006,
+			"tags": {
+				"name:io": "Miami Beach"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154158458,
+			"lat": 25.7742658,
+			"lon": -80.1936589,
+			"tags": {
+				"name:io": "Miami"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154206819,
+			"lat": 24.5625566,
+			"lon": -81.7724368,
+			"tags": {
+				"name:io": "Key West"
+			}
+		},
+		{
+			"type": "node",
 			"id": 158368533,
 			"lat": 38.8948932,
 			"lon": -77.0365529,
 			"tags": {
-				"name:io": "Washington DC"
+				"name:io": "Washington D.C."
 			}
 		},
 		{

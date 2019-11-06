@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:25:01Z",
+		"timestamp_osm_base": "2019-11-06T06:46:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2046,6 +2046,15 @@
 		},
 		{
 			"type": "node",
+			"id": 26819236,
+			"lat": 37.7790262,
+			"lon": -122.4199061,
+			"tags": {
+				"name:pl": "San Francisco"
+			}
+		},
+		{
+			"type": "node",
 			"id": 26898767,
 			"lat": 67.568626,
 			"lon": 33.404392,
@@ -2856,15 +2865,6 @@
 		},
 		{
 			"type": "node",
-			"id": 27565062,
-			"lat": 9.5170602,
-			"lon": -13.6998434,
-			"tags": {
-				"name:pl": "Konakry"
-			}
-		},
-		{
-			"type": "node",
 			"id": 27565068,
 			"lat": 0.390002,
 			"lon": 9.454001,
@@ -3299,8 +3299,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.095779,
-			"lon": 37.5499211,
+			"lat": 47.0957648,
+			"lon": 37.5499621,
 			"tags": {
 				"name:pl": "Mariupol"
 			}
@@ -5765,29 +5765,11 @@
 		},
 		{
 			"type": "node",
-			"id": 31784858,
-			"lat": 51.2871203,
-			"lon": 15.2241355,
-			"tags": {
-				"name:pl": "Węgliniec"
-			}
-		},
-		{
-			"type": "node",
 			"id": 31785097,
 			"lat": 51.9741302,
 			"lon": 18.793245,
 			"tags": {
 				"name:pl": "Uniejów"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31785395,
-			"lat": 51.3096424,
-			"lon": 17.062596,
-			"tags": {
-				"name:pl": "Trzebnica"
 			}
 		},
 		{
@@ -5900,15 +5882,6 @@
 		},
 		{
 			"type": "node",
-			"id": 31791776,
-			"lat": 51.11736,
-			"lon": 15.6110068,
-			"tags": {
-				"name:pl": "Płakowice"
-			}
-		},
-		{
-			"type": "node",
 			"id": 31792043,
 			"lat": 51.2457834,
 			"lon": 15.0449871,
@@ -5995,15 +5968,6 @@
 			"lon": 16.9561451,
 			"tags": {
 				"name:pl": "Miejska Górka"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31796540,
-			"lat": 51.0415047,
-			"lon": 17.3445481,
-			"tags": {
-				"name:pl": "Laskowice"
 			}
 		},
 		{
@@ -6130,15 +6094,6 @@
 			"lon": 18.4329261,
 			"tags": {
 				"name:pl": "Błaszki"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31811432,
-			"lat": 51.1252738,
-			"lon": 17.5400351,
-			"tags": {
-				"name:pl": "Bierutów"
 			}
 		},
 		{
@@ -7286,15 +7241,6 @@
 		},
 		{
 			"type": "node",
-			"id": 31916711,
-			"lat": 50.7659054,
-			"lon": 16.2825424,
-			"tags": {
-				"name:pl": "Wałbrzych"
-			}
-		},
-		{
-			"type": "node",
 			"id": 31916764,
 			"lat": 50.4551063,
 			"lon": 18.5180604,
@@ -7327,24 +7273,6 @@
 			"lon": 17.9326584,
 			"tags": {
 				"name:pl": "Świerkle"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31916940,
-			"lat": 50.9093388,
-			"lon": 15.3332153,
-			"tags": {
-				"name:pl": "Świeradów-Zdrój"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31916972,
-			"lat": 50.7164021,
-			"lon": 16.3485362,
-			"tags": {
-				"name:pl": "Suliszów"
 			}
 		},
 		{
@@ -7385,38 +7313,11 @@
 		},
 		{
 			"type": "node",
-			"id": 31917200,
-			"lat": 50.846764,
-			"lon": 15.6412485,
-			"tags": {
-				"name:pl": "Sobieszów"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31917201,
-			"lat": 50.7602191,
-			"lon": 16.2406153,
-			"tags": {
-				"name:pl": "Sobięcin"
-			}
-		},
-		{
-			"type": "node",
 			"id": 31917309,
 			"lat": 50.138209,
 			"lon": 18.639651,
 			"tags": {
 				"name:pl": "Leszczyny"
-			}
-		},
-		{
-			"type": "node",
-			"id": 31917320,
-			"lat": 50.7559207,
-			"lon": 16.3337123,
-			"tags": {
-				"name:pl": "Rusinowa"
 			}
 		},
 		{
@@ -7647,8 +7548,8 @@
 		{
 			"type": "node",
 			"id": 32332190,
-			"lat": 54.6401323,
-			"lon": 25.1287156,
+			"lat": 54.6401455,
+			"lon": 25.1285788,
 			"tags": {
 				"name:pl": "Ludwinowo"
 			}
@@ -8635,6 +8536,15 @@
 			"lon": 25.1698022,
 			"tags": {
 				"name:pl": "Dworzyszcze"
+			}
+		},
+		{
+			"type": "node",
+			"id": 54225547,
+			"lat": 28.5977707,
+			"lon": -81.3510264,
+			"tags": {
+				"name:pl": "Winter Park"
 			}
 		},
 		{
@@ -10207,11 +10117,38 @@
 		},
 		{
 			"type": "node",
+			"id": 99481003,
+			"lat": 28.6779683,
+			"lon": -81.5115214,
+			"tags": {
+				"name:pl": "Apopka"
+			}
+		},
+		{
+			"type": "node",
+			"id": 99513584,
+			"lat": 28.5421109,
+			"lon": -81.3790304,
+			"tags": {
+				"name:pl": "Orlando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 100035698,
 			"lat": 45.4338215,
 			"lon": 28.0549395,
 			"tags": {
 				"name:pl": "Gałacz"
+			}
+		},
+		{
+			"type": "node",
+			"id": 100707191,
+			"lat": 28.7008315,
+			"lon": -81.3465857,
+			"tags": {
+				"name:pl": "Longwood"
 			}
 		},
 		{
@@ -10532,8 +10469,8 @@
 		{
 			"type": "node",
 			"id": 129984582,
-			"lat": 47.161494,
-			"lon": 27.5840504,
+			"lat": 47.1615341,
+			"lon": 27.5836142,
 			"tags": {
 				"name:pl": "Jassy"
 			}
@@ -10649,8 +10586,8 @@
 		{
 			"type": "node",
 			"id": 130201537,
-			"lat": 52.426167,
-			"lon": 31.739723,
+			"lat": 52.426113,
+			"lon": 31.7390793,
 			"tags": {
 				"name:pl": "Złynka"
 			}
@@ -10992,6 +10929,15 @@
 		},
 		{
 			"type": "node",
+			"id": 150980683,
+			"lat": 37.8044557,
+			"lon": -122.2713563,
+			"tags": {
+				"name:pl": "Oakland"
+			}
+		},
+		{
+			"type": "node",
 			"id": 151370941,
 			"lat": 44.9504037,
 			"lon": -93.1015026,
@@ -11127,6 +11073,24 @@
 		},
 		{
 			"type": "node",
+			"id": 153987228,
+			"lat": 29.8946952,
+			"lon": -81.3145395,
+			"tags": {
+				"name:pl": "St. Augustine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153999270,
+			"lat": 28.6122187,
+			"lon": -80.8075538,
+			"tags": {
+				"name:pl": "Titusville"
+			}
+		},
+		{
+			"type": "node",
 			"id": 154020768,
 			"lat": 34.0007493,
 			"lon": -81.0343313,
@@ -11154,11 +11118,38 @@
 		},
 		{
 			"type": "node",
+			"id": 154141895,
+			"lat": 25.7929198,
+			"lon": -80.1353006,
+			"tags": {
+				"name:pl": "Miami Beach"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154158458,
+			"lat": 25.7742658,
+			"lon": -80.1936589,
+			"tags": {
+				"name:pl": "Miami"
+			}
+		},
+		{
+			"type": "node",
 			"id": 154194371,
 			"lat": 38.2009055,
 			"lon": -84.8732836,
 			"tags": {
 				"name:pl": "Frankfort"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154206819,
+			"lat": 24.5625566,
+			"lon": -81.7724368,
+			"tags": {
+				"name:pl": "Key West"
 			}
 		},
 		{
@@ -14548,8 +14539,8 @@
 		{
 			"type": "node",
 			"id": 244082165,
-			"lat": 24.4586961,
-			"lon": 118.0745391,
+			"lat": 24.4758496,
+			"lon": 118.0746834,
 			"tags": {
 				"name:pl": "Xiamen"
 			}
@@ -18638,15 +18629,6 @@
 		},
 		{
 			"type": "node",
-			"id": 282370077,
-			"lat": 50.9144217,
-			"lon": 16.4308642,
-			"tags": {
-				"name:pl": "Jaworzyna Śląska"
-			}
-		},
-		{
-			"type": "node",
 			"id": 283030477,
 			"lat": 47.1139219,
 			"lon": 39.4259657,
@@ -18927,8 +18909,8 @@
 		{
 			"type": "node",
 			"id": 287543904,
-			"lat": 35.6775263,
-			"lon": 10.1006205,
+			"lat": 35.6778528,
+			"lon": 10.0984263,
 			"tags": {
 				"name:pl": "Kairuan"
 			}
@@ -19589,15 +19571,6 @@
 			"lon": 17.0057683,
 			"tags": {
 				"name:pl": "Paczków"
-			}
-		},
-		{
-			"type": "node",
-			"id": 299298256,
-			"lat": 50.50676,
-			"lon": 16.7402382,
-			"tags": {
-				"name:pl": "Bardo"
 			}
 		},
 		{
@@ -22762,7 +22735,7 @@
 			"lat": 50.0643984,
 			"lon": 31.4447327,
 			"tags": {
-				"name:pl": "Perejasław Chmielnicki"
+				"name:pl": "Perejasław"
 			}
 		},
 		{
@@ -25687,15 +25660,6 @@
 		},
 		{
 			"type": "node",
-			"id": 337667681,
-			"lat": 47.8650101,
-			"lon": 31.5731437,
-			"tags": {
-				"name:pl": "Bratskie"
-			}
-		},
-		{
-			"type": "node",
 			"id": 337667868,
 			"lat": 47.8594344,
 			"lon": 30.5891291,
@@ -26057,8 +26021,8 @@
 		{
 			"type": "node",
 			"id": 337680625,
-			"lat": 47.20241,
-			"lon": 30.909,
+			"lat": 47.2022915,
+			"lon": 30.9095472,
 			"tags": {
 				"name:pl": "Berezówka"
 			}
@@ -27176,33 +27140,6 @@
 		},
 		{
 			"type": "node",
-			"id": 344106868,
-			"lat": 50.819505,
-			"lon": 16.2933986,
-			"tags": {
-				"name:pl": "Szczawienko"
-			}
-		},
-		{
-			"type": "node",
-			"id": 344129119,
-			"lat": 50.8081642,
-			"lon": 16.2845161,
-			"tags": {
-				"name:pl": "Piaskowa Góra"
-			}
-		},
-		{
-			"type": "node",
-			"id": 344165462,
-			"lat": 50.8315772,
-			"lon": 16.3301282,
-			"tags": {
-				"name:pl": "Lubiechów"
-			}
-		},
-		{
-			"type": "node",
 			"id": 344650643,
 			"lat": 30.6676663,
 			"lon": 51.5802638,
@@ -27217,15 +27154,6 @@
 			"lon": 47.819141,
 			"tags": {
 				"name:pl": "Bałakowo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 346150662,
-			"lat": 50.4420034,
-			"lon": 16.2416299,
-			"tags": {
-				"name:pl": "Kudowa-Zdrój"
 			}
 		},
 		{
@@ -27343,24 +27271,6 @@
 			"lon": 24.2470793,
 			"tags": {
 				"name:pl": "Skidel"
-			}
-		},
-		{
-			"type": "node",
-			"id": 352697205,
-			"lat": 50.7375522,
-			"lon": 16.3172619,
-			"tags": {
-				"name:pl": "Kamieńsk"
-			}
-		},
-		{
-			"type": "node",
-			"id": 352697224,
-			"lat": 50.7726689,
-			"lon": 16.3278987,
-			"tags": {
-				"name:pl": "Kozice"
 			}
 		},
 		{
@@ -27982,24 +27892,6 @@
 			"lon": 61.4042865,
 			"tags": {
 				"name:pl": "Rież"
-			}
-		},
-		{
-			"type": "node",
-			"id": 370165392,
-			"lat": 50.7837361,
-			"lon": 16.0336631,
-			"tags": {
-				"name:pl": "Kamienna Góra"
-			}
-		},
-		{
-			"type": "node",
-			"id": 370165396,
-			"lat": 50.7070882,
-			"lon": 16.0003894,
-			"tags": {
-				"name:pl": "Lubawka"
 			}
 		},
 		{
@@ -28814,15 +28706,6 @@
 		},
 		{
 			"type": "node",
-			"id": 418569492,
-			"lat": 50.7937534,
-			"lon": 15.8338236,
-			"tags": {
-				"name:pl": "Kowary"
-			}
-		},
-		{
-			"type": "node",
 			"id": 418747816,
 			"lat": 52.2872924,
 			"lon": 17.8713612,
@@ -28940,42 +28823,6 @@
 		},
 		{
 			"type": "node",
-			"id": 422809215,
-			"lat": 50.7862009,
-			"lon": 16.2558068,
-			"tags": {
-				"name:pl": "Biały Kamień"
-			}
-		},
-		{
-			"type": "node",
-			"id": 422809220,
-			"lat": 50.7959594,
-			"lon": 16.2343697,
-			"tags": {
-				"name:pl": "Konradów"
-			}
-		},
-		{
-			"type": "node",
-			"id": 422809223,
-			"lat": 50.7709115,
-			"lon": 16.292766,
-			"tags": {
-				"name:pl": "Nowe Miasto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 422809226,
-			"lat": 50.7855272,
-			"lon": 16.286627,
-			"tags": {
-				"name:pl": "Stary Zdrój"
-			}
-		},
-		{
-			"type": "node",
 			"id": 424311883,
 			"lat": 41.9034912,
 			"lon": 12.4528349,
@@ -28995,8 +28842,8 @@
 		{
 			"type": "node",
 			"id": 425300501,
-			"lat": 36.766333,
-			"lon": 8.314383,
+			"lat": 36.7667186,
+			"lon": 8.3169418,
 			"tags": {
 				"name:pl": "El Tarf"
 			}
@@ -29062,33 +28909,6 @@
 			"lon": 18.8962307,
 			"tags": {
 				"name:pl": "Szombierki"
-			}
-		},
-		{
-			"type": "node",
-			"id": 428055173,
-			"lat": 50.7540631,
-			"lon": 16.2657474,
-			"tags": {
-				"name:pl": "Gaj"
-			}
-		},
-		{
-			"type": "node",
-			"id": 428055175,
-			"lat": 50.7508203,
-			"lon": 16.2907604,
-			"tags": {
-				"name:pl": "Podgórze"
-			}
-		},
-		{
-			"type": "node",
-			"id": 428055176,
-			"lat": 50.7268504,
-			"lon": 16.2743,
-			"tags": {
-				"name:pl": "Glinik"
 			}
 		},
 		{
@@ -32202,24 +32022,6 @@
 		},
 		{
 			"type": "node",
-			"id": 598617974,
-			"lat": 50.8494747,
-			"lon": 15.5976047,
-			"tags": {
-				"name:pl": "Piechowice"
-			}
-		},
-		{
-			"type": "node",
-			"id": 598619294,
-			"lat": 51.5039288,
-			"lon": 16.0713371,
-			"tags": {
-				"name:pl": "Polkowice"
-			}
-		},
-		{
-			"type": "node",
 			"id": 598898210,
 			"lat": 52.6048164,
 			"lon": 18.9015463,
@@ -32414,15 +32216,6 @@
 			"lon": -34.882028,
 			"tags": {
 				"name:pl": "João Pessoa"
-			}
-		},
-		{
-			"type": "node",
-			"id": 606912300,
-			"lat": 51.0203892,
-			"lon": 17.3170057,
-			"tags": {
-				"name:pl": "Jelcz"
 			}
 		},
 		{
@@ -33540,24 +33333,6 @@
 			"lon": 21.1628191,
 			"tags": {
 				"name:pl": "Rembertów"
-			}
-		},
-		{
-			"type": "node",
-			"id": 692626234,
-			"lat": 50.7124412,
-			"lon": 16.581609,
-			"tags": {
-				"name:pl": "Pieszyce"
-			}
-		},
-		{
-			"type": "node",
-			"id": 692632451,
-			"lat": 51.5641,
-			"lon": 16.69307,
-			"tags": {
-				"name:pl": "Wąsosz"
 			}
 		},
 		{
@@ -38767,33 +38542,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1402392983,
-			"lat": 50.7561794,
-			"lon": 16.2038008,
-			"tags": {
-				"name:pl": "Boguszów"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1402392996,
-			"lat": 50.7477042,
-			"lon": 16.1869269,
-			"tags": {
-				"name:pl": "Stary Lesieniec"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1402392997,
-			"lat": 50.7654635,
-			"lon": 16.1676446,
-			"tags": {
-				"name:pl": "Gorce"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1406174727,
 			"lat": 55.6609562,
 			"lon": 22.5688261,
@@ -40533,24 +40281,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1602110740,
-			"lat": 51.1036613,
-			"lon": 17.0223087,
-			"tags": {
-				"name:pl": "Przedmieście Świdnickie"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1602111682,
-			"lat": 51.1167419,
-			"lon": 17.0061692,
-			"tags": {
-				"name:pl": "Szczepin"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1602171866,
 			"lat": 48.1338824,
 			"lon": 37.7466719,
@@ -42223,34 +41953,7 @@
 			"lat": 50.5892698,
 			"lon": 16.8111518,
 			"tags": {
-				"name:pl": "Zabkowice Slaskie"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1770680178,
-			"lat": 50.7566795,
-			"lon": 16.2043895,
-			"tags": {
-				"name:pl": "Boguszów-Gorce"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1770680179,
-			"lat": 51.0281455,
-			"lon": 15.4145051,
-			"tags": {
-				"name:pl": "Gryfów Śląski"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1770680188,
-			"lat": 51.198575,
-			"lon": 15.3987475,
-			"tags": {
-				"name:pl": "Nowogrodziec"
+				"name:pl": "Ząbkowice Śląskie"
 			}
 		},
 		{
@@ -42413,42 +42116,6 @@
 			"lon": 130.7552293,
 			"tags": {
 				"name:pl": "Ukiha"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1797680624,
-			"lat": 51.2082292,
-			"lon": 16.2086091,
-			"tags": {
-				"name:pl": "Piekary Wielkie"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1797680625,
-			"lat": 51.2090511,
-			"lon": 16.1615145,
-			"tags": {
-				"name:pl": "Stare Miasto"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1797680626,
-			"lat": 51.2234145,
-			"lon": 16.2064399,
-			"tags": {
-				"name:pl": "Stare Piekary"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1797680627,
-			"lat": 51.1988356,
-			"lon": 16.1559717,
-			"tags": {
-				"name:pl": "Tarninów"
 			}
 		},
 		{
@@ -44759,24 +44426,6 @@
 		},
 		{
 			"type": "node",
-			"id": 2075984931,
-			"lat": 51.2195179,
-			"lon": 16.1721614,
-			"tags": {
-				"name:pl": "Piątnica"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2075994651,
-			"lat": 51.2216944,
-			"lon": 16.1585357,
-			"tags": {
-				"name:pl": "Przedmieście Głogowskie"
-			}
-		},
-		{
-			"type": "node",
 			"id": 2078179941,
 			"lat": 36.3027624,
 			"lon": 136.3151159,
@@ -45592,15 +45241,6 @@
 			"lon": 23.4123396,
 			"tags": {
 				"name:pl": "Kruki"
-			}
-		},
-		{
-			"type": "node",
-			"id": 2219042709,
-			"lat": 51.2015051,
-			"lon": 16.2119232,
-			"tags": {
-				"name:pl": "Piekary-Osiedle"
 			}
 		},
 		{
@@ -47001,6 +46641,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2833125787,
+			"lat": 22.2793278,
+			"lon": 114.1628131,
+			"tags": {
+				"name:pl": "Hongkong"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2845008618,
 			"lat": 52.2502843,
 			"lon": 15.9208036,
@@ -47667,15 +47316,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3009696101,
-			"lat": 50.8652778,
-			"lon": 15.6775,
-			"tags": {
-				"name:pl": "Cieplice Śląskie-Zdrój"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3009704175,
 			"lat": 51.865,
 			"lon": 16.5852778,
@@ -47721,15 +47361,6 @@
 		},
 		{
 			"type": "node",
-			"id": 3009718950,
-			"lat": 50.8425255,
-			"lon": 16.2927104,
-			"tags": {
-				"name:pl": "Książ"
-			}
-		},
-		{
-			"type": "node",
 			"id": 3009729667,
 			"lat": 51.8417705,
 			"lon": 16.5865828,
@@ -47753,15 +47384,6 @@
 			"lon": 15.0366666,
 			"tags": {
 				"name:pl": "Ostróżno"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3009741355,
-			"lat": 50.7961111,
-			"lon": 16.3133333,
-			"tags": {
-				"name:pl": "Poniatów"
 			}
 		},
 		{
@@ -48392,15 +48014,6 @@
 			"lon": 25.680183,
 			"tags": {
 				"name:pl": "Rusianówka"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3402445514,
-			"lat": 50.8220431,
-			"lon": 15.6171299,
-			"tags": {
-				"name:pl": "Jagniątków"
 			}
 		},
 		{

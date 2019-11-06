@@ -4,6 +4,22 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
+function landoj(lingvo) {
+	return '[out:json];node["name:' + lingvo + '"][place=country];out center;';
+}
+function provincoj(lingvo) {
+	return '[out:json];node["name:' + lingvo + '"][place~"state|region"];out center;';
+}
+function urboj(lingvo) {
+	return '[out:json];node["name:' + lingvo + '"][place~"city|town|suburb"];out center;';
+}
+function tero(lingvo) {
+	return '[out:json];(' + 'node["place"="island"]["name:' + lingvo + '"];' + 'way["place"="island"]["name:' + lingvo + '"];' + 'relation["place"="island"]["name:' + lingvo + '"];' + ');out center body;';
+}
+
+function lokoj(lingvo) {
+	return '[out:json];' + '(way["language:' + lingvo + '"];' + 'way["books:language:' + lingvo + '"];' + 'node["language:' + lingvo + '"];' + 'node["books:language:' + lingvo + '"];' + (lingvo == 'eo' ? 'node["esperanto"="yes"];' + 'way["esperanto"="yes"];' + 'node["name:etymology:wikidata"="Q143"];' + 'way["name:etymology:wikidata"="Q143"];' + 'node["name:etymology:wikidata"="Q11758"];' + 'way["name:etymology:wikidata"="Q11758"];' : '') + ');out tags center;';
+}
 var Ujo = L.Control.extend({ options: { position: 'bottomleft' },
 	setText: function setText(html) {
 		this.controlDiv.innerHTML = html;
@@ -228,6 +244,8 @@ L.LatLngBounds.prototype.limigaKesto = function () {
  * @requires ./vico.js
  */
 
+var overpassVico = new OverpassVico({ url: '' });
+
 L.OverpassFetcher = L.LayerGroup.extend({
 	options: {
 		dosiero: 'datumo.json',
@@ -239,11 +257,7 @@ L.OverpassFetcher = L.LayerGroup.extend({
 		this._nodes = {};
 
 		console.log(this.options.dosiero);
-		$.ajax({
-			url: this.options.dosiero,
-			crossDomain: true,
-			dataType: 'json'
-		}).always(function (a, b) {
+		overpassVico.elŝutiElOverpass(this.options.dosiero, function (a, b) {
 			ĉi.analizi(a);
 		});
 	},
@@ -277,6 +291,7 @@ var mapo = void 0;
  * @requires ./tradukilo.js
  * @requires ./ui.js
  * @requires ./overpass/overpass.js
+ * @requires ./interpetoj.js
  */
 
 //Parametroj
@@ -374,9 +389,18 @@ function aldoniEnListon(nomo, etikedoj, loc) {
 	btno.on('click', eventoEnListo);
 }
 
+var OPUrl = 'http://overpass-api.de/api/interpreter?data=';
+function vojonOP(interpeto, vojo) {
+	if (parametroj.rekte != null) {
+		return OPUrl + interpeto;
+	} else {
+		return vojo;
+	}
+}
+
 function manteloj(opt, lingvo) {
 	var landojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/landoj.json',
+		dosiero: vojonOP(escape(landoj(lingvo)), lingvo + '/landoj.json'),
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
@@ -384,26 +408,25 @@ function manteloj(opt, lingvo) {
 				html: "<span class='etikedo lando-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
-			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.landoj);
+			opt.landoj.addLayer(L.marker([objekto.lat, objekto.lon], { icon: mia }));
 		}
 	});
 
 	var provincojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/provincoj.json',
+		dosiero: vojonOP(escape(provincoj(lingvo)), lingvo + '/provincoj.json'),
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
 				className: 'etikedo',
 				html: "<span class='etikedo provinco-etikedo'>" + nomo + "</span>"
 			});
-
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
 			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.provincoj);
 		}
 	});
 
 	var urbojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/urboj.json',
+		dosiero: vojonOP(escape(urboj(lingvo)), lingvo + '/urboj.json'),
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
@@ -411,12 +434,12 @@ function manteloj(opt, lingvo) {
 				html: "<span class='etikedo urbo-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
-			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.urboj);
+			opt.urboj.addLayer(L.marker([objekto.lat, objekto.lon], { icon: mia }));
 		}
 	});
 
 	var teroF = new L.OverpassFetcher({
-		dosiero: lingvo + '/tero.json',
+		dosiero: vojonOP(escape(tero(lingvo)), lingvo + '/tero.json'),
 		krei: function krei(objekto) {
 			var nomo = objekto.tags['name:' + lingvo];
 			var mia = L.divIcon({
@@ -424,12 +447,12 @@ function manteloj(opt, lingvo) {
 				html: "<span class='etikedo urbo-etikedo'>" + nomo + "</span>"
 			});
 			aldoniEnListon(nomo, '', [objekto.lat, objekto.lon]);
-			L.marker([objekto.lat, objekto.lon], { icon: mia }).addTo(opt.tero);
+			opt.tero.addLayer(L.marker([objekto.lat, objekto.lon], { icon: mia }));
 		}
 	});
 
 	var lokojF = new L.OverpassFetcher({
-		dosiero: lingvo + '/lokoj.json',
+		dosiero: vojonOP(escape(lokoj(lingvo)), lingvo + '/lokoj.json'),
 		krei: function krei(objekto) {
 			L.marker([objekto.lat, objekto.lon], { icon: ikononDeLoko(objekto) }).addTo(opt.lokoj).bindPopup(kreiPriskribon(objekto));
 		}
@@ -466,9 +489,9 @@ $(document).bind('pageinit', function () {
 
 	var landoj = L.LayerGroup.collision({ margin: 5 });
 	var urboj = L.LayerGroup.collision({ margin: 5 });
-	var provincoj = L.LayerGroup.collision({ margin: 5 });
-	var tero = L.LayerGroup.collision({ margin: 5 });
-	var lokoj = L.featureGroup().addTo(mapo);
+	var provincoj = L.featureGroup(); //L.LayerGroup.collision({margin:5})
+	var tero = L.featureGroup(); //L.LayerGroup.collision({margin:5})
+	var lokoj = L.featureGroup(); //.addTo(mapo)
 
 	manteloj({ landoj: landoj,
 		provincoj: provincoj,
@@ -489,8 +512,12 @@ $(document).bind('pageinit', function () {
 			if (!mapo.hasLayer(landoj)) {
 				mapo.addLayer(landoj);
 			}
+			console.log("Al: landoj");
 		} else {
-			mapo.removeLayer(landoj);
+			console.log("For: landoj");
+			if (mapo.hasLayer(landoj)) {
+				mapo.removeLayer(landoj);
+			}
 		}
 
 		var elektoProvincoj = $('#provincoj').val();
@@ -498,17 +525,25 @@ $(document).bind('pageinit', function () {
 			if (!mapo.hasLayer(provincoj)) {
 				mapo.addLayer(provincoj);
 			}
+			console.log("Al: provincoj");
 		} else {
-			mapo.removeLayer(provincoj);
+			console.log("For: provincoj");
+			if (mapo.hasLayer(provincoj)) {
+				mapo.removeLayer(provincoj);
+			}
 		}
 
 		var elektoTero = $('#tero').val();
-		if ((mapo.getZoom() > 4 || elektoTero === 'C') && elektoProvincoj !== 'N') {
+		if ((mapo.getZoom() > 4 || elektoTero === 'C') && elektoTero !== 'N') {
 			if (!mapo.hasLayer(tero)) {
 				mapo.addLayer(tero);
 			}
+			console.log("Al: tero");
 		} else {
-			mapo.removeLayer(tero);
+			console.log("For: tero");
+			if (mapo.hasLayer(tero)) {
+				mapo.removeLayer(tero);
+			}
 		}
 
 		var elektoUrboj = $('#urboj').val();
@@ -516,21 +551,38 @@ $(document).bind('pageinit', function () {
 			if (!mapo.hasLayer(urboj)) {
 				mapo.addLayer(urboj);
 			}
+			console.log("Al: urboj");
 		} else {
-			mapo.removeLayer(urboj);
+			console.log("For: urboj");
+			if (mapo.hasLayer(urboj)) {
+				mapo.removeLayer(urboj);
+			}
 		}
 
 		var elektoLokoj = $('#lokoj').val();
-		if ((mapo.getZoom() > 4 || elektoUrboj === 'C') && elektoUrboj !== 'N') {
+		if ((mapo.getZoom() > 4 || elektoLokoj === 'C') && elektoLokoj !== 'N') {
 			if (!mapo.hasLayer(lokoj)) {
 				mapo.addLayer(lokoj);
 			}
+			console.log("Al: lokoj");
 		} else {
-			mapo.removeLayer(lokoj);
+			console.log("For: lokoj");
+			if (mapo.hasLayer(lokoj)) {
+				mapo.removeLayer(lokoj);
+			}
 		}
+
+		console.log("Lokoj: " + mapo.hasLayer(lokoj));
+		console.log("Urboj: " + mapo.hasLayer(urboj));
+		console.log("Provincoj: " + mapo.hasLayer(provincoj));
+		console.log("Landoj: " + mapo.hasLayer(landoj));
+		console.log("Tero: " + mapo.hasLayer(tero));
+		console.log(landoj);
+		console.log(urboj);
 	});
 
 	$('#landoj, #provincoj, #urboj, #lokoj, #tero').on('change', function () {
+		console.log("AA");
 		parametroj.l = $('#landoj').val();
 		parametroj.p = $('#provincoj').val();
 		parametroj.u = $('#urboj').val();

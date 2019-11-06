@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:51:03Z",
+		"timestamp_osm_base": "2019-11-06T07:10:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -725,6 +725,15 @@
 			"lon": 25.4216251,
 			"tags": {
 				"name:fi": "Valmiera"
+			}
+		},
+		{
+			"type": "node",
+			"id": 26819236,
+			"lat": 37.7790262,
+			"lon": -122.4199061,
+			"tags": {
+				"name:fi": "San Francisco"
 			}
 		},
 		{
@@ -1460,8 +1469,8 @@
 		{
 			"type": "node",
 			"id": 29980666,
-			"lat": 47.095779,
-			"lon": 37.5499211,
+			"lat": 47.0957648,
+			"lon": 37.5499621,
 			"tags": {
 				"name:fi": "Mariupol"
 			}
@@ -1991,8 +2000,8 @@
 		{
 			"type": "node",
 			"id": 30969615,
-			"lat": 61.8176581,
-			"lon": 25.2379888,
+			"lat": 61.8185753,
+			"lon": 25.2344652,
 			"tags": {
 				"name:fi": "Kaipola"
 			}
@@ -4313,6 +4322,15 @@
 		},
 		{
 			"type": "node",
+			"id": 99513584,
+			"lat": 28.5421109,
+			"lon": -81.3790304,
+			"tags": {
+				"name:fi": "Orlando"
+			}
+		},
+		{
+			"type": "node",
 			"id": 125891414,
 			"lat": 60.143707,
 			"lon": 30.207806,
@@ -4448,11 +4466,65 @@
 		},
 		{
 			"type": "node",
+			"id": 150980683,
+			"lat": 37.8044557,
+			"lon": -122.2713563,
+			"tags": {
+				"name:fi": "Oakland"
+			}
+		},
+		{
+			"type": "node",
 			"id": 153353016,
 			"lat": 39.7683331,
 			"lon": -86.1583502,
 			"tags": {
 				"name:fi": "Indianapolis"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153987228,
+			"lat": 29.8946952,
+			"lon": -81.3145395,
+			"tags": {
+				"name:fi": "St. Augustine"
+			}
+		},
+		{
+			"type": "node",
+			"id": 153999270,
+			"lat": 28.6122187,
+			"lon": -80.8075538,
+			"tags": {
+				"name:fi": "Titusville"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154051410,
+			"lat": 30.4380832,
+			"lon": -84.2809332,
+			"tags": {
+				"name:fi": "Tallahassee"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154141895,
+			"lat": 25.7929198,
+			"lon": -80.1353006,
+			"tags": {
+				"name:fi": "Miami Beach"
+			}
+		},
+		{
+			"type": "node",
+			"id": 154158458,
+			"lat": 25.7742658,
+			"lon": -80.1936589,
+			"tags": {
+				"name:fi": "Miami"
 			}
 		},
 		{
@@ -4488,7 +4560,7 @@
 			"lat": 38.8948932,
 			"lon": -77.0365529,
 			"tags": {
-				"name:fi": "Washington"
+				"name:fi": "Washington (DC)"
 			}
 		},
 		{
@@ -5646,8 +5718,8 @@
 		{
 			"type": "node",
 			"id": 244082165,
-			"lat": 24.4586961,
-			"lon": 118.0745391,
+			"lat": 24.4758496,
+			"lon": 118.0746834,
 			"tags": {
 				"name:fi": "Xiamen"
 			}
@@ -7352,6 +7424,24 @@
 			"lon": 23.0215188,
 			"tags": {
 				"name:fi": "Kruunupyy"
+			}
+		},
+		{
+			"type": "node",
+			"id": 292704712,
+			"lat": 63.5991475,
+			"lon": 22.7887935,
+			"tags": {
+				"name:fi": "Pännäinen"
+			}
+		},
+		{
+			"type": "node",
+			"id": 292707538,
+			"lat": 63.7540746,
+			"lon": 22.7465458,
+			"tags": {
+				"name:fi": "Luoto"
 			}
 		},
 		{
@@ -10347,8 +10437,8 @@
 		{
 			"type": "node",
 			"id": 1401579575,
-			"lat": 63.5982352,
-			"lon": 23.0453042,
+			"lat": 63.5964705,
+			"lon": 23.0407445,
 			"tags": {
 				"name:fi": "Ähtävä"
 			}
@@ -12047,6 +12137,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2833125787,
+			"lat": 22.2793278,
+			"lon": 114.1628131,
+			"tags": {
+				"name:fi": "Hongkong"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2957449649,
 			"lat": 63.0444415,
 			"lon": 21.5635426,
@@ -12695,6 +12794,15 @@
 		},
 		{
 			"type": "node",
+			"id": 4298024474,
+			"lat": 14.5424624,
+			"lon": 49.1231345,
+			"tags": {
+				"name:fi": "Al-Mukalla"
+			}
+		},
+		{
+			"type": "node",
 			"id": 4308338842,
 			"lat": 21.420847,
 			"lon": 39.826869,
@@ -13186,15 +13294,6 @@
 			"lon": 24.8133666,
 			"tags": {
 				"name:fi": "Petikko"
-			}
-		},
-		{
-			"type": "node",
-			"id": 5579116461,
-			"lat": 14.5424624,
-			"lon": 49.1231345,
-			"tags": {
-				"name:fi": "Al-Mukalla"
 			}
 		},
 		{

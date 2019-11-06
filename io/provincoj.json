@@ -1,16 +1,25 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.1009 5e627b63",
+	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-10-24T11:44:02Z",
+		"timestamp_osm_base": "2019-11-06T07:03:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
 		{
 			"type": "node",
+			"id": 671022,
+			"lat": 36.7014631,
+			"lon": -118.7559974,
+			"tags": {
+				"name:io": "Kalifornia"
+			}
+		},
+		{
+			"type": "node",
 			"id": 244081648,
-			"lat": 31.2322735,
-			"lon": 121.4691749,
+			"lat": 31.2322758,
+			"lon": 121.4692071,
 			"tags": {
 				"name:io": "Shanghai"
 			}
@@ -166,6 +175,15 @@
 			"lon": -13.7667848,
 			"tags": {
 				"name:io": "Westa Sahara"
+			}
+		},
+		{
+			"type": "node",
+			"id": 2281482629,
+			"lat": 27.7567667,
+			"lon": -81.4639835,
+			"tags": {
+				"name:io": "Florida"
 			}
 		},
 		{
