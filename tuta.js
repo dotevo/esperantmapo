@@ -317,6 +317,9 @@ if (parametroj.lat == null || parametroj.lng == null || parametroj.z == null) {
 	parametroj.lng = 0;
 	parametroj.z = 1;
 }
+if (parametroj.lingvo != null) {
+	lingvo = parametroj.lingvo;
+}
 
 function ŝanĝiParametrojn() {
 	var teksto = '';
@@ -389,7 +392,7 @@ function aldoniEnListon(nomo, etikedoj, loc) {
 	btno.on('click', eventoEnListo);
 }
 
-var OPUrl = 'http://overpass-api.de/api/interpreter?data=';
+var OPUrl = 'https://overpass-api.de/api/interpreter?data=';
 function vojonOP(interpeto, vojo) {
 	if (parametroj.rekte != null) {
 		return OPUrl + interpeto;
