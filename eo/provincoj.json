@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:51:02Z",
+		"timestamp_osm_base": "2019-11-26T07:43:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -332,15 +332,6 @@
 		},
 		{
 			"type": "node",
-			"id": 249399410,
-			"lat": 46.8374544,
-			"lon": -56.2120555,
-			"tags": {
-				"name:eo": "Sankta-Piero kaj Mikelono"
-			}
-		},
-		{
-			"type": "node",
 			"id": 249399460,
 			"lat": -12.823048,
 			"lon": 45.1520755,
@@ -355,15 +346,6 @@
 			"lon": 20.3493328,
 			"tags": {
 				"name:eo": "Svalbardo kaj Jan-Majen-insulo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 271047515,
-			"lat": 18.0814066,
-			"lon": -63.0467131,
-			"tags": {
-				"name:eo": "Sankta Marteno (Francio)"
 			}
 		},
 		{
@@ -2441,29 +2423,11 @@
 		},
 		{
 			"type": "node",
-			"id": 424314262,
-			"lat": -44.1511785,
-			"lon": 63.8604556,
-			"tags": {
-				"name:eo": "Francaj Sudaj Teritorioj"
-			}
-		},
-		{
-			"type": "node",
 			"id": 433483535,
 			"lat": 16.2490067,
 			"lon": -61.5650444,
 			"tags": {
 				"name:eo": "Gvadelupo"
-			}
-		},
-		{
-			"type": "node",
-			"id": 462226505,
-			"lat": -17.0243749,
-			"lon": -144.6434898,
-			"tags": {
-				"name:eo": "Franca Polinezio"
 			}
 		},
 		{
@@ -4842,15 +4806,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1251610254,
-			"lat": 45.3886264,
-			"lon": 5.6874625,
-			"tags": {
-				"name:eo": "Rodano-Alpoj"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1251610257,
 			"lat": 44.0580563,
 			"lon": 6.0638506,
@@ -4910,15 +4865,6 @@
 			"lon": -64.882397,
 			"tags": {
 				"name:eo": "Tukumano"
-			}
-		},
-		{
-			"type": "node",
-			"id": 1367931778,
-			"lat": -21.3019905,
-			"lon": 165.4880773,
-			"tags": {
-				"name:eo": "Nov-Kaledonio"
 			}
 		},
 		{
@@ -6455,16 +6401,6 @@
 			"lon": 2.3435684,
 			"tags": {
 				"name:eo": "Okcitanio"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4121045753,
-			"lat": 39.8592968,
-			"lon": 46.7572816,
-			"tags": {
-				"name:eo": "Montara Karabaĥo",
-				"alt_name:eo": "Arcaĥ"
 			}
 		},
 		{

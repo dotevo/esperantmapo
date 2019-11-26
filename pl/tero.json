@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:49:02Z",
+		"timestamp_osm_base": "2019-11-26T07:01:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -353,6 +353,17 @@
 			},
 			"tags": {
 				"name:pl": "Ostrów Brdowski"
+			}
+		},
+		{
+			"type": "way",
+			"id": 416233726,
+			"center": {
+				"lat": 5.5281054,
+				"lon": -87.0612149
+			},
+			"tags": {
+				"name:pl": "Wyspa Kokosowa"
 			}
 		},
 		{
@@ -987,7 +998,7 @@
 			"id": 3182527,
 			"center": {
 				"lat": -51.7965833,
-				"lon": -58.7253051
+				"lon": -58.7242336
 			},
 			"tags": {
 				"name:pl": "Falkland Wschodni"
@@ -1511,17 +1522,6 @@
 			},
 			"tags": {
 				"name:pl": "Bassas da India"
-			}
-		},
-		{
-			"type": "relation",
-			"id": 6195069,
-			"center": {
-				"lat": 5.5281054,
-				"lon": -87.0612149
-			},
-			"tags": {
-				"name:pl": "Wyspa Kokosowa"
 			}
 		},
 		{

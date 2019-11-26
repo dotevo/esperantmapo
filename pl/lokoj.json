@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:48:02Z",
+		"timestamp_osm_base": "2019-11-26T07:00:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -2361,19 +2361,6 @@
 			"tags": {
 				"language:pl": "yes",
 				"name": "Mała Polska",
-				"shop": "convenience"
-			}
-		},
-		{
-			"type": "node",
-			"id": 3678651789,
-			"lat": 55.6062848,
-			"lon": 13.0259123,
-			"tags": {
-				"cuisine": "polish",
-				"language:pl": "yes",
-				"name": "Polska Specialiteter Pol Food Malmö",
-				"opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
 				"shop": "convenience"
 			}
 		},
@@ -7825,34 +7812,6 @@
 				"operator": "English4U",
 				"phone": "+351 96 8501975",
 				"website": "http://www.english4u.pt/"
-			}
-		},
-		{
-			"type": "way",
-			"id": 30029791,
-			"center": {
-				"lat": 50.0858647,
-				"lon": 14.3799218
-			},
-			"tags": {
-				"building": "civic",
-				"building:flats": "1",
-				"building:levels": "1",
-				"building:ruian:type": "15",
-				"internet_access": "wlan",
-				"language:cs": "yes",
-				"language:de": "yes",
-				"language:en": "yes",
-				"language:pl": "yes",
-				"language:ru": "yes",
-				"language:sk": "yes",
-				"name": "Pyramida",
-				"operator": "OREA HOTELS s.r.o.",
-				"phone": "+420 233 102 111",
-				"ref:ruian:building": "22023879",
-				"source": "cuzk:ruian",
-				"stars": "4",
-				"tourism": "hotel"
 			}
 		},
 		{

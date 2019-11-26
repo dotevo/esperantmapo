@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T07:12:02Z",
+		"timestamp_osm_base": "2019-11-26T07:25:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -1784,11 +1784,22 @@
 			"type": "way",
 			"id": 25637116,
 			"center": {
-				"lat": 68.878125,
-				"lon": 27.709875
+				"lat": 68.8781286,
+				"lon": 27.7095962
 			},
 			"tags": {
 				"name:fi": "Jääsaari"
+			}
+		},
+		{
+			"type": "way",
+			"id": 25639001,
+			"center": {
+				"lat": 69.0377004,
+				"lon": 27.9245025
+			},
+			"tags": {
+				"name:fi": "Koutukinsaari"
 			}
 		},
 		{
@@ -5722,7 +5733,7 @@
 			"type": "relation",
 			"id": 1854771,
 			"center": {
-				"lat": 60.4960829,
+				"lat": 60.4964309,
 				"lon": 28.62965
 			},
 			"tags": {
@@ -6391,6 +6402,17 @@
 		},
 		{
 			"type": "relation",
+			"id": 3175222,
+			"center": {
+				"lat": 61.962331,
+				"lon": 35.2633578
+			},
+			"tags": {
+				"name:fi": "Peurasaari"
+			}
+		},
+		{
+			"type": "relation",
 			"id": 3181388,
 			"center": {
 				"lat": 61.1936704,
@@ -6405,7 +6427,7 @@
 			"id": 3182527,
 			"center": {
 				"lat": -51.7965833,
-				"lon": -58.7253051
+				"lon": -58.7242336
 			},
 			"tags": {
 				"name:fi": "Itä-Falkland"

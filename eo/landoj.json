@@ -2,19 +2,10 @@
 	"version": 0.6,
 	"generator": "Overpass API 0.7.55.7 8b86ff77",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:50:02Z",
+		"timestamp_osm_base": "2019-11-26T07:43:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
-		{
-			"type": "node",
-			"id": 24330691,
-			"lat": 22.350627,
-			"lon": 114.1849161,
-			"tags": {
-				"name:eo": "Hongkongo"
-			}
-		},
 		{
 			"type": "node",
 			"id": 26036352,
@@ -153,7 +144,7 @@
 			"lat": 53.4250605,
 			"lon": 27.6971358,
 			"tags": {
-				"name:eo": "Belorusio",
+				"name:eo": "Belorusujo",
 				"alt_name:eo": "Belorusujo;Belarusio;Belarusujo"
 			}
 		},
@@ -581,7 +572,7 @@
 			"lat": 38.9597594,
 			"lon": 34.9249653,
 			"tags": {
-				"name:eo": "Turkio",
+				"name:eo": "Turkujo",
 				"alt_name:eo": "Turkujo"
 			}
 		},
@@ -713,7 +704,7 @@
 			"lat": 45.5643442,
 			"lon": 17.0118954,
 			"tags": {
-				"name:eo": "Kroatio",
+				"name:eo": "Kroatujo",
 				"alt_name:eo": "Kroatujo"
 			}
 		},
@@ -723,7 +714,7 @@
 			"lat": 47.2286086,
 			"lon": 65.2093197,
 			"tags": {
-				"name:eo": "Kazaĥio",
+				"name:eo": "Kazaĥujo",
 				"alt_name:eo": "Kazaĥujo;Kazaĥstano"
 			}
 		},
@@ -1185,7 +1176,7 @@
 			"lat": 42.6073975,
 			"lon": 25.4856617,
 			"tags": {
-				"name:eo": "Bulgario",
+				"name:eo": "Bulgarujo",
 				"alt_name:eo": "Bulgarujo"
 			}
 		},
@@ -1475,7 +1466,7 @@
 			"lat": 38.9953683,
 			"lon": 21.9877132,
 			"tags": {
-				"name:eo": "Grekio",
+				"name:eo": "Grekujo",
 				"alt_name:eo": "Grekujo"
 			}
 		},
@@ -1550,7 +1541,7 @@
 			"lat": 52.215933,
 			"lon": 19.134422,
 			"tags": {
-				"name:eo": "Pollando",
+				"name:eo": "Polujo",
 				"alt_name:eo": "Polio;Polujo"
 			}
 		},
@@ -1716,8 +1707,8 @@
 		{
 			"type": "node",
 			"id": 445970763,
-			"lat": 42.951668,
-			"lon": 19.2532042,
+			"lat": 42.9868853,
+			"lon": 19.5180992,
 			"tags": {
 				"name:eo": "Montenegro"
 			}
@@ -1775,7 +1766,7 @@
 			"lat": 46.603354,
 			"lon": 1.8883335,
 			"tags": {
-				"name:eo": "Francio",
+				"name:eo": "Francujo",
 				"alt_name:eo": "Francujo"
 			}
 		},
@@ -1869,7 +1860,7 @@
 			"lat": 49.4871968,
 			"lon": 31.2718321,
 			"tags": {
-				"name:eo": "Ukrainio",
+				"name:eo": "Ukrainujo",
 				"alt_name:eo": "Ukrainujo;Ukrajno"
 			}
 		},
@@ -1879,7 +1870,7 @@
 			"lat": 51.0834196,
 			"lon": 10.4234469,
 			"tags": {
-				"name:eo": "Germanio",
+				"name:eo": "Germanujo",
 				"alt_name:eo": "Germanujo"
 			}
 		},

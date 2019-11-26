@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T07:09:02Z",
+		"timestamp_osm_base": "2019-11-26T07:21:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -35,29 +35,11 @@
 		},
 		{
 			"type": "node",
-			"id": 249399410,
-			"lat": 46.8374544,
-			"lon": -56.2120555,
-			"tags": {
-				"name:fi": "Saint-Pierre ja Miquelon"
-			}
-		},
-		{
-			"type": "node",
 			"id": 269195852,
 			"lat": 78.7198519,
 			"lon": 20.3493328,
 			"tags": {
 				"name:fi": "Svalbard ja Jan Mayen"
-			}
-		},
-		{
-			"type": "node",
-			"id": 271047515,
-			"lat": 18.0814066,
-			"lon": -63.0467131,
-			"tags": {
-				"name:fi": "Saint-Martin (Faransi)"
 			}
 		},
 		{
@@ -125,29 +107,11 @@
 		},
 		{
 			"type": "node",
-			"id": 424314262,
-			"lat": -44.1511785,
-			"lon": 63.8604556,
-			"tags": {
-				"name:fi": "Ranskan eteläiset ja antarktiset alueet"
-			}
-		},
-		{
-			"type": "node",
 			"id": 433483535,
 			"lat": 16.2490067,
 			"lon": -61.5650444,
 			"tags": {
 				"name:fi": "Guadeloupe"
-			}
-		},
-		{
-			"type": "node",
-			"id": 462226505,
-			"lat": -17.0243749,
-			"lon": -144.6434898,
-			"tags": {
-				"name:fi": "Ranskan Polynesia"
 			}
 		},
 		{
@@ -305,15 +269,6 @@
 		},
 		{
 			"type": "node",
-			"id": 1367931778,
-			"lat": -21.3019905,
-			"lon": 165.4880773,
-			"tags": {
-				"name:fi": "Uusi-Kaledonia"
-			}
-		},
-		{
-			"type": "node",
 			"id": 1472876649,
 			"lat": 32.0254688,
 			"lon": 35.2888075,
@@ -454,15 +409,6 @@
 			"lon": 126.0647645,
 			"tags": {
 				"name:fi": "Etelä-P'yŏngan"
-			}
-		},
-		{
-			"type": "node",
-			"id": 4121045753,
-			"lat": 39.8592968,
-			"lon": 46.7572816,
-			"tags": {
-				"name:fi": "Vuoristo-Karabah"
 			}
 		},
 		{

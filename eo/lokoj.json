@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:54:02Z",
+		"timestamp_osm_base": "2019-11-26T07:43:03Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -51,8 +51,9 @@
 				"addr:housenumber": "87",
 				"addr:street": "Via Corsica",
 				"amenity": "cafe",
-				"esperanto": "yes",
 				"name": "Esperanto Kafejo",
+				"name:eo": "Esperanto Kafejo",
+				"name:etymology:wikidata": "Q143",
 				"ref:vatin": "IT01520990704"
 			}
 		},
@@ -107,9 +108,9 @@
 			"lon": 7.032085,
 			"tags": {
 				"bench": "yes",
-				"esperanto": "yes",
 				"highway": "bus_stop",
 				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"route_ref": "bus 21",
 				"shelter": "yes"
 			}
@@ -299,11 +300,11 @@
 			"lat": 47.4910447,
 			"lon": 12.0615101,
 			"tags": {
-				"esperanto": "yes",
 				"historic": "memorial",
 				"image": "File:Zamenhof Denkmal Wörgl.jpg",
 				"memorial": "bust",
 				"name": "L. L. Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"start_date": "1952-07-27"
 			}
 		},
@@ -557,10 +558,10 @@
 				"description:en": "Wreck of on a man-made platform called \"Republic of Rose Island\"",
 				"description:eo": "Mikronacio sur artefarita platformo fondita de Giorgio ROSA, eksplodigita de Itala marpolico je 13-a de februaro 1969.",
 				"description:it": "Relitto della piattaforma artificiale denominata Isola delle Rose",
-				"esperanto": "yes",
 				"historic": "wreck",
 				"name": "Insulo de la Rozoj",
 				"name:eo": "Insulo de la Rozoj",
+				"name:etymology:wikidata": "Q143",
 				"name:hr": "Ružin otok",
 				"name:it": "Isola delle Rose",
 				"name:zh": "玫瑰島共和國",
@@ -878,9 +879,9 @@
 				"amenity": "library",
 				"books:language:eo": "yes",
 				"contact:website": "http://www.cdeli.org/",
-				"esperanto": "yes",
 				"name": "Centre de documentation et d'étude sur la langue internationale",
 				"name:eo": "Centro de Dokumentado kaj Esploro pri la Lingvo Internacia",
+				"name:etymology:wikidata": "Q143",
 				"operator": "Bibliothèque de la ville",
 				"short_name": "CDELI",
 				"source": "Wikipedia",
@@ -1074,9 +1075,9 @@
 			"tags": {
 				"artist_name": "Adolph Kloska, Herbert Egger",
 				"artwork_type": "sculpture",
-				"esperanto": "yes",
 				"image": "File:Esperanto Statuo en Linz.jpg",
 				"name": "Esperanto",
+				"name:etymology:wikidata": "Q11758",
 				"start_date": "2006",
 				"tourism": "artwork",
 				"wikidata": "Q12347248",
@@ -1092,8 +1093,9 @@
 				"addr:housenumber": "1",
 				"addr:street": "Esperantoplatz",
 				"amenity": "cafe",
-				"esperanto": "yes",
-				"name": "das Esperanto"
+				"name": "das Esperanto",
+				"name:eo": "La Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -1105,10 +1107,10 @@
 				"bench": "yes",
 				"bus": "yes",
 				"departures_board": "yes",
-				"esperanto": "yes",
 				"highway": "bus_stop",
 				"lit": "yes",
 				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"passenger_information_display": "no",
 				"public_transport": "platform",
 				"shelter": "yes"
@@ -1121,8 +1123,8 @@
 			"lon": 7.0315454,
 			"tags": {
 				"bus": "yes",
-				"esperanto": "yes",
 				"name": "Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"public_transport": "stop_position"
 			}
 		},
@@ -1187,9 +1189,9 @@
 			"tags": {
 				"amenity": "library",
 				"books:language:eo": "yes",
-				"esperanto": "yes",
 				"name": "Biblioteca Nazionale di Esperanto",
 				"name:eo": "Nacia Biblioteko de Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"wikidata": "Q3639603",
 				"wikipedia": "eo:Nacia Biblioteko de Esperanto"
 			}
@@ -1235,8 +1237,8 @@
 			"lon": 7.4634115,
 			"tags": {
 				"amenity": "fast_food",
-				"esperanto": "yes",
-				"name": "Esperanto"
+				"name": "Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -1247,12 +1249,20 @@
 			"tags": {
 				"addr:city": "Trento",
 				"addr:country": "IT",
-				"addr:housenumber": "7A",
+				"addr:housenumber": "7/A",
 				"addr:postcode": "38122",
 				"addr:street": "Via Zara",
-				"esperanto": "yes",
+				"amenity": "language_school",
+				"books:language:eo": "yes",
+				"email": "info@esperanto.trento.it",
+				"language:eo": "main",
 				"name": "Associazione Esperantista Trentina",
-				"office": "association"
+				"name:eo": "Trentina Esperanta Asocio",
+				"name:etymology:wikidata": "Q143",
+				"office": "association",
+				"opening_hours": "Fr 16:30-18:00",
+				"short_name": "AET",
+				"website": "https://www.esperanto.trento.it"
 			}
 		},
 		{
@@ -1262,11 +1272,10 @@
 			"lon": 11.1201547,
 			"tags": {
 				"commemorates:wikidata": "Q3767924",
-				"esperanto": "yes",
 				"historic": "memorial",
 				"memorial": "plaque",
 				"name": "Lapide commemorativa di Giovanni Peterlongo",
-				"subject:wikidata": "Q860918"
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -1936,9 +1945,9 @@
 				"lon": 8.8409249
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
 			}
 		},
@@ -1950,9 +1959,9 @@
 				"lon": 11.3677888
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Lodovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -1964,9 +1973,9 @@
 				"lon": 12.4537883
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"name": "Piazzale Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"service": "parking_aisle"
 			}
 		},
@@ -1978,10 +1987,10 @@
 				"lon": 10.4091163
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"maxspeed": "30",
-				"name": "Via Ludovico Lazaro Zamenhof"
+				"name": "Via Ludovico Lazaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -1992,10 +2001,10 @@
 				"lon": 10.9811082
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP 25",
 				"surface": "asphalt"
 			}
@@ -2038,9 +2047,9 @@
 				"lon": 6.8096549
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Verger de L'Espéranto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -2066,9 +2075,9 @@
 				"lon": 14.3792322
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -2142,9 +2151,9 @@
 				"lon": 13.8350829
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Esperantostraße"
+				"name": "Esperantostraße",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -2155,9 +2164,9 @@
 				"lon": 10.9422187
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"postal_code": "41125"
 			}
 		},
@@ -2236,11 +2245,11 @@
 				"lon": 10.9112654
 			},
 			"tags": {
-				"esperanto": "yes",
 				"footway": "yes",
 				"highway": "tertiary",
 				"maxspeed": "50",
 				"name": "Via Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
 			}
 		},
@@ -2283,11 +2292,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2299,11 +2308,11 @@
 				"lon": 11.9141904
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2316,11 +2325,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2333,11 +2342,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2350,11 +2359,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2380,10 +2389,10 @@
 				"lon": 14.2761537
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Esperantostraße",
+				"name:etymology:wikidata": "Q143",
 				"source": "plan.at 2009",
 				"surface": "asphalt"
 			}
@@ -2396,9 +2405,9 @@
 				"lon": 13.7070815
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Esperantostraße",
+				"name:etymology:wikidata": "Q143",
 				"source": "plan.at 2009"
 			}
 		},
@@ -2410,9 +2419,9 @@
 				"lon": 14.8426294
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Esperantoweg",
+				"name:etymology:wikidata": "Q143",
 				"source": "plan.at 2009"
 			}
 		},
@@ -2424,10 +2433,10 @@
 				"lon": 10.841511
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "no",
 				"surface": "asphalt"
 			}
@@ -2441,12 +2450,12 @@
 			},
 			"tags": {
 				"bridge": "viaduct",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"layer": "1",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -2459,12 +2468,12 @@
 			},
 			"tags": {
 				"bicycle": "no",
-				"esperanto": "yes",
 				"highway": "pedestrian",
 				"horse": "no",
 				"layer": "-1",
 				"lit": "yes",
 				"name": "Sottopasso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "no",
 				"source": "Comune di Schio",
 				"surface": "asphalt",
@@ -2530,9 +2539,9 @@
 				"lon": 11.5836449
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Zamenhof"
+				"name": "Via Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -2573,9 +2582,9 @@
 				"lon": 6.7711852
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rue Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
 			}
 		},
@@ -2688,9 +2697,9 @@
 				"lon": 10.1065494
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -2736,9 +2745,9 @@
 				"lon": 10.2818525
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Ludovico Lazzaro Zamenhof"
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -2750,10 +2759,10 @@
 			},
 			"tags": {
 				"cycling_width": "wide",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"loc_ref": "5226_3162",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"sidewalk": "both"
 			}
@@ -2766,10 +2775,10 @@
 				"lon": 9.1795247
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"loc_ref": "5226_3196",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
 			}
 		},
@@ -2781,10 +2790,10 @@
 				"lon": 11.5912564
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"junction": "roundabout",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -2796,24 +2805,10 @@
 				"lon": 11.591785
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
-				"surface": "asphalt"
-			}
-		},
-		{
-			"type": "way",
-			"id": 37027849,
-			"center": {
-				"lat": 45.5186386,
-				"lon": 11.5970148
-			},
-			"tags": {
-				"esperanto": "yes",
-				"highway": "unclassified",
-				"name": "Via Ludovico Lazzaro Zamenhof",
 				"surface": "asphalt"
 			}
 		},
@@ -2825,9 +2820,9 @@
 				"lon": 11.5909315
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -2840,9 +2835,9 @@
 				"lon": 11.5917998
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -2855,9 +2850,9 @@
 				"lon": 11.5934992
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -2869,9 +2864,9 @@
 				"lon": 11.5908467
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -2884,9 +2879,9 @@
 				"lon": 12.3464181
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -2946,9 +2941,9 @@
 				"lon": 11.4215174
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"ref": "SP31"
 			}
@@ -2961,9 +2956,9 @@
 				"lon": 11.4215393
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"ref": "SP31"
 			}
@@ -2990,9 +2985,9 @@
 				"lon": 4.3927076
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rue Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
 			}
 		},
@@ -3067,9 +3062,9 @@
 				"lon": 10.8000107
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Lazzaro Zamenhof"
+				"name": "Via Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -3082,8 +3077,8 @@
 			"tags": {
 				"amenity": "parking",
 				"capacity": "150",
-				"esperanto": "yes",
 				"name": "Piazzale Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"parking": "surface"
 			}
 		},
@@ -3142,9 +3137,9 @@
 				"lon": 9.0160857
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -3210,9 +3205,9 @@
 				"lon": 11.2775588
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -3257,9 +3252,9 @@
 				"lon": 7.7492073
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -3270,10 +3265,10 @@
 				"lon": 10.4394413
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "30",
-				"name": "Via Zamenhof"
+				"name": "Via Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -3317,11 +3312,11 @@
 				"lon": 8.4055152
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"lit": "yes",
 				"maxspeed": "50",
 				"name": "Via Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"source:maxspeed": "IT:urban"
 			}
 		},
@@ -3333,9 +3328,9 @@
 				"lon": 10.6398138
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"oneway:bicycle": "no"
 			}
@@ -3348,9 +3343,9 @@
 				"lon": 11.7749394
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -3362,10 +3357,10 @@
 				"lon": 11.7743916
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"lanes": "1",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -3410,8 +3405,8 @@
 			},
 			"tags": {
 				"amenity": "parking",
-				"esperanto": "yes",
-				"name": "Piazzale Ludwik Lejzer Zamenhof"
+				"name": "Piazzale Ludwik Lejzer Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -3458,9 +3453,9 @@
 				"lon": 10.7613694
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -3491,9 +3486,9 @@
 				"lon": 6.7810094
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rue Zamenhof",
+				"name:etymology:wikidata": "Q143",
 				"ref:FR:FANTOIR": "253881940R",
 				"source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
 			}
@@ -3536,9 +3531,23 @@
 				"lon": 13.2524852
 			},
 			"tags": {
-				"esperanto": "yes",
 				"leisure": "park",
-				"name": "Giardino dell'Esperanto"
+				"name": "Giardino dell'Esperanto",
+				"name:etymology:wikidata": "Q143"
+			}
+		},
+		{
+			"type": "way",
+			"id": 86415841,
+			"center": {
+				"lat": 45.4030736,
+				"lon": 10.983025
+			},
+			"tags": {
+				"highway": "secondary",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"surface": "asphalt"
 			}
 		},
 		{
@@ -3549,9 +3558,9 @@
 				"lon": 7.0318656
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Rue du Docteur Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes"
 			}
 		},
@@ -3661,10 +3670,10 @@
 				"lon": 11.3705638
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Esperanto - Esperantostraße",
 				"name:de": "Esperantostraße",
+				"name:etymology:wikidata": "Q143",
 				"name:it": "Via Esperanto"
 			}
 		},
@@ -3709,8 +3718,9 @@
 				"addr:street": "Chemin des Postiers",
 				"amenity": "language_school",
 				"building": "yes",
-				"esperanto": "yes",
+				"language:eo": "main",
 				"name": "Kultura Centro Esperantista (KCE)",
+				"name:etymology:wikidata": "Q143",
 				"source": "orthophotos2006sitn50cm",
 				"wikidata": "Q12350917",
 				"wikipedia": "eo:Kultura Centro Esperantista"
@@ -3724,9 +3734,9 @@
 				"lon": 12.7008901
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -3738,10 +3748,10 @@
 				"lon": 11.7742628
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"lanes": "1",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -3768,9 +3778,9 @@
 				"lon": 8.6242553
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Lazzaro Zamenhof"
+				"name": "Via Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -3814,9 +3824,9 @@
 				"lon": 8.2106289
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -3883,9 +3893,9 @@
 				"lon": 10.4193777
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"name": "Largo Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"service": "parking_aisle"
 			}
@@ -3898,9 +3908,9 @@
 				"lon": 8.2135103
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -3939,10 +3949,10 @@
 				"lon": 11.424101
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "70",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP31"
 			}
 		},
@@ -3954,10 +3964,10 @@
 				"lon": 11.4291323
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP31"
 			}
 		},
@@ -3969,10 +3979,10 @@
 				"lon": 11.4279557
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP31"
 			}
 		},
@@ -3984,10 +3994,10 @@
 				"lon": 11.4276687
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP31"
 			}
 		},
@@ -3999,10 +4009,10 @@
 				"lon": 11.4269296
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP31"
 			}
 		},
@@ -4058,9 +4068,9 @@
 				"lon": 10.0544585
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4071,9 +4081,9 @@
 				"lon": 15.9678183
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Zamenhofova ulica"
+				"name": "Zamenhofova ulica",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -4085,10 +4095,10 @@
 			},
 			"tags": {
 				"cycleway": "opposite_lane",
-				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "30",
 				"name": "Esperantoplatz",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"source": "geoimage.at",
 				"surface": "paving_stones"
@@ -4118,11 +4128,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -4134,11 +4144,11 @@
 				"lon": 11.9140709
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -4150,10 +4160,10 @@
 				"lon": 13.6176038
 			},
 			"tags": {
-				"esperanto": "yes",
 				"foot": "yes",
 				"highway": "cycleway",
 				"name": "Passaggio Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"service": "alley",
 				"surface": "paved",
 				"width": "2"
@@ -4196,9 +4206,9 @@
 				"lon": 11.0387438
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4287,8 +4297,8 @@
 			},
 			"tags": {
 				"amenity": "parking",
-				"esperanto": "yes",
 				"name": "Piazzetta Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"parking": "surface"
 			}
 		},
@@ -4372,8 +4382,8 @@
 			},
 			"tags": {
 				"amenity": "parking",
-				"esperanto": "yes",
 				"name": "Piazza dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"parking": "surface"
 			}
 		},
@@ -4386,11 +4396,11 @@
 			},
 			"tags": {
 				"bicycle": "designated",
-				"esperanto": "yes",
 				"foot": "designated",
 				"highway": "path",
 				"maxspeed": "30",
 				"name": "Esperantostraße",
+				"name:etymology:wikidata": "Q143",
 				"segregated": "no",
 				"source": "plan.at 2009"
 			}
@@ -4445,9 +4455,9 @@
 				"lon": 10.039352
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -4459,9 +4469,9 @@
 				"lon": 10.0339293
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -4515,9 +4525,9 @@
 			},
 			"tags": {
 				"alt_name": "Via L. L. Zamenhof",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazaro Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"short_name": "Via Zamenhof",
 				"surface": "asphalt"
 			}
@@ -4531,9 +4541,9 @@
 			},
 			"tags": {
 				"alt_name": "Via L. L. Zamenhof",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazaro Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"short_name": "Via Zamenhof",
 				"surface": "asphalt"
 			}
@@ -4547,9 +4557,9 @@
 			},
 			"tags": {
 				"alt_name": "Via L. L. Zamenhof",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazaro Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"short_name": "Via Zamenhof",
 				"surface": "asphalt"
 			}
@@ -4563,9 +4573,9 @@
 			},
 			"tags": {
 				"alt_name": "Via L. L. Zamenhof",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazaro Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"short_name": "Via Zamenhof",
 				"surface": "asphalt"
 			}
@@ -4579,9 +4589,9 @@
 			},
 			"tags": {
 				"alt_name": "Via L. L. Zamenhof",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Lazaro Lodovico Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"short_name": "Via Zamenhof",
 				"surface": "asphalt"
 			}
@@ -4594,9 +4604,9 @@
 				"lon": 7.3288389
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4607,9 +4617,9 @@
 				"lon": 11.0674769
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Ludovico Lazzaro Zamenhof"
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -4734,9 +4744,9 @@
 				"lon": 11.1686097
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -4776,9 +4786,9 @@
 				"lon": 13.619181
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"name": "Passaggio Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"service": "alley",
 				"width": "2"
 			}
@@ -4830,9 +4840,9 @@
 				"lon": 11.0361979
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4877,9 +4887,9 @@
 			},
 			"tags": {
 				"amenity": "parking",
-				"esperanto": "yes",
 				"fee": "yes",
 				"name": "Piazza Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"parking": "surface"
 			}
 		},
@@ -4907,10 +4917,10 @@
 				"lon": 12.4618169
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"lit": "yes",
-				"name": "Viale dell'Esperanto"
+				"name": "Viale dell'Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4921,10 +4931,10 @@
 				"lon": 12.464017
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"lit": "yes",
-				"name": "Viale dell'Esperanto"
+				"name": "Viale dell'Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4935,9 +4945,9 @@
 				"lon": 8.5709937
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "pedestrian",
-				"name": "Vico Esperanto"
+				"name": "Vico Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -4948,9 +4958,9 @@
 				"lon": 10.9436403
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"postal_code": "41125"
 			}
 		},
@@ -4975,9 +4985,9 @@
 				"lon": 10.4461609
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -5062,11 +5072,11 @@
 			},
 			"tags": {
 				"embankment": "yes",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -5079,12 +5089,12 @@
 			},
 			"tags": {
 				"bridge": "viaduct",
-				"esperanto": "yes",
 				"highway": "trunk",
 				"lanes": "2",
 				"layer": "1",
 				"maxspeed": "90",
 				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes"
 			}
 		},
@@ -5096,9 +5106,9 @@
 				"lon": 13.8907781
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Largo Esperanto"
+				"name": "Largo Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -5110,11 +5120,11 @@
 			},
 			"tags": {
 				"bridge": "yes",
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"layer": "1",
 				"maxspeed": "31",
-				"name": "Via Ludovico Lazaro Zamenhof"
+				"name": "Via Ludovico Lazaro Zamenhof",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -5125,10 +5135,31 @@
 				"lon": 10.4099435
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"maxspeed": "30",
-				"name": "Via Ludovico Lazaro Zamenhof"
+				"name": "Via Ludovico Lazaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
+			}
+		},
+		{
+			"type": "way",
+			"id": 220540050,
+			"center": {
+				"lat": 43.6541235,
+				"lon": 10.4356663
+			},
+			"tags": {
+				"addr:city": "Montacchiello",
+				"addr:housenumber": "3/9",
+				"addr:postcode": "56121",
+				"addr:street": "Via Biagio Brugi",
+				"building": "yes",
+				"email": "info@edistudio.it",
+				"language:eo": "main",
+				"language:it": "yes",
+				"name": "Edistudio",
+				"office": "company",
+				"website": "https://www.edistudio.it"
 			}
 		},
 		{
@@ -5167,9 +5198,9 @@
 				"lon": 9.5055103
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -5238,9 +5269,9 @@
 				"lon": 9.0634351
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
-				"name": "Via Ludovico Lazzaro Zamenhof"
+				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -5323,10 +5354,10 @@
 				"lon": 11.3699627
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"name": "Via Esperanto - Esperantostraße",
 				"name:de": "Esperantostraße",
+				"name:etymology:wikidata": "Q143",
 				"name:it": "Via Esperanto"
 			}
 		},
@@ -5338,9 +5369,9 @@
 				"lon": 9.5037081
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -5366,10 +5397,10 @@
 				"lon": 10.9820148
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -5439,9 +5470,9 @@
 				"lon": 11.5908047
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -5453,9 +5484,9 @@
 				"lon": 11.589065
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"surface": "asphalt"
 			}
 		},
@@ -5576,10 +5607,10 @@
 				"lon": 9.180327
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
 				"loc_ref": "5226_6762",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"sidewalk": "both"
 			}
@@ -5859,10 +5890,10 @@
 				"lon": 10.4198188
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"maxspeed": "50",
 				"name": "Largo Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"oneway": "no",
 				"surface": "asphalt"
 			}
@@ -5983,9 +6014,9 @@
 				"lon": 7.6514289
 			},
 			"tags": {
-				"esperanto": "yes",
 				"leisure": "park",
-				"name": "Giardino Lodovico Lazzaro Zamenhof"
+				"name": "Giardino Lodovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -6067,9 +6098,9 @@
 				"lon": 8.2126082
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -6210,9 +6241,9 @@
 				"lon": 17.362463
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Viale dell'Esperanto"
+				"name": "Viale dell'Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -6239,9 +6270,9 @@
 				"lon": 10.7348078
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "no",
 				"short_name": "Via Zamenhof"
 			}
@@ -6254,9 +6285,9 @@
 				"lon": 10.7340708
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "no",
 				"short_name": "Via Zamenhof"
 			}
@@ -6295,6 +6326,54 @@
 		},
 		{
 			"type": "way",
+			"id": 452217032,
+			"center": {
+				"lat": 45.3989062,
+				"lon": 10.9762483
+			},
+			"tags": {
+				"highway": "secondary",
+				"lanes": "1",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 452217033,
+			"center": {
+				"lat": 45.3980791,
+				"lon": 10.9790991
+			},
+			"tags": {
+				"highway": "secondary",
+				"lanes": "1",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 452217034,
+			"center": {
+				"lat": 45.3980238,
+				"lon": 10.9791351
+			},
+			"tags": {
+				"highway": "secondary",
+				"lanes": "1",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 452313374,
 			"center": {
 				"lat": 52.0746354,
@@ -6312,16 +6391,48 @@
 		},
 		{
 			"type": "way",
+			"id": 453709582,
+			"center": {
+				"lat": 45.3983379,
+				"lon": 10.9800461
+			},
+			"tags": {
+				"highway": "secondary",
+				"lanes": "1",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
+			"id": 457375752,
+			"center": {
+				"lat": 45.3989713,
+				"lon": 10.9763203
+			},
+			"tags": {
+				"highway": "secondary",
+				"lanes": "1",
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"oneway": "yes",
+				"surface": "asphalt"
+			}
+		},
+		{
+			"type": "way",
 			"id": 457375759,
 			"center": {
 				"lat": 45.3985481,
 				"lon": 10.9774821
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"lanes": "2",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6366,9 +6477,9 @@
 				"lon": 10.9234674
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6380,9 +6491,9 @@
 				"lon": 10.9238163
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "via Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6417,10 +6528,10 @@
 				"lon": 11.342832
 			},
 			"tags": {
-				"esperanto": "yes",
 				"fixme": "The geometry needs some check, and it need to be linked to other roads",
 				"highway": "pedestrian",
-				"name": "Corso Esperanto"
+				"name": "Corso Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -6514,9 +6625,9 @@
 				"lon": 12.4545135
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"name": "Piazzale Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"service": "parking_aisle"
 			}
 		},
@@ -6529,8 +6640,8 @@
 			},
 			"tags": {
 				"building": "yes",
-				"esperanto": "yes",
 				"name": "Hotel Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"tourism": "hotel"
 			}
 		},
@@ -6828,10 +6939,10 @@
 				"lon": 10.9818302
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6843,9 +6954,9 @@
 				"lon": 10.9822338
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6857,9 +6968,9 @@
 				"lon": 10.982541
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"surface": "asphalt"
 			}
 		},
@@ -6978,9 +7089,9 @@
 				"lon": 8.2118922
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "unclassified",
-				"name": "Via Esperanto"
+				"name": "Via Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -7051,6 +7162,21 @@
 		},
 		{
 			"type": "way",
+			"id": 618525026,
+			"center": {
+				"lat": 52.0747614,
+				"lon": 4.293038
+			},
+			"tags": {
+				"area": "yes",
+				"name": "Esperantoplein",
+				"name:etymology": "Esperanto",
+				"name:etymology:wikidata": "Q143",
+				"wikidata": "Q19120284"
+			}
+		},
+		{
+			"type": "way",
 			"id": 649286342,
 			"center": {
 				"lat": 52.9913092,
@@ -7076,10 +7202,10 @@
 				"lon": 10.9800545
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "secondary",
 				"maxspeed": "50",
 				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143",
 				"ref": "SP 25",
 				"surface": "asphalt"
 			}
@@ -7092,9 +7218,9 @@
 				"lon": 10.0361904
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
 				"name": "Via Ludovico Lazzaro Zamenhof",
+				"name:etymology:wikidata": "Q11758",
 				"oneway": "yes",
 				"surface": "asphalt"
 			}
@@ -7121,10 +7247,10 @@
 				"lon": 10.4104982
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "service",
 				"maxspeed": "30",
-				"name": "Via Ludovico Lazaro Zamenhof"
+				"name": "Via Ludovico Lazaro Zamenhof",
+				"name:etymology:wikidata": "Q11758"
 			}
 		},
 		{
@@ -7169,9 +7295,9 @@
 				"lon": 11.9093556
 			},
 			"tags": {
-				"esperanto": "yes",
 				"leisure": "park",
-				"name": "Giardino Esperanto"
+				"name": "Giardino Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{
@@ -7218,9 +7344,9 @@
 				"lon": 11.2783875
 			},
 			"tags": {
-				"esperanto": "yes",
 				"highway": "residential",
-				"name": "Via dell'Esperanto"
+				"name": "Via dell'Esperanto",
+				"name:etymology:wikidata": "Q143"
 			}
 		},
 		{

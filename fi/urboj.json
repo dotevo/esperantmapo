@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T07:10:02Z",
+		"timestamp_osm_base": "2019-11-26T07:22:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -3026,8 +3026,8 @@
 		{
 			"type": "node",
 			"id": 30969806,
-			"lat": 61.433333,
-			"lon": 21.883333,
+			"lat": 61.4333292,
+			"lon": 21.8833209,
 			"tags": {
 				"name:fi": "Ulvila"
 			}
@@ -5141,6 +5141,15 @@
 		},
 		{
 			"type": "node",
+			"id": 234061921,
+			"lat": 40.2117152,
+			"lon": 46.8235822,
+			"tags": {
+				"name:fi": "Martakert"
+			}
+		},
+		{
+			"type": "node",
 			"id": 235857686,
 			"lat": 52.0799838,
 			"lon": 4.3113461,
@@ -6798,8 +6807,8 @@
 		{
 			"type": "node",
 			"id": 265610368,
-			"lat": 60.4293112,
-			"lon": 22.3221566,
+			"lat": 60.4273026,
+			"lon": 22.3224894,
 			"tags": {
 				"name:fi": "Skanssi"
 			}
@@ -8994,6 +9003,15 @@
 		},
 		{
 			"type": "node",
+			"id": 446262497,
+			"lat": 61.8783837,
+			"lon": 23.7281893,
+			"tags": {
+				"name:fi": "Kuru"
+			}
+		},
+		{
+			"type": "node",
 			"id": 447359547,
 			"lat": 60.1892378,
 			"lon": 25.0295841,
@@ -11057,6 +11075,24 @@
 		},
 		{
 			"type": "node",
+			"id": 1668464002,
+			"lat": 62.0043112,
+			"lon": 22.9947947,
+			"tags": {
+				"name:fi": "Pahkala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1668795399,
+			"lat": 61.9987575,
+			"lon": 23.0212785,
+			"tags": {
+				"name:fi": "Kallionahde"
+			}
+		},
+		{
+			"type": "node",
 			"id": 1669842684,
 			"lat": 6.4990718,
 			"lon": 2.6253361,
@@ -11449,6 +11485,24 @@
 			"lon": 30.691231,
 			"tags": {
 				"name:fi": "Sortavala"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1867916723,
+			"lat": 62.0206909,
+			"lon": 23.000589,
+			"tags": {
+				"name:fi": "Pentti"
+			}
+		},
+		{
+			"type": "node",
+			"id": 1867937407,
+			"lat": 62.011187,
+			"lon": 23.040155,
+			"tags": {
+				"name:fi": "Viinikka"
 			}
 		},
 		{
@@ -12137,11 +12191,11 @@
 		},
 		{
 			"type": "node",
-			"id": 2833125787,
-			"lat": 22.2793278,
-			"lon": 114.1628131,
+			"id": 2706851374,
+			"lat": 42.2251222,
+			"lon": 43.9708477,
 			"tags": {
-				"name:fi": "Hongkong"
+				"name:fi": "Tskhinvali"
 			}
 		},
 		{
@@ -13316,6 +13370,15 @@
 		},
 		{
 			"type": "node",
+			"id": 5683127962,
+			"lat": 41.9818469,
+			"lon": 44.1117811,
+			"tags": {
+				"name:fi": "Gori"
+			}
+		},
+		{
+			"type": "node",
 			"id": 5716818224,
 			"lat": 41.7829291,
 			"lon": 129.7825241,
@@ -13627,6 +13690,15 @@
 			"lon": 22.5378328,
 			"tags": {
 				"name:fi": "Makarla"
+			}
+		},
+		{
+			"type": "node",
+			"id": 6992681581,
+			"lat": 62.0225441,
+			"lon": 23.0174533,
+			"tags": {
+				"name:fi": "Haapanen"
 			}
 		}
 	]

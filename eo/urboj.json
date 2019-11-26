@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T06:52:01Z",
+		"timestamp_osm_base": "2019-11-26T07:05:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -54,8 +54,8 @@
 		{
 			"type": "node",
 			"id": 11127374,
-			"lat": 55.8611389,
-			"lon": -4.2501672,
+			"lat": 55.8611443,
+			"lon": -4.2501693,
 			"tags": {
 				"name:eo": "Glasgovo"
 			}
@@ -7690,8 +7690,8 @@
 		{
 			"type": "node",
 			"id": 1697487051,
-			"lat": 53.0210671,
-			"lon": 18.618612,
+			"lat": 53.0102721,
+			"lon": 18.6048094,
 			"tags": {
 				"name:eo": "Toruno"
 			}
@@ -8213,6 +8213,15 @@
 		},
 		{
 			"type": "node",
+			"id": 2706851374,
+			"lat": 42.2251222,
+			"lon": 43.9708477,
+			"tags": {
+				"name:eo": "Cĥinval"
+			}
+		},
+		{
+			"type": "node",
 			"id": 2967480392,
 			"lat": 52.6330338,
 			"lon": 29.7484282,
@@ -8574,6 +8583,15 @@
 		},
 		{
 			"type": "node",
+			"id": 5683127962,
+			"lat": 41.9818469,
+			"lon": 44.1117811,
+			"tags": {
+				"name:eo": "Gori"
+			}
+		},
+		{
+			"type": "node",
 			"id": 5716814884,
 			"lat": 40.674265,
 			"lon": 129.1994761,
@@ -8606,15 +8624,6 @@
 			"lon": 39.8717137,
 			"tags": {
 				"name:eo": "Roŝal"
-			}
-		},
-		{
-			"type": "node",
-			"id": 6054338315,
-			"lat": 22.3272706,
-			"lon": 114.1898678,
-			"tags": {
-				"name:eo": "Kaŭluno"
 			}
 		},
 		{

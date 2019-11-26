@@ -1,8 +1,8 @@
 {
 	"version": 0.6,
-	"generator": "Overpass API 0.7.55.7 8b86ff77",
+	"generator": "Overpass API 0.7.55.1009 5e627b63",
 	"osm3s": {
-		"timestamp_osm_base": "2019-11-06T07:03:03Z",
+		"timestamp_osm_base": "2019-11-26T07:16:02Z",
 		"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
 	},
 	"elements": [
@@ -49,15 +49,6 @@
 			"lon": -176.204224,
 			"tags": {
 				"name:io": "Wallis e Futuna Insuli"
-			}
-		},
-		{
-			"type": "node",
-			"id": 462226505,
-			"lat": -17.0243749,
-			"lon": -144.6434898,
-			"tags": {
-				"name:io": "Franca Polinezia"
 			}
 		},
 		{
